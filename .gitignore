@@ -1,4 +1,8 @@
-*
 .config/google-chrome
 .cache/google-chrome
-.local/share/
+.local/share
+downloads
+music
+documents
+vim-ide
+.zsh_history

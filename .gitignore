@@ -1,3 +1,4 @@
+.zcompdump-flareon-5.3.1
 .config/google-chrome
 .cache
 .local/share
@@ -6,3 +7,4 @@ music
 documents
 vim-ide
 .zsh_history
+.pki

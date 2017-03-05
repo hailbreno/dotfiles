@@ -1,3 +1,0 @@
-var IntroTourShade=function(a){this.options=$.extend({$parentEl:$("body"),$shadeWrapEl:null,shadeClass:"shade-wrap"},a);this.setup()};
-(function(){IntroTourShade.prototype.setup=function(){this.options.$shadeWrapEl=$("<div></div>").addClass(this.options.shadeClass);this.options.$parentEl.append(this.options.$shadeWrapEl);this.hide()};IntroTourShade.prototype.show=function(){this.options.$shadeWrapEl.show()};IntroTourShade.prototype.hide=function(){this.options.$shadeWrapEl.hide()};IntroTourShade.prototype.cleanup=function(){this.options.$shadeWrapEl&&this.options.$shadeWrapEl.remove()};return window.IntroTourShade=IntroTourShade})(jQuery,
-lpPing);

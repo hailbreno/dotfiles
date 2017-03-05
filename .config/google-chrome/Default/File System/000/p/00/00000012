@@ -1,8 +1,0 @@
-08:48:05 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
-    at k (/js/main/Account.js:2:3087)
-09:02:16 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
-    at k (/js/main/Account.js:2:3087)
-09:07:54 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
-    at k (/js/main/Account.js:2:3087)
-09:17:12 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
-    at k (/js/main/Account.js:2:3087)

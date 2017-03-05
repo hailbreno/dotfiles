@@ -1,1 +1,0 @@
-Interfaces.ExtensionDropdownInterface=function(){var a=Interfaces.Definition,b=Interfaces.TYPE_FUNCTION;return{ExtensionDropdown:{open:new a(b),reset:new a(b),setBigIcons:new a(b),openDialog:new a(b)}}}();

@@ -1,5 +1,5 @@
 .config/google-chrome
-.cache/google-chrome
+.cache
 .local/share
 downloads
 music

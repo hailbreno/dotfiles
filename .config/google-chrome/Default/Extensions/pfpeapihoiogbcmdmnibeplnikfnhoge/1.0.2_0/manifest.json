@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://mail.live.com"
+      },
+      "urls": [ "*://*.mail.live.com/" ]
+   },
+   "description": "Outlook.com offers the richest, most personal experience with Facebook, Twitter and Skype integration, Office Web Apps, and more.",
+   "icons": {
+      "128": "Outlook_128x128.jpg",
+      "16": "Outlook_16x16.jpg",
+      "48": "Outlook_48x48.jpg"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCPLh+PXUAiMK9BVfBMiTHVkLfN1A8ujCNGWEwMCfb4gaXl6VRvcocyxAea5qVmGflMQp49hpYsmVJmUPL0TjdhvV/JTxJgsgqQRD+kjHO5UAxLwjvAEHqb0G8d6tBG9GymQY0XcyziNO4mL6ev6zabOSQxA5FpAX9egvxZXKGTQIDAQAB",
+   "manifest_version": 2,
+   "name": "Outlook.com",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

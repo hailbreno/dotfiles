@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="styles/main.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="flasher">
+      <header>
+        <div class="step-text">Initializing...</div>
+        <div class="step-progress">
+          <div class="step-progress-path"></div>
+          <ul>
+            <li class="step1"><i class="fa fa-magic" aria-hidden="true"></i></li>
+            <li class="step2"><i class="fa fa-paperclip" aria-hidden="true"></i></li>
+            <li class="step3"><i class="fa fa-plug" aria-hidden="true"></i></li>
+            <li class="step4"><i class="fa fa-bolt" aria-hidden="true"></i></li>
+            <li class="step5"><i class="fa fa-smile-o" aria-hidden="true"></i></li>
+          </ul>
+        </div>
+      </header>
+
+      <main>
+        <section id="step1">
+          <article class="welcome">
+            <h1>Welcome to the C.H.I.P. Flasher</h1>
+            <p>Flashing copies a new operating system onto your C.H.I.P. It destroys all your C.H.I.P.'s content; it will reset it back to factory settings. Please report any issues <a href="http://bbs.nextthing.co/t/the-brand-spanking-new-alpha-release-of-the-c-h-i-p-web-based-flasher/3594" target="_blank">here</a>.</p>
+          </article>
+
+          <article class="Windows">
+            <h1>One-time Windows-specific setup <a href="http://docs.getchip.com/chip.html#windows-specific" target="_blank">(more info)</a></h1>
+            <p><div class="action-btn">Install the Driver</div></p>
+            <h1>Troubleshooting Tips</h1>
+            <ul>
+              <li><b>Windows will warn you about USB devices malfunctioning. You can ignore those messages.</b></li>
+              <li>If you encounter any issues, restarting Chrome after installing the driver will hopefully resolve them.</li>
+              <li>A USB2 (not USB3) port is recommended, as USB3 usually won't work. USB3 ports are often blue. You can try using a USB2 hub in a USB3 port.</li>
+            </ul>
+          </article>
+
+          <article class="Linux">
+            <h1>One-time Linux-specific setup
+            <p>In order to flash, you will need to configure your linux host according to <a href="http://docs.getchip.com/chip.html#linux-specific" target="_blank">these instructions.</a></p></h1>
+          </article>
+
+          <article class="MacOS">
+            <h1>OSX-specific setup <a href="http://docs.getchip.com/chip.html#macos-specific" target="_blank">(more info)</a></h1>
+            <p>There are some times where using USB3 ports will cause the flashing to fail. If you can, try using a USB2 port, not a USB3. Recent Macs have only USB3 ports. If you find yourself with a modern Mac, try using a USB2 hub in your USB3 port and plug C.H.I.P. into that.</p>
+          </article>
+        </section>
+
+        <section id="step2">
+          <article>
+            <p>Using a jumper wire, or even a paperclip, wire the FEL pin to the ground pin. This sets C.H.I.P. into FEL mode, which is necessary for installing an OS.</p>
+            <img src="images/step1.gif"/>
+          </article>
+        </section>
+
+        <section id="step3">
+          <article id="chip-connect">
+            <p>Connect C.H.I.P. to your computer with a <a target="_blank" href="http://s3.showmecables.com/images/catalog/product/USB-A-Male-Micro-USB-Male-3-FT-1.jpg">USB-micro to USB-A cable</a>. Make sure to use C.H.I.P.'s micro-USB port and not the full-sized one.</p>
+            <img src="images/step2.gif"/>
+          </article>
+
+          <article id="nand-detect">
+            <p>Reading information from CHIP. This should only take about 15 seconds.</p>
+            <div class="loading">
+              <i class="fa fa-microchip" aria-hidden="true"></i>
+              <i class="fa fa-search" aria-hidden="true"></i>
+            </div>
+          </article>
+        </section>
+
+        <section id="step4">
+          <article>
+            <p id="readyToFlash">You're ready to flash your <span class="chipCount"></span>! Please do not close this window until the flashing is finished.</p>
+            <p id="preFlashErrorMessage" style="font-weight: bold;"></p>
+            <p>Estimated Time Remaining: <span class="time-remaining">???</span></p>
+            <p>Flashing State: <span class="flashingState flashingInfo">Waiting</span></p>
+            <p>Flashing Stage: <span class="flashingStage flashingInfo">Waiting</span></p>
+            <div class="progress-section" style="display:none">
+            <div class="flash-progress-bar-wrapper" >
+              <div class="flash-progress-bar"></div>
+            </div>
+            <div class="flash-progress-bar-label">0%</div>
+            </div>
+            <div class="info">
+                Serial #: <span class="serialNumber">...</span><br />
+                NAND: <span class="nandChip">...</span><br />
+                MD5 Hash: <span class="md5Hash">calculating...</span><br />
+                <!-- Name: <span class="customName">...</span><br /> -->
+            </div>
+          </article>
+        </section>
+
+        <section id="step5">
+          <article class="pass">
+            <p>The flashing process completed successfully.
+            <span class='reboot' style='display:none'>You may now safely unplug your C.H.I.P.<span class="pluralChip">s</span> from your USB port<span class="pluralChip">s</span>.</span>
+            <span class='booting' style='display:none'>You may now safely unplug your C.H.I.P.<span class="pluralChip">s</span> from your USB port<span class="pluralChip">s</span>.</span>
+            &nbsp;Be sure to <a target="_blank" href="mailto:ahoyahoy@nextthing.co&subject=Web%20Flasher">let us know</a> what can be improved.</p>
+            <div class="info">
+                Serial #: <span class="serialNumber">...</span><br />
+                NAND: <span class="nandChip">...</span><br />
+                MD5 Hash: <span class="md5Hash">...</span><br />
+                <!-- Name: <span class="customName">...</span><br /> -->
+            </div>
+            <p class="suc"><img src="images/flashFinished.png"></p>
+          </article>
+          <article class="fail">
+            <p class="errorMessage"></p>
+            <p>The flashing process has failed. Please exit and try again.</p>
+            <div class="hash">
+            <p>MD5 Hash: <span class="md5Hash"></span></p>
+            </div>
+            <div class="troubleshooting">
+            <h1>Troubleshooting: Things to try <a href="http://docs.getchip.com/chip.html#web-flasher-os-specific-issues" target="_blank">(more info)</a></h1>
+              <div class="Windows">
+                <div>
+                    <ul>
+                        <li><b>Try a different USB cable. Many cables are charging-only or don't support high bandwidth. This is by far the most common problem.</b></li>
+                    	<li>Reboot after installing drivers on previous versions (<10) of Windows.</li>
+                        <li>Try completely closing and reopening your browser. You'll need to restart Chrome once after it fails waiting for Fel, and once again after it fails waiting for Fastboot.</li>
+                        <li>Try using a USB2 port (USB3 ports have issues).</li>
+                        <li>Try passing through a USB2 hub if using a USB3 port.</li>
+                        <li>Try turning off antivirus software.</li>
+                        <li>If you get stuck "Waiting for Fastboot" and the above options don't work, you should be able to install a "headless no fastboot" image. However, it will take quite a bit longer, and the Operating System won't have a GUI.</li>
+                    </ul>
+                </div>
+              </div>
+              <div class="MacOS">
+                <div>
+                    <ul>
+                        <li><b>Try a different USB cable. Many cables are charging-only or don't support high bandwidth. This is by far the most common problem.</b></li>
+                        <li>If you are using a USB3 port, try connecting C.H.I.P. through a USB2 hub.</li>
+                        <li>Close the browser and try again.</li>
+                        <li>If you get stuck "Waiting for Fastboot" and the above options don't work, you should be able to install a "headless-no fastboot" image. However, it will take quite a bit longer, and the Operating System won't have a GUI.</li>
+                    </ul>
+                </div>
+              </div>
+	          <div class="Linux">
+                <div>
+                    <ul>
+                        <li><b>Try a different USB cable. Many cables are charging-only or don't support high bandwidth. This is by far the most common problem.</b></li>
+                        <li>Make sure your linux host is configured according to <a href="http://docs.getchip.com/chip.html#linux-specific" target="_blank">these instructions.</a></li>
+                    </ul>
+                </div>
+              </div>
+            </div>
+            <p><i class="fa fa-times-circle-o" aria-hidden="true"></i></p>
+          </article>
+        </section>
+      </main>
+
+      <footer>
+        <div class="prev-btn">
+          Back
+        </div>
+        <div class="next-btn">
+          Next
+        </div>
+      </footer>
+    </div>
+
+    <script src="scripts/popup.min.js"></script>
+  </body>
+</html>

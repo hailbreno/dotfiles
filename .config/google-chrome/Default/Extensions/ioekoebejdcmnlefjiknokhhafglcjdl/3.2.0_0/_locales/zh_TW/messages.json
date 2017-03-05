@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Dropbox 提供免費的服務，讓您可以隨時隨地存取您所有的相片、文件和影片。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Dropbox"
+   }
+}

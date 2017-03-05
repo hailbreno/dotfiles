@@ -1,0 +1,2975 @@
+{
+   "1001407065815272462": {
+      "message": "Không thể thêm vào $2​Drive của tôi$1​"
+   },
+   "1013939682284715002": {
+      "message": "Sắp xếp"
+   },
+   "1029576232144989689": {
+      "message": "Bạn cũng có thể lưu liên kết để xem sau bằng&nbsp;$2​Tiện ích Google Keep của Chrome$1​."
+   },
+   "1039394921418415681": {
+      "message": "Đăng nhập"
+   },
+   "1061011362310586469": {
+      "message": "Chia sẻ"
+   },
+   "1062420184700835520": {
+      "message": "Mở màu và bộ chọn kích cỡ cho công cụ đánh dấu"
+   },
+   "1083918249169198626": {
+      "message": "Đã tắt phím tắt."
+   },
+   "1101371910696766077": {
+      "message": "Tạo bản sao"
+   },
+   "1105774658609209931": {
+      "message": "Tiện ích của Chrome"
+   },
+   "1122146167985532789": {
+      "message": "hôm qua"
+   },
+   "1127320433256851404": {
+      "message": "Trình phát video"
+   },
+   "1159463938127271829": {
+      "message": "từ $1​"
+   },
+   "1162642135048988280": {
+      "message": "Đổi tên tài liệu"
+   },
+   "1163324543881570799": {
+      "message": "Google Tài liệu"
+   },
+   "1166244120191806795": {
+      "message": "Gửi phản hồi"
+   },
+   "1177768120450365955": {
+      "message": "Chuyển mục đã chọn xuống cuối danh sách"
+   },
+   "1179891706526242218": {
+      "message": "Tiếp theo"
+   },
+   "1185164838496022543": {
+      "message": "Vui lòng nhấp vào đây để tải lại trang."
+   },
+   "1198371177271608867": {
+      "message": "Kích cỡ 4"
+   },
+   "1213005208968286932": {
+      "message": "Được đánh dấu là đã giải quyết"
+   },
+   "124900027451629830": {
+      "message": "Phát"
+   },
+   "1256362146573583104": {
+      "message": "Trích xuất"
+   },
+   "1259492729704800881": {
+      "message": "Lưu trữ ghi chú"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Hủy"
+   },
+   "12768758038718216": {
+      "message": "Ghim ghi chú đã lưu trữ"
+   },
+   "1280430284217153733": {
+      "message": "Thêm thời gian"
+   },
+   "1315983816556686539": {
+      "message": "Màu vàng"
+   },
+   "1333255388111908292": {
+      "message": "Hàng tạp hóa"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn không có quyền di chuyển mục này khỏi các thư mục hiện đang chứa nó. Thay vào đó, hãy thêm mục vào {START_SPAN_1}{NAME}{END_SPAN}.}other{Bạn không có quyền di chuyển các mục này khỏi các thư mục hiện đang chứa chúng. Thay vào đó, hãy thêm các mục vào {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Ghi chú không có tiêu đề"
+   },
+   "1349697396109290623": {
+      "message": "Hiển thị độ phân giải cao hơn của $1​"
+   },
+   "136335357683289450": {
+      "message": "Đóng"
+   },
+   "1379850360723600538": {
+      "message": "Tệp được bảo vệ bằng mật khẩu không được hỗ trợ."
+   },
+   "1397887822627488928": {
+      "message": "Người hoặc email sẽ chia sẻ"
+   },
+   "139942704574044780": {
+      "message": "Chấp nhận"
+   },
+   "1419896259743862406": {
+      "message": "Mở bằng"
+   },
+   "1432850707344442376": {
+      "message": "Tạo nhãn $1​"
+   },
+   "1441487391064925653": {
+      "message": "Xem tất cả phím tắt trong Trung tâm trợ giúp"
+   },
+   "1442722292947881614": {
+      "message": "Loại"
+   },
+   "1446829548948002072": {
+      "message": "dấu phẩy"
+   },
+   "1463389029497634261": {
+      "message": "Giảm âm lượng"
+   },
+   "1465828580966685215": {
+      "message": "Xóa ghi chú khỏi tài khoản"
+   },
+   "1466663154000252842": {
+      "message": "Một số người có thể mất quyền truy cập"
+   },
+   "1467797923781828000": {
+      "message": "Đã thêm $1​ mục vào $2​."
+   },
+   "1473312930157933007": {
+      "message": "Không thể chia sẻ với những người dùng sau vì quản trị viên của bạn đã tắt tính năng chia sẻ ra bên ngoài miền của bạn."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1475261522522402536": {
+      "message": "Chọn địa điểm"
+   },
+   "1482452362096735080": {
+      "message": "Lặp lại {numOccurrences} lần"
+   },
+   "148864680356422442": {
+      "message": "Quay lại"
+   },
+   "1499433769420882987": {
+      "message": "Hiển thị $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Vào ngày cuối cùng của tháng"
+   },
+   "1507445189431379166": {
+      "message": "Xóa"
+   },
+   "1512454807955173272": {
+      "message": "Keep sẽ cập nhật khi trực tuyến"
+   },
+   "1532717559893630620": {
+      "message": "Đã hợp nhất nhãn $1​ vào $2​."
+   },
+   "1536051766421561160": {
+      "message": "dấu bằng"
+   },
+   "153659275234722804": {
+      "message": "Loại bỏ"
+   },
+   "156992719062713230": {
+      "message": "Xám"
+   },
+   "1586968957182554447": {
+      "message": "Tắt"
+   },
+   "1588268697057804046": {
+      "message": "$1​ giờ trước"
+   },
+   "1595218840091201497": {
+      "message": "Màu nâu"
+   },
+   "1633798963327779260": {
+      "message": "Ngày mai"
+   },
+   "1655692513689044870": {
+      "message": "Bạn đã bị đăng xuất."
+   },
+   "1656911987308166143": {
+      "message": "Xóa"
+   },
+   "1661251023749398110": {
+      "message": "Tải xuống âm thanh"
+   },
+   "1665821947855814052": {
+      "message": "Kích thước"
+   },
+   "1669648976972603642": {
+      "message": "Hành động này sẽ ảnh hưởng đến quyền sở hữu và quyền truy cập"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Đã bỏ ghim ghi chú}other{Đã bỏ ghim # ghi chú}}"
+   },
+   "1679322931860897953": {
+      "message": "Sao chép vào Google Tài liệu"
+   },
+   "1680617124502957636": {
+      "message": "Không thể kết nối ngay bây giờ. Hãy thử lại sau."
+   },
+   "1692901784886701962": {
+      "message": "Ghi chú quá lớn."
+   },
+   "1694896269813520248": {
+      "message": "Thêm bản vẽ"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1703175513040690135": {
+      "message": "Bất cứ ai tại $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Lặp lại hàng tháng vào ngày cuối cùng của tháng}other{Lặp lại # tháng một lần vào ngày cuối cùng của tháng}}"
+   },
+   "1711424025297585662": {
+      "message": "a|an|the"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1737240194537729525": {
+      "message": "Hàng tuần"
+   },
+   "1739900012825270238": {
+      "message": "Chuyển tới mục trước"
+   },
+   "1740371341228065086": {
+      "message": "Tải lại"
+   },
+   "1745782414562966515": {
+      "message": "Hợp nhất nhãn \"$1​\" với nhãn \"$2​\"? Tất cả các ghi chú được gắn nhãn \"$1​\" sẽ được gắn nhãn \"$2​\" và nhãn \"$1​\" sẽ bị xóa."
+   },
+   "1783719421893050637": {
+      "message": "Kích thước"
+   },
+   "178927681797742562": {
+      "message": "Đăng nhập"
+   },
+   "1791115075948268631": {
+      "message": "Mở trợ giúp phím tắt"
+   },
+   "179545118447015250": {
+      "message": "Chế độ xem lưới"
+   },
+   "1803966010993357655": {
+      "message": "Khác"
+   },
+   "1808245543551507519": {
+      "message": "Âm thanh"
+   },
+   "1819225489062185613": {
+      "message": "Khác"
+   },
+   "1823222042913714987": {
+      "message": "Gửi mật khẩu"
+   },
+   "1830157062072535681": {
+      "message": "Đang hiển thị $1​"
+   },
+   "1852745815330163711": {
+      "message": "Google Bản vẽ"
+   },
+   "1870691479127746185": {
+      "message": "phải"
+   },
+   "187077078156858455": {
+      "message": "Ghi chú âm thanh"
+   },
+   "189303170370862360": {
+      "message": "$1​ / $2​ mục"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Nhãn $1​ không tồn tại"
+   },
+   "1912092030665541460": {
+      "message": "Đã hoàn tác tác vụ"
+   },
+   "1917552217016175754": {
+      "message": "Công cụ đánh dấu"
+   },
+   "1918176455405610789": {
+      "message": "Xong"
+   },
+   "1938115711058331119": {
+      "message": "Hiển thị cột nhận xét"
+   },
+   "195154114623528341": {
+      "message": "Thêm vị trí"
+   },
+   "1956794332842050061": {
+      "message": "Trang tiếp theo"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Đã xảy ra sự cố khi xem trước trang tính này."
+   },
+   "1968405748623909021": {
+      "message": "Thử một trong số các ứng dụng bên dưới để mở hoặc chỉnh sửa mục này"
+   },
+   "1969531182936822963": {
+      "message": "Đã hoàn tác tác vụ"
+   },
+   "1973454937875679500": {
+      "message": "Nhập tên nhãn"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# ký tự còn lại}other{# ký tự còn lại}}"
+   },
+   "1980209166254310911": {
+      "message": "Ngày"
+   },
+   "1988244842147989817": {
+      "message": "Ghi chú trong Thùng rác bị xóa sau 7 ngày."
+   },
+   "1996872514195688196": {
+      "message": "Không thể truy cập ghi chú đã chia sẻ ngay bây giờ. Hãy thử lại sau."
+   },
+   "200005227964332868": {
+      "message": "THÊM"
+   },
+   "2003845117979929469": {
+      "message": "Chi tiết"
+   },
+   "2009529126622551485": {
+      "message": "Mục danh sách"
+   },
+   "2018433077417240302": {
+      "message": "Đi tới nhãn"
+   },
+   "2039757863628752523": {
+      "message": "Tùy chọn tần suất"
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Đóng thanh tìm kiếm"
+   },
+   "2061440050632248160": {
+      "message": "Lưu trữ"
+   },
+   "2068023589621557589": {
+      "message": "Phông chữ TrueType"
+   },
+   "2073322475696388995": {
+      "message": "Tua đi"
+   },
+   "2074454463201225704": {
+      "message": "Đặt lại thu phóng"
+   },
+   "207810168108507460": {
+      "message": "$1​ giờ trước"
+   },
+   "2091811447965921066": {
+      "message": "Xóa các cộng tác viên"
+   },
+   "2107379241532042955": {
+      "message": "Vị trí"
+   },
+   "2107589831642088814": {
+      "message": "Tạo \"$3​$2​$1​\""
+   },
+   "2124464318249308530": {
+      "message": "Màu cam nhạt"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Lưu ý"
+   },
+   "2138593281154109183": {
+      "message": "Lưu trữ"
+   },
+   "214517458278879973": {
+      "message": "Đăng nhập bằng $1​"
+   },
+   "2147952938331523160": {
+      "message": "Đổi tên..."
+   },
+   "2154372123324862271": {
+      "message": "dấu gạch chéo"
+   },
+   "2166966123760559393": {
+      "message": "Tạo nhãn mới"
+   },
+   "2168461275182666804": {
+      "message": "Chỉnh sửa"
+   },
+   "2173675558412671739": {
+      "message": "Đã sao chép vào Google Tài liệu"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Đã chuyển ghi chú vào thùng rác}other{Đã chuyển # ghi chú vào thùng rác}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ mục"
+   },
+   "2187239650627580457": {
+      "message": "Gửi"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một thư mục nằm trong một thư mục}other{Bạn đang di chuyển các thư mục nằm trong một thư mục}}"
+   },
+   "2198096971937872560": {
+      "message": "Lời nhắc:"
+   },
+   "220168959069469607": {
+      "message": "Tác vụ khác"
+   },
+   "2202265279234683999": {
+      "message": "Phím tắt"
+   },
+   "2203926649090909861": {
+      "message": "Đã di chuyển mục danh sách tới chỉ mục $1​"
+   },
+   "2216904725760458480": {
+      "message": "Hàng ngày"
+   },
+   "221715292685577880": {
+      "message": "Có"
+   },
+   "2264311811697505466": {
+      "message": "Làm mới"
+   },
+   "2270633624888102832": {
+      "message": "Bỏ ghim ghi chú"
+   },
+   "2280650195464600721": {
+      "message": "Điều hướng"
+   },
+   "2283668287077047088": {
+      "message": "Công cụ tô màu"
+   },
+   "2285069188138705005": {
+      "message": "Ứng dụng đã được kết nối"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{]unused plural form}=1{Bạn đang di chuyển một mục ra khỏi thư mục được chia sẻ \"{SHARED_FOLDER_NAME}\" nên mọi người sẽ mất quyền truy cập.}other{Bạn đang di chuyển {NUM_ITEMS_2} mục ra khỏi thư mục được chia sẻ \"{SHARED_FOLDER_NAME}\" nên mọi người sẽ mất quyền truy cập.}}"
+   },
+   "228741435562395266": {
+      "message": "Tính năng in chưa khả dụng"
+   },
+   "2289534534793293486": {
+      "message": "Hủy lưu trữ"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Tăng âm lượng"
+   },
+   "2299671629154778581": {
+      "message": "Đã bỏ ghim và lưu trữ ghi chú"
+   },
+   "2310145944356900158": {
+      "message": "Đã chọn"
+   },
+   "2311880726221661199": {
+      "message": "Đang tải độ phân giải cao hơn"
+   },
+   "2324955914430674498": {
+      "message": "Không có kết quả tìm kiếm nào cho \"$1​\""
+   },
+   "2329167963662998826": {
+      "message": "Google Keep muốn sử dụng vị trí của bạn để cải tiến đề xuất địa điểm cho lời nhắc vị trí."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{]unused plural form}=1{Thành viên của \"{TEAM_DRIVE_NAME}\" sẽ mất quyền truy cập nếu mục này không được chia sẻ với họ.}other{Thành viên của \"{TEAM_DRIVE_NAME}\" sẽ mất quyền truy cập nếu những mục này không được chia sẻ với họ.}}"
+   },
+   "2357761837816388330": {
+      "message": "Ngoại tuyến"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Xóa nguồn"
+   },
+   "236689092839978781": {
+      "message": "Không lặp lại"
+   },
+   "2370656573843123707": {
+      "message": "dấu ngoặc đơn phải"
+   },
+   "2373760032138505521": {
+      "message": "Nhãn đã tồn tại"
+   },
+   "2386536768112358461": {
+      "message": "Pg-Down"
+   },
+   "2405795704816921421": {
+      "message": "Tệp $1​"
+   },
+   "2408383448126741628": {
+      "message": "Thời lượng"
+   },
+   "2423877407428530040": {
+      "message": "Tệp có quá nhiều biểu đồ."
+   },
+   "2433429041384246549": {
+      "message": "Tắt tiếng"
+   },
+   "2449254824382583885": {
+      "message": "Hiện cửa sổ mở rộng"
+   },
+   "2452522051596946166": {
+      "message": "Rất tiếc! Đã có sự cố khi xem trước $1​. Đang thử lại."
+   },
+   "2454642351139428112": {
+      "message": "Hoàn tác"
+   },
+   "2466251465475184755": {
+      "message": "Dọn sạch thùng rác?  Tất cả ghi chú trong Thùng rác sẽ bị xóa vĩnh viễn."
+   },
+   "2475181823688399272": {
+      "message": "Tiếp"
+   },
+   "2478862372619762755": {
+      "message": "Đánh dấu một khu vực để nhận xét"
+   },
+   "2504232652631703202": {
+      "message": "Đã kết nối"
+   },
+   "251025074207413762": {
+      "message": "Thêm mô tả"
+   },
+   "2532280782491328445": {
+      "message": "Tìm kết quả phù hợp trước"
+   },
+   "2546225293834487484": {
+      "message": "Ghi chú"
+   },
+   "2555961950726197809": {
+      "message": "Đang hiển thị người xem."
+   },
+   "2562881166530755046": {
+      "message": "Bản vẽ"
+   },
+   "257317112834806705": {
+      "message": "Chuyển đổi giữa chế độ xem danh sách và lưới"
+   },
+   "2579261044590673579": {
+      "message": "Drive của tôi"
+   },
+   "2579679351920691492": {
+      "message": "Tua lùi"
+   },
+   "2581526424350930407": {
+      "message": "Chỉnh sửa"
+   },
+   "2600731575260427177": {
+      "message": "Tệp không tồn tại và có thể đã bị xóa. Hãy thử tải tệp lên lại."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609767652209789035": {
+      "message": "Nhãn"
+   },
+   "2623861453769098676": {
+      "message": "Đã có sự cố khi xem trước tài liệu này."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Việc di chuyển mục này sẽ chia sẻ mục này với những người có thể xem thư mục được chia sẻ \"{SHARED_FOLDER_NAME}\".}other{Việc di chuyển các mục này sẽ chia sẻ các mục này với những người có thể xem thư mục được chia sẻ \"{SHARED_FOLDER_NAME}\".}}"
+   },
+   "2630254198275172065": {
+      "message": "Chuyển tới..."
+   },
+   "2632263751512428257": {
+      "message": "Hàng năm"
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Ghi chú nhãn}other{Ghi chú nhãn}}"
+   },
+   "2646753793708356960": {
+      "message": "Màu xanh thẩm"
+   },
+   "2647216541167955566": {
+      "message": "Màu hổ phách"
+   },
+   "2661850177130037208": {
+      "message": "Mở mục"
+   },
+   "2665571821980053260": {
+      "message": "Không chia sẻ được ghi chú của bạn.  Hãy thử lại sau."
+   },
+   "2681830832355823748": {
+      "message": "Tìm kiếm tất cả phím tắt"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Hình ảnh đã được thêm}other{# hình ảnh đã được thêm}}"
+   },
+   "2702485557996900362": {
+      "message": "Sửa các chỉnh sửa xung đột"
+   },
+   "2704959686524436777": {
+      "message": "Đang tải"
+   },
+   "2715199780155065699": {
+      "message": "Tệp có quá nhiều hình dạng, hộp văn bản hoặc bản vẽ."
+   },
+   "2716433087531258659": {
+      "message": "page up"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2758125083752925237": {
+      "message": "(Chủ sở hữu)"
+   },
+   "277430914014962533": {
+      "message": "Rất tiếc! Đã có sự cố khi xem trước $1​."
+   },
+   "2793841261389879255": {
+      "message": "Trang trước"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Lặp lại hàng tháng vào cùng một ngày trong mỗi tháng}other{Lặp lại # tháng một lần vào cùng một ngày trong mỗi tháng}}"
+   },
+   "2796950576714807268": {
+      "message": "Không thể nhận dạng văn bản."
+   },
+   "2798322202738486782": {
+      "message": "{HOURS,plural, =0{0 giờ }=1{1 giờ }other{# giờ }}{MINUTES,plural, =0{0 phút }=1{1 phút }other{# phút }}{SECONDS,plural, =0{0 giây.}=1{1 giây.}other{# giây.}}"
+   },
+   "2817277146396981386": {
+      "message": "chiều"
+   },
+   "2818020101821669029": {
+      "message": "Đã tạo"
+   },
+   "2820045170951016567": {
+      "message": "Lời nhắc"
+   },
+   "2823533464825550362": {
+      "message": "Các kiểm soát tài liệu"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Phóng to"
+   },
+   "2853036885874864031": {
+      "message": "Quyền sở hữu sẽ được chuyển cho $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2858566870229558873": {
+      "message": "$2​Điều khoản$1​"
+   },
+   "2862675909830094845": {
+      "message": "Tạo nhãn mới"
+   },
+   "2870914990575762514": {
+      "message": "Bạn không thể hoàn tác tác vụ này"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Tạm dừng"
+   },
+   "287803077768018029": {
+      "message": "Màu xanh két nhạt"
+   },
+   "2879276552944958066": {
+      "message": "Quay lại thư mục $1​."
+   },
+   "2890739372621722306": {
+      "message": "Màu xanh mòng két"
+   },
+   "2893055432094515558": {
+      "message": "Đã hiển thị hộp kiểm"
+   },
+   "2893190245479055856": {
+      "message": "$1​ thư mục đã được di chuyển đến $2​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Báo cáo"
+   },
+   "2902570047322934912": {
+      "message": "Омогући дељење"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Đã bỏ ghim và lưu trữ ghi chú}other{Đã bỏ ghim và lưu trữ # ghi chú}}"
+   },
+   "2917586714343652609": {
+      "message": "Kích cỡ 20"
+   },
+   "2935193106137642160": {
+      "message": "Thu phóng không khả dụng"
+   },
+   "2942094715879803305": {
+      "message": "Xóa mục đã chọn"
+   },
+   "295331174171409695": {
+      "message": "Đã xảy ra sự cố khi cập nhật quyền tải xuống \"$1​\"."
+   },
+   "2960516445247616550": {
+      "message": "Tính năng in không khả dụng"
+   },
+   "296391753033307868": {
+      "message": "Đã tạo và thêm nhãn $1​ vào ghi chú."
+   },
+   "2964778642459027786": {
+      "message": "Không có ghi chú nào trong Thùng rác"
+   },
+   "2971780287153684447": {
+      "message": "Thiết bị Android"
+   },
+   "2973306402585941108": {
+      "message": "Sáng"
+   },
+   "298817883481775869": {
+      "message": "Đang tải..."
+   },
+   "2990497076082409431": {
+      "message": "\"$1​\" đã được di chuyển đến $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3004077206309008197": {
+      "message": "Màu xanh lục"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn không có quyền di chuyển thư mục này khỏi các thư mục hiện đang chứa nó. Thay vào đó hãy thêm thư mục vào {START_SPAN_1}{NAME}{END_SPAN}.}other{Bạn không có quyền di chuyển các thư mục này khỏi các thư mục hiện đang chứa chúng. Thay vào đó hãy thêm các thư mục vào {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3042275883978222678": {
+      "message": "Kích cỡ 8"
+   },
+   "3043961722025425136": {
+      "message": "Mô tả"
+   },
+   "3045997283325725532": {
+      "message": "Tính năng mới trong Google Keep"
+   },
+   "306516303501625305": {
+      "message": "Xác thực không thành công."
+   },
+   "3109321241584918345": {
+      "message": "Kết nối các ứng dụng khác..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "sau $1​ giờ"
+   },
+   "3147708683842760684": {
+      "message": "Tùy chọn khác"
+   },
+   "3147722095652727387": {
+      "message": "Không thể chia sẻ với những người dùng sau vì quản trị viên miền của họ đã tắt tính năng chia sẻ trong miền của họ hoặc quản trị viên của bạn đã tắt tính năng chia sẻ ra ngoài miền của bạn."
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Đã hủy lưu trữ ghi chú}other{Đã hủy lưu trữ # ghi chú}}"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3189854932778515441": {
+      "message": "Ghi chú trong Lưu trữ"
+   },
+   "3190546672187601036": {
+      "message": "Đêm"
+   },
+   "3195812604657128345": {
+      "message": "Chọn thư mục Drive để giải nén vào"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Đã khôi phục ghi chú}other{Đã khôi phục # ghi chú}}"
+   },
+   "3207650089232728475": {
+      "message": "Thay đổi nhãn"
+   },
+   "3211163842850942567": {
+      "message": "Phóng to"
+   },
+   "3220641589840600333": {
+      "message": "Đã chuyển sang chế độ xem $1​"
+   },
+   "3241696131593027453": {
+      "message": "Chọn ghi chú"
+   },
+   "3243916603465112517": {
+      "message": "BỚT"
+   },
+   "3250489229749307913": {
+      "message": "Ấn bản điện tử"
+   },
+   "32533855230019565": {
+      "message": "Kích cỡ 12"
+   },
+   "3258100527833044153": {
+      "message": "Đã hủy bản vẽ trống"
+   },
+   "3261131345401321392": {
+      "message": "Có thể nhận xét"
+   },
+   "3266448715145955862": {
+      "message": "Đã hủy lưu trữ và ghim ghi chú"
+   },
+   "3268028083415317236": {
+      "message": "Không, cảm ơn"
+   },
+   "3272496516667407797": {
+      "message": "Đã có sự cố khi tải chi tiết."
+   },
+   "3278046126264096288": {
+      "message": "Tuần"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Đã bỏ ghim và chuyển ghi chú vào thùng rác}other{Đã bỏ ghim và chuyển # ghi chú vào thùng rác}}"
+   },
+   "3288498486633948368": {
+      "message": "\"$1​\" đã được thêm vào Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Ghi chú mới với bản vẽ"
+   },
+   "3312545971976531405": {
+      "message": "Thông báo"
+   },
+   "3326410145104517459": {
+      "message": "Nắm bắt suy nghĩ của bạn $1​ từ thiết bị bất kỳ"
+   },
+   "3343273953047473521": {
+      "message": "Xóa các ghi chú?"
+   },
+   "3345567742278474807": {
+      "message": "Ghi chú này đã được gắn cờ là không phù hợp và không chia sẻ được."
+   },
+   "3354260708176476985": {
+      "message": "Đang tải&hellip;"
+   },
+   "3362903141674317449": {
+      "message": "Cộng tác viên"
+   },
+   "336772567640975291": {
+      "message": "Tuần tiếp theo"
+   },
+   "3371033609268806242": {
+      "message": "Đã xóa nhãn $1​."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Mở"
+   },
+   "3385831848537487538": {
+      "message": "Du lịch"
+   },
+   "3396240571140460663": {
+      "message": "Màu vàng chanh"
+   },
+   "3409257542937182842": {
+      "message": "Đang thử lại..."
+   },
+   "3409483962000136213": {
+      "message": "Phát/Tạm dừng"
+   },
+   "3418767079436101103": {
+      "message": "Đã có sự cố khi tải trang này."
+   },
+   "3428726060007577698": {
+      "message": "Danh sách quá lớn."
+   },
+   "3446158485617778228": {
+      "message": "Hoàn tác"
+   },
+   "3447704623213039325": {
+      "message": "Mặt hàng tạp hóa"
+   },
+   "3448234415275521882": {
+      "message": "Thông tin chung"
+   },
+   "3455405209271884570": {
+      "message": "Giải nén"
+   },
+   "3468441711253011521": {
+      "message": "Google Trang tính"
+   },
+   "3473620774713000513": {
+      "message": "Đã giải quyết"
+   },
+   "3485469306694683931": {
+      "message": "Giải nén vào tài khoản Drive của bạn"
+   },
+   "3496410038494993160": {
+      "message": "Phím tắt phổ biến"
+   },
+   "3518073392823563581": {
+      "message": "Phím tắt"
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3549511443038546281": {
+      "message": "Xóa"
+   },
+   "3551522853788442530": {
+      "message": "Quay lại"
+   },
+   "3561658662634401836": {
+      "message": "Tiêu đề"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3570074492517305433": {
+      "message": "Đăng ký"
+   },
+   "3571704286086017611": {
+      "message": "Đã xóa lời nhắc"
+   },
+   "3571758970185431414": {
+      "message": "Màu xanh lam"
+   },
+   "3574963906259719128": {
+      "message": "Trình duyệt của bạn không thể phát tệp âm thanh này."
+   },
+   "3580293729117872545": {
+      "message": "Kết thúc"
+   },
+   "3594204366177366590": {
+      "message": "Mở menu tùy chọn cho công cụ tẩy"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Đổi tên nhãn"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một tệp nằm trong {NUM_PARENTS} thư mục}other{Bạn đang di chuyển các tệp nằm trong {NUM_PARENTS} thư mục}}"
+   },
+   "3608606849109645545": {
+      "message": "Nhập tên tài liệu mới:"
+   },
+   "3611573349633408445": {
+      "message": "Tải xuống"
+   },
+   "3612936866865912552": {
+      "message": "Đang tải..."
+   },
+   "361630518611593946": {
+      "message": "Ẩn hộp kiểm"
+   },
+   "3617727970098875990": {
+      "message": "Tìm kiếm tất cả phím tắt"
+   },
+   "362521762755836201": {
+      "message": "Đã tạo $1​"
+   },
+   "3634885664399305142": {
+      "message": "Bản vẽ không khả dụng"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "dấu gạch chéo ngược"
+   },
+   "3659554681396757189": {
+      "message": "Được mở bởi tôi"
+   },
+   "366289214151975122": {
+      "message": "Bất cứ ai tại $1​ có liên kết"
+   },
+   "3663571259791438207": {
+      "message": "Báo cáo lạm dụng"
+   },
+   "3664842788764635265": {
+      "message": "Không có"
+   },
+   "3666123569747918021": {
+      "message": "Tài liệu này có các thay đổi chưa được lưu. Bạn có muốn rời khỏi trang và hủy các thay đổi của mình không?"
+   },
+   "3678477908297567934": {
+      "message": "dấu gạch dưới"
+   },
+   "3687623836913400480": {
+      "message": "Chú thích hình ảnh"
+   },
+   "3690515530505404607": {
+      "message": "Đã có sự cố khi phát video này."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Không có mục nào}=1{1 mục}other{# mục}}"
+   },
+   "3707311099386068778": {
+      "message": "Xóa tất cả"
+   },
+   "3712215972250917265": {
+      "message": "Nhận xét"
+   },
+   "372633345629975481": {
+      "message": "Đã ghim ghi chú"
+   },
+   "372823375470132483": {
+      "message": "Bỏ chọn ghi chú đã chuyển vào thùng rác"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{]unused plural form}=1{unused plural form}other{Bạn đang di chuyển {NUM_ITEMS_2} mục ra khỏi các Drive nhóm và thư mục được chia sẻ nên mọi người sẽ mất quyền truy cập.}}"
+   },
+   "3760084546578947451": {
+      "message": "Bật lời nhắc Google Keep? Bạn có thể cần cho phép thông báo của trình duyệt."
+   },
+   "3770795578481676514": {
+      "message": "Vàng"
+   },
+   "3793086499925031123": {
+      "message": "Mở thanh tìm kiếm / tìm kết quả trước"
+   },
+   "3796511349428373407": {
+      "message": "Tùy chọn ngày"
+   },
+   "3797309720105862333": {
+      "message": "Không thể chỉnh sửa bản vẽ ngoại tuyến"
+   },
+   "37992665410817181": {
+      "message": "Đã mở lại"
+   },
+   "3801617971018550169": {
+      "message": "Hôm qua"
+   },
+   "3808213429720572062": {
+      "message": "Khôi phục"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3828546250617883774": {
+      "message": "Màu tím"
+   },
+   "3845302429676793049": {
+      "message": "Đã xảy ra sự cố khi cập nhật mô tả về \"$1​\"."
+   },
+   "3858324058837632381": {
+      "message": "Đã có sự cố khi phát tệp âm thanh này."
+   },
+   "3869166581651870488": {
+      "message": "Kết thúc chỉnh sửa"
+   },
+   "3897281533382850749": {
+      "message": "Bật tiếng"
+   },
+   "3909380459614154542": {
+      "message": "Truy cập liên kết"
+   },
+   "3930910469078167425": {
+      "message": "Lưu trữ"
+   },
+   "3952341864324097024": {
+      "message": "Xóa tìm kiếm"
+   },
+   "3955575370175991097": {
+      "message": "Đã chuyển sang chế độ xem nhãn $1​"
+   },
+   "3974822583047850066": {
+      "message": "Hủy"
+   },
+   "3977699855735576796": {
+      "message": "Đã có sự cố khi tải thêm trang."
+   },
+   "3988418762222300024": {
+      "message": "dấu chấm"
+   },
+   "4005725939358875643": {
+      "message": "Đã hoàn tác tác vụ."
+   },
+   "4014287326684608407": {
+      "message": "Xanh két"
+   },
+   "4023299615382814997": {
+      "message": "Không thể chỉnh sửa trong Thùng rác"
+   },
+   "4036523543547629779": {
+      "message": "Hình ảnh"
+   },
+   "4044915502415235332": {
+      "message": "Chọn ghi chú đã ghim"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một thư mục nằm trong {NUM_PARENTS} thư mục}other{Bạn đang di chuyển các thư mục nằm trong {NUM_PARENTS} thư mục}}"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4061102590585232601": {
+      "message": "Đã xóa $1​"
+   },
+   "4072353527895477784": {
+      "message": "Con người"
+   },
+   "4086409218932829944": {
+      "message": "Chỉnh sửa nhãn"
+   },
+   "4087289538934418537": {
+      "message": "Sau khi xóa, các ghi chú bạn đã tạo sẽ không hiển thị cho bất kỳ ai. Ghi chú được chia sẻ với bạn sẽ vẫn hiển thị cho những người có quyền truy cập."
+   },
+   "4095714830819118951": {
+      "message": "Trợ giúp"
+   },
+   "4097921967754832323": {
+      "message": "dấu gạch ngang"
+   },
+   "4106990792743182780": {
+      "message": "Không thể tải chú thích ảnh. Hãy thử lại sau."
+   },
+   "411137507354526852": {
+      "message": "Tháng"
+   },
+   "4111452225725405610": {
+      "message": "Đã xóa dấu sao khỏi \"$1​\"."
+   },
+   "4117632433281998979": {
+      "message": "Hàng tháng"
+   },
+   "411791562637880104": {
+      "message": "Xóa mình"
+   },
+   "4122858386674768321": {
+      "message": "Di chuyển khỏi $3​$2​$1​"
+   },
+   "4149722338705080529": {
+      "message": "Làm lại"
+   },
+   "4155905925766040098": {
+      "message": "Không có bản xem trước nào"
+   },
+   "4159842640681544078": {
+      "message": "$1​ thư mục đã được di chuyển từ $2​ đến $3​."
+   },
+   "4174786386751618325": {
+      "message": "Ghi chú ảnh"
+   },
+   "4182427157920112948": {
+      "message": "dấu sóng"
+   },
+   "4186465168527990324": {
+      "message": "Đã trích xuất thành công \"$1​\" sang $2​"
+   },
+   "4204345954541079744": {
+      "message": "Không có ghi chú nào có nhãn này"
+   },
+   "4205329094859140439": {
+      "message": "sáng"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một mục nằm trong {NUM_PARENTS} thư mục}other{Bạn đang di chuyển các mục nằm trong {NUM_PARENTS} thư mục}}"
+   },
+   "4209658291185545281": {
+      "message": "Không thể hoàn tác tác vụ"
+   },
+   "4211182812451835307": {
+      "message": "Có thể chỉnh sửa"
+   },
+   "4214190403999219403": {
+      "message": "Thu phóng"
+   },
+   "4214427276033711472": {
+      "message": "Cài đặt"
+   },
+   "4216242742234357612": {
+      "message": "Chọn tất cả các ghi chú"
+   },
+   "42239889404644810": {
+      "message": "Yêu cầu quyền truy cập"
+   },
+   "4227767243455123953": {
+      "message": "Hoạt động của danh sách"
+   },
+   "4228870062013120023": {
+      "message": "Điều hướng đến ghi chú tiếp theo/trước"
+   },
+   "4230101516585408149": {
+      "message": "Soạn ghi chú mới"
+   },
+   "4243437721135025638": {
+      "message": "Bạn không có quyền di chuyển tệp trong Drive nhóm này."
+   },
+   "4248787844477062707": {
+      "message": "Tạo nhãn mới"
+   },
+   "4269096876505546324": {
+      "message": "Gửi phản hồi"
+   },
+   "4280747719095153198": {
+      "message": "Nhận xét đã giải quyết"
+   },
+   "4286663890332754386": {
+      "message": "Không tải lên được."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Hủy"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Chọn ghi chú"
+   },
+   "4327523836604343709": {
+      "message": "Kích cỡ 2"
+   },
+   "4332252081504252077": {
+      "message": "Rất tiếc!"
+   },
+   "4343825450663233452": {
+      "message": "Có thể xem"
+   },
+   "4343848624651344174": {
+      "message": "Chiều"
+   },
+   "4346644280640625035": {
+      "message": "Ghi chú chưa được chia sẻ."
+   },
+   "435214284915110062": {
+      "message": "Mở thanh tìm kiếm"
+   },
+   "435444400175963053": {
+      "message": "$1​ mục đã được di chuyển đến $2​."
+   },
+   "4356312843186491987": {
+      "message": "Chuyển"
+   },
+   "4391715930031906467": {
+      "message": "Tìm kết quả phù hợp tiếp theo"
+   },
+   "4397482594800054550": {
+      "message": "Đã xảy ra sự cố khi đổi tên \"$1​\"."
+   },
+   "4412626362660239325": {
+      "message": "Sắp xếp trong Drive"
+   },
+   "4416841471975202365": {
+      "message": "Màu hồng nhạt"
+   },
+   "4421168692772991468": {
+      "message": "Thùng rác"
+   },
+   "4422985761498356257": {
+      "message": "Mở bằng"
+   },
+   "4429542915339609008": {
+      "message": "Rất tiếc, không hỗ trợ mở nhiều tệp bằng ứng dụng này."
+   },
+   "4438168904974235640": {
+      "message": "Màu đỏ thẫm"
+   },
+   "4444571967705751871": {
+      "message": "Thùng rác"
+   },
+   "4448871104213529122": {
+      "message": "Ẩn chi tiết"
+   },
+   "4457424709416639982": {
+      "message": "Thêm vào Drive của tôi"
+   },
+   "4466605492523079635": {
+      "message": "Lưu"
+   },
+   "4468872996560163913": {
+      "message": "Dọn sạch Thùng rác ngay bây giờ"
+   },
+   "4486429060311743289": {
+      "message": "Xóa lựa chọn"
+   },
+   "45228242181482134": {
+      "message": "Phát"
+   },
+   "4524999513489942668": {
+      "message": "$2​Cài đặt tiện ích Google Keep dành cho Chrome$1​ để lưu những thứ mà bạn quan tâm vào Keep chỉ với một lần nhấp chuột."
+   },
+   "4533605085334699862": {
+      "message": "Trích dẫn"
+   },
+   "4550209323331625907": {
+      "message": "$2​Tìm hiểu thêm$1​"
+   },
+   "4557086341175267918": {
+      "message": "Không thể chia sẻ ngoại tuyến"
+   },
+   "4561316395348814504": {
+      "message": "Tải xuống ứng dụng"
+   },
+   "4564682305303579317": {
+      "message": "Tiếp tục"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Lặp lại hàng năm}other{Lặp lại # năm một lần}}"
+   },
+   "4607802784047113873": {
+      "message": "Thêm cộng tác viên"
+   },
+   "4608848277887462246": {
+      "message": "Trang tính khác"
+   },
+   "4620034373159179678": {
+      "message": "Trang $1​ / $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một mục nằm trong một thư mục}other{Bạn đang di chuyển các mục nằm trong một thư mục}}"
+   },
+   "4643940860676429496": {
+      "message": "Đang lưu..."
+   },
+   "4675792829115971960": {
+      "message": "Chúng tôi sẽ gắn cờ ghi chú này và xóa ghi chú khỏi tài khoản của bạn."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Lặp lại hàng tuần vào {days}}other{Lặp lại # tuần một lần vào {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Chế độ xem danh sách"
+   },
+   "4700218356982480093": {
+      "message": "Màu đen"
+   },
+   "4717484643724894786": {
+      "message": "Sao chép vào Tài liệu"
+   },
+   "4740100782728373253": {
+      "message": "Lưu vào Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Biểu mẫu"
+   },
+   "4751202914935960324": {
+      "message": "Email này đã tồn tại"
+   },
+   "4752655540567953719": {
+      "message": "Vị trí $1​"
+   },
+   "4762625944764691132": {
+      "message": "Menu chính"
+   },
+   "4767722428137216885": {
+      "message": "Hủy"
+   },
+   "477328789314249432": {
+      "message": "Tìm kiếm ghi chú"
+   },
+   "4773737319879079980": {
+      "message": "Tạo ghi chú nhanh hơn với ứng dụng"
+   },
+   "4775368111547931093": {
+      "message": "Không có mô tả nào"
+   },
+   "4805047680716507619": {
+      "message": " - Di chuyển đến:"
+   },
+   "4806763987633034948": {
+      "message": "Chữ ký PKCS7"
+   },
+   "4807444103404336088": {
+      "message": "Đã xảy ra sự cố khi thêm dấu sao vào \"$1​\"."
+   },
+   "4821130290026382049": {
+      "message": "Phím tắt phổ biến"
+   },
+   "4833214200453019325": {
+      "message": "$1​ / $2​"
+   },
+   "4840513623749850224": {
+      "message": "Phim"
+   },
+   "4846720038197420778": {
+      "message": "Kết nối ứng dụng khác"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Ghi chú trong Thùng rác"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{Đã chọn 1 mục}other{Đã chọn # mục}}"
+   },
+   "4888104357342241891": {
+      "message": "Lời nhắc"
+   },
+   "490045476479394048": {
+      "message": "Đánh dấu văn bản để nhận xét"
+   },
+   "4901386320110714275": {
+      "message": "Mật khẩu không đúng. Vui lòng thử lại."
+   },
+   "4906669330059413958": {
+      "message": "Gửi mật khẩu"
+   },
+   "4907349694646937491": {
+      "message": "Đã di chuyển ghi chú tới chỉ mục $1​"
+   },
+   "4915450884407029247": {
+      "message": "Đã thêm nhãn $1​."
+   },
+   "4917607226908075328": {
+      "message": "Xóa"
+   },
+   "4918998818369420588": {
+      "message": "Báo cáo lạm dụng"
+   },
+   "4925002811848839819": {
+      "message": "Đã di chuyển $1​ mục từ $2​ đến $3​."
+   },
+   "4930422592340561418": {
+      "message": "Drive của tôi"
+   },
+   "4934109328393349339": {
+      "message": "Không thêm được mục khác"
+   },
+   "4946709842900542238": {
+      "message": "Màu trắng"
+   },
+   "4948512233726694061": {
+      "message": "$4​Trang$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+   },
+   "4957674814179289955": {
+      "message": "Điều hướng tới mục danh sách tiếp theo/trước"
+   },
+   "4963784280521435720": {
+      "message": "Đang lưu..."
+   },
+   "4974059227183970715": {
+      "message": "Bạn cũng có thể thêm nhãn bằng cách nhập ˮ#ˮ."
+   },
+   "4982284738093713321": {
+      "message": "Người tổ chức"
+   },
+   "4988132901627446385": {
+      "message": "Bảng chi tiết đã được mở rộng."
+   },
+   "5006765610090288212": {
+      "message": "Đã áp dụng màu $1​"
+   },
+   "5008901799534614532": {
+      "message": "Xóa"
+   },
+   "5009448218905630614": {
+      "message": "Xóa"
+   },
+   "5011858093760184160": {
+      "message": "Xóa dấu sao"
+   },
+   "5014595433724148222": {
+      "message": "Màu hồng đậm"
+   },
+   "501475221876543407": {
+      "message": "Ghi chú bạn thêm sẽ xuất hiện tại đây"
+   },
+   "5023623739220371850": {
+      "message": "Không xác thực được. Các thay đổi sẽ được đồng bộ hóa khi bạn đăng nhập."
+   },
+   "5041572047197549869": {
+      "message": "Vào cùng một ngày trong mỗi tháng"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Vào {day} đầu tiên của tháng}=2{Vào {day} thứ 2 của tháng}=3{Vào {day} thứ 3 của tháng}=4{Vào {day} thứ 4 của tháng}other{Vào {day} cuối cùng của tháng}}"
+   },
+   "5046219519278664288": {
+      "message": "iPhone và iPad"
+   },
+   "5046371569383796818": {
+      "message": "Giữ"
+   },
+   "5052461293250181960": {
+      "message": "page down"
+   },
+   "5054818452036081005": {
+      "message": "$2​Bảo mật$1​"
+   },
+   "5055673792779951604": {
+      "message": "Màu xanh lam nhạt"
+   },
+   "5078184843381528205": {
+      "message": "Ghim ghi chú"
+   },
+   "5095987896933771566": {
+      "message": "In tài liệu"
+   },
+   "509815948423424872": {
+      "message": "Điều hướng"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5130903421326358933": {
+      "message": "Đã xảy ra sự cố khi lưu tệp đính kèm vào Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "Xóa nhãn"
+   },
+   "5140285776541296873": {
+      "message": "Tùy chỉnh"
+   },
+   "5151247077945318396": {
+      "message": "Đã xảy ra lỗi khi chọn thư mục để trích xuất vào."
+   },
+   "5178674191443894176": {
+      "message": "Nhãn"
+   },
+   "5180454621500142444": {
+      "message": "Khôi phục"
+   },
+   "5180989337128758117": {
+      "message": "dấu ngoặc đơn trái"
+   },
+   "5182569285908080938": {
+      "message": "Tùy chọn ngày kết thúc"
+   },
+   "5184692850089055965": {
+      "message": "Tải chú thích hình ảnh"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Thanh tab bảng chi tiết. Nhấn phím mũi tên trái và phải để chuyển đổi giữa các tab."
+   },
+   "5202835861850747976": {
+      "message": "$2​Tìm hiểu thêm$1​"
+   },
+   "5204391636475413312": {
+      "message": "Lưu"
+   },
+   "5207219998739322438": {
+      "message": "Kích cỡ 1"
+   },
+   "5214104290560857118": {
+      "message": "Thêm nhận xét"
+   },
+   "5217462020153787697": {
+      "message": "{numberOfPreviews,plural, =1{Đã xóa một xem trước liên kết}other{Đã xóa # xem trước liên kết}}"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Mở bằng $1​"
+   },
+   "5253765183290980485": {
+      "message": "Bạn chỉ có quyền thêm và chỉnh sửa các mục trong \"$1​\" nên bạn sẽ không thể hoàn tác tác vụ này."
+   },
+   "5259541708332520733": {
+      "message": "Đã xóa nguồn"
+   },
+   "5271615049826004958": {
+      "message": "Tùy chọn liên kết xem trước"
+   },
+   "5281121179861637423": {
+      "message": "Yêu cầu mật khẩu để truy cập $1​. Vui lòng nhập mật khẩu"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5299648222246616124": {
+      "message": "dấu phẩy ngược"
+   },
+   "5300527252159851865": {
+      "message": "Nội dung tệp không khớp với định dạng tệp dự kiến."
+   },
+   "5319313176242717957": {
+      "message": "Đang xử lý hình ảnh..."
+   },
+   "5321772883765574323": {
+      "message": "\"$1​\" đã được di chuyển từ $2​ đến $3​."
+   },
+   "5334959887390704534": {
+      "message": "Chúng tôi sẽ xóa nhãn này khỏi tất cả các ghi chú của Keep. Ghi chú của bạn sẽ bị xóa."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Chọn mục này"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Thu nhỏ"
+   },
+   "5353129315502554762": {
+      "message": "Biểu định kiểu"
+   },
+   "5353173068672429342": {
+      "message": "Công cụ gỡ lỗi"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn đang di chuyển một tệp nằm trong một thư mục}other{Bạn đang di chuyển các tệp nằm trong một thư mục}}"
+   },
+   "5363853533596749934": {
+      "message": "Nhập tên nhãn"
+   },
+   "5372143986724491245": {
+      "message": "$1​ ngày trước"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5394695048211047984": {
+      "message": "Thêm ngày"
+   },
+   "5398036630337418486": {
+      "message": "Mở Tài liệu"
+   },
+   "5399553230649155346": {
+      "message": "sau $1​ giờ"
+   },
+   "5403636185480096151": {
+      "message": "TV"
+   },
+   "540596856674438371": {
+      "message": "Не можете да делите зато што је дељење искључено."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "541966762661844588": {
+      "message": "Menu"
+   },
+   "5435749276779042277": {
+      "message": "+ $1​ MỤC KHÁC"
+   },
+   "5447119197363232006": {
+      "message": "Hiển thị trong Drive"
+   },
+   "5455566801812656827": {
+      "message": "BỚT"
+   },
+   "5472312735475866917": {
+      "message": "Nhận xét của $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ phút trước"
+   },
+   "54793131422514708": {
+      "message": "Kích cỡ 3"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "trái"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Đã hủy lưu trữ và ghim ghi chú}other{Đã hủy lưu trữ và ghim # ghi chú}}"
+   },
+   "553170279104432593": {
+      "message": "Mở màu và bộ chọn kích cỡ cho công cụ tô màu"
+   },
+   "5539958940810433464": {
+      "message": "Chuyển ghi chú vào thùng rác"
+   },
+   "5542817571710587822": {
+      "message": "Tệp có quá nhiều hình ảnh."
+   },
+   "5545146751578623220": {
+      "message": "Caps-Lock"
+   },
+   "5555182241047709329": {
+      "message": "Chọn vị trí"
+   },
+   "5555599189512365009": {
+      "message": "OK"
+   },
+   "556742419793425318": {
+      "message": "Hủy"
+   },
+   "5580896674367659519": {
+      "message": "Màu xám đậm"
+   },
+   "5581834527128285229": {
+      "message": "Đã xảy ra sự cố khi thêm \"$1​\" vào Drive của tôi."
+   },
+   "5598649706113950710": {
+      "message": "Trình chỉnh sửa"
+   },
+   "5627470193961862490": {
+      "message": "Ghi chú với lời nhắc sắp tới sẽ xuất hiện tại đây"
+   },
+   "5631086126416409232": {
+      "message": "Lam"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Xóa các mục đã chọn?"
+   },
+   "5713014647314396479": {
+      "message": "Sau"
+   },
+   "5714240424645614611": {
+      "message": "Gói Android"
+   },
+   "5728640851616538925": {
+      "message": "Lục"
+   },
+   "5755541943799933389": {
+      "message": "Đã thêm dấu sao vào \"$1​\"."
+   },
+   "577619047319778196": {
+      "message": "Xóa lựa chọn"
+   },
+   "5783875011049188612": {
+      "message": "Đã tải chú thích hình ảnh"
+   },
+   "5820033033803019104": {
+      "message": "Sắp xếp"
+   },
+   "5840202488368071194": {
+      "message": "Ghi chú mới có hình ảnh"
+   },
+   "5840330517914556080": {
+      "message": "Thu nhỏ"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "585503297543253590": {
+      "message": "Vào"
+   },
+   "5870134033985574990": {
+      "message": "Đang trích xuất..."
+   },
+   "5871966496153339793": {
+      "message": "Hiển thị hình thu nhỏ của video $1​"
+   },
+   "5909490544352162901": {
+      "message": "Yêu cầu chủ sở hữu cung cấp quyền truy cập vào ghi chú này hoặc chuyển sang tài khoản có quyền truy cập. Bạn đã đăng nhập bằng $1​."
+   },
+   "5911012384539794869": {
+      "message": "Không bắt đầu lệnh giải nén được."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Hiển thị nhận xét đã giải quyết"
+   },
+   "5949528478488617689": {
+      "message": "Quyền tải xuống"
+   },
+   "5950887255133612666": {
+      "message": "Chưa bắt đầu."
+   },
+   "5961981688037913870": {
+      "message": "Đã thêm $1​"
+   },
+   "5965683144165568126": {
+      "message": "Sắp xếp lại mục danh sách"
+   },
+   "5969696744752069015": {
+      "message": "Không có bản xem trước nào."
+   },
+   "597983994875715119": {
+      "message": "Màu lục lam"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Tạo nhãn"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep sẽ cập nhật sau # giây}other{Keep sẽ cập nhật sau # giây}}"
+   },
+   "6003164344472359508": {
+      "message": "Kích cỡ 16"
+   },
+   "6005084567691342649": {
+      "message": "Lời nhắc"
+   },
+   "6009962986062136164": {
+      "message": "Đang tải $1​."
+   },
+   "6011637630664474614": {
+      "message": "Dấu cách"
+   },
+   "6030537159236285525": {
+      "message": "Di chuyển mục danh sách tới vị trí tiếp theo/trước"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6042628357935708897": {
+      "message": "Ghi chú này sẽ không còn được chia sẻ với tài khoản của bạn nữa. Yêu cầu chủ sở hữu cung cấp quyền truy cập hoặc chuyển sang tài khoản có quyền truy cập."
+   },
+   "6043578784980337112": {
+      "message": "$1​ tệp đã được di chuyển đến $2​."
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Lặp lại {every} tháng một lần vào {day} đầu tiên của tháng}=2{Lặp lại {every} tháng một lần vào {day} thứ 2 của tháng}=3{Lặp lại {every} tháng một lần vào {day} thứ 3 của tháng}=4{Lặp lại {every} tháng một lần vào {day} thứ 4 của tháng}other{Lặp lại {every} tháng một lần vào {day} cuối cùng của tháng}}"
+   },
+   "6087078248621415351": {
+      "message": "Đã sửa đổi $1​"
+   },
+   "6100883940579706314": {
+      "message": "Xem trước liên kết"
+   },
+   "6104991132648864933": {
+      "message": "Xóa ghi chú?"
+   },
+   "6105571474005679446": {
+      "message": "Đã có sự cố với bản xem trước."
+   },
+   "6113237889871930608": {
+      "message": "Ghi chú trống"
+   },
+   "6118623991445349480": {
+      "message": "Trang $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Danh sách ứng dụng"
+   },
+   "6149175749937815029": {
+      "message": "Xem tất cả các mục"
+   },
+   "6156725896714172645": {
+      "message": "Đang sao chép vào Google Tài liệu"
+   },
+   "6160805346274626656": {
+      "message": "Xóa vĩnh viễn"
+   },
+   "616807262818311711": {
+      "message": "Loại"
+   },
+   "618371060803280843": {
+      "message": "{numberOfNotes,plural, =1{Xóa ghi chú}other{Xóa ghi chú}}"
+   },
+   "6185886893933834031": {
+      "message": "Giữ các bản ghi chú đã chọn"
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Lặp lại hàng ngày}other{Lặp lại # ngày một lần}}"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Đã ghim ghi chú}other{Đã ghim # ghi chú}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6211895332551673425": {
+      "message": "Đã thêm vào $2​Drive của tôi$1​"
+   },
+   "6212070333807533570": {
+      "message": "Đang thêm vào $2​Drive của tôi$1​..."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Bất kỳ ai"
+   },
+   "6252259197986158120": {
+      "message": "Hôm qua"
+   },
+   "6277118196930285720": {
+      "message": "Tải lại"
+   },
+   "628140343505892786": {
+      "message": "Cài đặt"
+   },
+   "6286379137937560558": {
+      "message": "Bài viết"
+   },
+   "6286806453721792102": {
+      "message": "Sắp xếp trong Drive"
+   },
+   "6289564019832728437": {
+      "message": "Bạn có thể chia sẻ khi Keep tải xong."
+   },
+   "6305748545202493254": {
+      "message": "Hiển thị/ẩn ngăn chi tiết"
+   },
+   "6306268376900894985": {
+      "message": "Lặp lại đến {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6352952829934775705": {
+      "message": "THÊM"
+   },
+   "6366376928558090914": {
+      "message": "Thực phẩm"
+   },
+   "6375244206466599493": {
+      "message": "Năm"
+   },
+   "6375395544374251820": {
+      "message": "Đã có sự cố khi tải thêm trang. Đang thử lại..."
+   },
+   "6386587519843563719": {
+      "message": "Tệp nhị phân"
+   },
+   "6394816510866826521": {
+      "message": "Dogfood"
+   },
+   "6413404795391222793": {
+      "message": "Tạo danh sách mới"
+   },
+   "6416495701611778255": {
+      "message": "Ứng dụng của bên thứ ba được đề xuất"
+   },
+   "6419411265907669340": {
+      "message": "Hôm nay"
+   },
+   "6427295696443582545": {
+      "message": "Công cụ tẩy"
+   },
+   "6432019580434957057": {
+      "message": "Âm thanh"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Bạn không có quyền di chuyển tệp này khỏi các thư mục hiện đang chứa nó. Thay vào đó hãy thêm tệp vào {START_SPAN_1}{NAME}{END_SPAN}.}other{Bạn không có quyền di chuyển các tệp này khỏi các thư mục hiện đang chứa chúng. Thay vào đó hãy thêm các tệp vào {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Biểu tượng $1​"
+   },
+   "6450611522897524109": {
+      "message": "Màu xanh lục"
+   },
+   "6457802200418354862": {
+      "message": "Người xem có thể tải xuống"
+   },
+   "6459405233858728718": {
+      "message": "Google Trang trình bày"
+   },
+   "6464761738227651511": {
+      "message": "$1​ phút trước"
+   },
+   "6466736813846482957": {
+      "message": "Trước"
+   },
+   "6466858417983764649": {
+      "message": "Đặt lời nhắc cho các ghi chú về địa điểm và thời gian, tạo ghi chú bằng giọng nói và làm việc trực tuyến hoặc ngoại tuyến."
+   },
+   "6472238195689960152": {
+      "message": "Màu trắng"
+   },
+   "6473102097014191455": {
+      "message": "Ghi chú có bản vẽ"
+   },
+   "6480260198815372102": {
+      "message": "Bật"
+   },
+   "6496683100661104868": {
+      "message": "$2​Giấy phép nguồn mở$1​"
+   },
+   "6497197865876438261": {
+      "message": "Âm nhạc"
+   },
+   "6507257480072167483": {
+      "message": "Đã đổi tên nhãn thành $1​."
+   },
+   "6510131849363684615": {
+      "message": "Ngày mai"
+   },
+   "6513721414466645971": {
+      "message": "Đã xóa"
+   },
+   "6522917155620379865": {
+      "message": "Tải xuống"
+   },
+   "6524849072392100692": {
+      "message": "Thư mục Google Drive"
+   },
+   "6571686604846453345": {
+      "message": "Đã xảy ra sự cố khi thêm mục này vào Drive."
+   },
+   "6579707685908557993": {
+      "message": "Tối"
+   },
+   "6582286158693833652": {
+      "message": "Tìm hiểu thêm"
+   },
+   "6588176324871799870": {
+      "message": "Tập lệnh Google Apps"
+   },
+   "661771364073001489": {
+      "message": "Chuyển đổi tài khoản"
+   },
+   "6618562607681757575": {
+      "message": "Không di chuyển từ bất kỳ thư mục nào, chỉ cần thêm vào $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Ứng dụng"
+   },
+   "6650600936729710500": {
+      "message": "Trả lời."
+   },
+   "6664835828596108553": {
+      "message": "Tùy chọn"
+   },
+   "670419277288558500": {
+      "message": "Video/âm thanh"
+   },
+   "6707173584987026005": {
+      "message": "Hôm nay"
+   },
+   "6710728478489145370": {
+      "message": "Đóng"
+   },
+   "6713235295664405475": {
+      "message": "trên|tới"
+   },
+   "6715985122107380503": {
+      "message": "Bản ghi"
+   },
+   "6726462693927865256": {
+      "message": "Chi tiết"
+   },
+   "6726879257388338969": {
+      "message": "In"
+   },
+   "6732800471045353930": {
+      "message": "Bạn đã đạt đến số lượng người tối đa khi chia sẻ ghi chú này."
+   },
+   "673551770550324419": {
+      "message": "Vừa với chiều rộng"
+   },
+   "6744457949320515234": {
+      "message": "Ghi chú trống đã bị hủy"
+   },
+   "6747379635033535953": {
+      "message": "Thêm mục mới ở cuối danh sách"
+   },
+   "6747528043814108113": {
+      "message": "Đã chuyển sang $1​"
+   },
+   "6749829802551750923": {
+      "message": "lên"
+   },
+   "6750600017746655174": {
+      "message": "Tùy chọn"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Chia sẻ mục này?}other{Chia sẻ các mục này?}}"
+   },
+   "6778577079172085976": {
+      "message": "Được ghim"
+   },
+   "6780628488957834429": {
+      "message": "Da cam"
+   },
+   "6787580031482277539": {
+      "message": "Không bao giờ"
+   },
+   "6797862596948579998": {
+      "message": "Ứng dụng Chrome"
+   },
+   "6801348618370627980": {
+      "message": "Đã tạo nhãn $1​."
+   },
+   "681598652078493281": {
+      "message": "Tìm hiểu thêm"
+   },
+   "6822520214440117457": {
+      "message": "Cơ quan"
+   },
+   "6823109315717909214": {
+      "message": "Dùng thử"
+   },
+   "6827821461670731013": {
+      "message": "Hiển thị hộp kiểm"
+   },
+   "6833760103261954639": {
+      "message": "Đã có sự cố khi tải trang này. Đang thử lại..."
+   },
+   "6845496099067370773": {
+      "message": "Màu đỏ"
+   },
+   "6861978427131390279": {
+      "message": "Gửi phản hồi"
+   },
+   "6891563484025164308": {
+      "message": "Trước"
+   },
+   "6898823203505321799": {
+      "message": "Chi tiết"
+   },
+   "6904351530369058983": {
+      "message": "Chủ sở hữu"
+   },
+   "6911028933894691912": {
+      "message": "Bản vẽ này sẽ khả dụng khi bạn trực tuyến."
+   },
+   "6922953828399110511": {
+      "message": "Đóng trình xem"
+   },
+   "693770783324368110": {
+      "message": "Đã bỏ ghim và chuyển ghi chú vào thùng rác"
+   },
+   "6939806490818256358": {
+      "message": "{resultCount,plural, =1{# kết quả tìm kiếm}other{# kết quả tìm kiếm}}"
+   },
+   "695253297035211081": {
+      "message": "Dọn sạch thùng rác"
+   },
+   "6963401564174052300": {
+      "message": "Bản vẽ tạm thời không khả dụng."
+   },
+   "6982682101118067511": {
+      "message": "Đang sắp xếp…"
+   },
+   "701276785305022936": {
+      "message": "Tài liệu bị hỏng. Hãy đảm bảo rằng tệp có định dạng mới nhất."
+   },
+   "7017384731286920634": {
+      "message": "Màu xanh lục nhạt"
+   },
+   "7017485862232001373": {
+      "message": "\"$1​\" đã được thêm vào $2​."
+   },
+   "7019002927048576918": {
+      "message": "Bộ lọc tìm kiếm $1​"
+   },
+   "7050021021988648361": {
+      "message": "Sao chép URL"
+   },
+   "7050898523853841537": {
+      "message": "Tùy chọn tần suất"
+   },
+   "7054631817922169541": {
+      "message": "Google Keep có các thay đổi chưa được lưu. Bạn có muốn rời khỏi trang và hủy các thay đổi của mình không?"
+   },
+   "705714112650622350": {
+      "message": "Đã xảy ra sự cố khi thêm mục vào Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "Phát video trên YouTube $1​"
+   },
+   "7065454163742312322": {
+      "message": "Các màu khác"
+   },
+   "7084324152376766809": {
+      "message": "$1​ ngày trước"
+   },
+   "7084991134824194740": {
+      "message": "Nhắc tôi"
+   },
+   "7086801490719148597": {
+      "message": "Bỏ chọn mục này"
+   },
+   "7106150113490082402": {
+      "message": "Màu hoa oải hương"
+   },
+   "7126535013613878060": {
+      "message": "Ghim ghi chú quan trọng của bạn ở trên cùng."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Đang sắp xếp lại ghi chú"
+   },
+   "7146242673022399081": {
+      "message": "Văn bản"
+   },
+   "7148992630785407972": {
+      "message": "Tệp này được bảo vệ bằng mật khẩu và không thể xem trước được."
+   },
+   "7153847618034547771": {
+      "message": "Bật"
+   },
+   "7161134329606048317": {
+      "message": "Đóng"
+   },
+   "7161718175684624843": {
+      "message": "Xóa nhãn"
+   },
+   "7164532930742017984": {
+      "message": "Bất kỳ ai có liên kết"
+   },
+   "7166989725427500881": {
+      "message": "Chọn ghi chú đã chuyển vào thùng rác"
+   },
+   "7174189954350964804": {
+      "message": "Thử lại"
+   },
+   "7174908348310449675": {
+      "message": "Tùy chỉnh các mặc định lời nhắc của bạn"
+   },
+   "7181961085183734135": {
+      "message": "Chức năng in bị tắt cho tệp này"
+   },
+   "7225445911355686176": {
+      "message": "Chọn ghi chú đã lưu trữ"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Đã xảy ra sự cố khi trích xuất \"$1​\"."
+   },
+   "7265183966796883739": {
+      "message": "Ẩn nhận xét đã giải quyết"
+   },
+   "7278398674737413598": {
+      "message": "Không thể chuyển đổi tài liệu."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Đã lưu trữ ghi chú}other{Đã lưu trữ # ghi chú}}"
+   },
+   "7282548567245878869": {
+      "message": "Đã xóa mục"
+   },
+   "7290932540630116546": {
+      "message": "Đã đặt lời nhắc. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Hủy thay đổi?  Thay đổi của bạn sẽ không được lưu."
+   },
+   "7304355547638486270": {
+      "message": "Tải xuống âm thanh ($1​)"
+   },
+   "7337660181466605745": {
+      "message": "Không cập nhật được \"$1​\" trong Drive."
+   },
+   "7342923890755029722": {
+      "message": "Đóng"
+   },
+   "734478884582426793": {
+      "message": "Lưu trữ nén"
+   },
+   "7345191981142988484": {
+      "message": "Bản vẽ đã được xóa"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7368945547292826843": {
+      "message": "Truy cập liên kết"
+   },
+   "7377239345926788722": {
+      "message": "Tác vụ"
+   },
+   "7382688299146249119": {
+      "message": "Tải mục xuống"
+   },
+   "7383706174467122149": {
+      "message": "Đã xóa ghi chú"
+   },
+   "7388342865555961406": {
+      "message": "sau $1​ ngày"
+   },
+   "7389099426842546376": {
+      "message": "Tính năng cộng tác hiện không khả dụng"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Thư từ $1​ được trích xuất sang tài khoản thư của bạn dưới nhãn \"Nhập: $2​\"."
+   },
+   "7422452809590461532": {
+      "message": "Đỏ"
+   },
+   "7426603384368095928": {
+      "message": "Vui lòng tải lại trang để đăng nhập lại và tiếp tục làm việc."
+   },
+   "7427333772418801813": {
+      "message": "Đã mở rộng thêm + $1​ nút KHÁC"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (đã chỉnh sửa $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Đang lưu vào Drive"
+   },
+   "744753705925710199": {
+      "message": "Rất tiếc, chúng tôi không thể ủy quyền tất cả các tệp bạn đã cố gắng mở cho ứng dụng này. Vui lòng thử lại."
+   },
+   "7452116603589558390": {
+      "message": "Bỏ chọn ghi chú đã ghim"
+   },
+   "7458942806393710991": {
+      "message": "Bỏ chọn ghi chú đã lưu trữ"
+   },
+   "7468842863971844562": {
+      "message": "Danh sách mới"
+   },
+   "7469895656894091562": {
+      "message": "Email này không hợp lệ"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Lặp lại hàng tháng vào {day} đầu tiên của tháng}=2{Lặp lại hàng tháng vào {day} thứ 2 của tháng}=3{Lặp lại hàng tháng vào {day} thứ 3 của tháng}=4{Lặp lại hàng tháng vào {day} thứ 4 của tháng}other{Lặp lại hàng tháng vào {day} cuối cùng của tháng}}"
+   },
+   "7483088916037874359": {
+      "message": "Tệp quá lớn. "
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7500786109708143683": {
+      "message": "Âm thanh đã bị xóa"
+   },
+   "7503234138288940590": {
+      "message": "Tìm kiếm"
+   },
+   "7507827375601925075": {
+      "message": "Di chuyển ghi chú tới vị tri tiếp theo/trước"
+   },
+   "7530677128711603655": {
+      "message": "Kết quả tìm kiếm cho \"$1​\""
+   },
+   "754367112212424716": {
+      "message": "Sau hôm nay"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# ghi chú được chọn}other{# ghi chú được chọn}}"
+   },
+   "7565383798249439151": {
+      "message": "sau $1​ ngày"
+   },
+   "7579280421767578228": {
+      "message": "Lời nhắc cho ngày nào đó"
+   },
+   "7586291841734385643": {
+      "message": "Hiện cửa sổ nhỏ mới"
+   },
+   "7587936635257676112": {
+      "message": "Đã thêm $1​"
+   },
+   "7598582624136632660": {
+      "message": "Mở thanh tìm kiếm / tìm kết quả tiếp theo"
+   },
+   "7598850438299201663": {
+      "message": "Đang mở \"$1​\"..."
+   },
+   "7604275940271852148": {
+      "message": "Giải nén vào tài khoản thư của bạn"
+   },
+   "7604400308311739073": {
+      "message": "Ghim"
+   },
+   "7610628906656867728": {
+      "message": "Lưu trữ"
+   },
+   "7610654194202731772": {
+      "message": "Xóa"
+   },
+   "7629685876277801112": {
+      "message": "Đã xảy ra sự cố khi hiển thị tệp bản đồ này."
+   },
+   "7630723924002267143": {
+      "message": "Đã bật phím tắt."
+   },
+   "7649506133540465463": {
+      "message": "Không thể hoàn tác tác vụ."
+   },
+   "7656983816661099886": {
+      "message": "Sự vật"
+   },
+   "7659047104232758352": {
+      "message": "đó|này"
+   },
+   "7669846901402551021": {
+      "message": "Hôm nay"
+   },
+   "7691521283331762131": {
+      "message": "Ghi chú đã được lưu trữ của bạn sẽ xuất hiện tại đây"
+   },
+   "7709889936233398701": {
+      "message": "Xóa"
+   },
+   "7715735412192018288": {
+      "message": "Trợ giúp"
+   },
+   "7715892737835649602": {
+      "message": "Bạn cũng có thể thêm nhãn bằng cách nhập ˮ#ˮ."
+   },
+   "772000107335590599": {
+      "message": "sau $1​ phút"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "773857106517884529": {
+      "message": "Màu xám nhạt"
+   },
+   "774390292128857049": {
+      "message": "Tìm kiếm"
+   },
+   "7751981235297474273": {
+      "message": "Hoàn tác"
+   },
+   "7772544658778579390": {
+      "message": "Tìm trong tài liệu"
+   },
+   "777546328624962090": {
+      "message": "Không tải tệp này lên được. Chúng tôi chấp nhận tệp $1​ nhỏ hơn $2​MB và $3​ megapixel."
+   },
+   "7791050524692390574": {
+      "message": "Màu"
+   },
+   "7800318069267901681": {
+      "message": "Đã sửa đổi"
+   },
+   "7814778057875152792": {
+      "message": "Đã xảy ra sự cố khi di chuyển tệp đính kèm tới thư mục đã chọn trong Google Drive."
+   },
+   "7822364282298323175": {
+      "message": "Danh sách đã bị xóa"
+   },
+   "7828886646639771557": {
+      "message": "Tạo ghi chú…"
+   },
+   "7830513726270865588": {
+      "message": "Lịch"
+   },
+   "7842164552344536314": {
+      "message": "Đang sắp xếp..."
+   },
+   "7844842290699524598": {
+      "message": "Đã đạt đến giới hạn nhãn. Hãy xóa nhãn hiện tại để thêm nhãn mới."
+   },
+   "7845751753397906805": {
+      "message": "Đã tìm thấy các chỉnh sửa xung đột"
+   },
+   "785840448809859989": {
+      "message": "Tùy chọn thời gian"
+   },
+   "7865240075542402013": {
+      "message": "Thêm dấu sao"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7876831800396633138": {
+      "message": "Chế độ toàn màn hình"
+   },
+   "7889179838401647357": {
+      "message": "Đã gửi yêu cầu. Bạn sẽ nhận được email khi phê duyệt."
+   },
+   "7895643887742936844": {
+      "message": "dấu chấm phẩy"
+   },
+   "7899913952063063825": {
+      "message": "Hình ảnh đã bị xóa"
+   },
+   "7901771370781969022": {
+      "message": "Sách"
+   },
+   "7903276896883020622": {
+      "message": "Tính năng chia sẻ hiện không khả dụng"
+   },
+   "7906726367011430855": {
+      "message": "Kết nối"
+   },
+   "7910887984113996757": {
+      "message": "Укључи дељење"
+   },
+   "7922692430438844436": {
+      "message": "Giải nén"
+   },
+   "792315196550007047": {
+      "message": "Không có kết quả phù hợp."
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Đang tải…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{Đã chọn # ghi chú}other{Đã chọn # ghi chú}}"
+   },
+   "7976461426527138085": {
+      "message": "Danh sách"
+   },
+   "7988058806865329896": {
+      "message": "Chọn ngày giờ"
+   },
+   "7996360883730444101": {
+      "message": "Rất tiếc, đã xảy ra lỗi khi mở tệp này. Vui lòng thử lại."
+   },
+   "8010075936095394680": {
+      "message": "Phiên bản tệp quá cũ. Hãy đảm bảo rằng tệp có định dạng mới nhất. "
+   },
+   "8011497727123874703": {
+      "message": "Nút thư mục $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{]unused plural form}=1{Bạn đang di chuyển một mục ra khỏi thư mục được chia sẻ nên mọi người sẽ mất quyền truy cập.}other{Bạn đang di chuyển {NUM_ITEMS_2} mục ra khỏi thư mục được chia sẻ nên mọi người sẽ mất quyền truy cập.}}"
+   },
+   "8019402848412685977": {
+      "message": "Đã đổi tên \"$2​\" thành \"$1​\"."
+   },
+   "8021465164414684024": {
+      "message": "{count,plural, =1{Đã xóa # mục}other{Đã xóa # mục}}"
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# mục đã hoàn tất}other{# mục đã hoàn tất}}"
+   },
+   "8043514121228710092": {
+      "message": "Thêm hình ảnh"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ đã được kết nối."
+   },
+   "8066398070826666542": {
+      "message": "{count,plural, =1{+ # mục đã hoàn tất}other{+ # mục đã hoàn tất}}"
+   },
+   "8069384932934428393": {
+      "message": "sau $1​ phút"
+   },
+   "8080583426915938264": {
+      "message": "Ứng dụng trên máy tính của bạn"
+   },
+   "8085493757603803516": {
+      "message": "Chỉnh sửa lựa chọn"
+   },
+   "8090743714060857028": {
+      "message": "Người xem không thể tải xuống"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 byte}=1{1 byte}other{# byte}}"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Di chuyển từ một thư mục}=2{Di chuyển từ cả hai thư mục}other{Di chuyển từ tất cả # thư mục}}"
+   },
+   "8125425371755035523": {
+      "message": "Hoàn tác"
+   },
+   "8126340137798672888": {
+      "message": "$1​ tệp đã được di chuyển từ $2​ đến $3​."
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8135145577663029437": {
+      "message": "Giữ cả hai"
+   },
+   "814178220294444613": {
+      "message": "$1​ tệp đã được thêm vào $2​."
+   },
+   "8144512434938656483": {
+      "message": "hoặc"
+   },
+   "8146560259680897627": {
+      "message": "Hủy"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Gửi phản hồi"
+   },
+   "8174654098152723289": {
+      "message": "Chỉnh sửa mô tả"
+   },
+   "8194941811853358224": {
+      "message": "Đã xảy ra sự cố khi xóa dấu sao khỏi \"$1​\"."
+   },
+   "820664195135544910": {
+      "message": "Màu cam"
+   },
+   "8214941501817169086": {
+      "message": "{count,plural, =1{Xóa ghi chú vĩnh viễn?}other{Xóa các ghi chú vĩnh viễn?}}"
+   },
+   "821942580510564685": {
+      "message": "Vui lòng nhập mật khẩu để xem tài liệu này"
+   },
+   "8223878224920694193": {
+      "message": "Mỗi"
+   },
+   "8224193807932432983": {
+      "message": "Tác vụ"
+   },
+   "8231449936104909428": {
+      "message": "Đã xảy ra lỗi khi di chuyển \"$1​\" vào thư mục đã chọn trong Drive."
+   },
+   "8242655297101700529": {
+      "message": "Drive của tôi"
+   },
+   "826433162451399549": {
+      "message": "Ngày mai"
+   },
+   "8273434617910595878": {
+      "message": "xuống"
+   },
+   "8281141013543828574": {
+      "message": "Hình ảnh Raw"
+   },
+   "8304474373444239435": {
+      "message": "Trả lời của $1​."
+   },
+   "8305505634689906340": {
+      "message": "Tìm kiếm trong \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Chia sẻ"
+   },
+   "8332720954679654953": {
+      "message": "Tải xuống ứng dụng"
+   },
+   "8334718599538726981": {
+      "message": "Đã cập nhật"
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Loại bỏ"
+   },
+   "837692854094319105": {
+      "message": "Không thể chia sẻ với những người dùng sau vì quản trị viên của họ đã tắt tính năng chia sẻ trong miền của họ."
+   },
+   "8379952094517631162": {
+      "message": "Không"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412098268689886334": {
+      "message": "Hợp nhất"
+   },
+   "8412306118114780633": {
+      "message": "Làm mới"
+   },
+   "8412733496413412439": {
+      "message": "Ngoại tuyến"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Đánh dấu một ô để nhận xét"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Tạm dừng"
+   },
+   "847320208126653829": {
+      "message": "Mở màu và bộ chọn kích cỡ cho công cụ viết thư pháp"
+   },
+   "8493378997610580289": {
+      "message": "Phím tắt khác"
+   },
+   "8501142460706022179": {
+      "message": "Ứng dụng gốc mặc định"
+   },
+   "8505989225387082493": {
+      "message": "Thêm nhãn"
+   },
+   "8509270263487836281": {
+      "message": "Ðăng nhập"
+   },
+   "8517148045938431718": {
+      "message": "Sửa lỗi"
+   },
+   "8535916611285039243": {
+      "message": "Loại bỏ"
+   },
+   "8591848339430983053": {
+      "message": "Ghi chú"
+   },
+   "8595175575778060149": {
+      "message": "Thêm"
+   },
+   "8596279649507974639": {
+      "message": "Di chuyển đến đây"
+   },
+   "8602525917014156029": {
+      "message": "Vị trí"
+   },
+   "8616342546716995946": {
+      "message": "Bỏ qua"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8626694988569301667": {
+      "message": "Bản vẽ không khả dụng"
+   },
+   "8646821180780920830": {
+      "message": "Nhãn"
+   },
+   "8652657235429996594": {
+      "message": "Sắp"
+   },
+   "8660016472468563221": {
+      "message": "dấu hai chấm"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ mục khác"
+   },
+   "8663993454460982287": {
+      "message": "Đã ẩn hộp kiểm"
+   },
+   "8674222789100049233": {
+      "message": "Đóng"
+   },
+   "86815590954366945": {
+      "message": "Danh sách nội dung đã lưu trữ"
+   },
+   "8708723278154759600": {
+      "message": "Đã lưu trữ ghi chú"
+   },
+   "8711002053494037632": {
+      "message": "Đã bỏ chọn tất cả các mục"
+   },
+   "8734569874711220205": {
+      "message": "Menu điều hướng"
+   },
+   "8742388056829916665": {
+      "message": "Hiển thị xem trước liên kết đa phương tiện"
+   },
+   "8747586020318913818": {
+      "message": "Công cụ viết thư pháp"
+   },
+   "8770362429333850884": {
+      "message": "Đã mở menu bộ chọn nhãn"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Văn bản đa dạng thức"
+   },
+   "8786673003584562680": {
+      "message": "Pg-Up"
+   },
+   "8792038552136453044": {
+      "message": "Rất tiếc! Đã xảy ra lỗi"
+   },
+   "8793166064242077041": {
+      "message": "Đã có sự cố khi hiển thị hình ảnh này."
+   },
+   "8822326207328431952": {
+      "message": "Tải hình ảnh lên không khả dụng"
+   },
+   "8845176264121061589": {
+      "message": "Bỏ chọn tất cả các mục"
+   },
+   "8850238112725591771": {
+      "message": "phím tắt $1​"
+   },
+   "8851252390780816895": {
+      "message": "Nhật ký ứng dụng"
+   },
+   "8852550049823214385": {
+      "message": "rồi đến"
+   },
+   "8860658114732392347": {
+      "message": "Xóa lời nhắc"
+   },
+   "8867634760949689122": {
+      "message": "Không thể chuyển đổi tệp: đã hết thời gian chuyển đổi. Vui lòng thử lại sau."
+   },
+   "8868758864963683383": {
+      "message": "Bỏ chọn ghi chú"
+   },
+   "887001400549949730": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "888015650266122140": {
+      "message": "lần lặp lại"
+   },
+   "8889019648958415451": {
+      "message": "Tệp không xác định"
+   },
+   "8892163365003749853": {
+      "message": "Công cụ lựa chọn"
+   },
+   "8917554093651202032": {
+      "message": "Phát $1​"
+   },
+   "8919660666733306860": {
+      "message": "Hình ảnh"
+   },
+   "8930959387403789939": {
+      "message": "Lời nhắc"
+   },
+   "8938626240031421092": {
+      "message": "Chuyển đổi hộp kiểm"
+   },
+   "8943760679396635042": {
+      "message": "Đang hiển thị $1​."
+   },
+   "8953555255469284376": {
+      "message": "Thả ảnh ở đây"
+   },
+   "8958118622768332570": {
+      "message": "Không sao chép được vào Google Tài liệu"
+   },
+   "8975305711699693093": {
+      "message": "Ẩn cột nhận xét"
+   },
+   "8977359195911624009": {
+      "message": "+$1​"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Lặp lại hàng tuần}other{Lặp lại # tuần một lần}}"
+   },
+   "8979615310931291676": {
+      "message": "Đã chỉnh sửa $1​"
+   },
+   "8988925599985431446": {
+      "message": "Bỏ ghim"
+   },
+   "8999857151110318749": {
+      "message": "Màu tím"
+   },
+   "900086393693234779": {
+      "message": "Nhà riêng"
+   },
+   "9012753183662045049": {
+      "message": "Nhập tên nhãn ngắn hơn"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Ghi chú này sẽ không được chia sẻ với bạn nữa.}other{Những ghi chú này sẽ không được chia sẻ với bạn nữa.}}"
+   },
+   "9024023699330078373": {
+      "message": "Mở mục này sẽ thêm nó vào Drive của bạn"
+   },
+   "9030534135553586694": {
+      "message": "Nguồn"
+   },
+   "9058308423774656474": {
+      "message": "Trình xử lý văn bản Hangul"
+   },
+   "9063863448028905602": {
+      "message": "Xóa khỏi kết quả"
+   },
+   "9072994494820207560": {
+      "message": "Mục được chọn"
+   },
+   "9083935734710258396": {
+      "message": "Từ chối"
+   },
+   "9094248058931620597": {
+      "message": "Bảng chi tiết đã được thu gọn."
+   },
+   "910247501857754225": {
+      "message": "Màu tím đậm"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9121915169985572840": {
+      "message": "Thay đổi màu"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{]unused plural form}=1{unused plural form}other{Thành viên của các Drive nhóm sẽ mất quyền truy cập nếu những mục này không được chia sẻ với họ.}}"
+   },
+   "9149141099919589043": {
+      "message": "Giá trị được phân cách bằng dấu phẩy"
+   },
+   "9156878962731584153": {
+      "message": "Màu nâu đậm"
+   },
+   "918181312329879123": {
+      "message": "$1​ thư mục đã được thêm vào $2​."
+   },
+   "9197837492705576727": {
+      "message": "Chuyển tới mục tiếp theo"
+   },
+   "919969969251998566": {
+      "message": "Trích xuất lưu trữ này vào tài khoản thư của bạn."
+   },
+   "9208632284144316801": {
+      "message": "Lặp lại"
+   },
+   "9213031420087755232": {
+      "message": "Xóa trang"
+   },
+   "938074023403688885": {
+      "message": "Xóa"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Tài liệu Google Keep"
+   },
+   "976103457024703736": {
+      "message": "Không thể mở \"$1​\"."
+   },
+   "985197728509875956": {
+      "message": "Mô hình hóa học"
+   },
+   "991852286447868510": {
+      "message": "Đang tìm kiếm $1​"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Nhanh chóng ghi lại suy nghĩ của bạn và chia sẻ những suy nghĩ đó với bạn bè và gia đình."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - ghi chú và danh sách"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

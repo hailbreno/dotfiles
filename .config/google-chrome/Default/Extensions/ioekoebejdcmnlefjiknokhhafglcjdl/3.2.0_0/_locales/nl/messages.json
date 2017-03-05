@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Dropbox is een gratis service waarmee je al je foto's, documenten en video's overal kunt meenemen."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Dropbox"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Dropbox 是一项可帮你将所有照片、文档和视频携带到任何地方的免费服务。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Dropbox"
+   }
+}

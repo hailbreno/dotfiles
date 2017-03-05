@@ -1,0 +1,2 @@
+/*! Copyright 2009-2017 Evernote Corporation. All rights reserved. */
+reqC(["CustomTooltipEligibility","topFrame!pageVisible!"],function(a){function b(){return!!a.isSiteEligible()&&(a.checkUserEligible(function(b){if(b){a.markIneligible();var c="customTooltip";new TooltipCoordinator(Browser.extension.getURL("content/tooltips/tooltip.html#which="+c+"&customSiteName="+a.getSiteName()),c,"evernoteCustomTooltip")}}),!0)}b()||Browser.addMessageHandlers({urlChanged:b})});

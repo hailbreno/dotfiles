@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Dropbox lets you bring all your photos, docs, and videos anywhere and share them easily."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Dropbox"
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "应用"
+   },
+   "change": {
+      "message": "更改"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "credits": {
+      "message": "\u003Csmall>Google Cultural Institute\u003C/small> 中的艺术计划"
+   },
+   "defaultnewtab": {
+      "message": "默认新标签页"
+   },
+   "extdescription": {
+      "message": "在浏览器标签页中欣赏 Google Cultural Institute 中的艺术计划精彩作品"
+   },
+   "extname": {
+      "message": "Google 艺术计划"
+   },
+   "extshortname": {
+      "message": "艺术计划"
+   },
+   "optionsappsbtn": {
+      "message": "显示“应用”按钮"
+   },
+   "optionsappsbtndesc": {
+      "message": "打开 Chrome 的应用页面"
+   },
+   "optionsinterface": {
+      "message": "界面设置"
+   },
+   "optionsntpbtn": {
+      "message": "显示“默认新标签页”按钮"
+   },
+   "optionsntpbtndesc": {
+      "message": "打开 Chrome 的默认新标签页"
+   },
+   "optionstopsitesbtn": {
+      "message": "显示“热门网站”按钮"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "打开您最常访问的网站的快捷列表"
+   },
+   "pagetitle": {
+      "message": "打开新的标签页"
+   },
+   "showappsbutton": {
+      "message": "显示“应用”按钮"
+   },
+   "showdefaulttablink": {
+      "message": "显示“默认新标签页”按钮"
+   },
+   "showtopsitesbutton": {
+      "message": "显示“热门网站”按钮"
+   },
+   "topsites": {
+      "message": "热门网站"
+   },
+   "turnovergroup": {
+      "message": "更改艺术作品…"
+   },
+   "turnovermodealways": {
+      "message": "在每个新标签页中"
+   },
+   "turnovermodedaily": {
+      "message": "每天"
+   },
+   "unknown": {
+      "message": "未知艺术家"
+   },
+   "untitled": {
+      "message": "未命名"
+   }
+}

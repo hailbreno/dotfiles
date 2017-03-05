@@ -1,0 +1,18 @@
+#
+# /home/breno/.nvidia-settings-rc
+#
+# Configuration file for nvidia-settings - the NVIDIA X Server Settings utility
+# Generated on Mon Jan 23 23:21:25 2017
+#
+
+# ConfigProperties:
+
+RcFileLocale = C
+DisplayStatusBar = Yes
+SliderTextEntries = Yes
+IncludeDisplayNameInConfigFile = No
+ShowQuitDialog = Yes
+UpdateRulesOnProfileNameChange = Yes
+
+# Attributes:
+

@@ -1,0 +1,158 @@
+[2017.03.05 08:00:46] Launched version: 1000002, alpha: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2017.03.05 08:00:46] Executable dir: , name: 
+[2017.03.05 08:00:46] Initial working dir: /home/breno/
+[2017.03.05 08:00:46] Working dir: /home/breno/.local/share/TelegramDesktop/
+[2017.03.05 08:00:46] Arguments: "telegram-desktop" "-startintray"
+[2017.03.05 08:00:46] Logs started
+[2017.03.05 08:00:46] Connecting local socket to /tmp/84186238b741b9610113a5936ed77fa1-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2017.03.05 08:00:46] This is the only instance of Telegram, starting server and app...
+[2017.03.05 08:00:46] Moved logging from '/home/breno/.local/share/TelegramDesktop/log_start0.txt' to '/home/breno/.local/share/TelegramDesktop/log.txt'!
+[2017.03.05 08:00:46] Opened '/home/breno/.local/share/TelegramDesktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2017.03.05 08:00:46] Could not load 'appindicator3' with version 1 :(
+[2017.03.05 08:00:46] App Info: reading settings...
+[2017.03.05 08:00:46] App Info: reading encrypted settings...
+[2017.03.05 08:00:47] LibNotify Error: could not get capabilities!
+[2017.03.05 08:00:47] LibNotify Error: could not get server name!
+[2017.03.05 08:00:47] LibNotify Error: manager failed to init!
+[2017.03.05 08:00:47] App Info: reading map...
+[2017.03.05 08:00:47] App Info: reading encrypted map...
+[2017.03.05 08:00:47] App Info: reading encrypted user settings...
+[2017.03.05 08:00:47] App Info: encrypted user settings read.
+[2017.03.05 08:00:47] App Info: reading encrypted mtp data...
+[2017.03.05 08:00:47] Map read time: 192
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] Using Qt tray icon.
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] Not using Unity Launcher count.
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] TCP Error: network - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:47] App Error: could not get current version (update check): 3
+[2017.03.05 08:00:48] TCP Error: network - Network unreachable
+[2017.03.05 08:00:48] TCP Error: network - Network unreachable
+[2017.03.05 08:00:48] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:48] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:50] TCP Error: network - Network unreachable
+[2017.03.05 08:00:50] TCP Error: network - Network unreachable
+[2017.03.05 08:00:50] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:50] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:54] TCP Error: network - Network unreachable
+[2017.03.05 08:00:54] TCP Error: network - Network unreachable
+[2017.03.05 08:00:54] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:54] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] TCP Error: network - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:55] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:56] TCP Error: network - Network unreachable
+[2017.03.05 08:00:56] TCP Error: network - Network unreachable
+[2017.03.05 08:00:56] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:56] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:58] TCP Error: network - Network unreachable
+[2017.03.05 08:00:58] TCP Error: network - Network unreachable
+[2017.03.05 08:00:58] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:00:58] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:02] TCP Error: network - Network unreachable
+[2017.03.05 08:01:02] TCP Error: network - Network unreachable
+[2017.03.05 08:01:02] TCP Error: network - Network unreachable
+[2017.03.05 08:01:02] TCP Error: network - Network unreachable
+[2017.03.05 08:01:02] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:02] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:02] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:02] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] TCP Error: network - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:03] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:04] TCP Error: network - Network unreachable
+[2017.03.05 08:01:04] TCP Error: network - Network unreachable
+[2017.03.05 08:01:04] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:04] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:06] TCP Error: network - Network unreachable
+[2017.03.05 08:01:06] TCP Error: network - Network unreachable
+[2017.03.05 08:01:06] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:06] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:10] TCP Error: network - Network unreachable
+[2017.03.05 08:01:10] TCP Error: network - Network unreachable
+[2017.03.05 08:01:10] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:10] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] TCP Error: network - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:11] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:12] TCP Error: network - Network unreachable
+[2017.03.05 08:01:12] TCP Error: network - Network unreachable
+[2017.03.05 08:01:12] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:12] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:14] TCP Error: network - Network unreachable
+[2017.03.05 08:01:14] TCP Error: network - Network unreachable
+[2017.03.05 08:01:14] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:14] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:18] TCP Error: network - Network unreachable
+[2017.03.05 08:01:18] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:18] TCP Error: network - Network unreachable
+[2017.03.05 08:01:18] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:01:19] TCP Error: network - Network unreachable
+[2017.03.05 08:01:19] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:06:16] TCP Error: network - Network unreachable
+[2017.03.05 08:06:16] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:06:16] TCP Error: network - Network unreachable
+[2017.03.05 08:06:16] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:06:17] TCP Error: network - Network unreachable
+[2017.03.05 08:06:17] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:06:21] TCP Error: network - Network unreachable
+[2017.03.05 08:06:21] HTTP Error: network error 99 - Network unreachable
+[2017.03.05 08:06:21] Message Info: bad message notification received (error_code 16) for msg_id = 6394014159523622696, seq_no = 46
+[2017.03.05 08:06:21] Message Info: bad message notification received (error_code 16) for msg_id = 6394014159523622700, seq_no = 11
+[2017.03.05 08:06:21] Message Info: bad message notification received (error_code 16) for msg_id = 6394014159523622704, seq_no = 47
+[2017.03.05 08:06:21] Message Info: bad message notification received (error_code 16) for msg_id = 6394014159523622708, seq_no = 49
+[2017.03.05 08:12:01] Message Info: bad message notification received (error_code 16) for msg_id = 6394015459406998148, seq_no = 75
+[2017.03.05 08:12:17] TCP Error: network - Network unreachable
+[2017.03.05 08:12:17] HTTP Error: network error 99 - Network unreachable

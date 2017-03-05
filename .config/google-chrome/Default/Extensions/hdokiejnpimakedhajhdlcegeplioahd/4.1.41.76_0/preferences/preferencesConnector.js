@@ -1,0 +1,1 @@
+document.body.setAttribute("data-lp-preferences-version",1);var sendBackground=LPPlatform.requestFrameworkInitializer(function(a){window.postMessage(a,window.location.origin)});window.addEventListener("message",function(a){a.origin===window.location.origin&&sendBackground(a.data)});

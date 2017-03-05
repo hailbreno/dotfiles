@@ -1,0 +1,1 @@
+LPPlatform="undefined"===typeof LPPlatform?{}:LPPlatform;(function(a){a.requestFrameworkInitializer=function(){var a=function(a,d){var b=a("",{name:"requestPort"});b.onMessage.addListener(d);return function(a){b.postMessage(a)}};return function(c){return a(chrome.runtime.connect||parent.chrome.runtime.connect,c)}}()})(LPPlatform);

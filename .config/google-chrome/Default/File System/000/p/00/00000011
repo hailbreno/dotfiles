@@ -1,0 +1,28 @@
+20:06:46 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:13:12 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:20:04 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:33:05 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:33:14 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:33:18 GMT-0300 (BRT) (WARN) https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwiL44GL4LHSAhUEgpAKHWb0D5IQFggtMAY&url=https%3A%2F%2Flaunchpad.net%2Fcandygtk%2F%2Bdownload&usg=AFQjCNFNzh73NyAhOZ1qV2Ayu5g492MQUw&sig2=jvjZ4ofOrOUFrrnigvsXBQ&cad=rja: Couldn't initialize clearly custom detect
+    at Object.J [as isCustomFormat] (eval at finishLoadingScript (/content/require/require-config.js:2:101), <anonymous>:2:9531)
+    at Object.isSiteEligible (eval at finishLoadingScript (/content/require/require-config.js:2:101), <anonymous>:2:537)
+    at b (/content/tooltips/custom_tooltip_check.js:2:94)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/content/tooltips/custom_tooltip_check.js:2:351
+    at Object.execCb (/third_party/require/require.js:6:12300)
+    at B.check (/third_party/require/require.js:6:6850)
+    at B.<anonymous> (/third_party/require/require.js:6:8952)
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:670
+    at chrome-extension://pioclpoplcdbaefihamjohnefbikjilc/third_party/require/require.js:6:9310
+20:33:32 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:39:09 GMT-0300 (BRT) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+20:43:59 GMT-0300 (BRT) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)

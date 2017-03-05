@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Aplicativos"
+   },
+   "change": {
+      "message": "Alterar"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "credits": {
+      "message": "Google Art Project \u003Csmall>do Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Nova guia padrão"
+   },
+   "extdescription": {
+      "message": "Obras-primas do Art Project do Google Cultural Institute nas guias do seu navegador"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Botão \"Mostrar aplicativos\""
+   },
+   "optionsappsbtndesc": {
+      "message": "Abre a página de aplicativos do Chrome"
+   },
+   "optionsinterface": {
+      "message": "Configurações de interface"
+   },
+   "optionsntpbtn": {
+      "message": "Mostrar botão \"Nova guia\" padrão"
+   },
+   "optionsntpbtndesc": {
+      "message": "Abre a nova guia padrão do Chrome"
+   },
+   "optionstopsitesbtn": {
+      "message": "Mostrar botão \"Principais sites\""
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Abre uma lista rápida dos seus sites mais visitados"
+   },
+   "pagetitle": {
+      "message": "Nova guia"
+   },
+   "showappsbutton": {
+      "message": "Botão \"Mostrar aplicativos\""
+   },
+   "showdefaulttablink": {
+      "message": "Mostrar botão \"Nova guia\" padrão"
+   },
+   "showtopsitesbutton": {
+      "message": "Mostrar botão \"Principais sites\""
+   },
+   "topsites": {
+      "message": "Principais sites"
+   },
+   "turnovergroup": {
+      "message": "Alterar obra de arte..."
+   },
+   "turnovermodealways": {
+      "message": "Em toda nova guia"
+   },
+   "turnovermodedaily": {
+      "message": "Diariamente"
+   },
+   "unknown": {
+      "message": "Artista desconhecido"
+   },
+   "untitled": {
+      "message": "Sem título"
+   }
+}

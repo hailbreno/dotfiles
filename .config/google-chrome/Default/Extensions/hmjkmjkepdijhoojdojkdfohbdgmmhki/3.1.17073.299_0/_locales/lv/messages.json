@@ -1,0 +1,2975 @@
+{
+   "1001407065815272462": {
+      "message": "Nevar pievienot mapei $2​Mans disks$1​."
+   },
+   "1013939682284715002": {
+      "message": "Kārtot"
+   },
+   "1029576232144989689": {
+      "message": "Izmantojot $2​Google Keep Chrome paplašinājumu$1​, varat arī saglabāt saites to apskatei vēlāk."
+   },
+   "1039394921418415681": {
+      "message": "Pierakstīties"
+   },
+   "1061011362310586469": {
+      "message": "Kopīgošana"
+   },
+   "1062420184700835520": {
+      "message": "Atvērt atzīmēšanas rīka krāsas un lieluma atlasītāju"
+   },
+   "1083918249169198626": {
+      "message": "Īsinājumtaustiņi ir atspējoti."
+   },
+   "1101371910696766077": {
+      "message": "Izveidot kopiju"
+   },
+   "1105774658609209931": {
+      "message": "Chrome paplašinājums"
+   },
+   "1122146167985532789": {
+      "message": "vakar"
+   },
+   "1127320433256851404": {
+      "message": "Videoklipu atskaņotājs"
+   },
+   "1159463938127271829": {
+      "message": "no $1​"
+   },
+   "1162642135048988280": {
+      "message": "Dokumenta pārdēvēšana"
+   },
+   "1163324543881570799": {
+      "message": "Google dokumenti"
+   },
+   "1166244120191806795": {
+      "message": "Sniegt atsauksmes"
+   },
+   "1177768120450365955": {
+      "message": "Pārvietot atzīmētos vienumus uz leju"
+   },
+   "1179891706526242218": {
+      "message": "Nākamais"
+   },
+   "1185164838496022543": {
+      "message": "Lūdzu, noklikšķiniet šeit, lai atkārtoti ielādētu lapu."
+   },
+   "1198371177271608867": {
+      "message": "Lielums: 4"
+   },
+   "1213005208968286932": {
+      "message": "Atzīmēta kā pabeigta"
+   },
+   "124900027451629830": {
+      "message": "Atskaņojiet"
+   },
+   "1256362146573583104": {
+      "message": "Izvilkt"
+   },
+   "1259492729704800881": {
+      "message": "Arhivēt piezīmi"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Atcelt"
+   },
+   "12768758038718216": {
+      "message": "Piespraust arhivētu piezīmi"
+   },
+   "1280430284217153733": {
+      "message": "Pievienojiet laiku."
+   },
+   "1315983816556686539": {
+      "message": "Dzeltena krāsa"
+   },
+   "1333255388111908292": {
+      "message": "Pārtikas preces"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Jums nav atļaujas pārvietot šo vienumu ārpus tā pašreizējām mapēm. Varat to pievienot mapei {START_SPAN_1}{NAME}{END_SPAN}.}zero{Jums nav atļaujas pārvietot šos vienumus ārpus to pašreizējām mapēm. Varat pievienot tos mapei {START_SPAN_2}{NAME}{END_SPAN}.}one{Jums nav atļaujas pārvietot šos vienumus ārpus to pašreizējām mapēm. Varat pievienot tos mapei {START_SPAN_2}{NAME}{END_SPAN}.}other{Jums nav atļaujas pārvietot šos vienumus ārpus to pašreizējām mapēm. Varat pievienot tos mapei {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Piezīme bez nosaukuma"
+   },
+   "1349697396109290623": {
+      "message": "Fails $1​ tiek rādīts augstākā izšķirtspējā."
+   },
+   "136335357683289450": {
+      "message": "Aizvērt"
+   },
+   "1379850360723600538": {
+      "message": "Ar paroli aizsargāti faili netiek atbalstīti."
+   },
+   "1397887822627488928": {
+      "message": "Persona vai e-pasta adrese, ar kuru kopīgot saturu"
+   },
+   "139942704574044780": {
+      "message": "Piekrist"
+   },
+   "1419896259743862406": {
+      "message": "Atvērt ar:"
+   },
+   "1432850707344442376": {
+      "message": "Izveidot iezīmi $1​"
+   },
+   "1441487391064925653": {
+      "message": "Skatīt visus īsinājumtaustiņus palīdzības centrā"
+   },
+   "1442722292947881614": {
+      "message": "Veidi"
+   },
+   "1446829548948002072": {
+      "message": "komats"
+   },
+   "1463389029497634261": {
+      "message": "Samazināt skaļumu"
+   },
+   "1465828580966685215": {
+      "message": "Notīrīt kontu"
+   },
+   "1466663154000252842": {
+      "message": "Daži lietotāji var zaudēt piekļuvi"
+   },
+   "1467797923781828000": {
+      "message": "$1​ vienumi ir pievienoti mapei $2​."
+   },
+   "1473312930157933007": {
+      "message": "Ar tālāk norādītajiem lietotājiem nevar kopīgot saturu, jo jūsu administrators ir atspējojis kopīgošanu ārpus jūsu domēna."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1475261522522402536": {
+      "message": "Vietas izvēle"
+   },
+   "1482452362096735080": {
+      "message": "Atkārtojas {numOccurrences} reizes."
+   },
+   "148864680356422442": {
+      "message": "Atpakaļ"
+   },
+   "1499433769420882987": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Katra mēneša pēdējā dienā"
+   },
+   "1507445189431379166": {
+      "message": "Dzēst"
+   },
+   "1512454807955173272": {
+      "message": "Lietotne Keep tiks atjaunināta, kad būsiet tiešsaistē."
+   },
+   "1532717559893630620": {
+      "message": "Iezīme $1​ ir apvienota ar iezīmi $2​."
+   },
+   "1536051766421561160": {
+      "message": "vienādības zīme"
+   },
+   "153659275234722804": {
+      "message": "Nerādīt"
+   },
+   "156992719062713230": {
+      "message": "Pelēka"
+   },
+   "1586968957182554447": {
+      "message": "Atspējot"
+   },
+   "1588268697057804046": {
+      "message": "pirms $1​ stundām"
+   },
+   "1595218840091201497": {
+      "message": "Brūna krāsa"
+   },
+   "1633798963327779260": {
+      "message": "Rīt"
+   },
+   "1655692513689044870": {
+      "message": "Jūs tikāt izrakstīts."
+   },
+   "1656911987308166143": {
+      "message": "Dzēst"
+   },
+   "1661251023749398110": {
+      "message": "Lejupielādēt audio"
+   },
+   "1665821947855814052": {
+      "message": "Lielums"
+   },
+   "1669648976972603642": {
+      "message": "Šāda pārvietošana ietekmēs īpašumtiesības un piekļuvi"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Piezīme ir atsprausta}zero{# piezīmes ir atspraustas}one{# piezīme ir atsprausta}other{# piezīmes ir atspraustas}}"
+   },
+   "1679322931860897953": {
+      "message": "Kopēt Google dokumentā"
+   },
+   "1680617124502957636": {
+      "message": "Pašlaik nevar izveidot savienojumu. Vēlāk mēģiniet vēlreiz."
+   },
+   "1692901784886701962": {
+      "message": "Piezīme ir pārāk liela."
+   },
+   "1694896269813520248": {
+      "message": "Pievienot zīmējumu"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1703175513040690135": {
+      "message": "Ikviens domēna $1​ lietotājs"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Atkārtojas mēneša pēdējā dienā katru mēnesi.}zero{Atkārtojas mēneša pēdējā dienā ik pēc # mēnešiem.}one{Atkārtojas mēneša pēdējā dienā ik pēc # mēneša.}other{Atkārtojas mēneša pēdējā dienā ik pēc # mēnešiem.}}"
+   },
+   "1711424025297585662": {
+      "message": "||"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1737240194537729525": {
+      "message": "Katru nedēļu"
+   },
+   "1739900012825270238": {
+      "message": "Pāriet pie iepriekšējā vienuma"
+   },
+   "1740371341228065086": {
+      "message": "Atkārtoti ielādēt"
+   },
+   "1745782414562966515": {
+      "message": "Vai apvienot apzīmējumu “$1​” ar apzīmējumu “$2​”? Visas piezīmes, kas bija apzīmētas ar “$1​”, tiks apzīmētas ar “$2​” un apzīmējums “$1​” tiks izdzēsts."
+   },
+   "1783719421893050637": {
+      "message": "Izmēri"
+   },
+   "178927681797742562": {
+      "message": "Pierakstīties"
+   },
+   "1791115075948268631": {
+      "message": "Atvērt īsinājumtaustiņu palīdzības informāciju"
+   },
+   "179545118447015250": {
+      "message": "Režģa skats"
+   },
+   "1803966010993357655": {
+      "message": "Citas"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1819225489062185613": {
+      "message": "Citas"
+   },
+   "1823222042913714987": {
+      "message": "Iesniegt paroli"
+   },
+   "1830157062072535681": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "1852745815330163711": {
+      "message": "Google zīmējumi"
+   },
+   "1870691479127746185": {
+      "message": "pa labi"
+   },
+   "187077078156858455": {
+      "message": "Audio piezīme"
+   },
+   "189303170370862360": {
+      "message": "$1​. no $2​ vienumiem"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Iezīme $1​ nepastāv"
+   },
+   "1912092030665541460": {
+      "message": "Darbība ir atsaukta"
+   },
+   "1917552217016175754": {
+      "message": "Atzīmēšanas rīks"
+   },
+   "1918176455405610789": {
+      "message": "Gatavs"
+   },
+   "1938115711058331119": {
+      "message": "Rādīt komentāru sleju"
+   },
+   "195154114623528341": {
+      "message": "Pievienot atrašanās vietu"
+   },
+   "1956794332842050061": {
+      "message": "Nākamā lapa"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Mēģinot priekšskatīt šo lapu, radās problēma."
+   },
+   "1968405748623909021": {
+      "message": "Izmēģiniet kādu no tālāk norādītajām lietotnēm, lai atvērtu vai rediģētu šo vienumu"
+   },
+   "1969531182936822963": {
+      "message": "Darbība ir atsaukta"
+   },
+   "1973454937875679500": {
+      "message": "Ievadiet apzīmējuma nosaukumu"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Atlikusi # rakstzīme}zero{Atlikušas # rakstzīmes}one{Atlikusi # rakstzīme}other{Atlikušas # rakstzīmes}}"
+   },
+   "1980209166254310911": {
+      "message": "Diena"
+   },
+   "1988244842147989817": {
+      "message": "Atkritnē ievietotās piezīmes tiek dzēstas pēc 7 dienām."
+   },
+   "1996872514195688196": {
+      "message": "Pašlaik nevar piekļūt kopīgotajām piezīmēm. Vēlāk mēģiniet vēlreiz."
+   },
+   "200005227964332868": {
+      "message": "VĒL"
+   },
+   "2003845117979929469": {
+      "message": "Detalizēta informācija"
+   },
+   "2009529126622551485": {
+      "message": "Saraksta vienums"
+   },
+   "2018433077417240302": {
+      "message": "Atvērt iezīmi"
+   },
+   "2039757863628752523": {
+      "message": "Biežuma iespējas"
+   },
+   "205876860571942679": {
+      "message": "Google manas kartes"
+   },
+   "2059084517358086391": {
+      "message": "Aizvērt atrašanas joslu"
+   },
+   "2061440050632248160": {
+      "message": "Arhivēt"
+   },
+   "2068023589621557589": {
+      "message": "TrueType fonts"
+   },
+   "2073322475696388995": {
+      "message": "Pāriet uz priekšu"
+   },
+   "2074454463201225704": {
+      "message": "Atiestatīt tālummaiņu"
+   },
+   "207810168108507460": {
+      "message": "pirms $1​ stundas"
+   },
+   "2091811447965921066": {
+      "message": "Noņemt tos"
+   },
+   "2107379241532042955": {
+      "message": "Vieta"
+   },
+   "2107589831642088814": {
+      "message": "Izveidot iezīmi “$3​$2​$1​”"
+   },
+   "2124464318249308530": {
+      "message": "Gaiši oranža krāsa"
+   },
+   "212796670323571824": {
+      "message": "Labi"
+   },
+   "213665695896111861": {
+      "message": "Piezīmes"
+   },
+   "2138593281154109183": {
+      "message": "Arhivēt"
+   },
+   "214517458278879973": {
+      "message": "Pierakstīties kā $1​"
+   },
+   "2147952938331523160": {
+      "message": "Pārdēvēt…"
+   },
+   "2154372123324862271": {
+      "message": "slīpsvītra"
+   },
+   "2166966123760559393": {
+      "message": "Izveidot jaunu iezīmi"
+   },
+   "2168461275182666804": {
+      "message": "Rediģēt"
+   },
+   "2173675558412671739": {
+      "message": "Kopēts Google dokumentā"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Piezīme ir ievietota atkritnē}zero{# piezīmes ir ievietotas atkritnē}one{# piezīme ir ievietota atkritnē}other{# piezīmes ir ievietotas atkritnē}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ vienumi"
+   },
+   "2187239650627580457": {
+      "message": "Iesniegt"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat mapi, kas atrodas vienā mapē}zero{Jūs pārvietojat mapes, kas atrodas vienā mapē}one{Jūs pārvietojat mapes, kas atrodas vienā mapē}other{Jūs pārvietojat mapes, kas atrodas vienā mapē}}"
+   },
+   "2198096971937872560": {
+      "message": "Atgādinājums:"
+   },
+   "220168959069469607": {
+      "message": "Citas darbības"
+   },
+   "2202265279234683999": {
+      "message": "Īsinājumtaustiņi"
+   },
+   "2203926649090909861": {
+      "message": "Saraksta vienums ir pārvietots uz rādītāju $1​"
+   },
+   "2216904725760458480": {
+      "message": "Katru dienu"
+   },
+   "221715292685577880": {
+      "message": "Jā"
+   },
+   "2264311811697505466": {
+      "message": "Atsvaidzināt"
+   },
+   "2270633624888102832": {
+      "message": "Atspraust piezīmi"
+   },
+   "2280650195464600721": {
+      "message": "Navigācija"
+   },
+   "2283668287077047088": {
+      "message": "Iezīmēšanas rīks"
+   },
+   "2285069188138705005": {
+      "message": "Pievienotās lietotnes"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Jūs pārvietojat vienumu no kopīgotās mapes {SHARED_FOLDER_NAME}, un citi lietotāji tam vairs nevarēs piekļūt.}zero{Jūs pārvietojat {NUM_ITEMS_2} vienumus no kopīgotās mapes {SHARED_FOLDER_NAME}, un citi lietotāji tiem vairs nevarēs piekļūt.}one{Jūs pārvietojat {NUM_ITEMS_2} vienumu no kopīgotās mapes {SHARED_FOLDER_NAME}, un citi lietotāji tiem vairs nevarēs piekļūt.}other{Jūs pārvietojat {NUM_ITEMS_2} vienumus no kopīgotās mapes {SHARED_FOLDER_NAME}, un citi lietotāji tiem vairs nevarēs piekļūt.}}"
+   },
+   "228741435562395266": {
+      "message": "Drukāšana vēl nav pieejama"
+   },
+   "2289534534793293486": {
+      "message": "Atcelt arhivēšanu"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Palielināt skaļumu"
+   },
+   "2299671629154778581": {
+      "message": "Piezīmes ir atspraustas un arhivētas"
+   },
+   "2310145944356900158": {
+      "message": "Atzīmētie"
+   },
+   "2311880726221661199": {
+      "message": "Notiek augstāku izšķirtspēju ielāde"
+   },
+   "2324955914430674498": {
+      "message": "Nav meklēšanas rezultātu atbilstoši vaicājumam “$1​”"
+   },
+   "2329167963662998826": {
+      "message": "Lietotnē Google Keep ir nepieciešams izmantot jūsu atrašanās vietas datus, lai uzlabotu vietu ieteikumus atgādinājumiem par atrašanās vietu."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Komandas diska {TEAM_DRIVE_NAME} dalībnieki nevarēs piekļūt šim vienumam, ja vien tas netiks kopīgots ar viņiem.}zero{Komandas diska {TEAM_DRIVE_NAME} dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}one{Komandas diska {TEAM_DRIVE_NAME} dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}other{Komandas diska {TEAM_DRIVE_NAME} dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}}"
+   },
+   "2357761837816388330": {
+      "message": "Bezsaistē"
+   },
+   "2359614137862708172": {
+      "message": "pārslēgšanas taustiņš"
+   },
+   "2364374826543847335": {
+      "message": "Noņemt avotu"
+   },
+   "236689092839978781": {
+      "message": "Neatkārtojas"
+   },
+   "2370656573843123707": {
+      "message": "labā iekava"
+   },
+   "2373760032138505521": {
+      "message": "Iezīme jau pastāv"
+   },
+   "2386536768112358461": {
+      "message": "Lejupšķiršanas taustiņš"
+   },
+   "2405795704816921421": {
+      "message": "Fails “$1​”"
+   },
+   "2408383448126741628": {
+      "message": "Ilgums"
+   },
+   "2423877407428530040": {
+      "message": "Failā ir pārāk daudz diagrammu."
+   },
+   "2433429041384246549": {
+      "message": "Izslēgt skaņu"
+   },
+   "2449254824382583885": {
+      "message": "Palielināt"
+   },
+   "2452522051596946166": {
+      "message": "Ak, vai! Neizdevās parādīt vienuma $1​ priekšskatījumu. Notiek atkārtots mēģinājums."
+   },
+   "2454642351139428112": {
+      "message": "Atsaukt"
+   },
+   "2466251465475184755": {
+      "message": "Vai iztukšot atkritni? Visas atkritnē esošās piezīmes tiks neatgriezeniski dzēstas."
+   },
+   "2475181823688399272": {
+      "message": "Tālāk"
+   },
+   "2478862372619762755": {
+      "message": "Atzīmējiet laukumu, par kuru vēlaties komentēt"
+   },
+   "2504232652631703202": {
+      "message": "Pievienota"
+   },
+   "251025074207413762": {
+      "message": "Pievienojiet aprakstu."
+   },
+   "2532280782491328445": {
+      "message": "Atrast iepriekšējo"
+   },
+   "2546225293834487484": {
+      "message": "Piezīme"
+   },
+   "2555961950726197809": {
+      "message": "Tiek rādīts skatītājs."
+   },
+   "2562881166530755046": {
+      "message": "Zīmējumi"
+   },
+   "257317112834806705": {
+      "message": "Pārslēgt saraksta un režģa skatījumu"
+   },
+   "2579261044590673579": {
+      "message": "Mans disks"
+   },
+   "2579679351920691492": {
+      "message": "Pāriet atpakaļ"
+   },
+   "2581526424350930407": {
+      "message": "Rediģēt"
+   },
+   "2600731575260427177": {
+      "message": "Fails nepastāv; iespējams, tas ir izdzēsts. Lūdzu, augšupielādējiet failu vēlreiz!"
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609767652209789035": {
+      "message": "Iezīmes"
+   },
+   "2623861453769098676": {
+      "message": "Neizdevās parādīt šī dokumenta priekšskatījumu."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Pārvietojot šo vienumu, tas tiks kopīgots ar visiem, kam ir redzama kopīgotā mape {SHARED_FOLDER_NAME}.}zero{Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape {SHARED_FOLDER_NAME}.}one{Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape {SHARED_FOLDER_NAME}.}other{Pārvietojot šos vienumus, tie tiks kopīgoti ar visiem, kam ir redzama kopīgotā mape {SHARED_FOLDER_NAME}.}}"
+   },
+   "2630254198275172065": {
+      "message": "Pārvietot uz..."
+   },
+   "2632263751512428257": {
+      "message": "Katru gadu"
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Apzīmēt piezīmi}zero{Apzīmēt piezīmes}one{Apzīmēt piezīmi}other{Apzīmēt piezīmes}}"
+   },
+   "2646753793708356960": {
+      "message": "Kobaltzila krāsa"
+   },
+   "2647216541167955566": {
+      "message": "Dzintarkrāsa"
+   },
+   "2661850177130037208": {
+      "message": "Atvērt vienumu"
+   },
+   "2665571821980053260": {
+      "message": "Nevar kopīgot piezīmi. Vēlāk mēģiniet vēlreiz."
+   },
+   "2681830832355823748": {
+      "message": "Meklēt visus īsinājumtaustiņus"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Attēls pievienots}zero{Pievienoti # attēli}one{Pievienots # attēls}other{Pievienoti # attēli}}"
+   },
+   "2702485557996900362": {
+      "message": "Novērst konfliktējošus labojumus"
+   },
+   "2704959686524436777": {
+      "message": "Notiek ielāde"
+   },
+   "2715199780155065699": {
+      "message": "Failā ir pārāk daudz formu, tekstlodziņu vai zīmējumu."
+   },
+   "2716433087531258659": {
+      "message": "vienu lapu uz augšu"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2758125083752925237": {
+      "message": "(īpašnieks)"
+   },
+   "277430914014962533": {
+      "message": "Ak, vai! Neizdevās parādīt vienuma $1​ priekšskatījumu."
+   },
+   "2793841261389879255": {
+      "message": "Iepriekšējā lapa"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Atkārtojas katru mēnesi vienā un tajā pašā dienā.}zero{Atkārtojas ik pēc # mēnešiem vienā un tajā pašā dienā.}one{Atkārtojas ik pēc # mēneša vienā un tajā pašā dienā.}other{Atkārtojas ik pēc # mēnešiem vienā un tajā pašā dienā.}}"
+   },
+   "2796950576714807268": {
+      "message": "Nevar atpazīt tekstu."
+   },
+   "2798322202738486782": {
+      "message": "{HOURS,plural, =0{0 stundu }=1{1 stunda }zero{# stundas }one{# stunda }other{# stundas }}{MINUTES,plural, =0{0 minūšu }=1{1 minūte }zero{# minūtes }one{# minūte }other{# minūtes }}{SECONDS,plural, =0{0 sekunžu.}=1{1 sekunde.}zero{# sekundes.}one{# sekunde.}other{# sekundes.}}"
+   },
+   "2817277146396981386": {
+      "message": "pēcpusdienā"
+   },
+   "2818020101821669029": {
+      "message": "Izveidots"
+   },
+   "2820045170951016567": {
+      "message": "Atgādinājumi"
+   },
+   "2823533464825550362": {
+      "message": "Dokumentu vadīklas"
+   },
+   "2827039933590757722": {
+      "message": "Windows saīsne"
+   },
+   "2829226075651806940": {
+      "message": "Tuvināt"
+   },
+   "2853036885874864031": {
+      "message": "Īpašumtiesības tiks nodotas domēnam $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2858566870229558873": {
+      "message": "$2​Noteikumi$1​"
+   },
+   "2862675909830094845": {
+      "message": "Izveidot jaunu iezīmi"
+   },
+   "2870914990575762514": {
+      "message": "Šo darbību nevar atsaukt."
+   },
+   "2873089307546162154": {
+      "message": "Labi"
+   },
+   "2877285560485318801": {
+      "message": "Pauze"
+   },
+   "287803077768018029": {
+      "message": "Gaiši zilganzaļa krāsa"
+   },
+   "2879276552944958066": {
+      "message": "Atgriezties mapē $1​."
+   },
+   "2890739372621722306": {
+      "message": "Zilganzaļa krāsa"
+   },
+   "2893055432094515558": {
+      "message": "Izvēles rūtiņas tiek rādītas"
+   },
+   "2893190245479055856": {
+      "message": "$1​ mapes ir pārvietotas uz mapi $2​."
+   },
+   "289798573180023043": {
+      "message": "Labi"
+   },
+   "2901360496423912565": {
+      "message": "Ziņot"
+   },
+   "2902570047322934912": {
+      "message": "Iespējot kopīgošanu"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Piezīme ir atsprausta un arhivēta}zero{# piezīmes ir atspraustas un arhivētas}one{# piezīme ir atsprausta un arhivēta}other{# piezīmes ir atspraustas un arhivētas}}"
+   },
+   "2917586714343652609": {
+      "message": "Lielums: 20"
+   },
+   "2935193106137642160": {
+      "message": "Tālummaiņa nav pieejama"
+   },
+   "2942094715879803305": {
+      "message": "Dzēst atzīmētos vienumus"
+   },
+   "295331174171409695": {
+      "message": "Atjauninot vienuma “$1​” lejupielādēto atļauju, radās problēma."
+   },
+   "2960516445247616550": {
+      "message": "Drukāšana nav pieejama"
+   },
+   "296391753033307868": {
+      "message": "Iezīme $1​ ir izveidota un pievienota piezīmei."
+   },
+   "2964778642459027786": {
+      "message": "Miskastē nav nevienas piezīmes."
+   },
+   "2971780287153684447": {
+      "message": "Android ierīces"
+   },
+   "2973306402585941108": {
+      "message": "No rīta"
+   },
+   "298817883481775869": {
+      "message": "Notiek ielāde..."
+   },
+   "2990497076082409431": {
+      "message": "Vienums \"$1​\" ir pārvietots uz mapi $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3004077206309008197": {
+      "message": "Zaļa krāsa"
+   },
+   "3005058076425755361": {
+      "message": "Atkāpšanās taustiņš"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Jums nav atļauts pārvietot šo mapi no tās pašreizējām mapēm. Varat mapi pievienot mapei {START_SPAN_1}{NAME}{END_SPAN}.}zero{Jums nav atļauts pārvietot šīs mapes no to pašreizējām mapēm. Varat mapes pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}one{Jums nav atļauts pārvietot šīs mapes no to pašreizējām mapēm. Varat mapes pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}other{Jums nav atļauts pārvietot šīs mapes no to pašreizējām mapēm. Varat mapes pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3042275883978222678": {
+      "message": "Lielums: 8"
+   },
+   "3043961722025425136": {
+      "message": "Apraksts"
+   },
+   "3045997283325725532": {
+      "message": "Jaunumi lietotnē Google Keep"
+   },
+   "306516303501625305": {
+      "message": "Autentifikācija neizdevās."
+   },
+   "3109321241584918345": {
+      "message": "Pievienot citas lietotnes..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, plkst. $2​"
+   },
+   "3140236589681731084": {
+      "message": "pēc $1​ stundām"
+   },
+   "3147708683842760684": {
+      "message": "Citas opcijas"
+   },
+   "3147722095652727387": {
+      "message": "Ar tālāk norādītajiem lietotājiem nevar kopīgot saturu, jo vai nu viņu administrators ir atspējojis kopīgošanu viņu domēnā, vai jūsu administrators ir atspējojis kopīgošanu jūsu domēnā."
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Piezīmes arhivēšana atcelta}zero{Atcelta # piezīmju arhivēšana}one{Atcelta # piezīmes arhivēšana}other{Atcelta # piezīmju arhivēšana}}"
+   },
+   "3176246635438298155": {
+      "message": "Dzēšanas taustiņš"
+   },
+   "3189854932778515441": {
+      "message": "Piezīme ir ievietota arhīvā."
+   },
+   "3190546672187601036": {
+      "message": "Naktī"
+   },
+   "3195812604657128345": {
+      "message": "Atlasiet Diska mapi, kurā izvilkt saturu"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Piezīme atjaunota}zero{# piezīmes ir atjaunotas}one{# piezīme ir atjaunota}other{# piezīmes ir atjaunotas}}"
+   },
+   "3207650089232728475": {
+      "message": "Mainīt apzīmējumus"
+   },
+   "3211163842850942567": {
+      "message": "Tuvināt"
+   },
+   "3220641589840600333": {
+      "message": "Pārslēgts uz skatu “$1​”"
+   },
+   "3241696131593027453": {
+      "message": "Atlasīt piezīmi"
+   },
+   "3243916603465112517": {
+      "message": "MAZĀK"
+   },
+   "3250489229749307913": {
+      "message": "Elektroniskā publikācija"
+   },
+   "32533855230019565": {
+      "message": "Lielums: 12"
+   },
+   "3258100527833044153": {
+      "message": "Atmests tukšs zīmējums"
+   },
+   "3261131345401321392": {
+      "message": "Var komentēt"
+   },
+   "3266448715145955862": {
+      "message": "Piezīmes ir atarhivētas un piespraustas"
+   },
+   "3268028083415317236": {
+      "message": "Nē, paldies"
+   },
+   "3272496516667407797": {
+      "message": "Neizdevās ielādēt detalizētu informāciju."
+   },
+   "3278046126264096288": {
+      "message": "Nedēļa"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Piezīme ir atsprausta un ievietota atkritnē}zero{# piezīmes ir atspraustas un ievietotas atkritnē}one{# piezīme ir atsprausta un ievietota atkritnē}other{# piezīmes ir atspraustas un ievietotas atkritnē}}"
+   },
+   "3288498486633948368": {
+      "message": "Vienums “$1​” tika pievienots Google diskam."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Jauna piezīme ar zīmējumu"
+   },
+   "3312545971976531405": {
+      "message": "Ziņojums"
+   },
+   "3326410145104517459": {
+      "message": "Saglabājiet savas piezīme $1​ no jebkuras ierīces"
+   },
+   "3343273953047473521": {
+      "message": "Vai dzēst piezīmes?"
+   },
+   "3345567742278474807": {
+      "message": "Šī piezīme tika atzīmēta kā nepiemērota, un to nevar kopīgot."
+   },
+   "3354260708176476985": {
+      "message": "Notiek ielāde&hellip;"
+   },
+   "3362903141674317449": {
+      "message": "Līdzrediģētājs"
+   },
+   "336772567640975291": {
+      "message": "Nākamnedēļ"
+   },
+   "3371033609268806242": {
+      "message": "Iezīme $1​ ir izdzēsta."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Atvērt"
+   },
+   "3385831848537487538": {
+      "message": "Ceļošana"
+   },
+   "3396240571140460663": {
+      "message": "Laima krāsa"
+   },
+   "3409257542937182842": {
+      "message": "Notiek atkārtots mēģinājums..."
+   },
+   "3409483962000136213": {
+      "message": "Atskaņot/pārtraukt"
+   },
+   "3418767079436101103": {
+      "message": "Neizdevās ielādēt šo lapu."
+   },
+   "3428726060007577698": {
+      "message": "Saraksts ir pārāk liels."
+   },
+   "3446158485617778228": {
+      "message": "Atsaukt"
+   },
+   "3447704623213039325": {
+      "message": "Pārtikas produkts"
+   },
+   "3448234415275521882": {
+      "message": "Vispārīga informācija"
+   },
+   "3455405209271884570": {
+      "message": "Izvilkt"
+   },
+   "3468441711253011521": {
+      "message": "Google izklājlapas"
+   },
+   "3473620774713000513": {
+      "message": "Pabeigta"
+   },
+   "3485469306694683931": {
+      "message": "Izvilkt Diska kontā"
+   },
+   "3496410038494993160": {
+      "message": "Populāri īsinājumtaustiņi"
+   },
+   "3518073392823563581": {
+      "message": "Īsinājumtaustiņi"
+   },
+   "3543475399174940144": {
+      "message": "vēl $1​"
+   },
+   "3549511443038546281": {
+      "message": "Dzēst"
+   },
+   "3551522853788442530": {
+      "message": "Atpakaļ"
+   },
+   "3561658662634401836": {
+      "message": "Nosaukums"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3570074492517305433": {
+      "message": "Reģistrēties"
+   },
+   "3571704286086017611": {
+      "message": "Atgādinājums ir izdzēsts"
+   },
+   "3571758970185431414": {
+      "message": "Zila krāsa"
+   },
+   "3574963906259719128": {
+      "message": "Šo audio failu nevar atskaņot jūsu pārlūkprogrammā."
+   },
+   "3580293729117872545": {
+      "message": "Atkārtošanas beigas"
+   },
+   "3594204366177366590": {
+      "message": "Atvērt dzēšanas rīka opciju izvēlni"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Pārdēvēt apzīmējumu"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat failu, kas atrodas {NUM_PARENTS} mapēs}zero{Jūs pārvietojat failus, kas atrodas {NUM_PARENTS} mapēs}one{Jūs pārvietojat failus, kas atrodas {NUM_PARENTS} mapē}other{Jūs pārvietojat failus, kas atrodas {NUM_PARENTS} mapēs}}"
+   },
+   "3608606849109645545": {
+      "message": "Ievadiet jaunu dokumenta nosaukumu:"
+   },
+   "3611573349633408445": {
+      "message": "Lejupielādēt"
+   },
+   "3612936866865912552": {
+      "message": "Notiek ielāde..."
+   },
+   "361630518611593946": {
+      "message": "Slēpt izvēles rūtiņas"
+   },
+   "3617727970098875990": {
+      "message": "Meklēt visus īsinājumtaustiņus"
+   },
+   "362521762755836201": {
+      "message": "Izveidots: $1​"
+   },
+   "3634885664399305142": {
+      "message": "Zīmējums nav pieejams"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "atpakaļvērstā slīpsvītra"
+   },
+   "3659554681396757189": {
+      "message": "Manis atvērts"
+   },
+   "366289214151975122": {
+      "message": "Ikviens domēna $1​ lietotājs, kuram ir saite"
+   },
+   "3663571259791438207": {
+      "message": "Ziņot par pārkāpumu"
+   },
+   "3664842788764635265": {
+      "message": "Nav"
+   },
+   "3666123569747918021": {
+      "message": "Šajā dokumentā ir nesaglabātas izmaiņas. Vai vēlaties doties prom no šīs lapas un atmest izmaiņas?"
+   },
+   "3678477908297567934": {
+      "message": "pasvītra"
+   },
+   "3687623836913400480": {
+      "message": "Rediģēt attēlu"
+   },
+   "3690515530505404607": {
+      "message": "Neizdevās demonstrēt šo videoklipu."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Nav vienumu}=1{Viens vienums}zero{# vienumu}one{# vienums}other{# vienumi}}"
+   },
+   "3707311099386068778": {
+      "message": "Noņemt visus"
+   },
+   "3712215972250917265": {
+      "message": "Komentāri"
+   },
+   "372633345629975481": {
+      "message": "Piezīmes ir piespraustas"
+   },
+   "372823375470132483": {
+      "message": "Atceliet atkritnē esošas piezīmes atlasi"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}zero{Jūs pārvietojat {NUM_ITEMS_2} vienumus no komandas diskiem un kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}one{Jūs pārvietojat {NUM_ITEMS_2} vienumu no komandas diskiem un kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}other{Jūs pārvietojat {NUM_ITEMS_2} vienumus no komandas diskiem un kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}}"
+   },
+   "3760084546578947451": {
+      "message": "Vai ieslēgt Google Keep atgādinājumus? Iespējams, būs jāieslēdz pārlūkprogrammas paziņojumi."
+   },
+   "3770795578481676514": {
+      "message": "Dzeltena"
+   },
+   "3793086499925031123": {
+      "message": "Atvērt meklēšanas joslu/atrast iepriekšējo vienumu"
+   },
+   "3796511349428373407": {
+      "message": "Datuma iespējas"
+   },
+   "3797309720105862333": {
+      "message": "Zīmējumus nevar rediģēt bezsaistē"
+   },
+   "37992665410817181": {
+      "message": "Atvērta atkārtoti"
+   },
+   "3801617971018550169": {
+      "message": "Vakar"
+   },
+   "3808213429720572062": {
+      "message": "Atjaunot"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3828546250617883774": {
+      "message": "Violeta krāsa"
+   },
+   "3845302429676793049": {
+      "message": "Atjauninot vienuma “$1​” aprakstu, radās problēma."
+   },
+   "3858324058837632381": {
+      "message": "Neizdevās atskaņot šo audio failu."
+   },
+   "3869166581651870488": {
+      "message": "Pabeigt rediģēšanu"
+   },
+   "3897281533382850749": {
+      "message": "Ieslēgt skaņu"
+   },
+   "3909380459614154542": {
+      "message": "Atvērt saiti"
+   },
+   "3930910469078167425": {
+      "message": "Arhīvs"
+   },
+   "3952341864324097024": {
+      "message": "Notīrīt meklēšanas rezultātu"
+   },
+   "3955575370175991097": {
+      "message": "Pārslēgts uz iezīmes “$1​” skatu"
+   },
+   "3974822583047850066": {
+      "message": "Atcelt"
+   },
+   "3977699855735576796": {
+      "message": "Neizdevās ielādēt citas lapas."
+   },
+   "3988418762222300024": {
+      "message": "punkts"
+   },
+   "4005725939358875643": {
+      "message": "Darbība ir atsaukta."
+   },
+   "4014287326684608407": {
+      "message": "Zilganzaļa"
+   },
+   "4023299615382814997": {
+      "message": "Atkritnē nevar veikt rediģēšanu."
+   },
+   "4036523543547629779": {
+      "message": "Attēli"
+   },
+   "4044915502415235332": {
+      "message": "Atlasiet piespraustu piezīmi"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat mapi, kas atrodas {NUM_PARENTS} mapēs}zero{Jūs pārvietojat mapes, kas atrodas {NUM_PARENTS} mapēs}one{Jūs pārvietojat mapes, kas atrodas {NUM_PARENTS} mapē}other{Jūs pārvietojat mapes, kas atrodas {NUM_PARENTS} mapēs}}"
+   },
+   "4059387791040010947": {
+      "message": "meta taustiņš"
+   },
+   "4061102590585232601": {
+      "message": "Noņemts lietotājs $1​"
+   },
+   "4072353527895477784": {
+      "message": "Personas"
+   },
+   "4086409218932829944": {
+      "message": "Rediģēt iezīmes"
+   },
+   "4087289538934418537": {
+      "message": "Pēc dzēšanas jūsu izveidotās piezīmes nebūs nevienam redzamas. Ar jums kopīgotās piezīmes joprojām būs redzamas lietotājiem, kam ir piekļuve."
+   },
+   "4095714830819118951": {
+      "message": "Palīdzība"
+   },
+   "4097921967754832323": {
+      "message": "defise"
+   },
+   "4106990792743182780": {
+      "message": "Nevar izgūt attēla tekstu. Vēlāk mēģiniet vēlreiz."
+   },
+   "411137507354526852": {
+      "message": "Mēnesis"
+   },
+   "4111452225725405610": {
+      "message": "No vienuma “$1​” tika noņemta zvaigznīte."
+   },
+   "4117632433281998979": {
+      "message": "Katru mēnesi"
+   },
+   "411791562637880104": {
+      "message": "Noņemt sevi"
+   },
+   "4122858386674768321": {
+      "message": "Pārvietot no mapes $3​$2​$1​"
+   },
+   "4149722338705080529": {
+      "message": "Atcelt atsaukšanu"
+   },
+   "4155905925766040098": {
+      "message": "Priekšskatījums nav pieejams"
+   },
+   "4159842640681544078": {
+      "message": "$1​ mapes ir pārvietotas no mapes $2​ uz mapi $3​."
+   },
+   "4174786386751618325": {
+      "message": "Fotoattēla piezīme"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4186465168527990324": {
+      "message": "Fails $1​ tika veiksmīgi izvilkts mapē $2​"
+   },
+   "4204345954541079744": {
+      "message": "Nav nevienas piezīmes ar šo apzīmējumu."
+   },
+   "4205329094859140439": {
+      "message": "priekšpusdienā"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat vienumu, kas atrodas {NUM_PARENTS} mapēs}zero{Jūs pārvietojat vienumus, kas atrodas {NUM_PARENTS} mapēs}one{Jūs pārvietojat vienumus, kas atrodas {NUM_PARENTS} mapē}other{Jūs pārvietojat vienumus, kas atrodas {NUM_PARENTS} mapēs}}"
+   },
+   "4209658291185545281": {
+      "message": "Neizdevās atsaukt darbību"
+   },
+   "4211182812451835307": {
+      "message": "Var rediģēt"
+   },
+   "4214190403999219403": {
+      "message": "Tālummainīt"
+   },
+   "4214427276033711472": {
+      "message": "Iestatījumi"
+   },
+   "4216242742234357612": {
+      "message": "Atlasīt visas piezīmes"
+   },
+   "42239889404644810": {
+      "message": "Pieprasīt piekļuvi"
+   },
+   "4227767243455123953": {
+      "message": "Sarakstu darbība"
+   },
+   "4228870062013120023": {
+      "message": "Pāriet uz nākamo/iepriekšējo piezīmi"
+   },
+   "4230101516585408149": {
+      "message": "Rakstīt jaunu piezīmi"
+   },
+   "4243437721135025638": {
+      "message": "Jums nav atļaujas pārvietot failus uz šo komandas disku."
+   },
+   "4248787844477062707": {
+      "message": "Izveidot jaunu iezīmi"
+   },
+   "4269096876505546324": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "4280747719095153198": {
+      "message": "Atrisināts komentārs"
+   },
+   "4286663890332754386": {
+      "message": "Augšupielāde neizdevās."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4318861667254318892": {
+      "message": "Google video"
+   },
+   "4320831042030778": {
+      "message": "Atcelt"
+   },
+   "4320942249997687388": {
+      "message": "Beigvietas taustiņš"
+   },
+   "4321382260116636620": {
+      "message": "Atlasiet piezīmi"
+   },
+   "4327523836604343709": {
+      "message": "Lielums: 2"
+   },
+   "4332252081504252077": {
+      "message": "Ak, vai!"
+   },
+   "4343825450663233452": {
+      "message": "Var skatīt"
+   },
+   "4343848624651344174": {
+      "message": "Pēcpusdienā"
+   },
+   "4346644280640625035": {
+      "message": "Piezīmes kopīgošana tika atsaukta."
+   },
+   "435214284915110062": {
+      "message": "Atvērt meklēšanas joslu"
+   },
+   "435444400175963053": {
+      "message": "$1​ vienumi ir pārvietoti uz mapi $2​."
+   },
+   "4356312843186491987": {
+      "message": "Pārvietot"
+   },
+   "4391715930031906467": {
+      "message": "Atrast nākamo"
+   },
+   "4397482594800054550": {
+      "message": "Pārdēvējot vienumu “$1​”, radās problēma."
+   },
+   "4412626362660239325": {
+      "message": "Kārtošana Diskā"
+   },
+   "4416841471975202365": {
+      "message": "Gaiši rozā krāsa"
+   },
+   "4421168692772991468": {
+      "message": "Atkritne"
+   },
+   "4422985761498356257": {
+      "message": "Atvērt ar:"
+   },
+   "4429542915339609008": {
+      "message": "Diemžēl šīs lietotnes izmantošana vairāku failu atvēršanai netiek atbalstīta."
+   },
+   "4438168904974235640": {
+      "message": "Tumši sarkana krāsa"
+   },
+   "4444571967705751871": {
+      "message": "Atkritne"
+   },
+   "4448871104213529122": {
+      "message": "Paslēpiet detalizētu informāciju"
+   },
+   "4457424709416639982": {
+      "message": "Pievienot mapei Mans disks"
+   },
+   "4466605492523079635": {
+      "message": "Saglabāt"
+   },
+   "4468872996560163913": {
+      "message": "Iztukšot atkritni tūlīt"
+   },
+   "4486429060311743289": {
+      "message": "Notīrīt atlasi"
+   },
+   "45228242181482134": {
+      "message": "Atskaņot"
+   },
+   "4524999513489942668": {
+      "message": "$2​Instalējiet Google Keep Chrome paplašinājumu$1​, lai saglabātu jums svarīgu saturu pakalpojumā, veicot vienu klikšķi."
+   },
+   "4533605085334699862": {
+      "message": "Citāti"
+   },
+   "4550209323331625907": {
+      "message": "$2​Uzzināt vairāk$1​"
+   },
+   "4557086341175267918": {
+      "message": "Nevar kopīgot, esot bezsaistē."
+   },
+   "4561316395348814504": {
+      "message": "Lietotņu lejupielādes"
+   },
+   "4564682305303579317": {
+      "message": "Turpināt"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Atkārtojas katru gadu.}zero{Atkārtojas ik pēc # gadiem.}one{Atkārtojas ik pēc # gada.}other{Atkārtojas ik pēc # gadiem.}}"
+   },
+   "4607802784047113873": {
+      "message": "Pievienot līdzrediģētāju"
+   },
+   "4608848277887462246": {
+      "message": "Citas izklājlapas"
+   },
+   "4620034373159179678": {
+      "message": "$1​. lapa no $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat vienumu, kas atrodas vienā mapē}zero{Jūs pārvietojat vienumus, kas atrodas vienā mapē}one{Jūs pārvietojat vienumus, kas atrodas vienā mapē}other{Jūs pārvietojat vienumus, kas atrodas vienā mapē}}"
+   },
+   "4643940860676429496": {
+      "message": "Notiek saglabāšana..."
+   },
+   "4675792829115971960": {
+      "message": "Mēs atzīmēsim šo piezīmi kā nepiemērotu un noņemsim to no jūsu konta."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Atkārtojas ik pēc nedēļas šādās dienās: {days}.}zero{Atkārtojas ik pēc # nedēļām šādās dienās: {days}.}one{Atkārtojas ik pēc # nedēļas šādās dienās: {days}.}other{Atkārtojas ik pēc # nedēļām šādās dienās: {days}.}}"
+   },
+   "4691283408020124345": {
+      "message": "Saraksta skats"
+   },
+   "4700218356982480093": {
+      "message": "Melna krāsa"
+   },
+   "4717484643724894786": {
+      "message": "Kopēt dokumentā"
+   },
+   "4740100782728373253": {
+      "message": "Saglabāt Diskā"
+   },
+   "4748046231232264180": {
+      "message": "Google veidlapas"
+   },
+   "4751202914935960324": {
+      "message": "Šāda e-pasta adrese jau pastāv."
+   },
+   "4752655540567953719": {
+      "message": "Pozīcija: $1​"
+   },
+   "4762625944764691132": {
+      "message": "Galvenā izvēlne"
+   },
+   "4767722428137216885": {
+      "message": "Atcelt"
+   },
+   "477328789314249432": {
+      "message": "Meklēt piezīmes"
+   },
+   "4773737319879079980": {
+      "message": "Ērtāka piezīmju veikšana, izmantojot lietotni"
+   },
+   "4775368111547931093": {
+      "message": "Nav apraksta"
+   },
+   "4805047680716507619": {
+      "message": " - Pārvietot uz:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 paraksts"
+   },
+   "4807444103404336088": {
+      "message": "Pievienojot zvaigznīti vienumam “$1​”, radās problēma."
+   },
+   "4821130290026382049": {
+      "message": "Populāri īsinājumtaustiņi"
+   },
+   "4833214200453019325": {
+      "message": "$1​. no $2​"
+   },
+   "4840513623749850224": {
+      "message": "Filmas"
+   },
+   "4846720038197420778": {
+      "message": "Pievienot citas lietotnes"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Piezīme ir ievietota miskastē."
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{Atlasīts 1 vienums}zero{Atlasīti # vienumi}one{Atlasīts # vienums}other{Atlasīti # vienumi}}"
+   },
+   "4888104357342241891": {
+      "message": "Atgādinājumi"
+   },
+   "490045476479394048": {
+      "message": "Atzīmējiet tekstu, par kuru vēlaties komentēt"
+   },
+   "4901386320110714275": {
+      "message": "Parole nav pareiza. Lūdzu, mēģiniet vēlreiz."
+   },
+   "4906669330059413958": {
+      "message": "Iesniegt paroli"
+   },
+   "4907349694646937491": {
+      "message": "Piezīme ir pārvietota uz rādītāju $1​"
+   },
+   "4915450884407029247": {
+      "message": "Atzīme $1​ ir pievienota."
+   },
+   "4917607226908075328": {
+      "message": "Dzēst"
+   },
+   "4918998818369420588": {
+      "message": "Ziņot par pārkāpumu"
+   },
+   "4925002811848839819": {
+      "message": "$1​ vienumi ir pārvietoti no mapes $2​ uz $3​."
+   },
+   "4930422592340561418": {
+      "message": "Mans disks"
+   },
+   "4934109328393349339": {
+      "message": "Nevar pievienot papildu vienumus."
+   },
+   "4946709842900542238": {
+      "message": "Balta krāsa"
+   },
+   "4948512233726694061": {
+      "message": "$4​Lapa$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+   },
+   "4957674814179289955": {
+      "message": "Pāriet uz nākamo/iepriekšējo saraksta vienumu"
+   },
+   "4963784280521435720": {
+      "message": "Notiek saglabāšana..."
+   },
+   "4974059227183970715": {
+      "message": "Iezīmes varat pievienot, arī ievadot \"#\"."
+   },
+   "4982284738093713321": {
+      "message": "Kārtotājs"
+   },
+   "4988132901627446385": {
+      "message": "Detalizētas informācijas panelis izvērsts."
+   },
+   "5006765610090288212": {
+      "message": "Piemērota $1​ krāsa"
+   },
+   "5008901799534614532": {
+      "message": "Dzēst"
+   },
+   "5009448218905630614": {
+      "message": "Noņemt"
+   },
+   "5011858093760184160": {
+      "message": "Noņemt zvaigznīti"
+   },
+   "5014595433724148222": {
+      "message": "Spilgti rozā krāsa"
+   },
+   "501475221876543407": {
+      "message": "Šeit tiek rādītas pievienotās piezīmes."
+   },
+   "5023623739220371850": {
+      "message": "Autentifikācija neizdevās. Izmaiņas tiks sinhronizētas, kad pierakstīsieties."
+   },
+   "5041572047197549869": {
+      "message": "Katru mēnesi vienā dienā"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Mēneša pirmā {day}}=2{Mēneša otrā {day}}=3{Mēneša trešā {day}}=4{Mēneša ceturtā {day}}zero{Mēneša pēdējā {day}}one{Mēneša pēdējā {day}}other{Mēneša pēdējā {day}}}"
+   },
+   "5046219519278664288": {
+      "message": "iPhone un iPad"
+   },
+   "5046371569383796818": {
+      "message": "Paturēt"
+   },
+   "5052461293250181960": {
+      "message": "vienu lapu uz leju"
+   },
+   "5054818452036081005": {
+      "message": "$2​Konfidencialitāte$1​"
+   },
+   "5055673792779951604": {
+      "message": "Gaiši zila krāsa"
+   },
+   "5078184843381528205": {
+      "message": "Piespraust piezīmi"
+   },
+   "5095987896933771566": {
+      "message": "Drukāt dokumentu"
+   },
+   "509815948423424872": {
+      "message": "Navigācija"
+   },
+   "5098941979861776792": {
+      "message": "Ievadīšanas taustiņš"
+   },
+   "5130903421326358933": {
+      "message": "Saglabājot pielikumu Google diskā, radās problēma."
+   },
+   "5134649253619244584": {
+      "message": "Dzēst apzīmējumu"
+   },
+   "5140285776541296873": {
+      "message": "Pielāgots"
+   },
+   "5151247077945318396": {
+      "message": "Atlasot izvilkšanas mapi, radās kļūda."
+   },
+   "5178674191443894176": {
+      "message": "Iezīmes"
+   },
+   "5180454621500142444": {
+      "message": "Atjaunot"
+   },
+   "5180989337128758117": {
+      "message": "kreisā iekava"
+   },
+   "5182569285908080938": {
+      "message": "Beigu datuma iespējas"
+   },
+   "5184692850089055965": {
+      "message": "Izgūt attēla tekstu"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Informācijas paneļa ciļņu josla. Nospiediet kreiso un labo bulttaustiņu, lai pārslēgtu cilnes."
+   },
+   "5202835861850747976": {
+      "message": "$2​Uzzināt vairāk$1​"
+   },
+   "5204391636475413312": {
+      "message": "Saglabāt"
+   },
+   "5207219998739322438": {
+      "message": "Lielums: 1"
+   },
+   "5214104290560857118": {
+      "message": "Pievienojiet komentāru"
+   },
+   "5217462020153787697": {
+      "message": "{numberOfPreviews,plural, =1{Saites priekšskatījums ir noņemts}zero{# saišu priekšskatījumi ir noņemti}one{# saišu priekšskatījums ir noņemts}other{# saišu priekšskatījumi ir noņemti}}"
+   },
+   "5238307666527496111": {
+      "message": "LABI"
+   },
+   "5238371081785912565": {
+      "message": "Atvērt lietotnē $1​"
+   },
+   "5253765183290980485": {
+      "message": "Jums ir atļauts tikai pievienot un rediģēt vienumus komandas diskā $1​, tādēļ jūs nevarēsit atsaukt šo darbību."
+   },
+   "5259541708332520733": {
+      "message": "Avots ir noņemts"
+   },
+   "5271615049826004958": {
+      "message": "Saites priekšskatījuma opcijas"
+   },
+   "5281121179861637423": {
+      "message": "Lai piekļūtu failam $1​, ir nepieciešama parole. Lūdzu, ievadiet paroli."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5299648222246616124": {
+      "message": "gravis"
+   },
+   "5300527252159851865": {
+      "message": "Faila saturs neatbilst paredzamajam faila formātam."
+   },
+   "5319313176242717957": {
+      "message": "Notiek attēlu apstrāde..."
+   },
+   "5321772883765574323": {
+      "message": "Vienums “$1​” ir pārvietots no mapes “$2​” uz mapi “$3​”."
+   },
+   "5334959887390704534": {
+      "message": "Mēs dzēsīsim šo iezīmi un noņemsim to no visām jūsu Keep piezīmēm. Piezīmes netiks dzēstas."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Atlasīt šo vienumu"
+   },
+   "534191528712675978": {
+      "message": "Pauzēšanas taustiņš"
+   },
+   "534228323125524312": {
+      "message": "Tālināt"
+   },
+   "5353129315502554762": {
+      "message": "Stilu lapa"
+   },
+   "5353173068672429342": {
+      "message": "Atkļūdošanas rīki"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Jūs pārvietojat failu, kas atrodas vienā mapē}zero{Jūs pārvietojat failus, kas atrodas vienā mapē}one{Jūs pārvietojat failus, kas atrodas vienā mapē}other{Jūs pārvietojat failus, kas atrodas vienā mapē}}"
+   },
+   "5363853533596749934": {
+      "message": "Ievadiet iezīmes nosaukumu"
+   },
+   "5372143986724491245": {
+      "message": "pirms $1​ dienas"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5394695048211047984": {
+      "message": "Pievienojiet datumu."
+   },
+   "5398036630337418486": {
+      "message": "Atvērt dokumentu"
+   },
+   "5399553230649155346": {
+      "message": "pēc $1​ stundas"
+   },
+   "5403636185480096151": {
+      "message": "Televīzija"
+   },
+   "540596856674438371": {
+      "message": "Nevar kopīgot, jo kopīgošanas funkcija ir izslēgta."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "541966762661844588": {
+      "message": "Izvēlne"
+   },
+   "5435749276779042277": {
+      "message": "VĒL $1​"
+   },
+   "5447119197363232006": {
+      "message": "Rādīt Diskā"
+   },
+   "5455566801812656827": {
+      "message": "MAZĀK"
+   },
+   "5472312735475866917": {
+      "message": "Lietotāja $1​ komentārs."
+   },
+   "547865385964196102": {
+      "message": "pirms $1​ minūtēm"
+   },
+   "54793131422514708": {
+      "message": "Lielums: 3"
+   },
+   "5480497191725157666": {
+      "message": "Atsoļa taustiņš"
+   },
+   "5482604275203517054": {
+      "message": "pa kreisi"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Piezīme ir atarhivēta un piesprausta}zero{# piezīmes ir atarhivētas un piespraustas}one{# piezīme ir atarhivēta un piesprausta}other{# piezīmes ir atarhivētas un piespraustas}}"
+   },
+   "553170279104432593": {
+      "message": "Atvērt iezīmēšanas rīka krāsas un lieluma atlasītāju"
+   },
+   "5539958940810433464": {
+      "message": "Ievietot miskastē piezīmi"
+   },
+   "5542817571710587822": {
+      "message": "Failā ir pārāk daudz attēlu."
+   },
+   "5545146751578623220": {
+      "message": "Burtslēga taustiņš"
+   },
+   "5555182241047709329": {
+      "message": "Izvēlieties atrašanās vietu"
+   },
+   "5555599189512365009": {
+      "message": "SAPRATU"
+   },
+   "556742419793425318": {
+      "message": "Atmest"
+   },
+   "5580896674367659519": {
+      "message": "Tumši pelēka krāsa"
+   },
+   "5581834527128285229": {
+      "message": "Pievienojot vienumu “$1​” mapei Mans disks, radās problēma."
+   },
+   "5598649706113950710": {
+      "message": "Redaktors"
+   },
+   "5627470193961862490": {
+      "message": "Šeit tiek rādītas piezīmes ar gaidāmiem atgādinājumiem."
+   },
+   "5631086126416409232": {
+      "message": "Zila"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Vai dzēst atzīmētos vienumus?"
+   },
+   "5713014647314396479": {
+      "message": "Pēc"
+   },
+   "5714240424645614611": {
+      "message": "Android pakotne"
+   },
+   "5728640851616538925": {
+      "message": "Zaļa"
+   },
+   "5755541943799933389": {
+      "message": "Vienumam “$1​” tika pievienota zvaigznīte."
+   },
+   "577619047319778196": {
+      "message": "Notīrīt atlasi"
+   },
+   "5783875011049188612": {
+      "message": "Attēla teksts ir izgūts."
+   },
+   "5820033033803019104": {
+      "message": "Kārtot"
+   },
+   "5840202488368071194": {
+      "message": "Jauna piezīme ar attēlu"
+   },
+   "5840330517914556080": {
+      "message": "Tālināt"
+   },
+   "5854158607727111728": {
+      "message": "Tabulēšanas taustiņš"
+   },
+   "585503297543253590": {
+      "message": "Šajā datumā:"
+   },
+   "5870134033985574990": {
+      "message": "Notiek izvilkšana..."
+   },
+   "5871966496153339793": {
+      "message": "Tiek attēlots videoklipa “$1​” sīktēls."
+   },
+   "5909490544352162901": {
+      "message": "Lūdziet īpašniekam piekļuvi šai piezīmei vai pārslēdzieties uz kontu, kam ir attiecīgā atļauja. Jūs esat pierakstījies kā $1​."
+   },
+   "5911012384539794869": {
+      "message": "Neizdevās sākt izvilkšanas uzdevumu."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Rādīt pabeigtos komentārus"
+   },
+   "5949528478488617689": {
+      "message": "Lejupielādes atļauja"
+   },
+   "5950887255133612666": {
+      "message": "Nav sākts."
+   },
+   "5961981688037913870": {
+      "message": "Teksts $1​ ir pievienots"
+   },
+   "5965683144165568126": {
+      "message": "Pārkārtot saraksta vienumu"
+   },
+   "5969696744752069015": {
+      "message": "Priekšskatījums nav pieejams."
+   },
+   "597983994875715119": {
+      "message": "Ciānzila krāsa"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion tabulas"
+   },
+   "5987609488177213747": {
+      "message": "Izveidot iezīmi"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Lietotne Keep tiks atjaunināta pēc # sekundes}zero{Lietotne Keep tiks atjaunināta pēc # sekundēm}one{Lietotne Keep tiks atjaunināta pēc # sekundes}other{Lietotne Keep tiks atjaunināta pēc # sekundēm}}"
+   },
+   "6003164344472359508": {
+      "message": "Lielums: 16"
+   },
+   "6005084567691342649": {
+      "message": "Atgādinājumi"
+   },
+   "6009962986062136164": {
+      "message": "Tiek ielādēts vienums $1​."
+   },
+   "6011637630664474614": {
+      "message": "Atstarpe"
+   },
+   "6030537159236285525": {
+      "message": "Pārvietot saraksta vienumu uz iepriekšējo/nākamo pozīciju"
+   },
+   "60305871484579258": {
+      "message": "alternēšanas taustiņš"
+   },
+   "6042628357935708897": {
+      "message": "Šī piezīme vairs netiek kopīgota ar jūsu kontu. Lūdziet īpašniekam piekļuvi vai pārslēdzieties uz kontu, kam ir attiecīgā atļauja."
+   },
+   "6043578784980337112": {
+      "message": "$1​ faili ir pārvietoti uz mapi $2​."
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša pirmā {day}.}=2{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša otrā {day}.}=3{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša trešā {day}.}=4{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša ceturtā {day}.}zero{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša pēdējā {day}.}one{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša pēdējā {day}.}other{Atkārtojas ik pēc {every} mēnešiem šādā dienā: mēneša pēdējā {day}.}}"
+   },
+   "6087078248621415351": {
+      "message": "Pārveidots: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Saites priekšskatījums"
+   },
+   "6104991132648864933": {
+      "message": "Vai dzēst piezīmi?"
+   },
+   "6105571474005679446": {
+      "message": "Neizdevās parādīt priekšskatījumu."
+   },
+   "6113237889871930608": {
+      "message": "Tukša piezīme"
+   },
+   "6118623991445349480": {
+      "message": "$1​. lapa"
+   },
+   "6122643025527543706": {
+      "message": "vadīšanas taustiņš"
+   },
+   "6127325177382263770": {
+      "message": "URL"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lietotņu saraksts"
+   },
+   "6149175749937815029": {
+      "message": "Skatīt visus vienumus"
+   },
+   "6156725896714172645": {
+      "message": "Notiek kopēšana Google dokumentā"
+   },
+   "6160805346274626656": {
+      "message": "Neatgriezeniski dzēst"
+   },
+   "616807262818311711": {
+      "message": "Veids"
+   },
+   "618371060803280843": {
+      "message": "{numberOfNotes,plural, =1{Dzēst piezīmi}zero{Dzēst piezīmes}one{Dzēst piezīmes}other{Dzēst piezīmes}}"
+   },
+   "6185886893933834031": {
+      "message": "Saglabāt izvēlēto"
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Atkārtojas katru dienu.}zero{Atkārtojas ik pēc # dienām.}one{Atkārtojas ik pēc # dienas.}other{Atkārtojas ik pēc # dienām.}}"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Piezīme ir piesprausta}zero{# piezīmes ir piespraustas}one{# piezīme ir piesprausta}other{# piezīmes ir piespraustas}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6211895332551673425": {
+      "message": "Pievienots(-i) mapei $2​Mans disks$1​"
+   },
+   "6212070333807533570": {
+      "message": "Notiek pievienošana mapei $2​Mans disks$1​..."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Ikviens"
+   },
+   "6252259197986158120": {
+      "message": "Vakar"
+   },
+   "6277118196930285720": {
+      "message": "Ielādēt atkārtoti"
+   },
+   "628140343505892786": {
+      "message": "Iestatījumi"
+   },
+   "6286379137937560558": {
+      "message": "Raksts"
+   },
+   "6286806453721792102": {
+      "message": "Kārtošana Diskā"
+   },
+   "6289564019832728437": {
+      "message": "Kopīgošana būs iespējama, tiklīdz būs pabeigta Keep ielāde."
+   },
+   "6305748545202493254": {
+      "message": "Rādīt/slēpt informācijas sadaļu"
+   },
+   "6306268376900894985": {
+      "message": "Atkārtojas līdz šādam datumam: {endDate}."
+   },
+   "6324768448533022780": {
+      "message": "$2​. gada $1​"
+   },
+   "6352952829934775705": {
+      "message": "VAIRĀK"
+   },
+   "6366376928558090914": {
+      "message": "Pārtika"
+   },
+   "6375244206466599493": {
+      "message": "Gads"
+   },
+   "6375395544374251820": {
+      "message": "Neizdevās ielādēt citas lapas. Notiek atkārtots mēģinājums..."
+   },
+   "6386587519843563719": {
+      "message": "Binārais fails"
+   },
+   "6394816510866826521": {
+      "message": "Izstrādes programmatūra"
+   },
+   "6413404795391222793": {
+      "message": "Izveidot jaunu sarakstu"
+   },
+   "6416495701611778255": {
+      "message": "Ieteiktās trešo pušu lietotnes"
+   },
+   "6419411265907669340": {
+      "message": "Šodien"
+   },
+   "6427295696443582545": {
+      "message": "Dzēšanas rīks"
+   },
+   "6432019580434957057": {
+      "message": "Audio"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Jums nav atļauts pārvietot šo failu no tā pašreizējām mapēm. Varat failu pievienot mapei {START_SPAN_1}{NAME}{END_SPAN}.}zero{Jums nav atļauts pārvietot šos failus no to pašreizējām mapēm. Varat failus pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}one{Jums nav atļauts pārvietot šos failus no to pašreizējām mapēm. Varat failus pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}other{Jums nav atļauts pārvietot šos failus no to pašreizējām mapēm. Varat failus pievienot mapei {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "$1​ ikona"
+   },
+   "6450611522897524109": {
+      "message": "Avokado zaļa krāsa"
+   },
+   "6457802200418354862": {
+      "message": "Skatītāji var lejupielādēt"
+   },
+   "6459405233858728718": {
+      "message": "Google prezentācijas"
+   },
+   "6464761738227651511": {
+      "message": "pirms $1​ minūtes"
+   },
+   "6466736813846482957": {
+      "message": "Atpakaļ"
+   },
+   "6466858417983764649": {
+      "message": "Iestatiet piezīmju atgādinājumus par vietu un laiku, veiciet balss piezīmes un strādājiet tiešsaistē un bezsaistē."
+   },
+   "6472238195689960152": {
+      "message": "Balta"
+   },
+   "6473102097014191455": {
+      "message": "Piezīme ar zīmējumu"
+   },
+   "6480260198815372102": {
+      "message": "Ieslēgt"
+   },
+   "6496683100661104868": {
+      "message": "$2​Atvērtā pirmkoda licences$1​"
+   },
+   "6497197865876438261": {
+      "message": "Mūzika"
+   },
+   "6507257480072167483": {
+      "message": "Iezīmes nosaukums ir mainīts uz $1​."
+   },
+   "6510131849363684615": {
+      "message": "Rīt"
+   },
+   "6513721414466645971": {
+      "message": "Noņemts"
+   },
+   "6522917155620379865": {
+      "message": "Lejupielādēt"
+   },
+   "6524849072392100692": {
+      "message": "Google diska mape"
+   },
+   "6571686604846453345": {
+      "message": "Pievienojot šo vienumu Diskam, radās problēma."
+   },
+   "6579707685908557993": {
+      "message": "Vakarā"
+   },
+   "6582286158693833652": {
+      "message": "Uzzināt vairāk"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "661771364073001489": {
+      "message": "Pārslēgt kontus"
+   },
+   "6618562607681757575": {
+      "message": "Nepārvietot no citām mapēm, tikai pievienot mapei $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Lietojumprogramma"
+   },
+   "6650600936729710500": {
+      "message": "Atbildes."
+   },
+   "6664835828596108553": {
+      "message": "Opcija"
+   },
+   "670419277288558500": {
+      "message": "Video/audio"
+   },
+   "6707173584987026005": {
+      "message": "Šodien"
+   },
+   "6710728478489145370": {
+      "message": "Aizvērt"
+   },
+   "6713235295664405475": {
+      "message": "|"
+   },
+   "6715985122107380503": {
+      "message": "Ieraksti"
+   },
+   "6726462693927865256": {
+      "message": "Detalizēta informācija"
+   },
+   "6726879257388338969": {
+      "message": "Drukāt"
+   },
+   "6732800471045353930": {
+      "message": "Šī piezīme tika kopīgota ar maksimālo lietotāju skaitu."
+   },
+   "673551770550324419": {
+      "message": "Ietilpināt pēc platuma"
+   },
+   "6744457949320515234": {
+      "message": "Atmesta tukša piezīme"
+   },
+   "6747379635033535953": {
+      "message": "Pievienot jaunus vienumus apakšdaļā"
+   },
+   "6747528043814108113": {
+      "message": "Pārslēgts uz: $1​"
+   },
+   "6749829802551750923": {
+      "message": "uz augšu"
+   },
+   "6750600017746655174": {
+      "message": "Opcija"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Vai kopīgot šo vienumu?}zero{Vai kopīgot šos vienumus?}one{Vai kopīgot šos vienumus?}other{Vai kopīgot šos vienumus?}}"
+   },
+   "6778577079172085976": {
+      "message": "Piespraustas"
+   },
+   "6780628488957834429": {
+      "message": "Oranža"
+   },
+   "6787580031482277539": {
+      "message": "Nekad"
+   },
+   "6797862596948579998": {
+      "message": "Chrome lietotne"
+   },
+   "6801348618370627980": {
+      "message": "Iezīme $1​ ir izveidota."
+   },
+   "681598652078493281": {
+      "message": "Uzziniet vairāk"
+   },
+   "6822520214440117457": {
+      "message": "Darbavieta"
+   },
+   "6823109315717909214": {
+      "message": "Izmēģināt"
+   },
+   "6827821461670731013": {
+      "message": "Rādīt izvēles rūtiņas"
+   },
+   "6833760103261954639": {
+      "message": "Neizdevās ielādēt šo lapu. Notiek atkārtots mēģinājums..."
+   },
+   "6845496099067370773": {
+      "message": "Sarkana krāsa"
+   },
+   "6861978427131390279": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "6891563484025164308": {
+      "message": "Iepriekšējais"
+   },
+   "6898823203505321799": {
+      "message": "Detalizēta informācija"
+   },
+   "6904351530369058983": {
+      "message": "Īpašnieks"
+   },
+   "6911028933894691912": {
+      "message": "Šis zīmējums būs pieejams, kad būsit tiešsaistē."
+   },
+   "6922953828399110511": {
+      "message": "Aizvērt skatīšanās līdzekli"
+   },
+   "693770783324368110": {
+      "message": "Piezīmes ir atspraustas un ievietotas atkritnē"
+   },
+   "6939806490818256358": {
+      "message": "{resultCount,plural, =1{# meklēšanas rezultāts}zero{# meklēšanas rezultāti}one{# meklēšanas rezultāts}other{# meklēšanas rezultāti}}"
+   },
+   "695253297035211081": {
+      "message": "Iztukšot atkritni"
+   },
+   "6963401564174052300": {
+      "message": "Zīmējums pagaidām nav pieejams."
+   },
+   "6982682101118067511": {
+      "message": "Notiek kārtošana..."
+   },
+   "701276785305022936": {
+      "message": "Dokuments ir bojāts. Lūdzu, nodrošiniet failu visjaunākajā formātā."
+   },
+   "7017384731286920634": {
+      "message": "Gaiši zaļa krāsa"
+   },
+   "7017485862232001373": {
+      "message": "Vienums “$1​” ir pievienots mapei “$2​”."
+   },
+   "7019002927048576918": {
+      "message": "$1​ meklēšanas filtri"
+   },
+   "7050021021988648361": {
+      "message": "Kopēt URL"
+   },
+   "7050898523853841537": {
+      "message": "Biežuma iespējas"
+   },
+   "7054631817922169541": {
+      "message": "Lietotnē Google Keep ir nesaglabātas izmaiņas. Vai vēlaties doties prom no šīs lapas un atmest izmaiņas?"
+   },
+   "705714112650622350": {
+      "message": "Pievienojot vienumu Google diskam, radās problēma."
+   },
+   "7059437903473652416": {
+      "message": "Atskaņot YouTube videoklipu “$1​”"
+   },
+   "7065454163742312322": {
+      "message": "Citas krāsas"
+   },
+   "7084324152376766809": {
+      "message": "pirms $1​ dienām"
+   },
+   "7084991134824194740": {
+      "message": "Atgādināt man"
+   },
+   "7086801490719148597": {
+      "message": "Noņemt šī vienuma atlasi"
+   },
+   "7106150113490082402": {
+      "message": "Lavandas krāsa"
+   },
+   "7126535013613878060": {
+      "message": "Piespraudiet svarīgas piezīmes augšdaļā."
+   },
+   "7141983486405549971": {
+      "message": "Iespraušanas taustiņš"
+   },
+   "7145753028985071097": {
+      "message": "Piezīmes pārkārtošana"
+   },
+   "7146242673022399081": {
+      "message": "Teksts"
+   },
+   "7148992630785407972": {
+      "message": "Šo failu nevar priekšskatīt, jo tas ir aizsargāts ar paroli."
+   },
+   "7153847618034547771": {
+      "message": "Iespējot"
+   },
+   "7161134329606048317": {
+      "message": "Aizvērt"
+   },
+   "7161718175684624843": {
+      "message": "Noņemt iezīmi"
+   },
+   "7164532930742017984": {
+      "message": "Ikviens, kam ir saite"
+   },
+   "7166989725427500881": {
+      "message": "Atlasiet atkritnē esošu piezīmi"
+   },
+   "7174189954350964804": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "7174908348310449675": {
+      "message": "Pielāgojiet savus atgādinājuma noklusējuma iestatījumus"
+   },
+   "7181961085183734135": {
+      "message": "Drukāšana ir atspējota šim failam"
+   },
+   "7225445911355686176": {
+      "message": "Atlasiet arhivētu piezīmi"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Izvelkot failu $1​, radās problēma."
+   },
+   "7265183966796883739": {
+      "message": "Slēpt pabeigtos komentārus"
+   },
+   "7278398674737413598": {
+      "message": "Nevar konvertēt dokumentu."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Piezīme arhivēta}zero{Arhivētas # piezīmes}one{Arhivēta # piezīme}other{Arhivētas # piezīmes}}"
+   },
+   "7282548567245878869": {
+      "message": "Vienums ir dzēsts."
+   },
+   "7290932540630116546": {
+      "message": "Atgādinājums iestatīts. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Vai atmest izmaiņas? Tās netiks saglabātas."
+   },
+   "7304355547638486270": {
+      "message": "Lejupielādēt audio ($1​)"
+   },
+   "7337660181466605745": {
+      "message": "Neizdevās atjaunināt failu “$1​” Diskā."
+   },
+   "7342923890755029722": {
+      "message": "Aizvērt"
+   },
+   "734478884582426793": {
+      "message": "Saspiestais arhīvs"
+   },
+   "7345191981142988484": {
+      "message": "Zīmējums ir izdzēsts"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7368945547292826843": {
+      "message": "Atvērt saiti"
+   },
+   "7377239345926788722": {
+      "message": "Darbības"
+   },
+   "7382688299146249119": {
+      "message": "Lejupielādēt vienumu"
+   },
+   "7383706174467122149": {
+      "message": "Piezīme dzēsta"
+   },
+   "7388342865555961406": {
+      "message": "pēc $1​ dienas"
+   },
+   "7389099426842546376": {
+      "message": "Sadarbība pašlaik nav pieejama."
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Ziņojumi no faila $1​ tika izvilkti jūsu e-pasta kontā ar iezīmi “Importēšana: $2​”."
+   },
+   "7422452809590461532": {
+      "message": "Sarkana"
+   },
+   "7426603384368095928": {
+      "message": "Lai pierakstītos vēlreiz un turpinātu darbu, lūdzu, atkārtoti ielādējiet lapu."
+   },
+   "7427333772418801813": {
+      "message": "Poga + $1​ CITI ir izvērsta"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (rediģēts: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Notiek saglabāšana Diskā"
+   },
+   "744753705925710199": {
+      "message": "Diemžēl šo lietotni neizdevās autorizēt visiem failiem, kurus mēģinājāt atvērt. Lūdzu, mēģiniet vēlreiz!"
+   },
+   "7452116603589558390": {
+      "message": "Atceliet piespraustas piezīmesDeselect pinned note"
+   },
+   "7458942806393710991": {
+      "message": "Atceliet arhivētas piezīmes atlasi"
+   },
+   "7468842863971844562": {
+      "message": "Jauns saraksts"
+   },
+   "7469895656894091562": {
+      "message": "Šī e-pasta adrese nav derīga."
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Atkārtojas katru mēnesi šādā dienā: mēneša pirmā {day}.}=2{Atkārtojas katru mēnesi šādā dienā: mēneša otrā {day}.}=3{Atkārtojas katru mēnesi šādā dienā: mēneša trešā {day}.}=4{Atkārtojas katru mēnesi šādā dienā: mēneša ceturtā {day}.}zero{Atkārtojas katru mēnesi šādā dienā: mēneša pēdējā {day}.}one{Atkārtojas katru mēnesi šādā dienā: mēneša pēdējā {day}.}other{Atkārtojas katru mēnesi šādā dienā: mēneša pēdējā {day}.}}"
+   },
+   "7483088916037874359": {
+      "message": "Fails ir pārāk liels. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7500786109708143683": {
+      "message": "Audio ir izdzēsts."
+   },
+   "7503234138288940590": {
+      "message": "Meklēt"
+   },
+   "7507827375601925075": {
+      "message": "Pārvietot piezīmi uz iepriekšējo/nākamo pozīciju"
+   },
+   "7530677128711603655": {
+      "message": "Meklēšanas rezultāti atbilstoši vaicājumam “$1​”"
+   },
+   "754367112212424716": {
+      "message": "Vēlāk šodien"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{Atlasīts # vienums}zero{Atlasīti # vienumi}one{Atlasīts # vienums}other{Atlasīti # vienumi}}"
+   },
+   "7565383798249439151": {
+      "message": "pēc $1​ dienām"
+   },
+   "7579280421767578228": {
+      "message": "Atgādinājums kādai dienai"
+   },
+   "7586291841734385643": {
+      "message": "Atvērt jaunā cilnē"
+   },
+   "7587936635257676112": {
+      "message": "Pievienots lietotājs $1​"
+   },
+   "7598582624136632660": {
+      "message": "Atvērt meklēšanas joslu/atrast nākamo vienumu"
+   },
+   "7598850438299201663": {
+      "message": "Notiek faila “$1​” atvēršana..."
+   },
+   "7604275940271852148": {
+      "message": "Izvilkt e-pasta kontā"
+   },
+   "7604400308311739073": {
+      "message": "Piespraust"
+   },
+   "7610628906656867728": {
+      "message": "Arhivētas"
+   },
+   "7610654194202731772": {
+      "message": "Dzēst"
+   },
+   "7629685876277801112": {
+      "message": "Parādot šo karšu failu, radās problēma."
+   },
+   "7630723924002267143": {
+      "message": "Īsinājumtaustiņi ir iespējoti."
+   },
+   "7649506133540465463": {
+      "message": "Darbību nevarēja atsaukt."
+   },
+   "7656983816661099886": {
+      "message": "Lietas"
+   },
+   "7659047104232758352": {
+      "message": "tas|šis"
+   },
+   "7669846901402551021": {
+      "message": "Šodien"
+   },
+   "7691521283331762131": {
+      "message": "Šeit tiek rādītas jūsu arhivētās piezīmes."
+   },
+   "7709889936233398701": {
+      "message": "Noņemt"
+   },
+   "7715735412192018288": {
+      "message": "Palīdzība"
+   },
+   "7715892737835649602": {
+      "message": "Iezīmes varat pievienot, arī ievadot “#ˮ."
+   },
+   "772000107335590599": {
+      "message": "pēc $1​ minūtēm"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "773857106517884529": {
+      "message": "Gaiši pelēka krāsa"
+   },
+   "774390292128857049": {
+      "message": "Meklēt"
+   },
+   "7751981235297474273": {
+      "message": "Atsaukt"
+   },
+   "7772544658778579390": {
+      "message": "Meklēt dokumentā"
+   },
+   "777546328624962090": {
+      "message": "Šo failu nevar augšupielādēt. Mēs pieņemam $1​ failus, kas nav lielāki par $2​ MB un $3​ megapikseļiem."
+   },
+   "7791050524692390574": {
+      "message": "Krāsas"
+   },
+   "7800318069267901681": {
+      "message": "Pēdējās izmaiņas"
+   },
+   "7814778057875152792": {
+      "message": "Pārvietojot pielikumu uz atlasīto mapi Google diskā, radās problēma."
+   },
+   "7822364282298323175": {
+      "message": "Saraksts ir izdzēsts."
+   },
+   "7828886646639771557": {
+      "message": "Izveidot piezīmi…"
+   },
+   "7830513726270865588": {
+      "message": "Kalendārs"
+   },
+   "7842164552344536314": {
+      "message": "Notiek kārtošana..."
+   },
+   "7844842290699524598": {
+      "message": "Sasniegts iezīmju skaita ierobežojums. Izdzēsiet kādu no esošajām piezīmēm, lai pievienotu jaunu."
+   },
+   "7845751753397906805": {
+      "message": "Atrasti konfliktējoši labojumi"
+   },
+   "785840448809859989": {
+      "message": "Laika iespējas"
+   },
+   "7865240075542402013": {
+      "message": "Pievienot zvaigznīti"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7876831800396633138": {
+      "message": "Pilnekrāna režīms"
+   },
+   "7889179838401647357": {
+      "message": "Pieprasījums nosūtīts. Tiklīdz tas tiks apstiprināts, saņemsiet e-pasta ziņojumu."
+   },
+   "7895643887742936844": {
+      "message": "semikols"
+   },
+   "7899913952063063825": {
+      "message": "Attēls ir izdzēsts."
+   },
+   "7901771370781969022": {
+      "message": "Grāmata"
+   },
+   "7903276896883020622": {
+      "message": "Kopīgošana pašlaik nav pieejama."
+   },
+   "7906726367011430855": {
+      "message": "Pievienot"
+   },
+   "7910887984113996757": {
+      "message": "Ieslēgt kopīgošanu"
+   },
+   "7922692430438844436": {
+      "message": "Izvilkt"
+   },
+   "792315196550007047": {
+      "message": "Nav atbilstošu rezultātu."
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Notiek ielāde…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# piezīme ir atlasīta}zero{# piezīmes ir atlasītas}one{# piezīme ir atlasīta}other{# piezīmes ir atlasītas}}"
+   },
+   "7976461426527138085": {
+      "message": "Saraksti"
+   },
+   "7988058806865329896": {
+      "message": "Datuma un laika izvēle"
+   },
+   "7996360883730444101": {
+      "message": "Atverot failu, diemžēl radās kļūda. Lūdzu, mēģiniet vēlreiz!"
+   },
+   "8010075936095394680": {
+      "message": "Faila versija ir novecojusi. Lūdzu, nodrošiniet failu visjaunākajā formātā. "
+   },
+   "8011497727123874703": {
+      "message": "Mapes “$1​” poga"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Jūs pārvietojat vienu vienumu no kopīgotajām mapēm, un citi lietotāji tam vairs nevarēs piekļūt.}zero{Jūs pārvietojat {NUM_ITEMS_2} vienumus no kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}one{Jūs pārvietojat {NUM_ITEMS_2} vienumu no kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}other{Jūs pārvietojat {NUM_ITEMS_2} vienumus no kopīgotajām mapēm, un citi lietotāji tiem vairs nevarēs piekļūt.}}"
+   },
+   "8019402848412685977": {
+      "message": "Vienums “$2​” ir pārdēvēts par “$1​”."
+   },
+   "8021465164414684024": {
+      "message": "{count,plural, =1{Izdzēsts # vienums}zero{Izdzēsti # vienumi}one{Izdzēsts # vienums}other{Izdzēsti # vienumi}}"
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# izpildīts vienums}zero{# izpildīti vienumi}one{# izpildīts vienums}other{# izpildīti vienumi}}"
+   },
+   "8043514121228710092": {
+      "message": "Pievienot attēlu"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ ir pievienota."
+   },
+   "8066398070826666542": {
+      "message": "{count,plural, =1{+ # izpildīts vienums}zero{+ # izpildīti vienumi}one{+ # izpildīts vienums}other{+ # izpildīti vienumi}}"
+   },
+   "8069384932934428393": {
+      "message": "pēc $1​ minūtes"
+   },
+   "8080583426915938264": {
+      "message": "Lietotnes jūsu datorā"
+   },
+   "8085493757603803516": {
+      "message": "Rediģēt atlasi"
+   },
+   "8090743714060857028": {
+      "message": "Skatītāji nevar lejupielādēt"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 baitu}=1{1 baits}zero{# baitu}one{# baits}other{# baiti}}"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Pārvietot no vienas mapes}=2{Pārvietot no abām mapēm}zero{Pārvietot no visām # mapēm}one{Pārvietot no # mapes}other{Pārvietot no visām # mapēm}}"
+   },
+   "8125425371755035523": {
+      "message": "Atsaukt"
+   },
+   "8126340137798672888": {
+      "message": "$1​ faili ir pārvietoti no mapes $2​ uz mapi $3​."
+   },
+   "8133866583554546341": {
+      "message": "$1​ plkst. $2​"
+   },
+   "8135145577663029437": {
+      "message": "Saglabāt abas versijas"
+   },
+   "814178220294444613": {
+      "message": "$1​ faili ir pievienoti mapei $2​."
+   },
+   "8144512434938656483": {
+      "message": "vai"
+   },
+   "8146560259680897627": {
+      "message": "Atcelt"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "8174654098152723289": {
+      "message": "Rediģēt aprakstu"
+   },
+   "8194941811853358224": {
+      "message": "Noņemot zvaigznīti no vienuma “$1​”, radās problēma."
+   },
+   "820664195135544910": {
+      "message": "Oranža krāsa"
+   },
+   "8214941501817169086": {
+      "message": "{count,plural, =1{Vai neatgriezeniski dzēst piezīmi?}zero{Vai neatgriezeniski dzēst piezīmes?}one{Vai neatgriezeniski dzēst piezīmes?}other{Vai neatgriezeniski dzēst piezīmes?}}"
+   },
+   "821942580510564685": {
+      "message": "Lai skatītu šo dokumentu, lūdzu, ievadiet tā paroli."
+   },
+   "8223878224920694193": {
+      "message": "Atkārtošanas biežums"
+   },
+   "8224193807932432983": {
+      "message": "Darbības"
+   },
+   "8231449936104909428": {
+      "message": "Pārvietojot vienumu “$1​” uz atlasīto mapi Diskā, radās problēma."
+   },
+   "8242655297101700529": {
+      "message": "Mans disks"
+   },
+   "826433162451399549": {
+      "message": "Rīt"
+   },
+   "8273434617910595878": {
+      "message": "uz leju"
+   },
+   "8281141013543828574": {
+      "message": "RAW attēls"
+   },
+   "8304474373444239435": {
+      "message": "Lietotāja $1​ atbilde."
+   },
+   "8305505634689906340": {
+      "message": "Meklēt kopā \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Kopīgošana"
+   },
+   "8332720954679654953": {
+      "message": "Lietotņu lejupielādes"
+   },
+   "8334718599538726981": {
+      "message": "Atjaunināta"
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Nerādīt"
+   },
+   "837692854094319105": {
+      "message": "Ar tālāk norādītajiem lietotājiem nevar kopīgot saturu, jo viņu administrators ir atspējojis kopīgošanu viņu domēnā."
+   },
+   "8379952094517631162": {
+      "message": "Nē"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412098268689886334": {
+      "message": "Sapludināt"
+   },
+   "8412306118114780633": {
+      "message": "Atsvaidzināt"
+   },
+   "8412733496413412439": {
+      "message": "Bezsaistē"
+   },
+   "84334343973701810": {
+      "message": "Sākumvietas taustiņš"
+   },
+   "8452647597930138120": {
+      "message": "Atzīmējiet šūnu, par kuru vēlaties komentēt"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Pauzējiet"
+   },
+   "847320208126653829": {
+      "message": "Atvērt kaligrāfijas rīka krāsas un lieluma atlasītāju"
+   },
+   "8493378997610580289": {
+      "message": "Citi īsinājumtaustiņi"
+   },
+   "8501142460706022179": {
+      "message": "Noklusējuma iebūvētā lietotne"
+   },
+   "8505989225387082493": {
+      "message": "Pievienot apzīmējumu"
+   },
+   "8509270263487836281": {
+      "message": "Pierakstīties"
+   },
+   "8517148045938431718": {
+      "message": "Izlabojiet kļūdas"
+   },
+   "8535916611285039243": {
+      "message": "Noraidīt"
+   },
+   "8591848339430983053": {
+      "message": "Piezīmes"
+   },
+   "8595175575778060149": {
+      "message": "Vairāk"
+   },
+   "8596279649507974639": {
+      "message": "Pārvietot šeit"
+   },
+   "8602525917014156029": {
+      "message": "Vietas"
+   },
+   "8616342546716995946": {
+      "message": "Sapratu!"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8626694988569301667": {
+      "message": "Zīmējums nav pieejams"
+   },
+   "8646821180780920830": {
+      "message": "Iezīmes"
+   },
+   "8652657235429996594": {
+      "message": "Drīzumā"
+   },
+   "8660016472468563221": {
+      "message": "kols"
+   },
+   "8663507590720636709": {
+      "message": "$1​ un vēl $2​"
+   },
+   "8663993454460982287": {
+      "message": "Izvēles rūtiņas ir paslēptas"
+   },
+   "8674222789100049233": {
+      "message": "Aizvērt"
+   },
+   "86815590954366945": {
+      "message": "Arhivētā satura saraksts"
+   },
+   "8708723278154759600": {
+      "message": "Piezīmes ir arhivētas"
+   },
+   "8711002053494037632": {
+      "message": "Atzīmes noņemtas visiem vienumiem"
+   },
+   "8734569874711220205": {
+      "message": "Navigācijas izvēlne"
+   },
+   "8742388056829916665": {
+      "message": "Rādīt pilnīgu saišu priekšskatījumus"
+   },
+   "8747586020318913818": {
+      "message": "Kaligrāfijas rīks"
+   },
+   "8770362429333850884": {
+      "message": "Iezīmes atlasītāja izvēlne ir atvērta"
+   },
+   "8775097441636640256": {
+      "message": "$2​ — $1​"
+   },
+   "8781837301864053001": {
+      "message": "Bagātināts teksts"
+   },
+   "8786673003584562680": {
+      "message": "Augšupšķiršanas taustiņš"
+   },
+   "8792038552136453044": {
+      "message": "Diemžēl radās problēma."
+   },
+   "8793166064242077041": {
+      "message": "Neizdevās parādīt šo attēlu."
+   },
+   "8822326207328431952": {
+      "message": "Attēlu augšupielāde nav pieejama."
+   },
+   "8845176264121061589": {
+      "message": "Noņemt atzīmes visiem vienumiem"
+   },
+   "8850238112725591771": {
+      "message": "īsceļš $1​"
+   },
+   "8851252390780816895": {
+      "message": "Klienta žurnāls"
+   },
+   "8852550049823214385": {
+      "message": "un pēc tam"
+   },
+   "8860658114732392347": {
+      "message": "Dzēst atgādinājumu"
+   },
+   "8867634760949689122": {
+      "message": "Failu nevarēja konvertēt: radās konvertēšanas noildze. Lūdzu, mēģiniet vēlāk vēlreiz!"
+   },
+   "8868758864963683383": {
+      "message": "Atceliet piezīmes atlasi"
+   },
+   "887001400549949730": {
+      "message": "Atveriet jaunā logā"
+   },
+   "888015650266122140": {
+      "message": "gadījumiem"
+   },
+   "8889019648958415451": {
+      "message": "Nezināms fails"
+   },
+   "8892163365003749853": {
+      "message": "Atlases rīks"
+   },
+   "8917554093651202032": {
+      "message": "Atskaņot videoklipu “$1​”"
+   },
+   "8919660666733306860": {
+      "message": "Attēls"
+   },
+   "8930959387403789939": {
+      "message": "Atgādinājums"
+   },
+   "8938626240031421092": {
+      "message": "Pārslēgšanas izvēles rūtiņas"
+   },
+   "8943760679396635042": {
+      "message": "Tiek attēlots vienums $1​."
+   },
+   "8953555255469284376": {
+      "message": "Nometiet attēlus šeit"
+   },
+   "8958118622768332570": {
+      "message": "Neizdevās kopēt Google dokumentā"
+   },
+   "8975305711699693093": {
+      "message": "Slēpt komentāru sleju"
+   },
+   "8977359195911624009": {
+      "message": "vēl $1​"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Atkārtojas katru nedēļu.}zero{Atkārtojas ik pēc # nedēļām.}one{Atkārtojas ik pēc # nedēļas.}other{Atkārtojas ik pēc # nedēļām.}}"
+   },
+   "8979615310931291676": {
+      "message": "Rediģēts: $1​"
+   },
+   "8988925599985431446": {
+      "message": "Atspraust"
+   },
+   "8999857151110318749": {
+      "message": "Violeta krāsa"
+   },
+   "900086393693234779": {
+      "message": "Mājas"
+   },
+   "9012753183662045049": {
+      "message": "Ievadiet īsāku iezīmes nosaukumu"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Šī piezīme vairs netiks kopīgota ar jums.}zero{Šīs piezīmes vairs netiks kopīgotas ar jums.}one{Šīs piezīmes vairs netiks kopīgotas ar jums.}other{Šīs piezīmes vairs netiks kopīgotas ar jums.}}"
+   },
+   "9024023699330078373": {
+      "message": "Atverot šo vienumu, tas tiks pievienots jūsu Diskam."
+   },
+   "9030534135553586694": {
+      "message": "Avots"
+   },
+   "9058308423774656474": {
+      "message": "Tekstapstrādes programma Hangul"
+   },
+   "9063863448028905602": {
+      "message": "Noņemt visus rezultātus"
+   },
+   "9072994494820207560": {
+      "message": "Atzīmēts vienums"
+   },
+   "9083935734710258396": {
+      "message": "Neatļaut"
+   },
+   "9094248058931620597": {
+      "message": "Detalizētas informācijas panelis sakļauts."
+   },
+   "910247501857754225": {
+      "message": "Tumši rozā krāsa"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9121915169985572840": {
+      "message": "Mainīt krāsu"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}zero{Komandas disku dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}one{Komandas disku dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}other{Komandas disku dalībnieki nevarēs piekļūt šiem vienumiem, ja vien tie netiks kopīgoti ar viņiem.}}"
+   },
+   "9149141099919589043": {
+      "message": "Komatatdalītas vērtības"
+   },
+   "9156878962731584153": {
+      "message": "Tumši brūna krāsa"
+   },
+   "918181312329879123": {
+      "message": "$1​ mapes ir pievienotas mapei $2​."
+   },
+   "9197837492705576727": {
+      "message": "Pāriet pie nākamā vienuma"
+   },
+   "919969969251998566": {
+      "message": "Izvilkt šo arhīvu jūsu pasta kontā"
+   },
+   "9208632284144316801": {
+      "message": "Atkārtošana"
+   },
+   "9213031420087755232": {
+      "message": "Notīrīt lapu"
+   },
+   "938074023403688885": {
+      "message": "Noņemiet"
+   },
+   "951963820437151566": {
+      "message": "Google vietnes"
+   },
+   "960732173870658714": {
+      "message": "Google Keep dokuments"
+   },
+   "976103457024703736": {
+      "message": "Nevarēja atvērt failu \"$1​\"."
+   },
+   "985197728509875956": {
+      "message": "Ķīmijas modelis"
+   },
+   "991852286447868510": {
+      "message": "Notiek vaicājuma “$1​” meklēšana"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Ātri pierakstiet idejas un parādiet tās draugiem un ģimenei."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep — piezīmes un saraksti"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "ऐप्लिकेशन"
+   },
+   "change": {
+      "message": "बदलें"
+   },
+   "close": {
+      "message": "बंद करें"
+   },
+   "credits": {
+      "message": "\u003Csmall>Google Cultural Institute से\u003C/small> Art Project"
+   },
+   "defaultnewtab": {
+      "message": "डिफ़ॉल्ट नया टैब"
+   },
+   "extdescription": {
+      "message": "आपके ब्राउज़र टैब में Google Cultural Institute से Art Project के मास्टरपीस"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "ऐप्लिकेशन दिखाएं बटन"
+   },
+   "optionsappsbtndesc": {
+      "message": "Chrome का ऐप्लिकेशन पृष्ठ खोलता है"
+   },
+   "optionsinterface": {
+      "message": "इंटरफ़ेस सेटिंग"
+   },
+   "optionsntpbtn": {
+      "message": "डिफ़ॉल्ट नया टैब दिखाएं बटन"
+   },
+   "optionsntpbtndesc": {
+      "message": "Chrome का डिफ़ॉल्ट नया टैब खोलता है"
+   },
+   "optionstopsitesbtn": {
+      "message": "प्रमुख साइटें दिखाएं बटन"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "आपके द्वारा सबसे ज़्यादा विज़िट की गई वेबसाइटों की एक झटपट सूची खोलता है"
+   },
+   "pagetitle": {
+      "message": "नया टैब"
+   },
+   "showappsbutton": {
+      "message": "ऐप्लिकेशन दिखाएं बटन"
+   },
+   "showdefaulttablink": {
+      "message": "डिफ़ॉल्ट नया टैब दिखाएं बटन"
+   },
+   "showtopsitesbutton": {
+      "message": "प्रमुख साइटें दिखाएं बटन"
+   },
+   "topsites": {
+      "message": "प्रमुख साइटें"
+   },
+   "turnovergroup": {
+      "message": "कलाकृति बदलें..."
+   },
+   "turnovermodealways": {
+      "message": "प्रत्येक नए टैब में"
+   },
+   "turnovermodedaily": {
+      "message": "दैनिक"
+   },
+   "unknown": {
+      "message": "अज्ञात कलाकार"
+   },
+   "untitled": {
+      "message": "शीर्षक रहित"
+   }
+}

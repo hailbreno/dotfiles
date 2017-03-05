@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "The most tightly Google Drive integrated diagramming application available."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "draw.io Diagrams"
+   }
+}

@@ -1,0 +1,3 @@
+var oneMinuteSignup=oneMinuteSignup||{};
+oneMinuteSignup.TabProperties=function(){var a=this;this.activeTriggerScript=this.activeScript=this.newPassword=this.username=this.type=this.appName=this.appId=this.url=this.appLoginUrl=this.tabId=this.tab=this.scriptTimeout=null;this.currentState=oneMinuteSignup.ScriptState.done;this.setState=function(b){console.log("App: "+a.appId+" State: "+b);b===oneMinuteSignup.ScriptState.done&&a.clearTimeout();a.currentState=b};this.setTimeout=function(b){a.scriptTimeout=setTimeout(function(){b(a)},3E4)};this.clearTimeout=
+function(){clearTimeout(a.scriptTimeout)}};

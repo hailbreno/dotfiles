@@ -1,0 +1,3 @@
+var LastPass=LastPass||{};LastPass.Extension=LastPass.Extension||{};
+LastPass.Extension.ExtensionHostEnvironment=function(){return{reportDone:function(){chrome.runtime.sendMessage({type:"Done"})},reportCaptchaDetected:function(){chrome.runtime.sendMessage({type:"CaptchaDetected"})},userInformationNeeded:function(){chrome.runtime.sendMessage({type:"UserInformationNeeded"})},reportError:function(a){chrome.runtime.sendMessage({type:"Error",error:{name:a.name,message:a.message,stack:a.stack,details:{location:window.location.href,userAgent:navigator.userAgent}}})},reportLog:function(a){console.log(a)},
+isMobile:function(){return!1},getEnvironment:function(){return LastPass.Web.Automation.Environments.chrome}}}();

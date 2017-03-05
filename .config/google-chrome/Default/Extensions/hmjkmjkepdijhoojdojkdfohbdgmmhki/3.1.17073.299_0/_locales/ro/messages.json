@@ -1,0 +1,2975 @@
+{
+   "1001407065815272462": {
+      "message": "Nu s-au putut adăuga în secțiunea $2​Contul meu Drive$1​"
+   },
+   "1013939682284715002": {
+      "message": "Organizați"
+   },
+   "1029576232144989689": {
+      "message": "Puteți și să salvați linkuri pentru mai târziu cu extensia&nbsp;$2​Google Keep Chrome$1​."
+   },
+   "1039394921418415681": {
+      "message": "Conectați-vă"
+   },
+   "1061011362310586469": {
+      "message": "Permiterea accesului"
+   },
+   "1062420184700835520": {
+      "message": "Deschideți Selectorul de culoare și mărime pentru Instrumentul de marcare"
+   },
+   "1083918249169198626": {
+      "message": "Comenzile rapide de la tastatură sunt dezactivate."
+   },
+   "1101371910696766077": {
+      "message": "Faceți o copie"
+   },
+   "1105774658609209931": {
+      "message": "Extensie pentru Chrome"
+   },
+   "1122146167985532789": {
+      "message": "ieri"
+   },
+   "1127320433256851404": {
+      "message": "Player video"
+   },
+   "1159463938127271829": {
+      "message": "de la $1​"
+   },
+   "1162642135048988280": {
+      "message": "Redenumiți documentul"
+   },
+   "1163324543881570799": {
+      "message": "Documente Google"
+   },
+   "1166244120191806795": {
+      "message": "Trimiteți feedback"
+   },
+   "1177768120450365955": {
+      "message": "Mutați articolele bifate la sfârșit"
+   },
+   "1179891706526242218": {
+      "message": "Înainte"
+   },
+   "1185164838496022543": {
+      "message": "Dați clic aici pentru a reîncărca pagina."
+   },
+   "1198371177271608867": {
+      "message": "Mărimea 4"
+   },
+   "1213005208968286932": {
+      "message": "Marcată ca încheiată"
+   },
+   "124900027451629830": {
+      "message": "Redați"
+   },
+   "1256362146573583104": {
+      "message": "Extrageți"
+   },
+   "1259492729704800881": {
+      "message": "Arhivați nota"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Anulați"
+   },
+   "12768758038718216": {
+      "message": "Fixați nota arhivată"
+   },
+   "1280430284217153733": {
+      "message": "Adăugați o oră"
+   },
+   "1315983816556686539": {
+      "message": "Galben"
+   },
+   "1333255388111908292": {
+      "message": "Produse alimentare"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Nu aveți permisiunea de a muta acest articol din dosarele actuale. În schimb, adăugați articolul în {START_SPAN_1}{NAME}{END_SPAN}.}few{Nu aveți permisiunea de a muta aceste articole din dosarele lor actuale. În schimb, adăugați articolele în {START_SPAN_2}{NAME}{END_SPAN}.}other{Nu aveți permisiunea de a muta aceste articole din dosarele lor actuale. În schimb, adăugați articolele în {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Notă fără titlu"
+   },
+   "1349697396109290623": {
+      "message": "Se afișează imaginea $1​ la o rezoluție mai mare"
+   },
+   "136335357683289450": {
+      "message": "Închideți"
+   },
+   "1379850360723600538": {
+      "message": "Fișierele protejate prin parolă nu sunt acceptate."
+   },
+   "1397887822627488928": {
+      "message": "Persoana sau e-mailul pentru distribuire"
+   },
+   "139942704574044780": {
+      "message": "Acceptați"
+   },
+   "1419896259743862406": {
+      "message": "Deschideți cu"
+   },
+   "1432850707344442376": {
+      "message": "Creați eticheta $1​"
+   },
+   "1441487391064925653": {
+      "message": "Afișați toate comenzile rapide din Centrul de ajutor"
+   },
+   "1442722292947881614": {
+      "message": "Tipuri"
+   },
+   "1446829548948002072": {
+      "message": "virgulă"
+   },
+   "1463389029497634261": {
+      "message": "Micșorați volumul"
+   },
+   "1465828580966685215": {
+      "message": "Ștergeți notele din cont"
+   },
+   "1466663154000252842": {
+      "message": "Este posibil ca unele persoane să nu mai aibă acces"
+   },
+   "1467797923781828000": {
+      "message": "$1​ (de) elemente au fost adăugate în $2​."
+   },
+   "1473312930157933007": {
+      "message": "Următorilor utilizatori nu le puteți trimite fișiere pentru că administratorul dvs. a dezactivat trimiterea în afara domeniului."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1475261522522402536": {
+      "message": "Alegeți locația"
+   },
+   "1482452362096735080": {
+      "message": "Se repetă de {numOccurrences} (de) ori"
+   },
+   "148864680356422442": {
+      "message": "Înapoi"
+   },
+   "1499433769420882987": {
+      "message": "Se afișează $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "În ultima zi a lunii"
+   },
+   "1507445189431379166": {
+      "message": "Ștergeți"
+   },
+   "1512454807955173272": {
+      "message": "Keep se va actualiza când va fi online"
+   },
+   "1532717559893630620": {
+      "message": "Eticheta $1​ a fost îmbinată cu $2​."
+   },
+   "1536051766421561160": {
+      "message": "egal"
+   },
+   "153659275234722804": {
+      "message": "Închideți"
+   },
+   "156992719062713230": {
+      "message": "Gri"
+   },
+   "1586968957182554447": {
+      "message": "Dezactivați"
+   },
+   "1588268697057804046": {
+      "message": "acum $1​ (de) ore"
+   },
+   "1595218840091201497": {
+      "message": "Maro"
+   },
+   "1633798963327779260": {
+      "message": "Mâine"
+   },
+   "1655692513689044870": {
+      "message": "Ați fost deconectat(ă)."
+   },
+   "1656911987308166143": {
+      "message": "Ștergeți"
+   },
+   "1661251023749398110": {
+      "message": "Descărcați fișierul audio"
+   },
+   "1665821947855814052": {
+      "message": "Dimensiune"
+   },
+   "1669648976972603642": {
+      "message": "Acest transfer va afecta calitatea de proprietar și nivelul de acces."
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Fixarea notei a fost anulată}few{Fixarea a fost anulată pentru # note}other{Fixarea a fost anulată pentru # de note}}"
+   },
+   "1679322931860897953": {
+      "message": "Copiați în Documentul Google"
+   },
+   "1680617124502957636": {
+      "message": "Momentan, nu se poate realiza conexiunea. Încercați din nou mai târziu."
+   },
+   "1692901784886701962": {
+      "message": "Notă prea lungă."
+   },
+   "1694896269813520248": {
+      "message": "Adăugați un desen"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1703175513040690135": {
+      "message": "Oricine din $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Se repetă lunar în ultima zi a lunii}few{Se repetă la fiecare # luni în ultima zi a lunii}other{Se repetă la fiecare # de luni în ultima zi a lunii}}"
+   },
+   "1711424025297585662": {
+      "message": "un|una"
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1737240194537729525": {
+      "message": "Săptămânal"
+   },
+   "1739900012825270238": {
+      "message": "Accesați articolul anterior"
+   },
+   "1740371341228065086": {
+      "message": "Reîncărcați"
+   },
+   "1745782414562966515": {
+      "message": "Îmbinați eticheta „$1​” cu eticheta „$2​”? Toate notele etichetate cu „$1​” vor fi etichetate cu „$2​”, iar eticheta „$1​\" va fi ștearsă."
+   },
+   "1783719421893050637": {
+      "message": "Dimensiuni"
+   },
+   "178927681797742562": {
+      "message": "Conectați-vă"
+   },
+   "1791115075948268631": {
+      "message": "Deschideți ajutorul pentru comenzi rapide de la tastatură"
+   },
+   "179545118447015250": {
+      "message": "Afișare tip grilă"
+   },
+   "1803966010993357655": {
+      "message": "Altele"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1819225489062185613": {
+      "message": "Altele"
+   },
+   "1823222042913714987": {
+      "message": "Trimiteți parola"
+   },
+   "1830157062072535681": {
+      "message": "Se afișează $1​"
+   },
+   "1852745815330163711": {
+      "message": "Desene Google"
+   },
+   "1870691479127746185": {
+      "message": "la dreapta"
+   },
+   "187077078156858455": {
+      "message": "Notă audio"
+   },
+   "189303170370862360": {
+      "message": "$1​ din $2​ (de) articole"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Eticheta $1​ nu există"
+   },
+   "1912092030665541460": {
+      "message": "Acțiunea a fost anulată"
+   },
+   "1917552217016175754": {
+      "message": "Instrumentul de marcare"
+   },
+   "1918176455405610789": {
+      "message": "Terminat"
+   },
+   "1938115711058331119": {
+      "message": "Afișați coloana de comentarii"
+   },
+   "195154114623528341": {
+      "message": "Adăugați o locație"
+   },
+   "1956794332842050061": {
+      "message": "Pagina următoare"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "A apărut o problemă la previzualizarea acestei foi de calcul."
+   },
+   "1968405748623909021": {
+      "message": "Încercați una dintre aplicațiile de mai jos pentru a deschide sau modifica acest articol"
+   },
+   "1969531182936822963": {
+      "message": "Acțiunea a fost anulată"
+   },
+   "1973454937875679500": {
+      "message": "Introduceți un nume pentru etichetă"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# caracter rămas}few{# caractere rămase}other{# de caractere rămase}}"
+   },
+   "1980209166254310911": {
+      "message": "Zi"
+   },
+   "1988244842147989817": {
+      "message": "Notele din Coșul de gunoi sunt șterse după 7 zile."
+   },
+   "1996872514195688196": {
+      "message": "Momentan, notele la care s-a permis accesul nu pot fi accesate. Încercați din nou mai târziu."
+   },
+   "200005227964332868": {
+      "message": "MAI MULTE"
+   },
+   "2003845117979929469": {
+      "message": "Detalii"
+   },
+   "2009529126622551485": {
+      "message": "Element din listă"
+   },
+   "2018433077417240302": {
+      "message": "Accesați eticheta"
+   },
+   "2039757863628752523": {
+      "message": "Opțiuni pentru frecvență"
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Închideți bara de căutare"
+   },
+   "2061440050632248160": {
+      "message": "Arhivați"
+   },
+   "2068023589621557589": {
+      "message": "Font TrueType"
+   },
+   "2073322475696388995": {
+      "message": "Înainte"
+   },
+   "2074454463201225704": {
+      "message": "Resetați zoomul"
+   },
+   "207810168108507460": {
+      "message": "acum $1​ oră"
+   },
+   "2091811447965921066": {
+      "message": "Eliminați colaboratorii"
+   },
+   "2107379241532042955": {
+      "message": "Locație"
+   },
+   "2107589831642088814": {
+      "message": "Creați „$3​$2​$1​”"
+   },
+   "2124464318249308530": {
+      "message": "Portocaliu deschis"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Note"
+   },
+   "2138593281154109183": {
+      "message": "Arhivă"
+   },
+   "214517458278879973": {
+      "message": "Conectați-vă ca $1​"
+   },
+   "2147952938331523160": {
+      "message": "Redenumiți…"
+   },
+   "2154372123324862271": {
+      "message": "bară oblică"
+   },
+   "2166966123760559393": {
+      "message": "Creați o etichetă nouă"
+   },
+   "2168461275182666804": {
+      "message": "Editați"
+   },
+   "2173675558412671739": {
+      "message": "S-a copiat în Documentul Google"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Notă mutată în coșul de gunoi}few{# note mutate în coșul de gunoi}other{# de note mutate în coșul de gunoi}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ (de) articole"
+   },
+   "2187239650627580457": {
+      "message": "Trimiteți"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un dosar aflat într-un dosar}few{Mutați dosare aflate într-un dosar}other{Mutați dosare aflate într-un dosar}}"
+   },
+   "2198096971937872560": {
+      "message": "Memento:"
+   },
+   "220168959069469607": {
+      "message": "Mai multe acțiuni"
+   },
+   "2202265279234683999": {
+      "message": "Comenzi rapide de la tastatură"
+   },
+   "2203926649090909861": {
+      "message": "Articolul din listă a fost mutat la numărul $1​"
+   },
+   "2216904725760458480": {
+      "message": "Zilnic"
+   },
+   "221715292685577880": {
+      "message": "Da"
+   },
+   "2264311811697505466": {
+      "message": "Actualizați"
+   },
+   "2270633624888102832": {
+      "message": "Anulați fixarea notei"
+   },
+   "2280650195464600721": {
+      "message": "Navigare"
+   },
+   "2283668287077047088": {
+      "message": "Instrumentul de evidențiere"
+   },
+   "2285069188138705005": {
+      "message": "Aplicații conectate"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{ununsed plural form}=1{Mutați un articol din dosarul comun „{SHARED_FOLDER_NAME}”. Prin urmare, alte persoane nu vor mai avea acces.}few{Mutați {NUM_ITEMS_2} articole din dosarul comun „{SHARED_FOLDER_NAME}”. Prin urmare, alte persoane nu vor mai avea acces.}other{Mutați {NUM_ITEMS_2} de articole din dosarul comun „{SHARED_FOLDER_NAME}”. Prin urmare, alte persoane nu vor mai avea acces.}}"
+   },
+   "228741435562395266": {
+      "message": "Printarea nu este încă disponibilă"
+   },
+   "2289534534793293486": {
+      "message": "Dezarhivați"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Măriți volumul"
+   },
+   "2299671629154778581": {
+      "message": "Fixarea notelor a fost anulată, iar notele au fost arhivate"
+   },
+   "2310145944356900158": {
+      "message": "Bifate"
+   },
+   "2311880726221661199": {
+      "message": "Se încarcă rezoluții mai mari"
+   },
+   "2324955914430674498": {
+      "message": "Niciun rezultat al căutării pentru „$1​”"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep solicită permisiunea de a utiliza locația dvs. pentru a îmbunătăți sugestiile de locații pentru mementourile bazate pe locație."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{ununsed plural form}=1{Membrii „{TEAM_DRIVE_NAME}” nu vor mai avea acces decât dacă acest articol le este trimis.}few{Membrii „{TEAM_DRIVE_NAME}” nu vor mai avea acces decât dacă aceste articole le sunt trimise.}other{Membrii „{TEAM_DRIVE_NAME}” nu vor mai avea acces decât dacă aceste articole le sunt trimise.}}"
+   },
+   "2357761837816388330": {
+      "message": "Offline"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Eliminați sursa"
+   },
+   "236689092839978781": {
+      "message": "Nu se repetă"
+   },
+   "2370656573843123707": {
+      "message": "paranteză pătrată dreapta"
+   },
+   "2373760032138505521": {
+      "message": "Eticheta există deja"
+   },
+   "2386536768112358461": {
+      "message": "Pg-down"
+   },
+   "2405795704816921421": {
+      "message": "Fișierul $1​"
+   },
+   "2408383448126741628": {
+      "message": "Durată"
+   },
+   "2423877407428530040": {
+      "message": "Fișierul conține prea multe grafice."
+   },
+   "2433429041384246549": {
+      "message": "Dezactivați sunetul"
+   },
+   "2449254824382583885": {
+      "message": "Deschideți separat"
+   },
+   "2452522051596946166": {
+      "message": "Hopa! A apărut o eroare la previzualizarea articolului $1​. Se încearcă din nou."
+   },
+   "2454642351139428112": {
+      "message": "Anulați"
+   },
+   "2466251465475184755": {
+      "message": "Goliți Coșul de gunoi? Toate notele din Coșul de gunoi vor fi șterse definitiv."
+   },
+   "2475181823688399272": {
+      "message": "Înainte"
+   },
+   "2478862372619762755": {
+      "message": "Evidențiați o zonă pentru a comenta cu privire la aceasta"
+   },
+   "2504232652631703202": {
+      "message": "Conectată"
+   },
+   "251025074207413762": {
+      "message": "Adăugați o descriere"
+   },
+   "2532280782491328445": {
+      "message": "Rezultatul anterior"
+   },
+   "2546225293834487484": {
+      "message": "Notă"
+   },
+   "2555961950726197809": {
+      "message": "Se afișează vizualizatorul."
+   },
+   "2562881166530755046": {
+      "message": "Desene"
+   },
+   "257317112834806705": {
+      "message": "Comutați între afișarea listă și grilă"
+   },
+   "2579261044590673579": {
+      "message": "Contul meu Drive"
+   },
+   "2579679351920691492": {
+      "message": "Înapoi"
+   },
+   "2581526424350930407": {
+      "message": "Editați"
+   },
+   "2600731575260427177": {
+      "message": "Fișierul nu există și e posibil să fi fost șters. Încercați să încărcați fișierul din nou."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609767652209789035": {
+      "message": "Etichete"
+   },
+   "2623861453769098676": {
+      "message": "A apărut o eroare la previzualizarea documentului."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Dacă mutați acest articol, vor avea acces la el toți cei care pot vedea dosarul comun „{SHARED_FOLDER_NAME}”.}few{Dacă mutați aceste articole, vor avea acces la ele toți cei care pot vedea dosarul comun „{SHARED_FOLDER_NAME}”.}other{Dacă mutați aceste articole, vor avea acces la ele toți cei care pot vedea dosarul comun „{SHARED_FOLDER_NAME}”.}}"
+   },
+   "2630254198275172065": {
+      "message": "Mutați în..."
+   },
+   "2632263751512428257": {
+      "message": "Anual"
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Etichetați nota}few{Etichetați notele}other{Etichetați notele}}"
+   },
+   "2646753793708356960": {
+      "message": "Albastru cobalt"
+   },
+   "2647216541167955566": {
+      "message": "Chihlimbar"
+   },
+   "2661850177130037208": {
+      "message": "Deschideți articolul"
+   },
+   "2665571821980053260": {
+      "message": "Nu poate fi permis accesul la notă. Încercați din nou mai târziu."
+   },
+   "2681830832355823748": {
+      "message": "Căutați în toate comenzile rapide"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Imaginea a fost adăugată}few{# imagini au fost adăugate}other{# de imagini au fost adăugate}}"
+   },
+   "2702485557996900362": {
+      "message": "Corectați modificările conflictuale"
+   },
+   "2704959686524436777": {
+      "message": "Se încarcă"
+   },
+   "2715199780155065699": {
+      "message": "Fișierul conține prea multe forme, casete de text sau desene."
+   },
+   "2716433087531258659": {
+      "message": "pagină în sus"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2758125083752925237": {
+      "message": "(Proprietar)"
+   },
+   "277430914014962533": {
+      "message": "Hopa! A apărut o eroare la previzualizarea articolului $1​."
+   },
+   "2793841261389879255": {
+      "message": "Pagina anterioară"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Se repetă lunar în aceeași zi a fiecărei luni}few{Se repetă la fiecare # luni în aceeași zi a fiecărei luni}other{Se repetă la fiecare # de luni în aceeași zi a fiecărei luni}}"
+   },
+   "2796950576714807268": {
+      "message": "Nu se poate recunoaște textul."
+   },
+   "2798322202738486782": {
+      "message": "{HOURS,plural, =0{0 ore }=1{O oră }few{# ore }other{# de ore }}{MINUTES,plural, =0{0 minute }=1{Un minut }few{# minute }other{# de minute }}{SECONDS,plural, =0{0 secunde.}=1{O secundă.}few{# secunde.}other{# de secunde.}}"
+   },
+   "2817277146396981386": {
+      "message": "p.m."
+   },
+   "2818020101821669029": {
+      "message": "Creat"
+   },
+   "2820045170951016567": {
+      "message": "Mementouri"
+   },
+   "2823533464825550362": {
+      "message": "Comenzi pentru document"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Măriți"
+   },
+   "2853036885874864031": {
+      "message": "Calitatea de proprietar va fi transferată către $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2858566870229558873": {
+      "message": "$2​Termeni$1​"
+   },
+   "2862675909830094845": {
+      "message": "Creați o etichetă nouă"
+   },
+   "2870914990575762514": {
+      "message": "Nu puteți anula această acțiune"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Întrerupeți"
+   },
+   "287803077768018029": {
+      "message": "Turcoaz deschis"
+   },
+   "2879276552944958066": {
+      "message": "Înapoi la dosarul $1​."
+   },
+   "2890739372621722306": {
+      "message": "Verde-albăstrui"
+   },
+   "2893055432094515558": {
+      "message": "Casetele de selectare sunt afișate"
+   },
+   "2893190245479055856": {
+      "message": "$1​ (de) dosare au fost mutate în $2​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Raportați"
+   },
+   "2902570047322934912": {
+      "message": "Activați trimiterea"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Fixarea notei a fost anulată, iar nota a fost arhivată}few{Fixarea a # note a fost anulată, iar notele au fost arhivate}other{Fixarea a # de note a fost anulată, iar notele au fost arhivate}}"
+   },
+   "2917586714343652609": {
+      "message": "Mărimea 20"
+   },
+   "2935193106137642160": {
+      "message": "Mărire indisponibilă"
+   },
+   "2942094715879803305": {
+      "message": "Ștergeți articolele bifate"
+   },
+   "295331174171409695": {
+      "message": "A apărut o problemă la actualizarea permisiunii de descărcare a articolului „$1​”."
+   },
+   "2960516445247616550": {
+      "message": "Printarea nu este disponibilă"
+   },
+   "296391753033307868": {
+      "message": "Eticheta $1​ a fost creată și adăugată la notă."
+   },
+   "2964778642459027786": {
+      "message": "Nu există note în Coșul de gunoi"
+   },
+   "2971780287153684447": {
+      "message": "Dispozitive Android"
+   },
+   "2973306402585941108": {
+      "message": "Dimineața"
+   },
+   "298817883481775869": {
+      "message": "Se încarcă..."
+   },
+   "2990497076082409431": {
+      "message": "„$1​” a fost mutat în $2​."
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3004077206309008197": {
+      "message": "Verde"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Nu aveți permisiunea de a muta acest dosar din dosarele sale actuale. În schimb, adăugați dosarul în {START_SPAN_1}{NAME}{END_SPAN}.}few{Nu aveți permisiunea de a muta aceste dosare din dosarele lor actuale. În schimb, adăugați dosarele în {START_SPAN_2}{NAME}{END_SPAN}.}other{Nu aveți permisiunea de a muta aceste dosare din dosarele lor actuale. În schimb, adăugați dosarele în {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3042275883978222678": {
+      "message": "Mărimea 8"
+   },
+   "3043961722025425136": {
+      "message": "Descriere"
+   },
+   "3045997283325725532": {
+      "message": "Ce e nou în Google Keep"
+   },
+   "306516303501625305": {
+      "message": "Eroare la autentificare."
+   },
+   "3109321241584918345": {
+      "message": "Conectați mai multe aplicații..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "peste $1​ (de) ore"
+   },
+   "3147708683842760684": {
+      "message": "Mai multe opțiuni"
+   },
+   "3147722095652727387": {
+      "message": "Următorilor utilizatori nu le puteți trimite fișiere pentru că fie administratorul acestora a dezactivat trimiterea în domeniul respectiv, fie administratorul dvs. a dezactivat trimiterea în afara domeniului."
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Notă dezarhivată}few{# note dezarhivate}other{# de note dezarhivate}}"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3189854932778515441": {
+      "message": "Notă în Arhivă"
+   },
+   "3190546672187601036": {
+      "message": "Noaptea"
+   },
+   "3195812604657128345": {
+      "message": "Selectați un dosar din Drive în care să se extragă"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Notă restabilită}few{# note restabilite}other{# de note restabilite}}"
+   },
+   "3207650089232728475": {
+      "message": "Modificați etichetele"
+   },
+   "3211163842850942567": {
+      "message": "Măriți"
+   },
+   "3220641589840600333": {
+      "message": "Ați comutat la afișarea $1​"
+   },
+   "3241696131593027453": {
+      "message": "Selectați nota"
+   },
+   "3243916603465112517": {
+      "message": "MAI PUȚINE"
+   },
+   "3250489229749307913": {
+      "message": "Publicație electronică"
+   },
+   "32533855230019565": {
+      "message": "Mărimea 12"
+   },
+   "3258100527833044153": {
+      "message": "Desenul gol a fost șters"
+   },
+   "3261131345401321392": {
+      "message": "Poate comenta"
+   },
+   "3266448715145955862": {
+      "message": "Notele au fost dezarhivate și fixate"
+   },
+   "3268028083415317236": {
+      "message": "Nu, mulțumesc"
+   },
+   "3272496516667407797": {
+      "message": "A apărut o eroare la încărcarea detaliilor."
+   },
+   "3278046126264096288": {
+      "message": "Săptămână"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Fixarea notei a fost anulată, iar nota a fost mutată în coșul de gunoi}few{Fixarea a # note a fost anulată, iar notele au fost mutate în coșul de gunoi}other{Fixarea a # de note a fost anulată, iar notele au fost mutate în coșul de gunoi}}"
+   },
+   "3288498486633948368": {
+      "message": "Articolul „$1​” a fost adăugat în Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Notă nouă cu desen"
+   },
+   "3312545971976531405": {
+      "message": "Mesaj"
+   },
+   "3326410145104517459": {
+      "message": "Păstrați-vă gândurile $1​ de pe orice dispozitiv"
+   },
+   "3343273953047473521": {
+      "message": "Ștergeți notele?"
+   },
+   "3345567742278474807": {
+      "message": "Această notă a fost semnalată ca neadecvată și nu se poate permite accesul la ea."
+   },
+   "3354260708176476985": {
+      "message": "Se încarcă&hellip;"
+   },
+   "3362903141674317449": {
+      "message": "Colaborator"
+   },
+   "336772567640975291": {
+      "message": "Săptămâna viitoare"
+   },
+   "3371033609268806242": {
+      "message": "Eticheta $1​ a fost ștearsă."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Deschideți"
+   },
+   "3385831848537487538": {
+      "message": "Călătorii"
+   },
+   "3396240571140460663": {
+      "message": "Verde deschis"
+   },
+   "3409257542937182842": {
+      "message": "Se încearcă din nou..."
+   },
+   "3409483962000136213": {
+      "message": "Redați/Pauză"
+   },
+   "3418767079436101103": {
+      "message": "A apărut o eroare la încărcarea acestei pagini."
+   },
+   "3428726060007577698": {
+      "message": "Lista este prea mare."
+   },
+   "3446158485617778228": {
+      "message": "Anulați"
+   },
+   "3447704623213039325": {
+      "message": "Articol alimentar"
+   },
+   "3448234415275521882": {
+      "message": "Informații generale"
+   },
+   "3455405209271884570": {
+      "message": "Extrageți"
+   },
+   "3468441711253011521": {
+      "message": "Foi de calcul Google"
+   },
+   "3473620774713000513": {
+      "message": "Încheiată"
+   },
+   "3485469306694683931": {
+      "message": "Extrageți în contul Drive"
+   },
+   "3496410038494993160": {
+      "message": "Comenzi rapide de la tastatură populare"
+   },
+   "3518073392823563581": {
+      "message": "Comenzi rapide de la tastatură"
+   },
+   "3543475399174940144": {
+      "message": "Încă $1​"
+   },
+   "3549511443038546281": {
+      "message": "Ștergeți"
+   },
+   "3551522853788442530": {
+      "message": "Înapoi"
+   },
+   "3561658662634401836": {
+      "message": "Titlu"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3570074492517305433": {
+      "message": "Creați un cont"
+   },
+   "3571704286086017611": {
+      "message": "Mementoul a fost șters"
+   },
+   "3571758970185431414": {
+      "message": "Albastru"
+   },
+   "3574963906259719128": {
+      "message": "Browserul dvs. nu poate să redea acest fișier audio."
+   },
+   "3580293729117872545": {
+      "message": "Se termină"
+   },
+   "3594204366177366590": {
+      "message": "Deschideți Meniul de opțiuni al Instrumentului de ștergere"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Redenumiți eticheta"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un fișier aflat în {NUM_PARENTS} (de) dosare}few{Mutați fișiere aflate în {NUM_PARENTS} dosare}other{Mutați fișiere aflate în {NUM_PARENTS} de dosare}}"
+   },
+   "3608606849109645545": {
+      "message": "Introduceți un nume de document nou:"
+   },
+   "3611573349633408445": {
+      "message": "Descărcați"
+   },
+   "3612936866865912552": {
+      "message": "Se încarcă..."
+   },
+   "361630518611593946": {
+      "message": "Ascundeți casetele de selectare"
+   },
+   "3617727970098875990": {
+      "message": "Căutați în toate comenzile rapide"
+   },
+   "362521762755836201": {
+      "message": "Creată la $1​"
+   },
+   "3634885664399305142": {
+      "message": "Desenul nu este disponibil"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "bară oblică inversă"
+   },
+   "3659554681396757189": {
+      "message": "Deschis de mine"
+   },
+   "366289214151975122": {
+      "message": "Oricine din $1​ care are linkul"
+   },
+   "3663571259791438207": {
+      "message": "Raportați abuz"
+   },
+   "3664842788764635265": {
+      "message": "Niciuna"
+   },
+   "3666123569747918021": {
+      "message": "În acest document sunt modificări nesalvate. Doriți să părăsiți pagina și să renunțați la modificări?"
+   },
+   "3678477908297567934": {
+      "message": "caracter de subliniere"
+   },
+   "3687623836913400480": {
+      "message": "Adnotați imaginea"
+   },
+   "3690515530505404607": {
+      "message": "A apărut o eroare la redarea acestui videoclip."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Niciun element}=1{Un element}few{# elemente}other{# de elemente}}"
+   },
+   "3707311099386068778": {
+      "message": "Eliminați-le pe toate"
+   },
+   "3712215972250917265": {
+      "message": "Comentarii"
+   },
+   "372633345629975481": {
+      "message": "Notele au fost fixate"
+   },
+   "372823375470132483": {
+      "message": "Deselectați nota mutată în coșul de gunoi"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{ununsed plural form}=1{unused plural form}few{Mutați {NUM_ITEMS_2} articole din Drive-uri în echipă și din dosare comune. Prin urmare, alte persoane nu vor mai avea acces.}other{Mutați {NUM_ITEMS_2} de articole din Drive-uri în echipă și din dosare comune. Prin urmare, alte persoane nu vor mai avea acces.}}"
+   },
+   "3760084546578947451": {
+      "message": "Activați mementourile Google Keep? Ar putea fi necesar să permiteți notificările de la browser."
+   },
+   "3770795578481676514": {
+      "message": "Galben"
+   },
+   "3793086499925031123": {
+      "message": "Deschideți bara de căutare/rezultatul anterior"
+   },
+   "3796511349428373407": {
+      "message": "Opțiuni pentru dată"
+   },
+   "3797309720105862333": {
+      "message": "Desenele nu pot fi editate offline"
+   },
+   "37992665410817181": {
+      "message": "Redeschisă"
+   },
+   "3801617971018550169": {
+      "message": "Ieri"
+   },
+   "3808213429720572062": {
+      "message": "Restabiliți"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3828546250617883774": {
+      "message": "Violet"
+   },
+   "3845302429676793049": {
+      "message": "A apărut o problemă la actualizarea descrierii fișierului „$1​”."
+   },
+   "3858324058837632381": {
+      "message": "A apărut o eroare la redarea acestui fișier audio."
+   },
+   "3869166581651870488": {
+      "message": "Finalizați editarea"
+   },
+   "3897281533382850749": {
+      "message": "Activați sunetul"
+   },
+   "3909380459614154542": {
+      "message": "Accesați linkul"
+   },
+   "3930910469078167425": {
+      "message": "Arhivă"
+   },
+   "3952341864324097024": {
+      "message": "Ștergeți căutarea"
+   },
+   "3955575370175991097": {
+      "message": "Ați comutat la afișarea etichetei $1​"
+   },
+   "3974822583047850066": {
+      "message": "Anulați"
+   },
+   "3977699855735576796": {
+      "message": "A apărut o eroare la încărcarea mai multor pagini."
+   },
+   "3988418762222300024": {
+      "message": "punct"
+   },
+   "4005725939358875643": {
+      "message": "Acțiunea a fost anulată."
+   },
+   "4014287326684608407": {
+      "message": "Verde-albăstrui"
+   },
+   "4023299615382814997": {
+      "message": "Nu se poate modifica în coșul de gunoi"
+   },
+   "4036523543547629779": {
+      "message": "Imagini"
+   },
+   "4044915502415235332": {
+      "message": "Selectați nota fixată"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un dosar aflat în {NUM_PARENTS} (de) dosare}few{Mutați dosare aflate în {NUM_PARENTS} dosare}other{Mutați dosare aflate în {NUM_PARENTS} de dosare}}"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4061102590585232601": {
+      "message": "Ați eliminat pe $1​"
+   },
+   "4072353527895477784": {
+      "message": "Persoane"
+   },
+   "4086409218932829944": {
+      "message": "Editați etichetele"
+   },
+   "4087289538934418537": {
+      "message": "După ce sunt șterse, notele create de dvs. nu vor mai fi vizibile pentru nicio persoană. Notele la care ați primit accesul vor rămâne vizibile persoanelor care au acces."
+   },
+   "4095714830819118951": {
+      "message": "Ajutor"
+   },
+   "4097921967754832323": {
+      "message": "cratimă"
+   },
+   "4106990792743182780": {
+      "message": "Nu se poate extrage textul din imagine. Încercați din nou mai târziu."
+   },
+   "411137507354526852": {
+      "message": "Lună"
+   },
+   "4111452225725405610": {
+      "message": "Ați eliminat steaua articolului „$1​”."
+   },
+   "4117632433281998979": {
+      "message": "Lunar"
+   },
+   "411791562637880104": {
+      "message": "Eliminați-vă numele"
+   },
+   "4122858386674768321": {
+      "message": "Mutați din $3​$2​$1​"
+   },
+   "4149722338705080529": {
+      "message": "Repetați"
+   },
+   "4155905925766040098": {
+      "message": "Nu este disponibilă nicio previzualizare"
+   },
+   "4159842640681544078": {
+      "message": "$1​ (de) dosare au fost mutate din $2​ în $3​."
+   },
+   "4174786386751618325": {
+      "message": "Notă foto"
+   },
+   "4182427157920112948": {
+      "message": "tildă"
+   },
+   "4186465168527990324": {
+      "message": "S-a extras „$1​” în $2​"
+   },
+   "4204345954541079744": {
+      "message": "Încă nu există note cu această etichetă"
+   },
+   "4205329094859140439": {
+      "message": "a.m."
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un articol aflat în {NUM_PARENTS} (de) dosare}few{Mutați articole aflate în {NUM_PARENTS} dosare}other{Mutați articole aflate în {NUM_PARENTS} de dosare}}"
+   },
+   "4209658291185545281": {
+      "message": "Acțiunea nu a putut fi anulată"
+   },
+   "4211182812451835307": {
+      "message": "Poate edita"
+   },
+   "4214190403999219403": {
+      "message": "Zoom"
+   },
+   "4214427276033711472": {
+      "message": "Setări"
+   },
+   "4216242742234357612": {
+      "message": "Selectați toate notele"
+   },
+   "42239889404644810": {
+      "message": "Solicitați accesul"
+   },
+   "4227767243455123953": {
+      "message": "Comportamentul listelor"
+   },
+   "4228870062013120023": {
+      "message": "Navigați la nota următoare/anterioară"
+   },
+   "4230101516585408149": {
+      "message": "Scrieți o notă nouă"
+   },
+   "4243437721135025638": {
+      "message": "Nu aveți permisiunea de a muta fișiere în acest Drive în echipă."
+   },
+   "4248787844477062707": {
+      "message": "Creați o etichetă nouă"
+   },
+   "4269096876505546324": {
+      "message": "Trimiteți feedback"
+   },
+   "4280747719095153198": {
+      "message": "Comentariu soluționat"
+   },
+   "4286663890332754386": {
+      "message": "Eroare la încărcare."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Anulați"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Selectați nota"
+   },
+   "4327523836604343709": {
+      "message": "Mărimea 2"
+   },
+   "4332252081504252077": {
+      "message": "Hopa!"
+   },
+   "4343825450663233452": {
+      "message": "Poate vizualiza"
+   },
+   "4343848624651344174": {
+      "message": "După-amiaza"
+   },
+   "4346644280640625035": {
+      "message": "Accesul la notă a fost anulat."
+   },
+   "435214284915110062": {
+      "message": "Deschideți bara de căutare"
+   },
+   "435444400175963053": {
+      "message": "$1​ (de) articole au fost mutate în $2​."
+   },
+   "4356312843186491987": {
+      "message": "Mutați"
+   },
+   "4391715930031906467": {
+      "message": "Rezultatul următor"
+   },
+   "4397482594800054550": {
+      "message": "A apărut o problemă la redenumirea articolului „$1​”."
+   },
+   "4412626362660239325": {
+      "message": "Organizați în Drive"
+   },
+   "4416841471975202365": {
+      "message": "Roz deschis"
+   },
+   "4421168692772991468": {
+      "message": "Coș de gunoi"
+   },
+   "4422985761498356257": {
+      "message": "Deschideți cu"
+   },
+   "4429542915339609008": {
+      "message": "Nu este acceptată deschiderea mai multor fișiere cu această aplicație."
+   },
+   "4438168904974235640": {
+      "message": "Roșu aprins"
+   },
+   "4444571967705751871": {
+      "message": "Coș de gunoi"
+   },
+   "4448871104213529122": {
+      "message": "Ascundeți detaliile"
+   },
+   "4457424709416639982": {
+      "message": "Adăugați în contul dvs. Drive"
+   },
+   "4466605492523079635": {
+      "message": "Salvați"
+   },
+   "4468872996560163913": {
+      "message": "Goliți Coșul de gunoi acum"
+   },
+   "4486429060311743289": {
+      "message": "Ștergeți selecția"
+   },
+   "45228242181482134": {
+      "message": "Redați"
+   },
+   "4524999513489942668": {
+      "message": "$2​Instalați extensia Chrome pentru Google Keep$1​ pentru a salva ceea ce vă interesează în Keep cu un singur clic."
+   },
+   "4533605085334699862": {
+      "message": "Citate"
+   },
+   "4550209323331625907": {
+      "message": "$2​Aflați mai multe$1​"
+   },
+   "4557086341175267918": {
+      "message": "Nu se poate permite accesul offline"
+   },
+   "4561316395348814504": {
+      "message": "Descărcări de aplicații"
+   },
+   "4564682305303579317": {
+      "message": "Continuați"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Se repetă anual}few{Se repetă la fiecare # ani}other{Se repetă la fiecare # de ani}}"
+   },
+   "4607802784047113873": {
+      "message": "Adăugați un colaborator"
+   },
+   "4608848277887462246": {
+      "message": "Mai multe foi de calcul"
+   },
+   "4620034373159179678": {
+      "message": "Pagina $1​ din $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un articol aflat într-un dosar}few{Mutați articole aflate într-un dosar}other{Mutați articole aflate într-un dosar}}"
+   },
+   "4643940860676429496": {
+      "message": "Se salvează..."
+   },
+   "4675792829115971960": {
+      "message": "Vom semnala această notă și o vom elimina din contul dvs."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Se repetă săptămânal în zilele de {days}}few{Se repetă o dată la # săptămâni, în zilele de {days}}other{Se repetă o dată la # de săptămâni, în zilele de {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "Afișare tip listă"
+   },
+   "4700218356982480093": {
+      "message": "Negru"
+   },
+   "4717484643724894786": {
+      "message": "Copiați în document"
+   },
+   "4740100782728373253": {
+      "message": "Salvați în Drive"
+   },
+   "4748046231232264180": {
+      "message": "Formulare Google"
+   },
+   "4751202914935960324": {
+      "message": "Această adresă de e-mail există deja"
+   },
+   "4752655540567953719": {
+      "message": "Poziția $1​"
+   },
+   "4762625944764691132": {
+      "message": "Meniul principal"
+   },
+   "4767722428137216885": {
+      "message": "Anulați"
+   },
+   "477328789314249432": {
+      "message": "Căutați note"
+   },
+   "4773737319879079980": {
+      "message": "Creați note mai rapid folosind aplicația"
+   },
+   "4775368111547931093": {
+      "message": "Nicio descriere"
+   },
+   "4805047680716507619": {
+      "message": " - Mutați în:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4807444103404336088": {
+      "message": "A apărut o problemă la marcarea cu stea a articolului „$1​”."
+   },
+   "4821130290026382049": {
+      "message": "Comenzi rapide de la tastatură populare"
+   },
+   "4833214200453019325": {
+      "message": "$1​ din $2​"
+   },
+   "4840513623749850224": {
+      "message": "Filme"
+   },
+   "4846720038197420778": {
+      "message": "Conectați mai multe aplicații"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notă în Coșul de gunoi"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{Unul selectat}few{# selectate}other{# selectate}}"
+   },
+   "4888104357342241891": {
+      "message": "Mementouri"
+   },
+   "490045476479394048": {
+      "message": "Evidențiați un text pentru a comenta cu privire la acesta"
+   },
+   "4901386320110714275": {
+      "message": "Parolă incorectă. Încercați din nou."
+   },
+   "4906669330059413958": {
+      "message": "Trimiteți parola"
+   },
+   "4907349694646937491": {
+      "message": "Nota a fost mutată la numărul $1​"
+   },
+   "4915450884407029247": {
+      "message": "Eticheta $1​ a fost adăugată."
+   },
+   "4917607226908075328": {
+      "message": "Ștergeți"
+   },
+   "4918998818369420588": {
+      "message": "Raportați un abuz"
+   },
+   "4925002811848839819": {
+      "message": "$1​ (de) elemente au fost mutate din $2​ în $3​."
+   },
+   "4930422592340561418": {
+      "message": "Contul meu Drive"
+   },
+   "4934109328393349339": {
+      "message": "Nu puteți adăuga mai multe elemente"
+   },
+   "4946709842900542238": {
+      "message": "Alb"
+   },
+   "4948512233726694061": {
+      "message": "$4​Pagina$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+   },
+   "4957674814179289955": {
+      "message": "Navigați la articolul următor/precedent din listă"
+   },
+   "4963784280521435720": {
+      "message": "Se salvează..."
+   },
+   "4974059227183970715": {
+      "message": "Puteți adăuga etichete și tastând „#”."
+   },
+   "4982284738093713321": {
+      "message": "Organizator"
+   },
+   "4988132901627446385": {
+      "message": "Panoul cu detalii a fost extins."
+   },
+   "5006765610090288212": {
+      "message": "S-a aplicat culoarea $1​"
+   },
+   "5008901799534614532": {
+      "message": "Ștergeți"
+   },
+   "5009448218905630614": {
+      "message": "Eliminați"
+   },
+   "5011858093760184160": {
+      "message": "Eliminați steaua"
+   },
+   "5014595433724148222": {
+      "message": "Roz aprins"
+   },
+   "501475221876543407": {
+      "message": "Notele pe care le adăugați apar aici"
+   },
+   "5023623739220371850": {
+      "message": "Autentificarea nu a reușit. Modificările vor fi sincronizate atunci când vă conectați."
+   },
+   "5041572047197549869": {
+      "message": "În aceeași zi, lunar"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{În prima zi de {day} a lunii}=2{În a doua zi de {day} a lunii}=3{În a treia zi de {day} a lunii}=4{În a patra zi de {day} a lunii}few{În ultima zi de {day} a lunii}other{În ultima zi de {day} a lunii}}"
+   },
+   "5046219519278664288": {
+      "message": "iPhone și iPad"
+   },
+   "5046371569383796818": {
+      "message": "Păstrați"
+   },
+   "5052461293250181960": {
+      "message": "pagină în jos"
+   },
+   "5054818452036081005": {
+      "message": "$2​Confidențialitate$1​"
+   },
+   "5055673792779951604": {
+      "message": "Bleu"
+   },
+   "5078184843381528205": {
+      "message": "Fixați nota"
+   },
+   "5095987896933771566": {
+      "message": "Printați documentul"
+   },
+   "509815948423424872": {
+      "message": "Navigare"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5130903421326358933": {
+      "message": "A apărut o eroare la salvarea atașamentului în Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "Ștergeți eticheta"
+   },
+   "5140285776541296873": {
+      "message": "Personalizat"
+   },
+   "5151247077945318396": {
+      "message": "A apărut o eroare la selectarea dosarului în care să se extragă."
+   },
+   "5178674191443894176": {
+      "message": "Etichete"
+   },
+   "5180454621500142444": {
+      "message": "Restabiliți"
+   },
+   "5180989337128758117": {
+      "message": "paranteză pătrată stânga"
+   },
+   "5182569285908080938": {
+      "message": "Opțiuni pentru data de încheiere"
+   },
+   "5184692850089055965": {
+      "message": "Extrageți textul din imagine"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Bara cu filele din panoul de detalii. Apăsați pe tastele săgeată stânga și dreapta pentru a comuta între file."
+   },
+   "5202835861850747976": {
+      "message": "$2​Aflați mai multe$1​"
+   },
+   "5204391636475413312": {
+      "message": "Salvați"
+   },
+   "5207219998739322438": {
+      "message": "Mărimea 1"
+   },
+   "5214104290560857118": {
+      "message": "Adăugați un comentariu"
+   },
+   "5217462020153787697": {
+      "message": "{numberOfPreviews,plural, =1{Previzualizarea linkului a fost eliminată}few{# previzualizări ale linkurilor}other{# de previzualizări ale linkurilor}}"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Deschideți cu $1​"
+   },
+   "5253765183290980485": {
+      "message": "Aveți permisiune numai pentru a adăuga și a edita articole în „$1​”. Așadar, nu veți putea anula această acțiune."
+   },
+   "5259541708332520733": {
+      "message": "Sursă eliminată"
+   },
+   "5271615049826004958": {
+      "message": "Opțiuni de previzualizare a linkului"
+   },
+   "5281121179861637423": {
+      "message": "Pentru a accesa $1​ este necesară o parolă. Introduceți parola."
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5299648222246616124": {
+      "message": "accent grav"
+   },
+   "5300527252159851865": {
+      "message": "Conținutul fișierului nu corespunde cu formatul de fișier așteptat."
+   },
+   "5319313176242717957": {
+      "message": "Imagini în curs de procesare..."
+   },
+   "5321772883765574323": {
+      "message": "„$1​” a fost mutat din $2​ în $3​."
+   },
+   "5334959887390704534": {
+      "message": "Această etichetă va fi ștearsă și eliminată din toate notele Keep. Notele nu vor fi șterse."
+   },
+   "5336801339221383042": {
+      "message": "Javascript"
+   },
+   "5336924963122494935": {
+      "message": "Selectați"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Micșorați"
+   },
+   "5353129315502554762": {
+      "message": "Foaie de stil"
+   },
+   "5353173068672429342": {
+      "message": "Instrumente de remediere a erorilor"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Mutați un fișier aflat într-un dosar}few{Mutați fișiere aflate într-un dosar}other{Mutați fișiere aflate într-un dosar}}"
+   },
+   "5363853533596749934": {
+      "message": "Introduceți un nume pentru etichetă"
+   },
+   "5372143986724491245": {
+      "message": "acum $1​ zi"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5394695048211047984": {
+      "message": "Adăugați o dată"
+   },
+   "5398036630337418486": {
+      "message": "Deschideți Documentul Google"
+   },
+   "5399553230649155346": {
+      "message": "peste $1​ oră"
+   },
+   "5403636185480096151": {
+      "message": "TV"
+   },
+   "540596856674438371": {
+      "message": "Nu se poate trimite, deoarece trimiterea este dezactivată."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "541966762661844588": {
+      "message": "Meniu"
+   },
+   "5435749276779042277": {
+      "message": "+ ÎNCĂ $1​"
+   },
+   "5447119197363232006": {
+      "message": "Afișați în Drive"
+   },
+   "5455566801812656827": {
+      "message": "MAI PUȚINE"
+   },
+   "5472312735475866917": {
+      "message": "Comentariu postat de $1​."
+   },
+   "547865385964196102": {
+      "message": "acum $1​ (de) minute"
+   },
+   "54793131422514708": {
+      "message": "Mărimea 3"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "la stânga"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Notă dezarhivată și fixată}few{ # note dezarhivate și fixate}other{ # de note dezarhivate și fixate}}"
+   },
+   "553170279104432593": {
+      "message": "Deschideți Selectorul de culoare și mărime pentru Instrumentul de evidențiere"
+   },
+   "5539958940810433464": {
+      "message": "Mutați nota în coșul de gunoi"
+   },
+   "5542817571710587822": {
+      "message": "Fișierul conține prea multe imagini."
+   },
+   "5545146751578623220": {
+      "message": "Caps-Lock"
+   },
+   "5555182241047709329": {
+      "message": "Alegeți o locație"
+   },
+   "5555599189512365009": {
+      "message": "AM ÎNȚELES"
+   },
+   "556742419793425318": {
+      "message": "Ștergeți"
+   },
+   "5580896674367659519": {
+      "message": "Gri închis"
+   },
+   "5581834527128285229": {
+      "message": "A apărut o problemă la adăugarea elementului „$1​” în My Drive."
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5627470193961862490": {
+      "message": "Notele cu mementourile viitoare apar aici"
+   },
+   "5631086126416409232": {
+      "message": "Albastru"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Ștergeți articolele bifate?"
+   },
+   "5713014647314396479": {
+      "message": "După"
+   },
+   "5714240424645614611": {
+      "message": "Pachet Android"
+   },
+   "5728640851616538925": {
+      "message": "Verde"
+   },
+   "5755541943799933389": {
+      "message": "Ați marcat cu stea articolul „$1​”."
+   },
+   "577619047319778196": {
+      "message": "Deselectați tot"
+   },
+   "5783875011049188612": {
+      "message": "Textul din imagine a fost extras"
+   },
+   "5820033033803019104": {
+      "message": "Organizați"
+   },
+   "5840202488368071194": {
+      "message": "Notă nouă cu imagine"
+   },
+   "5840330517914556080": {
+      "message": "Micșorați"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "585503297543253590": {
+      "message": "Pe"
+   },
+   "5870134033985574990": {
+      "message": "Se extrage..."
+   },
+   "5871966496153339793": {
+      "message": "Se afișează miniatura videoclipului $1​"
+   },
+   "5909490544352162901": {
+      "message": "Solicitați proprietarului permisiunea de a accesa această notă sau comutați la un cont cu permisiune. Sunteți conectat(ă) ca $1​."
+   },
+   "5911012384539794869": {
+      "message": "Eroare la începerea extragerii."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Afișați comentariile rezolvate"
+   },
+   "5949528478488617689": {
+      "message": "Permisiune de descărcare"
+   },
+   "5950887255133612666": {
+      "message": "Nu s-a inițiat redarea."
+   },
+   "5961981688037913870": {
+      "message": "$1​ a fost adăugată"
+   },
+   "5965683144165568126": {
+      "message": "Reordonați elementul din listă"
+   },
+   "5969696744752069015": {
+      "message": "Nu este disponibilă nicio previzualizare."
+   },
+   "597983994875715119": {
+      "message": "Azuriu"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Creați o etichetă"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep se va actualiza peste # secundă}few{Keep se va actualiza peste # secunde}other{Keep se va actualiza peste # de secunde}}"
+   },
+   "6003164344472359508": {
+      "message": "Mărimea 16"
+   },
+   "6005084567691342649": {
+      "message": "Mementouri"
+   },
+   "6009962986062136164": {
+      "message": "Se încarcă $1​."
+   },
+   "6011637630664474614": {
+      "message": "Bara de spațiu"
+   },
+   "6030537159236285525": {
+      "message": "Mutați articolul din listă la poziția următoare/precedentă"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6042628357935708897": {
+      "message": "Nu mai aveți permisiunea de a accesa această notă din contul dvs.  Solicitați proprietarului permisiunea de acces sau comutați la un cont cu permisiune."
+   },
+   "6043578784980337112": {
+      "message": "$1​ (de) fișiere au fost mutate în $2​."
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Se repetă la fiecare {every} (de) luni în prima zi de {day} a lunii}=2{Se repetă la fiecare {every} (de) luni în a doua zi de {day} a lunii}=3{Se repetă la fiecare {every} (de) luni în a treia zi de {day} a lunii}=4{Se repetă la fiecare {every} (de) luni în a patra zi de {day} a lunii}few{Se repetă la fiecare {every} (de) luni în ultima zi de {day} a lunii}other{Se repetă la fiecare {every} (de) luni în ultima zi de {day} a lunii}}"
+   },
+   "6087078248621415351": {
+      "message": "Ultima modificare $1​"
+   },
+   "6100883940579706314": {
+      "message": "Previzualizarea linkului"
+   },
+   "6104991132648864933": {
+      "message": "Ștergeți nota?"
+   },
+   "6105571474005679446": {
+      "message": "A apărut o eroare la previzualizare."
+   },
+   "6113237889871930608": {
+      "message": "Notă fără conținut"
+   },
+   "6118623991445349480": {
+      "message": "Pagina $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "Adrese URL"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lista de aplicații"
+   },
+   "6149175749937815029": {
+      "message": "Afișați toate articolele"
+   },
+   "6156725896714172645": {
+      "message": "Se copiază în Documentul Google"
+   },
+   "6160805346274626656": {
+      "message": "Ștergeți definitiv"
+   },
+   "616807262818311711": {
+      "message": "Tip"
+   },
+   "618371060803280843": {
+      "message": "{numberOfNotes,plural, =1{Ștergeți nota}few{Ștergeți notele}other{Ștergeți notele}}"
+   },
+   "6185886893933834031": {
+      "message": "Păstrați versiunea selectată"
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Se repetă zilnic}few{Se repetă la fiecare # zile}other{Se repetă la fiecare # de zile}}"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Nota a fost fixată}few{# note au fost fixate}other{# de note au fost fixate}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6211895332551673425": {
+      "message": "S-a adăugat în $2​Contul meu Drive$1​"
+   },
+   "6212070333807533570": {
+      "message": "Se adaugă în $2​Contul meu Drive$1​..."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Oricine"
+   },
+   "6252259197986158120": {
+      "message": "Ieri"
+   },
+   "6277118196930285720": {
+      "message": "Reîncărcați"
+   },
+   "628140343505892786": {
+      "message": "Setări"
+   },
+   "6286379137937560558": {
+      "message": "Articol"
+   },
+   "6286806453721792102": {
+      "message": "Organizați în Drive"
+   },
+   "6289564019832728437": {
+      "message": "Puteți s-o distribuiți după ce Keep termină încărcarea."
+   },
+   "6305748545202493254": {
+      "message": "Afișați/Ascundeți panoul de detalii"
+   },
+   "6306268376900894985": {
+      "message": "Se repetă până pe {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6352952829934775705": {
+      "message": "MAI MULTE"
+   },
+   "6366376928558090914": {
+      "message": "Alimentație"
+   },
+   "6375244206466599493": {
+      "message": "An"
+   },
+   "6375395544374251820": {
+      "message": "A apărut o eroare la încărcarea mai multor pagini. Se încearcă din nou…"
+   },
+   "6386587519843563719": {
+      "message": "Fișier binar"
+   },
+   "6394816510866826521": {
+      "message": "Dogfoody"
+   },
+   "6413404795391222793": {
+      "message": "Scrieți altă listă"
+   },
+   "6416495701611778255": {
+      "message": "Aplicații terță parte sugerate"
+   },
+   "6419411265907669340": {
+      "message": "Astăzi"
+   },
+   "6427295696443582545": {
+      "message": "Instrumentul de ștergere"
+   },
+   "6432019580434957057": {
+      "message": "Înregistrări audio"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Nu aveți permisiunea de a muta acest fișier din dosarele sale actuale. În schimb, adăugați fișierul în {START_SPAN_1}{NAME}{END_SPAN}.}few{Nu aveți permisiunea de a muta aceste fișiere din dosarele lor actuale. În schimb, adăugați fișierele în {START_SPAN_2}{NAME}{END_SPAN}.}other{Nu aveți permisiunea de a muta aceste fișiere din dosarele lor actuale. În schimb, adăugați fișierele în {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Pictograma $1​"
+   },
+   "6450611522897524109": {
+      "message": "Verde avocado"
+   },
+   "6457802200418354862": {
+      "message": "Utilizatorii cu acces numai de citire pot descărca"
+   },
+   "6459405233858728718": {
+      "message": "Prezentări Google"
+   },
+   "6464761738227651511": {
+      "message": "acum $1​ minut"
+   },
+   "6466736813846482957": {
+      "message": "Înapoi"
+   },
+   "6466858417983764649": {
+      "message": "Setați mementouri în note pentru locații și ore, creați note vocale și lucrați online sau offline."
+   },
+   "6472238195689960152": {
+      "message": "Alb"
+   },
+   "6473102097014191455": {
+      "message": "Notă cu desen"
+   },
+   "6480260198815372102": {
+      "message": "Activați"
+   },
+   "6496683100661104868": {
+      "message": "$2​Licențe open source$1​"
+   },
+   "6497197865876438261": {
+      "message": "Muzică"
+   },
+   "6507257480072167483": {
+      "message": "Numele etichetei a fost schimbat în $1​."
+   },
+   "6510131849363684615": {
+      "message": "Mâine"
+   },
+   "6513721414466645971": {
+      "message": "Eliminat"
+   },
+   "6522917155620379865": {
+      "message": "Descărcați"
+   },
+   "6524849072392100692": {
+      "message": "Dosar Google Drive"
+   },
+   "6571686604846453345": {
+      "message": "A apărut o eroare la adăugarea acestui articol în Drive."
+   },
+   "6579707685908557993": {
+      "message": "Seara"
+   },
+   "6582286158693833652": {
+      "message": "Aflați mai multe"
+   },
+   "6588176324871799870": {
+      "message": "Script Google Apps"
+   },
+   "661771364073001489": {
+      "message": "Comutați între conturi"
+   },
+   "6618562607681757575": {
+      "message": "Nu mutați din niciun dosar, doar adăugați în $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Aplicație"
+   },
+   "6650600936729710500": {
+      "message": "Răspunsuri."
+   },
+   "6664835828596108553": {
+      "message": "Opțiune"
+   },
+   "670419277288558500": {
+      "message": "Video/Audio"
+   },
+   "6707173584987026005": {
+      "message": "Azi"
+   },
+   "6710728478489145370": {
+      "message": "Închideți"
+   },
+   "6713235295664405475": {
+      "message": "pe|la"
+   },
+   "6715985122107380503": {
+      "message": "Înregistrări"
+   },
+   "6726462693927865256": {
+      "message": "Detalii"
+   },
+   "6726879257388338969": {
+      "message": "Printați"
+   },
+   "6732800471045353930": {
+      "message": "La această notă a fost permis accesul pentru numărul maxim de persoane."
+   },
+   "673551770550324419": {
+      "message": "Ajustați după lățime"
+   },
+   "6744457949320515234": {
+      "message": "Notă fără conținut ștearsă"
+   },
+   "6747379635033535953": {
+      "message": "Adăugați elemente noi în partea de jos"
+   },
+   "6747528043814108113": {
+      "message": "S-a comutat la $1​"
+   },
+   "6749829802551750923": {
+      "message": "în sus"
+   },
+   "6750600017746655174": {
+      "message": "Opțiune"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Trimiteți acest articol?}few{Trimiteți aceste articole?}other{Trimiteți aceste articole?}}"
+   },
+   "6778577079172085976": {
+      "message": "Fixate"
+   },
+   "6780628488957834429": {
+      "message": "Portocaliu"
+   },
+   "6787580031482277539": {
+      "message": "Niciodată"
+   },
+   "6797862596948579998": {
+      "message": "Aplicația Chrome"
+   },
+   "6801348618370627980": {
+      "message": "Eticheta $1​ a fost creată."
+   },
+   "681598652078493281": {
+      "message": "Aflați mai multe"
+   },
+   "6822520214440117457": {
+      "message": "Serviciu"
+   },
+   "6823109315717909214": {
+      "message": "Încercați"
+   },
+   "6827821461670731013": {
+      "message": "Afișați casetele de selectare"
+   },
+   "6833760103261954639": {
+      "message": "A apărut o eroare la încărcarea acestei pagini. Se încearcă din nou…"
+   },
+   "6845496099067370773": {
+      "message": "Roșu"
+   },
+   "6861978427131390279": {
+      "message": "Trimiteți feedback"
+   },
+   "6891563484025164308": {
+      "message": "Înapoi"
+   },
+   "6898823203505321799": {
+      "message": "Detalii"
+   },
+   "6904351530369058983": {
+      "message": "Proprietar"
+   },
+   "6911028933894691912": {
+      "message": "Acest desen va fi disponibil când veți fi online."
+   },
+   "6922953828399110511": {
+      "message": "Închideți ecranul de vizualizare"
+   },
+   "693770783324368110": {
+      "message": "Fixarea notelor a fost anulată, iar notele au fost mutate în coșul de gunoi"
+   },
+   "6939806490818256358": {
+      "message": "{resultCount,plural, =1{# rezultat de căutare}few{# rezultate de căutare}other{# de rezultate de căutare}}"
+   },
+   "695253297035211081": {
+      "message": "Goliți Coșul de gunoi"
+   },
+   "6963401564174052300": {
+      "message": "Desenul nu este disponibil momentan."
+   },
+   "6982682101118067511": {
+      "message": "Se organizează…"
+   },
+   "701276785305022936": {
+      "message": "Documentul este corupt. Asigurați-vă că fișierul este în formatul cel mai recent."
+   },
+   "7017384731286920634": {
+      "message": "Verde-deschis"
+   },
+   "7017485862232001373": {
+      "message": "„$1​” a fost adăugat în $2​."
+   },
+   "7019002927048576918": {
+      "message": "Filtre de căutare $1​"
+   },
+   "7050021021988648361": {
+      "message": "Copiați adresa URL"
+   },
+   "7050898523853841537": {
+      "message": "Opțiuni pentru frecvență"
+   },
+   "7054631817922169541": {
+      "message": "În Google Keep sunt modificări nesalvate. Doriți să părăsiți pagina și să renunțați la schimbări?"
+   },
+   "705714112650622350": {
+      "message": "A apărut o eroare la adăugarea articolului în Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "Redați videoclipul $1​ pe YouTube"
+   },
+   "7065454163742312322": {
+      "message": "Mai multe culori"
+   },
+   "7084324152376766809": {
+      "message": "acum $1​ (de) zile"
+   },
+   "7084991134824194740": {
+      "message": "Reamintește-mi"
+   },
+   "7086801490719148597": {
+      "message": "Deselectați"
+   },
+   "7106150113490082402": {
+      "message": "Lavandă"
+   },
+   "7126535013613878060": {
+      "message": "Fixați notele importante în partea de sus."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Se reordonează nota"
+   },
+   "7146242673022399081": {
+      "message": "Text"
+   },
+   "7148992630785407972": {
+      "message": "Acest fișier este protejat prin parolă și nu se poate previzualiza."
+   },
+   "7153847618034547771": {
+      "message": "Activați"
+   },
+   "7161134329606048317": {
+      "message": "Închideți"
+   },
+   "7161718175684624843": {
+      "message": "Ștergeți eticheta"
+   },
+   "7164532930742017984": {
+      "message": "Oricine are linkul"
+   },
+   "7166989725427500881": {
+      "message": "Selectați nota mutată în coșul de gunoi"
+   },
+   "7174189954350964804": {
+      "message": "Încercați din nou"
+   },
+   "7174908348310449675": {
+      "message": "Personalizați setările prestabilite pentru mementouri"
+   },
+   "7181961085183734135": {
+      "message": "Printarea este dezactivată pentru acest fișier"
+   },
+   "7225445911355686176": {
+      "message": "Selectați nota arhivată"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "A apărut o problemă la extragerea fișierului „$1​”."
+   },
+   "7265183966796883739": {
+      "message": "Ascundeți comentariile rezolvate"
+   },
+   "7278398674737413598": {
+      "message": "Imposibil de convertit documentul."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Notă arhivată}few{# note arhivate}other{# de note arhivate}}"
+   },
+   "7282548567245878869": {
+      "message": "Articol șters"
+   },
+   "7290932540630116546": {
+      "message": "Mementoul a fost setat. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Renunțați la modificări? Modificările nu vor fi salvate."
+   },
+   "7304355547638486270": {
+      "message": "Descărcați fișierul audio ($1​)"
+   },
+   "7337660181466605745": {
+      "message": "Nu s-a putut actualiza „$1​” în Drive."
+   },
+   "7342923890755029722": {
+      "message": "Închideți"
+   },
+   "734478884582426793": {
+      "message": "Arhivă comprimată"
+   },
+   "7345191981142988484": {
+      "message": "Desenul a fost șters"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7368945547292826843": {
+      "message": "Accesați linkul"
+   },
+   "7377239345926788722": {
+      "message": "Acțiuni"
+   },
+   "7382688299146249119": {
+      "message": "Descărcați articolul"
+   },
+   "7383706174467122149": {
+      "message": "Notă ștearsă"
+   },
+   "7388342865555961406": {
+      "message": "peste $1​ zi"
+   },
+   "7389099426842546376": {
+      "message": "Colaborarea nu este disponibilă momentan"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Mesajele din $1​ au fost extrase în contul dvs. de e-mail cu eticheta „Import: $2​”."
+   },
+   "7422452809590461532": {
+      "message": "Roșu"
+   },
+   "7426603384368095928": {
+      "message": "Reîncărcați pagina pentru a vă conecta din nou și a continua să lucrați."
+   },
+   "7427333772418801813": {
+      "message": "Butonul Încă $1​ a fost extins"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (ultima editare: $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Se salvează în Drive"
+   },
+   "744753705925710199": {
+      "message": "Nu am putut să autorizăm această aplicație pentru toate fișierele pe care ați încercat să le deschideți. Încercați din nou."
+   },
+   "7452116603589558390": {
+      "message": "Deselectați nota fixată"
+   },
+   "7458942806393710991": {
+      "message": "Deselectați nota arhivată"
+   },
+   "7468842863971844562": {
+      "message": "Listă nouă"
+   },
+   "7469895656894091562": {
+      "message": "Această adresă de e-mail nu este validă"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Se repetă lunar în prima zi de {day} a lunii}=2{Se repetă lunar în a doua zi de {day} a lunii}=3{Se repetă lunar în a treia zi de {day} a lunii}=4{Se repetă lunar în a patra zi de {day} a lunii}few{Se repetă lunar în ultima zi de {day} a lunii}other{Se repetă lunar în ultima zi de {day} a lunii}}"
+   },
+   "7483088916037874359": {
+      "message": "Fișierul este prea mare. "
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7500786109708143683": {
+      "message": "Înregistrarea audio a fost ștearsă"
+   },
+   "7503234138288940590": {
+      "message": "Căutați"
+   },
+   "7507827375601925075": {
+      "message": "Mutați nota la poziția următoare/precedentă"
+   },
+   "7530677128711603655": {
+      "message": "Rezultatele căutării pentru „$1​”"
+   },
+   "754367112212424716": {
+      "message": "Astăzi, mai târziu"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# selectat}few{# selectate}other{# selectate}}"
+   },
+   "7565383798249439151": {
+      "message": "peste $1​ (de) zile"
+   },
+   "7579280421767578228": {
+      "message": "Memento pentru o zi oarecare"
+   },
+   "7586291841734385643": {
+      "message": "Deschideți separat"
+   },
+   "7587936635257676112": {
+      "message": "Ați adăugat pe $1​"
+   },
+   "7598582624136632660": {
+      "message": "Deschideți bara de căutare/rezultatul următor"
+   },
+   "7598850438299201663": {
+      "message": "Se deschide „$1​”..."
+   },
+   "7604275940271852148": {
+      "message": "Extrageți în contul de e-mail"
+   },
+   "7604400308311739073": {
+      "message": "Fixați"
+   },
+   "7610628906656867728": {
+      "message": "Arhivați"
+   },
+   "7610654194202731772": {
+      "message": "Ștergeți"
+   },
+   "7629685876277801112": {
+      "message": "A apărut o eroare la afișarea acestui fișier cu hărți."
+   },
+   "7630723924002267143": {
+      "message": "Comenzile rapide de la tastatură sunt activate."
+   },
+   "7649506133540465463": {
+      "message": "Nu s-a putut anula acțiunea."
+   },
+   "7656983816661099886": {
+      "message": "Lucruri"
+   },
+   "7659047104232758352": {
+      "message": "acela|acesta"
+   },
+   "7669846901402551021": {
+      "message": "Astăzi"
+   },
+   "7691521283331762131": {
+      "message": "Notele arhivate apar aici"
+   },
+   "7709889936233398701": {
+      "message": "Eliminați"
+   },
+   "7715735412192018288": {
+      "message": "Ajutor"
+   },
+   "7715892737835649602": {
+      "message": "Puteți adăuga etichete și tastând „#”."
+   },
+   "772000107335590599": {
+      "message": "peste $1​ (de) minute"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "773857106517884529": {
+      "message": "Gri deschis"
+   },
+   "774390292128857049": {
+      "message": "Căutați"
+   },
+   "7751981235297474273": {
+      "message": "Anulați"
+   },
+   "7772544658778579390": {
+      "message": "Găsiți în document"
+   },
+   "777546328624962090": {
+      "message": "Fișierul nu poate fi încărcat. Se acceptă fișiere $1​ mai mici de $2​ MB și $3​ (de) megapixeli."
+   },
+   "7791050524692390574": {
+      "message": "Culori"
+   },
+   "7800318069267901681": {
+      "message": "Modificat"
+   },
+   "7814778057875152792": {
+      "message": "A apărut o eroare la mutarea atașamentului în dosarul selectat din Google Drive."
+   },
+   "7822364282298323175": {
+      "message": "Lista a fost ștearsă"
+   },
+   "7828886646639771557": {
+      "message": "Creați o notă…"
+   },
+   "7830513726270865588": {
+      "message": "Calendar"
+   },
+   "7842164552344536314": {
+      "message": "Se organizează..."
+   },
+   "7844842290699524598": {
+      "message": "S-a atins limita pentru etichete. Pentru a adăuga o etichetă nouă, ștergeți una existentă."
+   },
+   "7845751753397906805": {
+      "message": "S-au găsit modificări incompatibile"
+   },
+   "785840448809859989": {
+      "message": "Opțiuni pentru oră"
+   },
+   "7865240075542402013": {
+      "message": "Marcați cu stea"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7876831800396633138": {
+      "message": "Modul ecran complet"
+   },
+   "7889179838401647357": {
+      "message": "Solicitare trimisă. După aprobare, veți primi un e-mail."
+   },
+   "7895643887742936844": {
+      "message": "punct și virgulă"
+   },
+   "7899913952063063825": {
+      "message": "Imaginea a fost ștearsă"
+   },
+   "7901771370781969022": {
+      "message": "Carte"
+   },
+   "7903276896883020622": {
+      "message": "Nu se poate permite accesul acum"
+   },
+   "7906726367011430855": {
+      "message": "Conectați"
+   },
+   "7910887984113996757": {
+      "message": "Activați trimiterea"
+   },
+   "7922692430438844436": {
+      "message": "Extrageți"
+   },
+   "792315196550007047": {
+      "message": "Niciun rezultat."
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Se încarcă…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# notă selectată}few{# note selectate}other{# de note selectate}}"
+   },
+   "7976461426527138085": {
+      "message": "Liste"
+   },
+   "7988058806865329896": {
+      "message": "Alegeți data și ora"
+   },
+   "7996360883730444101": {
+      "message": "A apărut o eroare la deschiderea acestui fișier. Încercați din nou."
+   },
+   "8010075936095394680": {
+      "message": "Versiunea fișierului este prea veche. Asigurați-vă că fișierul este în formatul cel mai recent. "
+   },
+   "8011497727123874703": {
+      "message": "Buton pentru dosarul $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{ununsed plural form}=1{Mutați un articol din dosare comune. Prin urmare, alte persoane nu vor mai avea acces.}few{Mutați {NUM_ITEMS_2} articole din dosare comune. Prin urmare, alte persoane nu vor mai avea acces.}other{Mutați {NUM_ITEMS_2} de articole din dosare comune. Prin urmare, alte persoane nu vor mai avea acces.}}"
+   },
+   "8019402848412685977": {
+      "message": "Articolul „$2​” a fost redenumit ca „$1​”."
+   },
+   "8021465164414684024": {
+      "message": "{count,plural, =1{# articol șters}few{ # articole șterse}other{# de articole șterse}}"
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# articol finalizat}few{# articole finalizate}other{# de articole finalizate}}"
+   },
+   "8043514121228710092": {
+      "message": "Adăugați o imagine"
+   },
+   "8044700199531805239": {
+      "message": "$3​$1​$2​ s-a conectat."
+   },
+   "8066398070826666542": {
+      "message": "{count,plural, =1{+ # articol finalizat}few{+ # articole finalizate}other{+ # de articole finalizate}}"
+   },
+   "8069384932934428393": {
+      "message": "peste $1​ minut"
+   },
+   "8080583426915938264": {
+      "message": "Aplicații pe computerul dvs."
+   },
+   "8085493757603803516": {
+      "message": "Editați selecția"
+   },
+   "8090743714060857028": {
+      "message": "Utilizatorii cu acces numai de citire nu pot descărca"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 byți}=1{1 byte}few{# byți}other{# de byți}}"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Mutați dintr-un dosar}=2{Mutați din ambele dosare}few{Mutați din toate cele # dosare}other{Mutați din toate cele # de dosare}}"
+   },
+   "8125425371755035523": {
+      "message": "Anulați"
+   },
+   "8126340137798672888": {
+      "message": "$1​ (de) fișiere au fost mutate din $2​ în $3​."
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8135145577663029437": {
+      "message": "Păstrați ambele versiuni"
+   },
+   "814178220294444613": {
+      "message": "$1​ (de) fișiere au fost adăugate în $2​."
+   },
+   "8144512434938656483": {
+      "message": "sau"
+   },
+   "8146560259680897627": {
+      "message": "Anulați"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Trimiteți feedback"
+   },
+   "8174654098152723289": {
+      "message": "Editați descrierea"
+   },
+   "8194941811853358224": {
+      "message": "A apărut o problemă la eliminarea stelei pentru articolul „$1​”."
+   },
+   "820664195135544910": {
+      "message": "Portocaliu"
+   },
+   "8214941501817169086": {
+      "message": "{count,plural, =1{Ștergeți definitiv nota?}few{Ștergeți definitiv notele?}other{Ștergeți definitiv notele?}}"
+   },
+   "821942580510564685": {
+      "message": "Introduceți parola acestui document pentru a-l vedea"
+   },
+   "8223878224920694193": {
+      "message": "La fiecare"
+   },
+   "8224193807932432983": {
+      "message": "Acțiuni"
+   },
+   "8231449936104909428": {
+      "message": "A apărut o problemă la mutarea „$1​” în dosarul selectat din Drive."
+   },
+   "8242655297101700529": {
+      "message": "Contul meu Drive"
+   },
+   "826433162451399549": {
+      "message": "Mâine"
+   },
+   "8273434617910595878": {
+      "message": "în jos"
+   },
+   "8281141013543828574": {
+      "message": "Imagine RAW"
+   },
+   "8304474373444239435": {
+      "message": "Răspuns postat de $1​."
+   },
+   "8305505634689906340": {
+      "message": "Căutați în „$1​”"
+   },
+   "8322416564157128458": {
+      "message": "Permisiuni"
+   },
+   "8332720954679654953": {
+      "message": "Descărcări de aplicații"
+   },
+   "8334718599538726981": {
+      "message": "Nota a fost actualizată"
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Închideți"
+   },
+   "837692854094319105": {
+      "message": "Următorilor utilizatori nu le puteți trimite fișiere pentru că administratorul acestora a dezactivat trimiterea în domeniul respectiv."
+   },
+   "8379952094517631162": {
+      "message": "Nu"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412098268689886334": {
+      "message": "Îmbinați"
+   },
+   "8412306118114780633": {
+      "message": "Actualizați"
+   },
+   "8412733496413412439": {
+      "message": "Offline"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Evidențiați o celulă pentru a comenta cu privire la aceasta"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Întrerupeți"
+   },
+   "847320208126653829": {
+      "message": "Deschideți Selectorul de culoare și mărime pentru Instrumentul de caligrafie"
+   },
+   "8493378997610580289": {
+      "message": "Mai multe comenzi rapide"
+   },
+   "8501142460706022179": {
+      "message": "Aplicație nativă prestabilită"
+   },
+   "8505989225387082493": {
+      "message": "Adăugați o etichetă"
+   },
+   "8509270263487836281": {
+      "message": "Conectați-vă"
+   },
+   "8517148045938431718": {
+      "message": "Remediați erorile"
+   },
+   "8535916611285039243": {
+      "message": "Închideți"
+   },
+   "8591848339430983053": {
+      "message": "Note"
+   },
+   "8595175575778060149": {
+      "message": "Mai multe"
+   },
+   "8596279649507974639": {
+      "message": "Mutați aici"
+   },
+   "8602525917014156029": {
+      "message": "Locații"
+   },
+   "8616342546716995946": {
+      "message": "Am înțeles"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8626694988569301667": {
+      "message": "Desenul nu este disponibil"
+   },
+   "8646821180780920830": {
+      "message": "Etichete"
+   },
+   "8652657235429996594": {
+      "message": "În curând"
+   },
+   "8660016472468563221": {
+      "message": "două puncte"
+   },
+   "8663507590720636709": {
+      "message": "$1​ + încă $2​"
+   },
+   "8663993454460982287": {
+      "message": "Casetele de selectare sunt ascunse"
+   },
+   "8674222789100049233": {
+      "message": "Închideți"
+   },
+   "86815590954366945": {
+      "message": "Lista de conținuturi arhivate"
+   },
+   "8708723278154759600": {
+      "message": "Notele au fost arhivate"
+   },
+   "8711002053494037632": {
+      "message": "Toate articolele au fost debifate"
+   },
+   "8734569874711220205": {
+      "message": "Meniu de navigare"
+   },
+   "8742388056829916665": {
+      "message": "Afișați previzualizările îmbogățite ale linkurilor"
+   },
+   "8747586020318913818": {
+      "message": "Instrumentul de caligrafie"
+   },
+   "8770362429333850884": {
+      "message": "Meniul selectorului de etichete a fost deschis"
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8781837301864053001": {
+      "message": "Text îmbogățit"
+   },
+   "8786673003584562680": {
+      "message": "Pg-up"
+   },
+   "8792038552136453044": {
+      "message": "Hopa! A apărut o eroare"
+   },
+   "8793166064242077041": {
+      "message": "A apărut o eroare la afișarea acestei imagini."
+   },
+   "8822326207328431952": {
+      "message": "Încărcarea de imagini nu este disponibilă"
+   },
+   "8845176264121061589": {
+      "message": "Debifați toate articolele"
+   },
+   "8850238112725591771": {
+      "message": "comanda rapidă $1​"
+   },
+   "8851252390780816895": {
+      "message": "Jurnal client"
+   },
+   "8852550049823214385": {
+      "message": "apoi"
+   },
+   "8860658114732392347": {
+      "message": "Ștergeți mementoul"
+   },
+   "8867634760949689122": {
+      "message": "Fișierul nu poate fi convertit: procesul de conversie a expirat. Încercați din nou mai târziu."
+   },
+   "8868758864963683383": {
+      "message": "Deselectați nota"
+   },
+   "887001400549949730": {
+      "message": "Deschideți în fereastră nouă"
+   },
+   "888015650266122140": {
+      "message": "repetări"
+   },
+   "8889019648958415451": {
+      "message": "Fișier necunoscut"
+   },
+   "8892163365003749853": {
+      "message": "Instrumentul de selecție"
+   },
+   "8917554093651202032": {
+      "message": "Redați $1​"
+   },
+   "8919660666733306860": {
+      "message": "Imagine"
+   },
+   "8930959387403789939": {
+      "message": "Memento"
+   },
+   "8938626240031421092": {
+      "message": "Comutați între casetele de selectare"
+   },
+   "8943760679396635042": {
+      "message": "Se afișează $1​."
+   },
+   "8953555255469284376": {
+      "message": "Plasați imagini aici"
+   },
+   "8958118622768332570": {
+      "message": "Nu s-a copiat în Documentul Google"
+   },
+   "8975305711699693093": {
+      "message": "Ascundeți coloana de comentarii"
+   },
+   "8977359195911624009": {
+      "message": "Încă $1​"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Se repetă săptămânal}few{Se repetă la fiecare # săptămâni}other{Se repetă la fiecare # de săptămâni}}"
+   },
+   "8979615310931291676": {
+      "message": "Ultima editare $1​"
+   },
+   "8988925599985431446": {
+      "message": "Anulați fixarea"
+   },
+   "8999857151110318749": {
+      "message": "Mov"
+   },
+   "900086393693234779": {
+      "message": "Acasă"
+   },
+   "9012753183662045049": {
+      "message": "Introduceți un nume de etichetă mai scurt"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Nu veți mai avea acces la această notă.}few{Nu veți mai avea acces la aceste note.}other{Nu veți mai avea acces la aceste note.}}"
+   },
+   "9024023699330078373": {
+      "message": "Dacă deschideți articolul, acesta va fi adăugat în Drive"
+   },
+   "9030534135553586694": {
+      "message": "Sursă"
+   },
+   "9058308423774656474": {
+      "message": "Procesor de text hangul"
+   },
+   "9063863448028905602": {
+      "message": "Eliminați din rezultate"
+   },
+   "9072994494820207560": {
+      "message": "Articol bifat"
+   },
+   "9083935734710258396": {
+      "message": "Refuzați"
+   },
+   "9094248058931620597": {
+      "message": "Panoul cu detalii a fost restrâns."
+   },
+   "910247501857754225": {
+      "message": "Mov intens"
+   },
+   "911586799466052745": {
+      "message": "Desen OpenOffice"
+   },
+   "9121915169985572840": {
+      "message": "Schimbați culoarea"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{ununsed plural form}=1{unused plural form}few{Membrii Drive-urilor în echipă nu vor mai avea acces decât dacă aceste articole le sunt trimise.}other{Membrii Drive-urilor în echipă nu vor mai avea acces decât dacă aceste articole le sunt trimise.}}"
+   },
+   "9149141099919589043": {
+      "message": "Comma Separated Values"
+   },
+   "9156878962731584153": {
+      "message": "Maro închis"
+   },
+   "918181312329879123": {
+      "message": "$1​ (de) dosare au fost adăugate în $2​."
+   },
+   "9197837492705576727": {
+      "message": "Accesați articolul următor"
+   },
+   "919969969251998566": {
+      "message": "Extrageți această arhivă în contul dvs. de e-mail."
+   },
+   "9208632284144316801": {
+      "message": "Se repetă"
+   },
+   "9213031420087755232": {
+      "message": "Goliți pagina"
+   },
+   "938074023403688885": {
+      "message": "Eliminați"
+   },
+   "951963820437151566": {
+      "message": "Site-uri Google"
+   },
+   "960732173870658714": {
+      "message": "Document Google Keep"
+   },
+   "976103457024703736": {
+      "message": "Nu s-a putut deschide „$1​”."
+   },
+   "985197728509875956": {
+      "message": "Chemical Model"
+   },
+   "991852286447868510": {
+      "message": "Se caută $1​"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Notați-vă rapid ideile și trimiteți-le prietenilor și familiei."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - notițe și liste"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

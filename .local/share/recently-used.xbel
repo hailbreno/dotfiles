@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/breno/Pictures/forest-patrol.jpg" added="2017-01-23T23:35:38Z" modified="2017-01-23T23:35:38Z" visited="2017-01-23T23:35:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2017-01-23T23:35:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/breno/Pictures/neofetch-2017-01-24-06-21-17-12297.png" added="2017-01-24T20:21:40Z" modified="2017-01-24T20:21:40Z" visited="2017-01-24T20:21:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2017-01-24T20:21:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/breno/Pictures/neon-grid.png" added="2017-02-14T23:32:58Z" modified="2017-02-14T23:32:58Z" visited="2017-02-14T23:32:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2017-02-14T23:32:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/breno/pictures/neofetch-2017-02-21-08-22-29-9182.png" added="2017-02-21T23:29:02Z" modified="2017-02-21T23:36:26Z" visited="2017-02-21T23:29:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2017-02-21T23:36:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

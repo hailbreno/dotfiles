@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Applications"
+   },
+   "change": {
+      "message": "Modifier"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>de Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Nouvel onglet par défaut"
+   },
+   "extdescription": {
+      "message": "Les chefs-d'œuvre de l'Art Project de Google Cultural Institute sont disponibles dans les onglets de votre navigateur."
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Afficher le bouton \"Applications\""
+   },
+   "optionsappsbtndesc": {
+      "message": "Ouvrir la page des applications de Chrome"
+   },
+   "optionsinterface": {
+      "message": "Paramètres de l'interface"
+   },
+   "optionsntpbtn": {
+      "message": "Afficher le bouton \"Nouvel onglet par défaut\""
+   },
+   "optionsntpbtndesc": {
+      "message": "Ouvrir le nouvel onglet par défaut de Chrome"
+   },
+   "optionstopsitesbtn": {
+      "message": "Afficher le bouton \"Sites les plus visités\""
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Ouvrir une liste brève des sites Web que vous consultez le plus fréquemment"
+   },
+   "pagetitle": {
+      "message": "Nouvel onglet"
+   },
+   "showappsbutton": {
+      "message": "Afficher le bouton \"Applications\""
+   },
+   "showdefaulttablink": {
+      "message": "Afficher le bouton \"Nouvel onglet par défaut\""
+   },
+   "showtopsitesbutton": {
+      "message": "Afficher le bouton \"Sites les plus visités\""
+   },
+   "topsites": {
+      "message": "Sites les plus visités"
+   },
+   "turnovergroup": {
+      "message": "Changer d'œuvre d'art…"
+   },
+   "turnovermodealways": {
+      "message": "Dans chaque nouvel onglet"
+   },
+   "turnovermodedaily": {
+      "message": "Tous les jours"
+   },
+   "unknown": {
+      "message": "Artiste inconnu"
+   },
+   "untitled": {
+      "message": "Sans titre"
+   }
+}

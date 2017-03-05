@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "App"
+   },
+   "change": {
+      "message": "Cambia"
+   },
+   "close": {
+      "message": "Chiudi"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>di Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Nuova scheda predefinita"
+   },
+   "extdescription": {
+      "message": "Capolavori di Art Project di Google Cultural Institute nelle schede del tuo browser"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Mostra pulsante App"
+   },
+   "optionsappsbtndesc": {
+      "message": "Apre la pagina delle app Chrome"
+   },
+   "optionsinterface": {
+      "message": "Impostazioni interfaccia"
+   },
+   "optionsntpbtn": {
+      "message": "Mostra pulsante Nuova scheda predefinita"
+   },
+   "optionsntpbtndesc": {
+      "message": "Apre una nuova scheda predefinita di Chrome"
+   },
+   "optionstopsitesbtn": {
+      "message": "Mostra pulsante Siti principali"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Apre un rapido elenco dei siti web che visiti più spesso"
+   },
+   "pagetitle": {
+      "message": "Nuova scheda"
+   },
+   "showappsbutton": {
+      "message": "Mostra pulsante App"
+   },
+   "showdefaulttablink": {
+      "message": "Mostra pulsante Nuova scheda predefinita"
+   },
+   "showtopsitesbutton": {
+      "message": "Mostra pulsante Siti principali"
+   },
+   "topsites": {
+      "message": "Siti principali"
+   },
+   "turnovergroup": {
+      "message": "Cambia opera d'arte..."
+   },
+   "turnovermodealways": {
+      "message": "In ciascuna nuova scheda"
+   },
+   "turnovermodedaily": {
+      "message": "Ogni giorno"
+   },
+   "unknown": {
+      "message": "Artista sconosciuto"
+   },
+   "untitled": {
+      "message": "Senza titolo"
+   }
+}

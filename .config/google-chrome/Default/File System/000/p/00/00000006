@@ -1,0 +1,27 @@
+19:29:17 GMT-0200 (BRST) (WARN) /background.html: Account offline
+    at k (/js/main/Account.js:2:2945)
+19:29:17 GMT-0200 (BRST) (LOG) /background.html: Went offline. at /js/main/Extension.js:3:7096
+19:33:55 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7092)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+19:34:00 GMT-0200 (BRST) (LOG) /background.html: Went online. at /js/main/Extension.js:3:7171
+19:36:32 GMT-0200 (BRST) (LOG) /background.html: Went offline. at /js/main/Extension.js:3:7096
+19:36:33 GMT-0200 (BRST) (LOG) /background.html: Went online. at /js/main/Extension.js:3:7171
+21:31:47 GMT-0200 (BRST) (WARN) /background.html: Account offline
+    at k (/js/main/Account.js:2:2945)
+22:00:35 GMT-0200 (BRST) (WARN) /background.html: Account offline
+    at k (/js/main/Account.js:2:2945)
+22:01:04 GMT-0200 (BRST) (LOG) /background.html: Went online. at /js/main/Extension.js:3:7171
+22:05:21 GMT-0200 (BRST) (WARN) /background.html: Account online
+    at k (/js/main/Account.js:2:3033)
+22:05:21 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+22:09:46 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+22:20:49 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+22:43:31 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+22:43:52 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)

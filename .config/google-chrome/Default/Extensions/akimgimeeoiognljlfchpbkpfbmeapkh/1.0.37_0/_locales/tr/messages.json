@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Uygulamalar"
+   },
+   "change": {
+      "message": "Değiştir"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>Google Cultural Institute'tan\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Varsayılan yeni sekme"
+   },
+   "extdescription": {
+      "message": "Google Cultural Institute'tan tarayıcınızda görüntüleyebileceğiniz Art Project şaheserleri"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Uygulamalar düğmesini göster"
+   },
+   "optionsappsbtndesc": {
+      "message": "Chrome'un uygulamalar sayfasını açar"
+   },
+   "optionsinterface": {
+      "message": "Arayüz ayarları"
+   },
+   "optionsntpbtn": {
+      "message": "Varsayılan yeni sekme düğmesini göster"
+   },
+   "optionsntpbtndesc": {
+      "message": "Chrome'un varsayılan yeni sekmesini açar"
+   },
+   "optionstopsitesbtn": {
+      "message": "Sık ziyaret edilen siteler düğmesini göster"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "En çok ziyaret ettiğiniz web sitelerini hızlıca görebileceğiniz bir liste açar"
+   },
+   "pagetitle": {
+      "message": "Yeni Sekme"
+   },
+   "showappsbutton": {
+      "message": "Uygulamalar düğmesini göster"
+   },
+   "showdefaulttablink": {
+      "message": "Varsayılan yeni sekme düğmesini göster"
+   },
+   "showtopsitesbutton": {
+      "message": "Sık ziyaret edilen siteler düğmesini göster"
+   },
+   "topsites": {
+      "message": "Sık ziyaret edilen siteler"
+   },
+   "turnovergroup": {
+      "message": "Sanat eserini değiştir..."
+   },
+   "turnovermodealways": {
+      "message": "Her yeni sekmede"
+   },
+   "turnovermodedaily": {
+      "message": "Günlük"
+   },
+   "unknown": {
+      "message": "Bilinmeyen sanatçı"
+   },
+   "untitled": {
+      "message": "Adsız"
+   }
+}

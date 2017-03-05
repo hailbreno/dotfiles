@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Dropbox คือบริการที่ช่วยให้คุณเข้าถึงรูปภาพ เอกสาร และวิดีโอทั้งหมดได้จากทุกที่โดยไม่เสียค่าใช้จ่าย."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Dropbox"
+   }
+}

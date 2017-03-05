@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://inbox.google.com/"
+      },
+      "urls": [ "https://inbox.google.com/" ]
+   },
+   "description": "Inbox keeps things organized and helps you get back to what matters.",
+   "icons": {
+      "128": "ic_product_inbox_128dp.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzQJBGQWtuqQ6Lkxrq0kqBl/wyzPJQJYFhUkbsYxdWyTWlaj/u29yykXhOXmQpyv3Nd08TgiVsArA/WsxBh5Il0d4vj3sMF/OxOubZQF3+1KkydhsvM3Vcvs++DLjGQqJZ4ISp72HiSEXDh+4dpx6JfNjyJePFi9NTIr2esEQuO/bFwEe4ZFqZfHu7ERlJSNkQvvzfIighrFghn/aIy13/GoVbpAcQ/fRtaElHet3Tu5LplrgRBVHoHenypeJM9Ail5IrmA44ZZTVxxXSA2ZWmpqsMYvbNvQz+fFgOz66VqPl+YEB6FOfTTOYBZmMc4c730nsrWLuZkHR9ITJzc5c8QIDAQAB",
+   "manifest_version": 2,
+   "name": "Inbox by Gmail",
+   "permissions": [  ],
+   "short_name": "Inbox",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

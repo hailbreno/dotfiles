@@ -1,0 +1,246 @@
+
+
+#createAccountDialog {
+  width: 350px;
+  height: 275px;
+  background-color: #F3F4F7;
+}
+.large-view {
+  width: 700px !important;
+  height: 360px !important;
+}
+#mpFields {
+  width: 315px;
+  float: left;
+}
+
+/* HELP CONTAINER AND ARROW */
+#helpContainer {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  width: 330px;
+  height: calc(100% - 24px);
+  background-color: white;
+  box-shadow: 0 1px 2px 0 rgba(146,146,146,0.5);
+}
+.arrow-box {
+  position: absolute;
+  box-sizing: border-box;
+  background: #F3F4F7;
+}
+.extensionCreateAccount .help-box .tip-validators {
+  line-height: 16px;
+}
+.extensionCreateAccount .tip-more-container {
+  margin-top: 12px;
+}
+.arrow-box:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  box-sizing: border-box;
+  border: 7px solid black;
+  transform-origin: 0 0;
+  transform: rotate(-225deg);
+  margin-left: 13.5px;
+}
+.arrow-box.a-left {
+  left: -4px;
+}
+.arrow-box.a-left:after {
+  box-shadow: 2px 2px 2px 0 rgba(0, 0, 0, 0.1);
+  border-color: transparent white white transparent;
+}
+
+/* INPUTS AND LABELS */
+
+.extensionCreateAccount .checkbox + label{
+  height: auto;
+}
+
+#mpEntry {
+  width: 700px;
+  height: 400px;
+  margin-left: 13px;
+}
+
+#emailEntry {
+  width: 315px;
+  margin-left: 13px;
+}
+
+.extensionCreateAccount{
+  font-size: 13px;
+}
+
+.extensionCreateAccount label {
+  color: #3B4A54;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 18px;
+  display: inline-block;
+}
+
+.extensionCreateAccount .text-confirm{
+  color: #2ECC71;
+  font-weight: 600;
+}
+
+.extensionCreateAccount .checkboxContainer label {
+  font-weight: 500;
+  background-position: 4px 2px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.extensionCreateAccount p {
+  color: #3B4A54;
+}
+
+.extensionCreateAccount h2{
+  color: #646D73;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+}
+.extensionCreateAccount .help-box {
+  width: 330px;
+  margin-left: 0;
+  padding: 12px 24px;
+  background: white;
+  font-size: 13px;
+  border-radius: 3px;
+  line-height: 16px;
+  letter-spacing: .2px;
+}
+.extensionCreateAccount .help-box p {
+  margin-top: 6px;
+  opacity: .7;
+}
+
+.first-field {
+  margin-top: 0;
+}
+
+.extensionCreateAccount #emailLabel {
+  margin: 24px 0 12px 0;
+}
+.extensionCreateAccount .meter {
+  margin: -6px 0px 0 1px;
+  border-bottom-left-radius: 2px;
+}
+.extensionCreateAccount .meterLabel {
+  display:none;
+}
+.extensionCreateAccount .meter .strength{
+  background-color: white;
+}
+#mpFields .buttonContent {
+  position: absolute;
+  bottom: 12px;
+  width: 315px;
+}
+.error-summary p {
+  font-size: 10px;
+}
+.extensionCreateAccount .error-summary {
+  margin-bottom: 0;
+  width: 100%;
+}
+.extensionCreateAccount a {
+  color: #3498DB;
+  font-weight: 600;
+}
+
+.extensionCreateAccount .dialogInput{
+  border-radius: 3px;
+  height: 36px;
+  padding: 0 12px 0 12px;
+  border-width: 1px;
+  border-color: #E7E8EA;
+  background-color: white;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.extensionCreateAccount .dialogInput:placeholder-shown{
+  font-weight: 300;
+}
+
+.extensionCreateAccount .dialogInput:focus{
+  border-color: #3498DB;
+}
+
+/* BUTTONS */
+
+.extensionCreateAccount .nbtn {
+  width: auto;
+  min-width: 136px;
+  max-width: 100% !important;
+  height: 36px;
+  margin: 10px 7px;
+  padding: 0 24px 0 24px;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 100px;
+}
+
+.extensionCreateAccount .wbtn,
+.extensionCreateAccount .lbtn {
+  box-shadow: none;
+  background-color: transparent;
+  font-weight: 700;
+  color: #646D73 !important;
+}
+
+.extensionCreateAccount .rbtn:focus,
+.extensionCreateAccount .wbtn:focus,
+.extensionCreateAccount a:focus {
+  box-shadow: 0 0 0 1px #3498DB;
+}
+.extensionCreateAccount .wbtn:hover, .extensionCreateAccount .wbtn:focus,
+.extensionCreateAccount .lbtn:hover, .extensionCreateAccount .lbtn:focus,
+.iconButton:hover, .iconButton:focus {
+  background-color: rgba(60,89,110,0.1);
+}
+
+.extensionCreateAccount .iconButton {
+  margin-right: 6px;
+}
+
+.extensionCreateAccount .iconButton:focus,
+.extensionCreateAccount .nbtn:focus {
+  outline: none;
+}
+
+.lp-field {
+  margin-top: 12px;
+}
+
+.dialog .extensionCreateAccount #mpValidators .validation-img{
+  margin-top: 4px;
+  margin-bottom: -2px;
+}
+.validation-img.empty {
+  background-image: url('images/validation_grey.png');
+}
+
+#createAccountDialog #validatorSummaryEmail .col-11 {
+  margin-left: -13px;
+  height: 20px;
+}
+#createAccountDialog #validatorSummaryEmail .col-1 {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+#createAccountDialog .error-summary p {
+  color: #E67E22;
+  font-size: 13px;
+}
+#createAccountDialog .validation-img.warning {
+  background-image: url('images/validation_warning_orange.png');
+}

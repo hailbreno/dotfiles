@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Alkalmazások"
+   },
+   "change": {
+      "message": "Módosítás"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>a Google Cultural Institute támogatásával\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Alapértelmezett új lap"
+   },
+   "extdescription": {
+      "message": "Art Project-műalkotások a Google Cultural Institute támogatásával az Ön böngészőlapjain"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Alkalmazások gomb megjelenítése"
+   },
+   "optionsappsbtndesc": {
+      "message": "A Chrome alkalmazásoldalának megnyitása"
+   },
+   "optionsinterface": {
+      "message": "A kezelőfelület beállításai"
+   },
+   "optionsntpbtn": {
+      "message": "Alapértelmezett új lap gomb megjelenítése"
+   },
+   "optionsntpbtndesc": {
+      "message": "A Chrome alapértelmezett új lapjának megnyitása"
+   },
+   "optionstopsitesbtn": {
+      "message": "A legnépszerűbb webhelyek gomb megjelenítése"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "A leggyakrabban látogatott webhelyek listájának megnyitása"
+   },
+   "pagetitle": {
+      "message": "Új lap"
+   },
+   "showappsbutton": {
+      "message": "Alkalmazások gomb megjelenítése"
+   },
+   "showdefaulttablink": {
+      "message": "Alapértelmezett új lap gomb megjelenítése"
+   },
+   "showtopsitesbutton": {
+      "message": "A legnépszerűbb webhelyek gomb megjelenítése"
+   },
+   "topsites": {
+      "message": "A legnépszerűbb webhelyek"
+   },
+   "turnovergroup": {
+      "message": "Másik műalkotás…"
+   },
+   "turnovermodealways": {
+      "message": "Minden új lapon"
+   },
+   "turnovermodedaily": {
+      "message": "Naponta"
+   },
+   "unknown": {
+      "message": "Ismeretlen művész"
+   },
+   "untitled": {
+      "message": "Cím nélküli"
+   }
+}

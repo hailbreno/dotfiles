@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Aplikacje"
+   },
+   "change": {
+      "message": "Zmień"
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>– usługa Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Domyślna nowa karta"
+   },
+   "extdescription": {
+      "message": "Arcydzieła projektu Art Project usługi Google Cultural Institute na kartach przeglądarki"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Przycisk Pokaż aplikacje"
+   },
+   "optionsappsbtndesc": {
+      "message": "Otwiera stronę z aplikacjami przeglądarki Chrome"
+   },
+   "optionsinterface": {
+      "message": "Ustawienia interfejsu"
+   },
+   "optionsntpbtn": {
+      "message": "Pokaż przycisk Domyślna nowa karta"
+   },
+   "optionsntpbtndesc": {
+      "message": "Otwiera domyślną nową kartę przeglądarki Chrome"
+   },
+   "optionstopsitesbtn": {
+      "message": "Pokaż przycisk Najczęściej odwiedzane witryny"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Otwiera podręczną listę najczęściej odwiedzanych witryn"
+   },
+   "pagetitle": {
+      "message": "Nowa karta"
+   },
+   "showappsbutton": {
+      "message": "Przycisk Pokaż aplikacje"
+   },
+   "showdefaulttablink": {
+      "message": "Pokaż przycisk Domyślna nowa karta"
+   },
+   "showtopsitesbutton": {
+      "message": "Pokaż przycisk Najczęściej odwiedzane witryny"
+   },
+   "topsites": {
+      "message": "Najczęściej odwiedzane witryny"
+   },
+   "turnovergroup": {
+      "message": "Zmiana dzieł..."
+   },
+   "turnovermodealways": {
+      "message": "Na każdej nowej karcie"
+   },
+   "turnovermodedaily": {
+      "message": "Codziennie"
+   },
+   "unknown": {
+      "message": "Nieznany artysta"
+   },
+   "untitled": {
+      "message": "Bez tytułu"
+   }
+}

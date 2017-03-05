@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "background.entry.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "res.css" ],
+      "js": [ "main.entry.js" ],
+      "matches": [ "http://redditenhancementsuite.com/*", "http://reddit.com/*", "https://reddit.com/*", "http://*.reddit.com/*", "https://*.reddit.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A suite of modules that enhance your Reddit browsing experience",
+   "homepage_url": "http://redditenhancementsuite.com",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0tGrnRoI1FWgRxN/bBk0ZffBG5GUb4yTO+Z6dgHlI80kiskv0w1JFjTjV6v/MGh+6ZZueaD/+gq7CS8wIhDCRks7/9DZtRgRnj5yNF+aK+VDLXiRYZIRWxikXWgiGWYstWbhWpvdcBeZB3IkPMRY00+VMwim30tTgnRiBvSelhQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "54",
+   "name": "Reddit Enhancement Suite",
+   "optional_permissions": [ "https://api.twitter.com/*", "https://onedrive.live.com/*", "*://1drv.ms/*", "*://backend.deviantart.com/oembed?url=*", "*://api.gyazo.com/api/oembed*", "*://codepen.io/api/oembed*", "*://api.tumblr.com/v2/blog/*/posts?api_key=*&id=*", "https://xkcd.com/*/info.0.json" ],
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": {
+         "19": "css-on-small.png",
+         "38": "css-on.png"
+      },
+      "default_title": "Subreddit Style On"
+   },
+   "permissions": [ "cookies", "tabs", "history", "storage", "unlimitedStorage", "http://redditenhancementsuite.com/", "http://reddit.com/*", "https://reddit.com/*", "http://*.reddit.com/*", "https://*.reddit.com/*", "http://min.us/api/*", "http://*.flickr.com/photos/*", "http://img.photobucket.com/*", "http://noembed.com/embed?url=*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.4.3"
+}

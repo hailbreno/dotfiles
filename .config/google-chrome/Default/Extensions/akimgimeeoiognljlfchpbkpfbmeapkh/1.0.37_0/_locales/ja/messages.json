@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "アプリ"
+   },
+   "change": {
+      "message": "変更"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>from Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "既定の新しいタブ"
+   },
+   "extdescription": {
+      "message": "Art Project from Google Cultural Institute の傑作をブラウザのタブで鑑賞できます"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "[アプリ] ボタンを表示する"
+   },
+   "optionsappsbtndesc": {
+      "message": "Chrome のアプリページを開きます"
+   },
+   "optionsinterface": {
+      "message": "インターフェース設定"
+   },
+   "optionsntpbtn": {
+      "message": "[既定の新しいタブ] ボタンを表示する"
+   },
+   "optionsntpbtndesc": {
+      "message": "Chrome の既定の新しいタブを開きます"
+   },
+   "optionstopsitesbtn": {
+      "message": "[上位のサイト] ボタンを表示する"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "よくアクセスするウェブサイトのクイックリストを開きます"
+   },
+   "pagetitle": {
+      "message": "新しいタブ"
+   },
+   "showappsbutton": {
+      "message": "[アプリ] ボタンを表示"
+   },
+   "showdefaulttablink": {
+      "message": "[既定の新しいタブ] ボタンを表示"
+   },
+   "showtopsitesbutton": {
+      "message": "[上位のサイト] ボタンを表示"
+   },
+   "topsites": {
+      "message": "上位のサイト"
+   },
+   "turnovergroup": {
+      "message": "作品を変更..."
+   },
+   "turnovermodealways": {
+      "message": "すべての新しいタブ"
+   },
+   "turnovermodedaily": {
+      "message": "毎日"
+   },
+   "unknown": {
+      "message": "不明なアーティスト"
+   },
+   "untitled": {
+      "message": "無題"
+   }
+}

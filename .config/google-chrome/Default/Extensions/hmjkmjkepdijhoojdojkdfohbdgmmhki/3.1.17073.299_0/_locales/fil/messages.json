@@ -1,0 +1,2975 @@
+{
+   "1001407065815272462": {
+      "message": "Hindi maidagdag sa $2​Aking Drive$1​"
+   },
+   "1013939682284715002": {
+      "message": "Ayusin"
+   },
+   "1029576232144989689": {
+      "message": "Maaari ka ring mag-save ng mga link para sa ibang pagkakataon gamit ang&nbsp;$2​Extension ng Chrome na Google Keep$1​."
+   },
+   "1039394921418415681": {
+      "message": "Mag-sign in"
+   },
+   "1061011362310586469": {
+      "message": "Pagbabahagi"
+   },
+   "1062420184700835520": {
+      "message": "Buksan ang Selector ng Kulay at Laki ng Marker Tool"
+   },
+   "1083918249169198626": {
+      "message": "Naka-disable ang mga keyboard shortcut."
+   },
+   "1101371910696766077": {
+      "message": "Gumawa ng kopya"
+   },
+   "1105774658609209931": {
+      "message": "Extension ng Chrome"
+   },
+   "1122146167985532789": {
+      "message": "kahapon"
+   },
+   "1127320433256851404": {
+      "message": "Player ng video"
+   },
+   "1159463938127271829": {
+      "message": "mula kay/sa $1​"
+   },
+   "1162642135048988280": {
+      "message": "Palitan ang pangalan ng dokumento"
+   },
+   "1163324543881570799": {
+      "message": "Google Docs"
+   },
+   "1166244120191806795": {
+      "message": "Magbigay ng Feedback"
+   },
+   "1177768120450365955": {
+      "message": "Ilipat sa ibaba ang mga item na may check"
+   },
+   "1179891706526242218": {
+      "message": "Susunod"
+   },
+   "1185164838496022543": {
+      "message": "Mangyaring mag-click dito upang i-reload ang pahina."
+   },
+   "1198371177271608867": {
+      "message": "Laki 4"
+   },
+   "1213005208968286932": {
+      "message": "Minarkahan bilang naresolba"
+   },
+   "124900027451629830": {
+      "message": "I-play"
+   },
+   "1256362146573583104": {
+      "message": "I-extract"
+   },
+   "1259492729704800881": {
+      "message": "I-archive ang tala"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Kanselahin"
+   },
+   "12768758038718216": {
+      "message": "I-pin ang naka-archive na tala"
+   },
+   "1280430284217153733": {
+      "message": "Magdagdag ng oras"
+   },
+   "1315983816556686539": {
+      "message": "Dilaw"
+   },
+   "1333255388111908292": {
+      "message": "Mga Grocery"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Wala kang pahintulot na ilipat ang item na ito mula sa mga kasalukuyang folder nito. Sa halip, idagdag ang item sa {START_SPAN_1}{NAME}{END_SPAN}.}one{Wala kang pahintulot na ilipat ang mga item na ito mula sa kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga item sa {START_SPAN_2}{NAME}{END_SPAN}.}other{Wala kang pahintulot na ilipat ang mga item na ito mula sa kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga item sa {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Walang pamagat na tala"
+   },
+   "1349697396109290623": {
+      "message": "Ipinapakita ang mas mataas na resolution ng $1​"
+   },
+   "136335357683289450": {
+      "message": "Isara"
+   },
+   "1379850360723600538": {
+      "message": "Hindi sinusuportahan ang mga file na pinoprotektahan ng password."
+   },
+   "1397887822627488928": {
+      "message": "Tao o email na babahagian"
+   },
+   "139942704574044780": {
+      "message": "Tanggapin"
+   },
+   "1419896259743862406": {
+      "message": "Buksan gamit ang"
+   },
+   "1432850707344442376": {
+      "message": "Gawin ang label na $1​"
+   },
+   "1441487391064925653": {
+      "message": "Tingnan ang lahat ng shortcut sa Help Center"
+   },
+   "1442722292947881614": {
+      "message": "Mga Uri"
+   },
+   "1446829548948002072": {
+      "message": "kuwit"
+   },
+   "1463389029497634261": {
+      "message": "Hinaan ang volume"
+   },
+   "1465828580966685215": {
+      "message": "I-wipe ang account"
+   },
+   "1466663154000252842": {
+      "message": "Maaaring mawalan ng access ang ilang tao"
+   },
+   "1467797923781828000": {
+      "message": "$1​ (na) item ang naidagdag na sa $2​."
+   },
+   "1473312930157933007": {
+      "message": "Ang mga sumusunod na mga gumagamit ay hindi maaaring ibahagi dahil ang iyong admin hindi pinagana ang pagbabahagi sa labas ng iyong domain."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1475261522522402536": {
+      "message": "Pumili ng lugar"
+   },
+   "1482452362096735080": {
+      "message": "Mangyayari nang {numOccurrences} (na) beses"
+   },
+   "148864680356422442": {
+      "message": "Bumalik"
+   },
+   "1499433769420882987": {
+      "message": "Ipinapakita ang $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ (na) TB"
+   },
+   "1507063529674142853": {
+      "message": "Sa huling araw ng buwan"
+   },
+   "1507445189431379166": {
+      "message": "I-delete"
+   },
+   "1512454807955173272": {
+      "message": "Mag-a-update ang Keep kapag online"
+   },
+   "1532717559893630620": {
+      "message": "Isinama ang label na $1​ sa $2​."
+   },
+   "1536051766421561160": {
+      "message": "equals"
+   },
+   "153659275234722804": {
+      "message": "I-dismiss"
+   },
+   "156992719062713230": {
+      "message": "Gray"
+   },
+   "1586968957182554447": {
+      "message": "I-disable"
+   },
+   "1588268697057804046": {
+      "message": "$1​ (na) oras ang nakalipas"
+   },
+   "1595218840091201497": {
+      "message": "Brown"
+   },
+   "1633798963327779260": {
+      "message": "Bukas"
+   },
+   "1655692513689044870": {
+      "message": "Nag-sign out ka."
+   },
+   "1656911987308166143": {
+      "message": "Tanggalin"
+   },
+   "1661251023749398110": {
+      "message": "I-download ang Audio"
+   },
+   "1665821947855814052": {
+      "message": "Sukat"
+   },
+   "1669648976972603642": {
+      "message": "Makakaapekto ang pagkilos na ito sa pagmamay-ari at access"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Na-unpin ang tala}one{Na-unpin ang # tala}other{Na-unpin ang # na tala}}"
+   },
+   "1679322931860897953": {
+      "message": "Kopyahin sa Google Doc"
+   },
+   "1680617124502957636": {
+      "message": "Hindi makakonekta sa ngayon. Subukang muli sa ibang pagkakataon."
+   },
+   "1692901784886701962": {
+      "message": "Masyadong malaki ang tala."
+   },
+   "1694896269813520248": {
+      "message": "Magdagdag ng drawing"
+   },
+   "1697160643589236962": {
+      "message": "$1​ (na) PB"
+   },
+   "1703175513040690135": {
+      "message": "Sinuman sa $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Umuulit buwan-buwan sa huling araw ng buwan}one{Umuulit bawat # buwan sa huling araw ng buwan}other{Umuulit bawat # na buwan sa huling araw ng buwan}}"
+   },
+   "1711424025297585662": {
+      "message": "isang|ang"
+   },
+   "171683163267149669": {
+      "message": "$1​ (na) GB"
+   },
+   "1737240194537729525": {
+      "message": "Linggu-linggo"
+   },
+   "1739900012825270238": {
+      "message": "Pumunta sa nakaraang item"
+   },
+   "1740371341228065086": {
+      "message": "I-reload"
+   },
+   "1745782414562966515": {
+      "message": "I-merge ang label na \"$1​\" sa label na \"$2​\"? Ang lahat ng tala na may label na \"$1​\" ay mapapalitan ng label na \"$2​,\" at made-delete ang label na \"$1​.\""
+   },
+   "1783719421893050637": {
+      "message": "Mga Dimensyon"
+   },
+   "178927681797742562": {
+      "message": "Mag-sign in"
+   },
+   "1791115075948268631": {
+      "message": "Buksan ang tulong sa keyboard shortcut"
+   },
+   "179545118447015250": {
+      "message": "Grid View"
+   },
+   "1803966010993357655": {
+      "message": "Iba Pa"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1819225489062185613": {
+      "message": "Iba pa"
+   },
+   "1823222042913714987": {
+      "message": "Isumite ang password"
+   },
+   "1830157062072535681": {
+      "message": "Ipinapakita ang $1​"
+   },
+   "1852745815330163711": {
+      "message": "Google Drawings"
+   },
+   "1870691479127746185": {
+      "message": "pakanan"
+   },
+   "187077078156858455": {
+      "message": "Audio note"
+   },
+   "189303170370862360": {
+      "message": "$1​ ng $2​ (na) item"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Walang label na $1​"
+   },
+   "1912092030665541460": {
+      "message": "Na-undo ang pagkilos"
+   },
+   "1917552217016175754": {
+      "message": "Marker Tool"
+   },
+   "1918176455405610789": {
+      "message": "Tapos na"
+   },
+   "1938115711058331119": {
+      "message": "Ipakita ang column ng mga komento"
+   },
+   "195154114623528341": {
+      "message": "Magdagdag ng lokasyon"
+   },
+   "1956794332842050061": {
+      "message": "Susunod na pahina"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Nagkaroon ng problema sa pagpe-preview ng sheet na ito."
+   },
+   "1968405748623909021": {
+      "message": "Subukan ang isa sa mga app sa ibaba upang buksan o i-edit ang item na ito"
+   },
+   "1969531182936822963": {
+      "message": "Na-undo ang pagkilos"
+   },
+   "1973454937875679500": {
+      "message": "Ilagay ang pangalan ng label"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{# character ang natitira}one{# character ang natitira}other{# na character ang natitira}}"
+   },
+   "1980209166254310911": {
+      "message": "Araw"
+   },
+   "1988244842147989817": {
+      "message": "Tinatanggal ang mga tala sa Basurahan pagkalipas ng 7 araw."
+   },
+   "1996872514195688196": {
+      "message": "Hindi ma-access ang mga ibinahaging tala sa ngayon. Subukang muli sa ibang pagkakataon."
+   },
+   "200005227964332868": {
+      "message": "HIGIT PA"
+   },
+   "2003845117979929469": {
+      "message": "Mga Detalye"
+   },
+   "2009529126622551485": {
+      "message": "Item sa listahan"
+   },
+   "2018433077417240302": {
+      "message": "Magpunta sa label"
+   },
+   "2039757863628752523": {
+      "message": "Mga opsyon sa dalas"
+   },
+   "205876860571942679": {
+      "message": "Google My Maps"
+   },
+   "2059084517358086391": {
+      "message": "Isara ang bar sa paghahanap"
+   },
+   "2061440050632248160": {
+      "message": "I-archive"
+   },
+   "2068023589621557589": {
+      "message": "TrueType Font"
+   },
+   "2073322475696388995": {
+      "message": "Lumaktaw pasulong"
+   },
+   "2074454463201225704": {
+      "message": "I-reset ang pag-zoom"
+   },
+   "207810168108507460": {
+      "message": "$1​ oras ang nakalipas"
+   },
+   "2091811447965921066": {
+      "message": "Alisin ang mga ito"
+   },
+   "2107379241532042955": {
+      "message": "Lokasyon"
+   },
+   "2107589831642088814": {
+      "message": "Gumawa ng \"$3​$2​$1​\""
+   },
+   "2124464318249308530": {
+      "message": "Light Orange"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Mga Tala"
+   },
+   "2138593281154109183": {
+      "message": "Archive"
+   },
+   "214517458278879973": {
+      "message": "Mag-sign in bilang $1​"
+   },
+   "2147952938331523160": {
+      "message": "Palitan ang pangalan..."
+   },
+   "2154372123324862271": {
+      "message": "slash"
+   },
+   "2166966123760559393": {
+      "message": "Gumawa ng bagong label"
+   },
+   "2168461275182666804": {
+      "message": "I-edit"
+   },
+   "2173675558412671739": {
+      "message": "Kinopya sa Google Doc"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Inilagay sa trash ang tala}one{Inilagay sa trash ang # tala}other{Inilagay sa trash ang # na tala}}"
+   },
+   "2184278444368405837": {
+      "message": "$1​ (na) item"
+   },
+   "2187239650627580457": {
+      "message": "Isumite"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang folder na nasa isang folder}one{Naglilipat ka ng mga folder na nasa isang folder}other{Naglilipat ka ng mga folder na nasa isang folder}}"
+   },
+   "2198096971937872560": {
+      "message": "Paalala:"
+   },
+   "220168959069469607": {
+      "message": "Higit pang mga pagkilos"
+   },
+   "2202265279234683999": {
+      "message": "Mga keyboard shortcut"
+   },
+   "2203926649090909861": {
+      "message": "Inilipat ang item sa listahan sa index $1​"
+   },
+   "2216904725760458480": {
+      "message": "Araw-araw"
+   },
+   "221715292685577880": {
+      "message": "Oo"
+   },
+   "2264311811697505466": {
+      "message": "I-refresh"
+   },
+   "2270633624888102832": {
+      "message": "I-unpin ang tala"
+   },
+   "2280650195464600721": {
+      "message": "Pag-navigate"
+   },
+   "2283668287077047088": {
+      "message": "Highlighter Tool"
+   },
+   "2285069188138705005": {
+      "message": "Mga nakakonektang app"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Naglilipat ka ng isang item mula sa nakabahaging folder na \"{SHARED_FOLDER_NAME},\" kaya mawawalan ng access ang mga tao.}one{Naglilipat ka ng {NUM_ITEMS_2} item mula sa nakabahaging folder na \"{SHARED_FOLDER_NAME},\" kaya mawawalan ng access ang mga tao.}other{Naglilipat ka ng {NUM_ITEMS_2} na item mula sa nakabahaging folder na \"{SHARED_FOLDER_NAME},\" kaya mawawalan ng access ang mga tao.}}"
+   },
+   "228741435562395266": {
+      "message": "Hindi pa maaaring mag-print"
+   },
+   "2289534534793293486": {
+      "message": "Tanggalin sa archive"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Lakasan ang volume"
+   },
+   "2299671629154778581": {
+      "message": "Na-unpin at na-archive ang mga tala"
+   },
+   "2310145944356900158": {
+      "message": "May check"
+   },
+   "2311880726221661199": {
+      "message": "Nilo-load ang mas matataas na resolution"
+   },
+   "2324955914430674498": {
+      "message": "Walang resulta ng paghahanap para sa \"$1​\""
+   },
+   "2329167963662998826": {
+      "message": "Gustong gamitin ng Google Keep ang iyong lokasyon upang mapahusay ang mga suhestiyon sa mga lugar para sa mga paalala sa lokasyon."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Mawawalan ng access ang mga miyembro ng \"{TEAM_DRIVE_NAME}\" maliban na lang kung ibabahagi ang item na ito sa kanila.}one{Mawawalan ng access ang mga miyembro ng \"{TEAM_DRIVE_NAME}\" maliban na lang kung ibabahagi ang mga item na ito sa kanila.}other{Mawawalan ng access ang mga miyembro ng \"{TEAM_DRIVE_NAME}\" maliban na lang kung ibabahagi ang mga item na ito sa kanila.}}"
+   },
+   "2357761837816388330": {
+      "message": "Offline"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Alisin ang pinagkunan"
+   },
+   "236689092839978781": {
+      "message": "Hindi umuulit"
+   },
+   "2370656573843123707": {
+      "message": "kanang bracket"
+   },
+   "2373760032138505521": {
+      "message": "May ganito nang label"
+   },
+   "2386536768112358461": {
+      "message": "Pg-Down"
+   },
+   "2405795704816921421": {
+      "message": "File ng $1​"
+   },
+   "2408383448126741628": {
+      "message": "Tagal"
+   },
+   "2423877407428530040": {
+      "message": "Naglalaman ang file ng masyadong maraming chart."
+   },
+   "2433429041384246549": {
+      "message": "I-mute"
+   },
+   "2449254824382583885": {
+      "message": "Pop out"
+   },
+   "2452522051596946166": {
+      "message": "Whoops! Nagkaproblema sa pagpe-preview sa $1​. Sinusubukang muli."
+   },
+   "2454642351139428112": {
+      "message": "I-undo"
+   },
+   "2466251465475184755": {
+      "message": "Alisin lahat ang laman ng basurahan?  Permanenteng tatanggalin ang lahat ng tala sa Basurahan."
+   },
+   "2475181823688399272": {
+      "message": "Susunod"
+   },
+   "2478862372619762755": {
+      "message": "Mag-highlight ng isang bahagi kung saan magkokomento"
+   },
+   "2504232652631703202": {
+      "message": "Nakakonekta"
+   },
+   "251025074207413762": {
+      "message": "Magdagdag ng paglalarawan"
+   },
+   "2532280782491328445": {
+      "message": "Hanapin ang nakaraan"
+   },
+   "2546225293834487484": {
+      "message": "Tala"
+   },
+   "2555961950726197809": {
+      "message": "Ipinapakita ang viewer."
+   },
+   "2562881166530755046": {
+      "message": "Mga Drawing"
+   },
+   "257317112834806705": {
+      "message": "I-toggle sa pagitan ng view ng listahan at grid"
+   },
+   "2579261044590673579": {
+      "message": "Aking Drive"
+   },
+   "2579679351920691492": {
+      "message": "Lumaktaw pabalik"
+   },
+   "2581526424350930407": {
+      "message": "I-edit"
+   },
+   "2600731575260427177": {
+      "message": "Walang ganoong file at maaaring na-delete na ito. Pakisubukang i-upload muli ang file."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609767652209789035": {
+      "message": "Mga Label"
+   },
+   "2623861453769098676": {
+      "message": "Nagkaproblema sa pagpe-preview sa dokumentong ito."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Kapag inilipat ang item na ito, maibabahagi ito sa lahat ng nakakakita sa nakabahaging folder na \"{SHARED_FOLDER_NAME}\".}one{Kapag inilipat ang mga item na ito, maibabahagi ang mga ito sa lahat ng nakakakita sa nakabahaging folder na \"{SHARED_FOLDER_NAME}\".}other{Kapag inilipat ang mga item na ito, maibabahagi ang mga ito sa lahat ng nakakakita sa nakabahaging folder na \"{SHARED_FOLDER_NAME}\".}}"
+   },
+   "2630254198275172065": {
+      "message": "Ilipat sa..."
+   },
+   "2632263751512428257": {
+      "message": "Taun-taon"
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Lagyan ng label ang note}one{Lagyan ng label ang mga note}other{Lagyan ng label ang mga note}}"
+   },
+   "2646753793708356960": {
+      "message": "Cobalt Blue"
+   },
+   "2647216541167955566": {
+      "message": "Amber"
+   },
+   "2661850177130037208": {
+      "message": "Buksan ang item"
+   },
+   "2665571821980053260": {
+      "message": "Hindi maibahagi ang iyong tala.  Subukang muli sa ibang pagkakataon."
+   },
+   "2681830832355823748": {
+      "message": "Maghanap sa lahat ng shortcut"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Nagdagdag ng larawan}one{Nagdagdag ng # larawan}other{Nagdagdag ng # na larawan}}"
+   },
+   "2702485557996900362": {
+      "message": "Ayusin ang hindi magkakatugmang pag-edit"
+   },
+   "2704959686524436777": {
+      "message": "Naglo-load"
+   },
+   "2715199780155065699": {
+      "message": "Naglalaman ang file ng masyadong maraming hugis, textbox o drawing."
+   },
+   "2716433087531258659": {
+      "message": "page up"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2758125083752925237": {
+      "message": "(May-ari)"
+   },
+   "277430914014962533": {
+      "message": "Whoops! Nagkaproblema sa pagpe-preview sa $1​."
+   },
+   "2793841261389879255": {
+      "message": "Nakaraang pahina"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Umuulit buwan-buwan sa parehong araw bawat buwan}one{Umuulit bawat # buwan sa parehong araw bawat buwan}other{Umuulit bawat # na buwan sa parehong araw bawat buwan}}"
+   },
+   "2796950576714807268": {
+      "message": "Hindi makilala ang text."
+   },
+   "2798322202738486782": {
+      "message": "{HOURS,plural, =0{0 oras }=1{1 oras }one{# oras }other{# na oras }}{MINUTES,plural, =0{0 minuto }=1{1 minuto }one{# minuto }other{# na minuto }}{SECONDS,plural, =0{0 segundo.}=1{1 segundo.}one{# segundo.}other{# na segundo.}}"
+   },
+   "2817277146396981386": {
+      "message": "pm"
+   },
+   "2818020101821669029": {
+      "message": "Ginawa"
+   },
+   "2820045170951016567": {
+      "message": "Mga Paalala"
+   },
+   "2823533464825550362": {
+      "message": "Mga kontrol sa dokumento"
+   },
+   "2827039933590757722": {
+      "message": "Windows Shortcut"
+   },
+   "2829226075651806940": {
+      "message": "Mag-zoom in"
+   },
+   "2853036885874864031": {
+      "message": "Maililipat ang pagmamay-ari sa $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2858566870229558873": {
+      "message": "$2​Mga Tuntunin$1​"
+   },
+   "2862675909830094845": {
+      "message": "Gumawa ng bagong label"
+   },
+   "2870914990575762514": {
+      "message": "Hindi mo maaaring i-undo ang pagkilos na ito"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "I-pause"
+   },
+   "287803077768018029": {
+      "message": "Light Teal"
+   },
+   "2879276552944958066": {
+      "message": "Bumalik sa Folder ng $1​."
+   },
+   "2890739372621722306": {
+      "message": "Teal"
+   },
+   "2893055432094515558": {
+      "message": "Ipinakita ang mga checkbox"
+   },
+   "2893190245479055856": {
+      "message": "Nailipat na sa $2​ ang $1​ (na) folder."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Iulat"
+   },
+   "2902570047322934912": {
+      "message": "I-enable ang pagbabahagi"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Na-unpin at na-archive ang tala}one{Na-unpin at na-archive ang # tala}other{Na-unpin at na-archive ang # na tala}}"
+   },
+   "2917586714343652609": {
+      "message": "Laki 20"
+   },
+   "2935193106137642160": {
+      "message": "Hindi available ang pagzu-zoom"
+   },
+   "2942094715879803305": {
+      "message": "I-delete ang mga naka-check na item"
+   },
+   "295331174171409695": {
+      "message": "Nagkaproblema sa pag-a-update sa pahintulot sa pag-download ng \"$1​.\""
+   },
+   "2960516445247616550": {
+      "message": "Hindi maaaring mag-print"
+   },
+   "296391753033307868": {
+      "message": "Nagawa na ang label na $1​ at naidagdag sa tala."
+   },
+   "2964778642459027786": {
+      "message": "Walang mga tala sa Basurahan"
+   },
+   "2971780287153684447": {
+      "message": "Mga Android Device"
+   },
+   "2973306402585941108": {
+      "message": "Umaga"
+   },
+   "298817883481775869": {
+      "message": "Naglo-load..."
+   },
+   "2990497076082409431": {
+      "message": "Nailipat na sa $2​ ang \"$1​.\""
+   },
+   "2993901764282547916": {
+      "message": "App Maker"
+   },
+   "3004077206309008197": {
+      "message": "Berde"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Wala kang pahintulot na ilipat ang folder na ito mula sa mga kasalukuyang folder nito. Sa halip, idagdag ang folder sa {START_SPAN_1}{NAME}{END_SPAN}.}one{Wala kang pahintulot na ilipat ang mga folder na ito mula sa mga kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga folder sa {START_SPAN_2}{NAME}{END_SPAN}.}other{Wala kang pahintulot na ilipat ang mga folder na ito mula sa mga kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga folder sa {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "3042275883978222678": {
+      "message": "Laki 8"
+   },
+   "3043961722025425136": {
+      "message": "Paglalarawan"
+   },
+   "3045997283325725532": {
+      "message": "Ano'ng bago sa Google Keep"
+   },
+   "306516303501625305": {
+      "message": "Hindi napatotohanan."
+   },
+   "3109321241584918345": {
+      "message": "Magkonekta ng higit pang apps..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "sa loob ng $1​ (na) oras"
+   },
+   "3147708683842760684": {
+      "message": "Higit Pang Mga Opsyon"
+   },
+   "3147722095652727387": {
+      "message": "Ang mga sumusunod na mga gumagamit ay hindi maaaring ibahagi sa dahil alinman sa kanilang mga admin ay hindi pinagana ang pagbabahagi sa kanilang domain, o ang iyong admin ay hindi pinagana ang pagbabahagi sa labas ng iyong domain."
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Tinanggal sa archive ang tala}one{# tala ang tinanggal sa archive}other{# na tala ang tinanggal sa archive}}"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3189854932778515441": {
+      "message": "Tala sa Archive"
+   },
+   "3190546672187601036": {
+      "message": "Gabi"
+   },
+   "3195812604657128345": {
+      "message": "Pumili ng folder sa Drive kung saan mag-e-extract"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Na-restore ang tala}one{Na-restore ang # tala}other{Na-restore ang # na tala}}"
+   },
+   "3207650089232728475": {
+      "message": "Baguhin ang mga label"
+   },
+   "3211163842850942567": {
+      "message": "Mag-zoom in"
+   },
+   "3220641589840600333": {
+      "message": "Lumipat sa view na $1​"
+   },
+   "3241696131593027453": {
+      "message": "Pumili ng tala"
+   },
+   "3243916603465112517": {
+      "message": "MAS KAUNTI"
+   },
+   "3250489229749307913": {
+      "message": "Electronic Publication"
+   },
+   "32533855230019565": {
+      "message": "Laki 12"
+   },
+   "3258100527833044153": {
+      "message": "Na-discard ang walang lamang drawing"
+   },
+   "3261131345401321392": {
+      "message": "Maaaring Magkomento"
+   },
+   "3266448715145955862": {
+      "message": "Inalis sa archive at na-pin ang mga tala"
+   },
+   "3268028083415317236": {
+      "message": "Hindi, salamat na lang"
+   },
+   "3272496516667407797": {
+      "message": "Nagkaproblema sa paglo-load ng mga detalye."
+   },
+   "3278046126264096288": {
+      "message": "Linggo"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Na-unpin at inilagay sa trash ang tala}one{Na-unpin at inilagay sa trash ang # tala}other{Na-unpin at inilagay sa trash ang # na tala}}"
+   },
+   "3288498486633948368": {
+      "message": "Ang \"$1​\" ay naidagdag sa Google Drive."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Bagong tala na may drawing"
+   },
+   "3312545971976531405": {
+      "message": "Message"
+   },
+   "3326410145104517459": {
+      "message": "I-capture ang iyong mga naiisip $1​ mula sa anumang device"
+   },
+   "3343273953047473521": {
+      "message": "I-delete ang mga tala?"
+   },
+   "3345567742278474807": {
+      "message": "Na-flag ang tala na ito bilang hindi naaangkop at hindi ito maibabahagi."
+   },
+   "3354260708176476985": {
+      "message": "Naglo-load&hellip;"
+   },
+   "3362903141674317449": {
+      "message": "Collaborator"
+   },
+   "336772567640975291": {
+      "message": "Susunod na linggo"
+   },
+   "3371033609268806242": {
+      "message": "Na-delete na ang label na $1​."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Buksan"
+   },
+   "3385831848537487538": {
+      "message": "Paglalakbay"
+   },
+   "3396240571140460663": {
+      "message": "Lime"
+   },
+   "3409257542937182842": {
+      "message": "Sinusubukang muli..."
+   },
+   "3409483962000136213": {
+      "message": "I-play/I-pause"
+   },
+   "3418767079436101103": {
+      "message": "Nagkaproblema sa pag-load sa page na ito."
+   },
+   "3428726060007577698": {
+      "message": "Masyadong malaki ang listahan."
+   },
+   "3446158485617778228": {
+      "message": "I-undo"
+   },
+   "3447704623213039325": {
+      "message": "Item ng grocery"
+   },
+   "3448234415275521882": {
+      "message": "Pangkalahatang Impormasyon"
+   },
+   "3455405209271884570": {
+      "message": "I-extract"
+   },
+   "3468441711253011521": {
+      "message": "Google Sheets"
+   },
+   "3473620774713000513": {
+      "message": "Naresolba"
+   },
+   "3485469306694683931": {
+      "message": "I-extract sa iyong Drive account"
+   },
+   "3496410038494993160": {
+      "message": "Mga sikat na keyboard shortcut"
+   },
+   "3518073392823563581": {
+      "message": "Mga keyboard shortcut"
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3549511443038546281": {
+      "message": "I-delete"
+   },
+   "3551522853788442530": {
+      "message": "Bumalik"
+   },
+   "3561658662634401836": {
+      "message": "Pamagat"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3570074492517305433": {
+      "message": "Mag-sign up"
+   },
+   "3571704286086017611": {
+      "message": "Na-delete ang paalala"
+   },
+   "3571758970185431414": {
+      "message": "Asul"
+   },
+   "3574963906259719128": {
+      "message": "Hindi mape-play ng iyong browser ang audio file na ito."
+   },
+   "3580293729117872545": {
+      "message": "Magtatapos sa"
+   },
+   "3594204366177366590": {
+      "message": "Buksan ang Menu ng Mga Opsyon ng Eraser Tool"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Palitan ang pangalan ng label"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang file na nasa {NUM_PARENTS} (na) folder}one{Naglilipat ka ng mga file na nasa {NUM_PARENTS} (na) folder}other{Naglilipat ka ng mga file na nasa {NUM_PARENTS} (na) folder}}"
+   },
+   "3608606849109645545": {
+      "message": "Maglagay ng bagong pangalan ng dokumento:"
+   },
+   "3611573349633408445": {
+      "message": "I-download"
+   },
+   "3612936866865912552": {
+      "message": "Naglo-load..."
+   },
+   "361630518611593946": {
+      "message": "Itago ang mga checkbox"
+   },
+   "3617727970098875990": {
+      "message": "Maghanap sa lahat ng shortcut"
+   },
+   "362521762755836201": {
+      "message": "Ginawa noong $1​"
+   },
+   "3634885664399305142": {
+      "message": "Hindi available ang drawing"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "backslash"
+   },
+   "3659554681396757189": {
+      "message": "Binuksan ko"
+   },
+   "366289214151975122": {
+      "message": "Sinuman sa $1​ na mayroong link"
+   },
+   "3663571259791438207": {
+      "message": "Mag-ulat ng pang-aabuso"
+   },
+   "3664842788764635265": {
+      "message": "Wala"
+   },
+   "3666123569747918021": {
+      "message": "May mga hindi na-save na pagbabago ang dokumentong ito. Gusto mo bang iwan ang pahina at i-discard ang iyong mga binago?"
+   },
+   "3678477908297567934": {
+      "message": "underscore"
+   },
+   "3687623836913400480": {
+      "message": "I-annotate ang Larawan"
+   },
+   "3690515530505404607": {
+      "message": "Nagkaproblema sa pagpe-play sa video na ito."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Walang item}=1{1 item}one{# item}other{# na item}}"
+   },
+   "3707311099386068778": {
+      "message": "Alisin Lahat"
+   },
+   "3712215972250917265": {
+      "message": "Mga Komento"
+   },
+   "372633345629975481": {
+      "message": "Na-pin ang mga tala"
+   },
+   "372823375470132483": {
+      "message": "I-deselect ang nasa trash na tala"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}one{Naglilipat ka ng {NUM_ITEMS_2} item mula sa Mga Drive ng Team at nakabahaging folder, kaya mawawalan ng access ang mga tao.}other{Naglilipat ka ng {NUM_ITEMS_2} na item mula sa Mga Drive ng Team at nakabahaging folder, kaya mawawalan ng access ang mga tao.}}"
+   },
+   "3760084546578947451": {
+      "message": "I-on ang mga paalala ng Google Keep? Maaaring kailaganin mong payagan ang mga notification ng browser."
+   },
+   "3770795578481676514": {
+      "message": "Dilaw"
+   },
+   "3793086499925031123": {
+      "message": "Buksan ang bar sa paghahanap / hanapin ang nakaraan"
+   },
+   "3796511349428373407": {
+      "message": "Mga opsyon sa petsa"
+   },
+   "3797309720105862333": {
+      "message": "Hindi mae-edit offline ang mga drawing"
+   },
+   "37992665410817181": {
+      "message": "Nabuksang muli"
+   },
+   "3801617971018550169": {
+      "message": "Kahapon"
+   },
+   "3808213429720572062": {
+      "message": "Ipanumbalik"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3828546250617883774": {
+      "message": "Violet"
+   },
+   "3845302429676793049": {
+      "message": "Nagkaproblema sa pag-a-update ng paglalarawan ng \"$1​.\""
+   },
+   "3858324058837632381": {
+      "message": "Nagkaproblema sa pagpe-play sa audio file na ito."
+   },
+   "3869166581651870488": {
+      "message": "Tapusin ang pag-e-edit"
+   },
+   "3897281533382850749": {
+      "message": "Alisin sa pagkaka-mute"
+   },
+   "3909380459614154542": {
+      "message": "Pumunta sa link"
+   },
+   "3930910469078167425": {
+      "message": "I-archive"
+   },
+   "3952341864324097024": {
+      "message": "I-clear ang paghahanap"
+   },
+   "3955575370175991097": {
+      "message": "Lumipat sa view ng label na $1​"
+   },
+   "3974822583047850066": {
+      "message": "Kanselahin"
+   },
+   "3977699855735576796": {
+      "message": "Nagkaproblema sa paglo-load ng higit pang mga page."
+   },
+   "3988418762222300024": {
+      "message": "tuldok"
+   },
+   "4005725939358875643": {
+      "message": "Na-undo ang pagkilos."
+   },
+   "4014287326684608407": {
+      "message": "Teal"
+   },
+   "4023299615382814997": {
+      "message": "Hindi ma-edit sa Trash"
+   },
+   "4036523543547629779": {
+      "message": "Mga Larawan"
+   },
+   "4044915502415235332": {
+      "message": "Piliin ang naka-pin na tala"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang folder na nasa {NUM_PARENTS} (na) folder}one{Naglilipat ka ng mga folder na nasa {NUM_PARENTS} (na) folder}other{Naglilipat ka ng mga folder na nasa {NUM_PARENTS} (na) folder}}"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4061102590585232601": {
+      "message": "Inalis si $1​"
+   },
+   "4072353527895477784": {
+      "message": "Mga Tao"
+   },
+   "4086409218932829944": {
+      "message": "I-edit ang mga label"
+   },
+   "4087289538934418537": {
+      "message": "Kapag na-delete na, hindi na makikita ng sinuman ang mga talang isinulat mo. Ang mga talang ibinahagi sa iyo ay makikita pa rin ng mga taong may access."
+   },
+   "4095714830819118951": {
+      "message": "Tulong"
+   },
+   "4097921967754832323": {
+      "message": "hyphen"
+   },
+   "4106990792743182780": {
+      "message": "Hindi makuha ang text ng larawan. Subukang muli sa ibang pagkakataon."
+   },
+   "411137507354526852": {
+      "message": "Buwan"
+   },
+   "4111452225725405610": {
+      "message": "Nag-alis ng star sa \"$1​\"."
+   },
+   "4117632433281998979": {
+      "message": "Buwan-buwan"
+   },
+   "411791562637880104": {
+      "message": "Alisin ang aking sarli"
+   },
+   "4122858386674768321": {
+      "message": "Ilipat mula sa $3​$2​$1​"
+   },
+   "4149722338705080529": {
+      "message": "Gawing Muli"
+   },
+   "4155905925766040098": {
+      "message": "Walang available na preview"
+   },
+   "4159842640681544078": {
+      "message": "Nailipat na sa $3​ ang $1​ (na) folder mula sa $2​."
+   },
+   "4174786386751618325": {
+      "message": "Photo note"
+   },
+   "4182427157920112948": {
+      "message": "tilde"
+   },
+   "4186465168527990324": {
+      "message": "Matagumpay na na-extract ang \"$1​\" sa $2​"
+   },
+   "4204345954541079744": {
+      "message": "Wala pang mga tala na may ganitong label"
+   },
+   "4205329094859140439": {
+      "message": "am"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang item na nasa {NUM_PARENTS} (na) folder}one{Naglilipat ka ng mga item na nasa {NUM_PARENTS} (na) folder}other{Naglilipat ka ng mga item na nasa {NUM_PARENTS} (na) folder}}"
+   },
+   "4209658291185545281": {
+      "message": "Hindi maaaring bawiin ang ginawang pagkilos"
+   },
+   "4211182812451835307": {
+      "message": "Maaaring Mag-edit"
+   },
+   "4214190403999219403": {
+      "message": "Mag-zoom"
+   },
+   "4214427276033711472": {
+      "message": "Mga Setting"
+   },
+   "4216242742234357612": {
+      "message": "Piliin ang lahat ng tala"
+   },
+   "42239889404644810": {
+      "message": "Humiling ng access"
+   },
+   "4227767243455123953": {
+      "message": "Gawi ng listahan"
+   },
+   "4228870062013120023": {
+      "message": "Mag-navigate sa susunod/nakaraang tala"
+   },
+   "4230101516585408149": {
+      "message": "Gumawa ng bagong tala"
+   },
+   "4243437721135025638": {
+      "message": "Wala kang pahintulot na maglipat ng mga file sa Drive ng Team na ito."
+   },
+   "4248787844477062707": {
+      "message": "Gumawa ng bagong label"
+   },
+   "4269096876505546324": {
+      "message": "Magpadala ng feedback"
+   },
+   "4280747719095153198": {
+      "message": "Naresolbang Komento"
+   },
+   "4286663890332754386": {
+      "message": "Nabigo ang pag-upload."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Kanselahin"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Pumili ng tala"
+   },
+   "4327523836604343709": {
+      "message": "Laki 2"
+   },
+   "4332252081504252077": {
+      "message": "Whoops!"
+   },
+   "4343825450663233452": {
+      "message": "Maaaring Tumingin"
+   },
+   "4343848624651344174": {
+      "message": "Hapon"
+   },
+   "4346644280640625035": {
+      "message": "Inalis sa pagkakabahagi ang note."
+   },
+   "435214284915110062": {
+      "message": "Buksan ang bar sa paghahanap"
+   },
+   "435444400175963053": {
+      "message": "Nailipat na sa $2​ ang $1​ (na) item."
+   },
+   "4356312843186491987": {
+      "message": "Ilipat"
+   },
+   "4391715930031906467": {
+      "message": "Hanapin ang susunod"
+   },
+   "4397482594800054550": {
+      "message": "Nagkaproblema sa pagpapalit ng pangalan ng \"$1​.\""
+   },
+   "4412626362660239325": {
+      "message": "Ayusin sa Drive"
+   },
+   "4416841471975202365": {
+      "message": "Light Pink"
+   },
+   "4421168692772991468": {
+      "message": "Trash"
+   },
+   "4422985761498356257": {
+      "message": "Buksan gamit ang"
+   },
+   "4429542915339609008": {
+      "message": "Paumanhin, hindi sinusuportahan sa app na ito ang pagbubukas ng maraming file."
+   },
+   "4438168904974235640": {
+      "message": "Crimson"
+   },
+   "4444571967705751871": {
+      "message": "Basurahan"
+   },
+   "4448871104213529122": {
+      "message": "Itago ang mga detalye"
+   },
+   "4457424709416639982": {
+      "message": "Idagdag sa Aking Drive"
+   },
+   "4466605492523079635": {
+      "message": "I-save"
+   },
+   "4468872996560163913": {
+      "message": "Alisin lahat ang laman ng Basurahan ngayon"
+   },
+   "4486429060311743289": {
+      "message": "I-clear ang pinili"
+   },
+   "45228242181482134": {
+      "message": "I-play"
+   },
+   "4524999513489942668": {
+      "message": "$2​I-install ang extension ng Chrome na Google Keep$1​ upang i-save sa Keep sa pamamagitan lang ng isang pag-click ang mga bagay na mahalaga sa iyo."
+   },
+   "4533605085334699862": {
+      "message": "Mga Quote"
+   },
+   "4550209323331625907": {
+      "message": "$2​Matuto nang higit pa$1​"
+   },
+   "4557086341175267918": {
+      "message": "Hindi maibabahagi offline"
+   },
+   "4561316395348814504": {
+      "message": "Mga pag-download ng app"
+   },
+   "4564682305303579317": {
+      "message": "Magpatuloy"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Umuulit taun-taon.}one{Umuulit bawat # taon}other{Umuulit bawat # na taon}}"
+   },
+   "4607802784047113873": {
+      "message": "Magdagdag ng collaborator"
+   },
+   "4608848277887462246": {
+      "message": "Iba pang mga sheet"
+   },
+   "4620034373159179678": {
+      "message": "Pahina $1​ ng $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang item na nasa isang folder}one{Naglilipat ka ng mga item na nasa isang folder}other{Naglilipat ka ng mga item na nasa isang folder}}"
+   },
+   "4643940860676429496": {
+      "message": "Nagse-save..."
+   },
+   "4675792829115971960": {
+      "message": "Ifa-flag namin ang note na ito at aalisin ito sa iyong account."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Umuulit linggu-linggo tuwing {days}.}one{Umuulit bawat # linggo tuwing {days}}other{Umuulit bawat # na linggo tuwing {days}}}"
+   },
+   "4691283408020124345": {
+      "message": "List View"
+   },
+   "4700218356982480093": {
+      "message": "Itim"
+   },
+   "4717484643724894786": {
+      "message": "Kopyahin sa Doc"
+   },
+   "4740100782728373253": {
+      "message": "I-save sa Drive"
+   },
+   "4748046231232264180": {
+      "message": "Google Forms"
+   },
+   "4751202914935960324": {
+      "message": "Mayroon na ng email na ito"
+   },
+   "4752655540567953719": {
+      "message": "Posisyon $1​"
+   },
+   "4762625944764691132": {
+      "message": "Pangunahing menu"
+   },
+   "4767722428137216885": {
+      "message": "Kanselahin"
+   },
+   "477328789314249432": {
+      "message": "Hanapin sa mga tala"
+   },
+   "4773737319879079980": {
+      "message": "Gumawa ng mga tala nang mabilis gamit ang app"
+   },
+   "4775368111547931093": {
+      "message": "Walang paglalarawan"
+   },
+   "4805047680716507619": {
+      "message": " - Ilipat sa:"
+   },
+   "4806763987633034948": {
+      "message": "PKCS7 Signature"
+   },
+   "4807444103404336088": {
+      "message": "Nagkaproblema sa pagdaragdag ng star sa \"$1​.\""
+   },
+   "4821130290026382049": {
+      "message": "Mga sikat na keyboard shortcut"
+   },
+   "4833214200453019325": {
+      "message": "$1​ ng $2​"
+   },
+   "4840513623749850224": {
+      "message": "Mga Pelikula"
+   },
+   "4846720038197420778": {
+      "message": "Magkonekta ng higit pang mga app"
+   },
+   "4853788427396558692": {
+      "message": "$1​ (na) MB"
+   },
+   "4858389278403807208": {
+      "message": "Tala sa Trash"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 ang napili}one{# ang napili}other{# ang napili}}"
+   },
+   "4888104357342241891": {
+      "message": "Mga Paalala"
+   },
+   "490045476479394048": {
+      "message": "Mag-highlight ng text kung saan magkokomento"
+   },
+   "4901386320110714275": {
+      "message": "Mali ang password. Pakisubukang muli."
+   },
+   "4906669330059413958": {
+      "message": "Isumite ang password"
+   },
+   "4907349694646937491": {
+      "message": "Inilipat ang tala sa index $1​"
+   },
+   "4915450884407029247": {
+      "message": "Naidagdag na ang label na $1​."
+   },
+   "4917607226908075328": {
+      "message": "I-delete"
+   },
+   "4918998818369420588": {
+      "message": "Mag-ulat ng pang-aabuso"
+   },
+   "4925002811848839819": {
+      "message": "$1​ (na) item ang nailipat na mula sa $2​ patungo sa $3​."
+   },
+   "4930422592340561418": {
+      "message": "Aking Drive"
+   },
+   "4934109328393349339": {
+      "message": "Hindi na makapagdagdag ng higit pang mga item"
+   },
+   "4946709842900542238": {
+      "message": "Puti"
+   },
+   "4948512233726694061": {
+      "message": "$4​Page$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+   },
+   "4957674814179289955": {
+      "message": "Mag-navigate sa susunod/nakaraan na item sa listahan"
+   },
+   "4963784280521435720": {
+      "message": "Nagse-save..."
+   },
+   "4974059227183970715": {
+      "message": "Maaari ka ring magdagdag ng mga label sa pamamagitan ng pagta-type ng '#.'"
+   },
+   "4982284738093713321": {
+      "message": "Organizer"
+   },
+   "4988132901627446385": {
+      "message": "Pinalawak ang panel ng mga detalye."
+   },
+   "5006765610090288212": {
+      "message": "Inilapat ang kulay na $1​"
+   },
+   "5008901799534614532": {
+      "message": "I-delete"
+   },
+   "5009448218905630614": {
+      "message": "Alisin"
+   },
+   "5011858093760184160": {
+      "message": "Alisin ang star"
+   },
+   "5014595433724148222": {
+      "message": "Hot Pink"
+   },
+   "501475221876543407": {
+      "message": "Lumalabas dito ang mga idinaragdag mong tala"
+   },
+   "5023623739220371850": {
+      "message": "Hindi napatotohanan. Masi-sync ang mga pagbabago kapag nag-sign in ka."
+   },
+   "5041572047197549869": {
+      "message": "Sa parehong araw bawat buwan"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{Sa unang {day} ng buwan}=2{Sa pangalawang {day} ng buwan}=3{Sa pangatlong {day} ng buwan}=4{Sa pang-apat na {day} ng buwan}one{Sa huling {day} ng buwan}other{Sa huling {day} ng buwan}}"
+   },
+   "5046219519278664288": {
+      "message": "iPhone at iPad"
+   },
+   "5046371569383796818": {
+      "message": "Panatilihin"
+   },
+   "5052461293250181960": {
+      "message": "page down"
+   },
+   "5054818452036081005": {
+      "message": "$2​Privacy$1​"
+   },
+   "5055673792779951604": {
+      "message": "Light Blue"
+   },
+   "5078184843381528205": {
+      "message": "I-pin ang tala"
+   },
+   "5095987896933771566": {
+      "message": "I-print ang dokumento"
+   },
+   "509815948423424872": {
+      "message": "Nabigasyon"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5130903421326358933": {
+      "message": "Nagkaroon ng problema sa pag-save sa attachment sa Google Drive."
+   },
+   "5134649253619244584": {
+      "message": "I-delete ang label"
+   },
+   "5140285776541296873": {
+      "message": "Custom"
+   },
+   "5151247077945318396": {
+      "message": "Nagkaroon ng error sa pagpili ng folder na papasukan ng ie-extract."
+   },
+   "5178674191443894176": {
+      "message": "Mga Label"
+   },
+   "5180454621500142444": {
+      "message": "Ipanumbalik"
+   },
+   "5180989337128758117": {
+      "message": "kaliwang bracket"
+   },
+   "5182569285908080938": {
+      "message": "Mga opsyon sa petsa ng pagtatapos"
+   },
+   "5184692850089055965": {
+      "message": "Kunin ang text sa larawan"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Bar ng tab na panel ng mga detalye. Pindutin ang mga kaliwa at kanang arrow key upang magpalipat-lipat sa mga tab."
+   },
+   "5202835861850747976": {
+      "message": "$2​Matuto Nang Higit Pa$1​"
+   },
+   "5204391636475413312": {
+      "message": "I-save"
+   },
+   "5207219998739322438": {
+      "message": "Laki 1"
+   },
+   "5214104290560857118": {
+      "message": "Magdagdag ng komento"
+   },
+   "5217462020153787697": {
+      "message": "{numberOfPreviews,plural, =1{Inalis ang preview ng link}one{# preview ng link ang inalis}other{# na preview ng link ang inalis}}"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Buksan gamit ang $1​"
+   },
+   "5253765183290980485": {
+      "message": "Mayroon ka lang pahintulot na magdagdag at mag-edit ng mga item sa \"$1​,\" kaya hindi mo maa-undo ang pagkilos na ito."
+   },
+   "5259541708332520733": {
+      "message": "Naalis na ang pinagkunan"
+   },
+   "5271615049826004958": {
+      "message": "Mga opsyon sa preview ng link"
+   },
+   "5281121179861637423": {
+      "message": "Kinakailangan ang isang password upang ma-access ang $1​. Pakilagay ang password"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5299648222246616124": {
+      "message": "backtick"
+   },
+   "5300527252159851865": {
+      "message": "Hindi tumutugma ang file sa inaasahang format ng file."
+   },
+   "5319313176242717957": {
+      "message": "Pinoproseso ang mga larawan..."
+   },
+   "5321772883765574323": {
+      "message": "Nailipat ang \"$1​\" sa $3​ mula sa $2​."
+   },
+   "5334959887390704534": {
+      "message": "Ide-delete namin ang label na ito at aalisin ito mula sa lahat ng iyong tala sa Keep. Hindi made-delete ang iyong mga tala."
+   },
+   "5336801339221383042": {
+      "message": "Javascript"
+   },
+   "5336924963122494935": {
+      "message": "Piliin ito"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Mag-zoom out"
+   },
+   "5353129315502554762": {
+      "message": "Style Sheet"
+   },
+   "5353173068672429342": {
+      "message": "Mga tool sa pag-debug"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Naglilipat ka ng isang file na nasa isang folder}one{Naglilipat ka ng mga file na nasa isang folder}other{Naglilipat ka ng mga file na nasa isang folder}}"
+   },
+   "5363853533596749934": {
+      "message": "Ilagay ang pangalan ng label"
+   },
+   "5372143986724491245": {
+      "message": "$1​ araw ang nakalipas"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5394695048211047984": {
+      "message": "Magdagdag ng petsa"
+   },
+   "5398036630337418486": {
+      "message": "Buksan ang Doc"
+   },
+   "5399553230649155346": {
+      "message": "sa loob ng $1​ oras"
+   },
+   "5403636185480096151": {
+      "message": "TV"
+   },
+   "540596856674438371": {
+      "message": "Hindi maibahagi dahil naka-off ang pagbabahagi."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "541966762661844588": {
+      "message": "Menu"
+   },
+   "5435749276779042277": {
+      "message": "+ $1​ PA"
+   },
+   "5447119197363232006": {
+      "message": "Ipakita sa Drive"
+   },
+   "5455566801812656827": {
+      "message": "BAWASAN ANG IPINAPAKITA"
+   },
+   "5472312735475866917": {
+      "message": "Komento ni $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ (na) minuto ang nakalipas"
+   },
+   "54793131422514708": {
+      "message": "Laki 3"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "pakaliwa"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Inalis sa archive at na-pin ang tala}one{Inalis sa archive at na-pin ang # tala}other{Inalis sa archive at na-pin ang # na tala}}"
+   },
+   "553170279104432593": {
+      "message": "Buksan ang Selector ng Kulay at Laki ng Highlighter Tool"
+   },
+   "5539958940810433464": {
+      "message": "Ilagay sa trash ang tala"
+   },
+   "5542817571710587822": {
+      "message": "Naglalaman ang file ng masyadong maraming larawan."
+   },
+   "5545146751578623220": {
+      "message": "Caps-Lock"
+   },
+   "5555182241047709329": {
+      "message": "Pumili ng lokasyon"
+   },
+   "5555599189512365009": {
+      "message": "NAKUHA KO"
+   },
+   "556742419793425318": {
+      "message": "I-discard"
+   },
+   "5580896674367659519": {
+      "message": "Dark Grey"
+   },
+   "5581834527128285229": {
+      "message": "Nagkaproblema sa pagdaragdag ng \"$1​\" sa Aking Drive."
+   },
+   "5598649706113950710": {
+      "message": "Editor"
+   },
+   "5627470193961862490": {
+      "message": "Lumalabas dito ang mga talang may mga paparating na paalala"
+   },
+   "5631086126416409232": {
+      "message": "Asul"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Tanggalin ang mga may check na item?"
+   },
+   "5713014647314396479": {
+      "message": "Pagkatapos ng"
+   },
+   "5714240424645614611": {
+      "message": "Android Package"
+   },
+   "5728640851616538925": {
+      "message": "Berde"
+   },
+   "5755541943799933389": {
+      "message": "Nagdagdag ng star sa \"$1​\"."
+   },
+   "577619047319778196": {
+      "message": "I-clear ang Pinili"
+   },
+   "5783875011049188612": {
+      "message": "Nakuha ang text sa larawan"
+   },
+   "5820033033803019104": {
+      "message": "Isaayos"
+   },
+   "5840202488368071194": {
+      "message": "Bagong tala na may larawan"
+   },
+   "5840330517914556080": {
+      "message": "Mag-zoom out"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "585503297543253590": {
+      "message": "Sa"
+   },
+   "5870134033985574990": {
+      "message": "Ine-extract..."
+   },
+   "5871966496153339793": {
+      "message": "Ipinapakita ang thumbnail ng video ng $1​"
+   },
+   "5909490544352162901": {
+      "message": "Humiling sa may-ari ng access sa talang ito o lumipat sa isang account na may pahintulot. Naka-sign in ka bilang si $1​."
+   },
+   "5911012384539794869": {
+      "message": "Hindi nasimulan ang pag-extract."
+   },
+   "5916010927050975496": {
+      "message": "$1​ (na) KB"
+   },
+   "5917528552332886959": {
+      "message": "Ipakita ang mga naresolbang komento"
+   },
+   "5949528478488617689": {
+      "message": "Pahintulot sa Pag-download"
+   },
+   "5950887255133612666": {
+      "message": "Hindi pa nagsisimula."
+   },
+   "5961981688037913870": {
+      "message": "Idinagdag ang $1​"
+   },
+   "5965683144165568126": {
+      "message": "Muling isaayos ang item sa listahan"
+   },
+   "5969696744752069015": {
+      "message": "Walang available na preview."
+   },
+   "597983994875715119": {
+      "message": "Cyan"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Gumawa ng label"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Mag-a-update ang Keep pagkatapos ng # segundo}one{Mag-a-update ang Keep pagkatapos ng # segundo}other{Mag-a-update ang Keep pagkatapos ng # na segundo}}"
+   },
+   "6003164344472359508": {
+      "message": "Laki 16"
+   },
+   "6005084567691342649": {
+      "message": "Mga Paalala"
+   },
+   "6009962986062136164": {
+      "message": "Nilo-load ang $1​."
+   },
+   "6011637630664474614": {
+      "message": "Space"
+   },
+   "6030537159236285525": {
+      "message": "Ilipat ang item sa listahan sa susunod/naunang posisyon"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6042628357935708897": {
+      "message": "Hindi na ibinahagi ang talang ito sa iyong account. Humiling ng access sa may-ari, o lumipat sa isang account na may pahintulot."
+   },
+   "6043578784980337112": {
+      "message": "Nailipat na sa $2​ ang $1​ (na) file."
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Umuulit bawat {every} buwan sa unang {day} ng buwan}=2{Umuulit bawat {every} buwan sa pangalawang {day} ng buwan}=3{Umuulit bawat {every} buwan sa pangatlong {day} ng buwan}=4{Umuulit bawat {every} na buwan sa pang-apat na {day} ng buwan}one{Umuulit bawat {every} buwan sa huling {day} ng buwan}other{Umuulit bawat {every} na buwan sa huling {day} ng buwan}}"
+   },
+   "6087078248621415351": {
+      "message": "Binago noong $1​"
+   },
+   "6100883940579706314": {
+      "message": "Preview ng link"
+   },
+   "6104991132648864933": {
+      "message": "I-delete ang tala?"
+   },
+   "6105571474005679446": {
+      "message": "Nagkaproblema sa preview."
+   },
+   "6113237889871930608": {
+      "message": "Blangkong note"
+   },
+   "6118623991445349480": {
+      "message": "Pahina $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "Mga URL"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Listahan ng mga app"
+   },
+   "6149175749937815029": {
+      "message": "Tingnan ang lahat ng item"
+   },
+   "6156725896714172645": {
+      "message": "Kinokopya sa Google Doc"
+   },
+   "6160805346274626656": {
+      "message": "Tanggalin nang tuluyan"
+   },
+   "616807262818311711": {
+      "message": "Uri"
+   },
+   "618371060803280843": {
+      "message": "{numberOfNotes,plural, =1{I-delete ang tala}one{I-delete ang mga tala}other{I-delete ang mga tala}}"
+   },
+   "6185886893933834031": {
+      "message": "Panatilihin ang pinili"
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Umuulit araw-araw}one{Umuulit bawat # araw-araw}other{Umuulit bawat # na araw-araw}}"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Na-pin ang tala}one{Na-pin ang # tala}other{Na-pin ang # na tala}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6211895332551673425": {
+      "message": "Idinagdag da $2​Aking Drive$1​"
+   },
+   "6212070333807533570": {
+      "message": "Idinaragdag sa $2​Aking Drive$1​..."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Sinuman"
+   },
+   "6252259197986158120": {
+      "message": "Kahapon"
+   },
+   "6277118196930285720": {
+      "message": "I-reload"
+   },
+   "628140343505892786": {
+      "message": "Mga Setting"
+   },
+   "6286379137937560558": {
+      "message": "Artikulo"
+   },
+   "6286806453721792102": {
+      "message": "Ayusin sa Drive"
+   },
+   "6289564019832728437": {
+      "message": "Maaari kang magbahagi kapag tapos nang mag-load ang Keep."
+   },
+   "6305748545202493254": {
+      "message": "Ipakita/Itago ang pane ng mga detalye"
+   },
+   "6306268376900894985": {
+      "message": "Mangyayari hanggang {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6352952829934775705": {
+      "message": "DAGDAGAN ANG IPINAPAKITA"
+   },
+   "6366376928558090914": {
+      "message": "Pagkain"
+   },
+   "6375244206466599493": {
+      "message": "Taon"
+   },
+   "6375395544374251820": {
+      "message": "Nagkaproblema sa paglo-load ng higit pang mga page. Sinusubukang muli..."
+   },
+   "6386587519843563719": {
+      "message": "Binary File"
+   },
+   "6394816510866826521": {
+      "message": "Dogfoody"
+   },
+   "6413404795391222793": {
+      "message": "Gumagawa ng bagong listahan"
+   },
+   "6416495701611778255": {
+      "message": "Mga iminumungkahing third-party app"
+   },
+   "6419411265907669340": {
+      "message": "Ngayon"
+   },
+   "6427295696443582545": {
+      "message": "Eraser Tool"
+   },
+   "6432019580434957057": {
+      "message": "Audio"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Wala kang pahintulot na ilipat ang file na ito mula sa mga kasalukuyang folder nito. Sa halip, idagdag ang file sa {START_SPAN_1}{NAME}{END_SPAN}.}one{Wala kang pahintulot na ilipat ang mga file na ito mula sa mga kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga file sa {START_SPAN_2}{NAME}{END_SPAN}.}other{Wala kang pahintulot na ilipat ang mga file na ito mula sa mga kasalukuyang folder ng mga ito. Sa halip, idagdag ang mga file sa {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "6450508807204492448": {
+      "message": "Icon ng $1​"
+   },
+   "6450611522897524109": {
+      "message": "Avocado Green"
+   },
+   "6457802200418354862": {
+      "message": "Maaaring ma-download ng mga tumitingin"
+   },
+   "6459405233858728718": {
+      "message": "Google Slides"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minuto ang nakalipas"
+   },
+   "6466736813846482957": {
+      "message": "Nakaraan"
+   },
+   "6466858417983764649": {
+      "message": "Magtakda ng mga paalala sa mga tala para sa mga lugar at oras, gumawa ng mga boses na tala at magtrabaho online o offline."
+   },
+   "6472238195689960152": {
+      "message": "Puti"
+   },
+   "6473102097014191455": {
+      "message": "Tala na may drawing"
+   },
+   "6480260198815372102": {
+      "message": "I-on"
+   },
+   "6496683100661104868": {
+      "message": "$2​Mga open-source na lisensya$1​"
+   },
+   "6497197865876438261": {
+      "message": "Musika"
+   },
+   "6507257480072167483": {
+      "message": "Pinalitan ng $1​ ang pangalan ng label."
+   },
+   "6510131849363684615": {
+      "message": "Bukas"
+   },
+   "6513721414466645971": {
+      "message": "Inalis"
+   },
+   "6522917155620379865": {
+      "message": "I-download"
+   },
+   "6524849072392100692": {
+      "message": "Folder sa Google Drive"
+   },
+   "6571686604846453345": {
+      "message": "Nagkaroon ng problema sa pagdagdag sa item na ito sa Drive."
+   },
+   "6579707685908557993": {
+      "message": "Gabi"
+   },
+   "6582286158693833652": {
+      "message": "Matuto nang higit pa"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "661771364073001489": {
+      "message": "Magpalit ng account"
+   },
+   "6618562607681757575": {
+      "message": "Huwag ilipat mula sa anumang folder, idagdag lang sa $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Application"
+   },
+   "6650600936729710500": {
+      "message": "Mga Tugon."
+   },
+   "6664835828596108553": {
+      "message": "Opsyon"
+   },
+   "670419277288558500": {
+      "message": "Video/Audio"
+   },
+   "6707173584987026005": {
+      "message": "Ngayon"
+   },
+   "6710728478489145370": {
+      "message": "Isara"
+   },
+   "6713235295664405475": {
+      "message": "sa|sa"
+   },
+   "6715985122107380503": {
+      "message": "Mga Recording"
+   },
+   "6726462693927865256": {
+      "message": "Mga Detalye"
+   },
+   "6726879257388338969": {
+      "message": "I-print"
+   },
+   "6732800471045353930": {
+      "message": "Naibahagi na ang talang ito sa maximum na bilang ng mga tao."
+   },
+   "673551770550324419": {
+      "message": "Pagkasyahin sa lapad"
+   },
+   "6744457949320515234": {
+      "message": "Na-discard ang walang lamang tala"
+   },
+   "6747379635033535953": {
+      "message": "Magdagdag ng mga bagong item sa ibaba"
+   },
+   "6747528043814108113": {
+      "message": "Inilipat sa $1​"
+   },
+   "6749829802551750923": {
+      "message": "pataas"
+   },
+   "6750600017746655174": {
+      "message": "Opsyon"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Ibahagi ang item na ito?}one{Ibahagi ang mga item na ito?}other{Ibahagi ang mga item na ito?}}"
+   },
+   "6778577079172085976": {
+      "message": "Naka-pin"
+   },
+   "6780628488957834429": {
+      "message": "Orange"
+   },
+   "6787580031482277539": {
+      "message": "Hindi kailanman"
+   },
+   "6797862596948579998": {
+      "message": "Chrome App"
+   },
+   "6801348618370627980": {
+      "message": "Nagawa na ang label na $1​."
+   },
+   "681598652078493281": {
+      "message": "Matuto nang higit pa"
+   },
+   "6822520214440117457": {
+      "message": "Trabaho"
+   },
+   "6823109315717909214": {
+      "message": "Subukan ito"
+   },
+   "6827821461670731013": {
+      "message": "Ipakita ang mga checkbox"
+   },
+   "6833760103261954639": {
+      "message": "Nagkaproblema sa paglo-load sa page na ito. Sinusubukang muli..."
+   },
+   "6845496099067370773": {
+      "message": "Pula"
+   },
+   "6861978427131390279": {
+      "message": "Magpadala ng feedback"
+   },
+   "6891563484025164308": {
+      "message": "Nakaraan"
+   },
+   "6898823203505321799": {
+      "message": "Mga Detalye"
+   },
+   "6904351530369058983": {
+      "message": "May-ari"
+   },
+   "6911028933894691912": {
+      "message": "Magiging available ang drawing na ito kapag nag-online ka."
+   },
+   "6922953828399110511": {
+      "message": "Isara ang viewer"
+   },
+   "693770783324368110": {
+      "message": "Na-unpin at inilagay sa trash ang mga tala"
+   },
+   "6939806490818256358": {
+      "message": "{resultCount,plural, =1{# resulta ng paghahanap}one{# resulta ng paghahanap}other{# na resulta ng paghahanap}}"
+   },
+   "695253297035211081": {
+      "message": "Alisin Lahat ang Laman ng Basurahan"
+   },
+   "6963401564174052300": {
+      "message": "Pansamantalang hindi available ang drawing."
+   },
+   "6982682101118067511": {
+      "message": "Inaayos…"
+   },
+   "701276785305022936": {
+      "message": "Sira ang dokumento. Pakitiyak na nasa pinakabagong format ang file."
+   },
+   "7017384731286920634": {
+      "message": "Light Green"
+   },
+   "7017485862232001373": {
+      "message": "Naidagdag na ang \"$1​\" sa $2​."
+   },
+   "7019002927048576918": {
+      "message": "Mga Filter ng Paghahanap sa $1​"
+   },
+   "7050021021988648361": {
+      "message": "Kopyahin ang URL"
+   },
+   "7050898523853841537": {
+      "message": "Mga opsyon sa dalas"
+   },
+   "7054631817922169541": {
+      "message": "May mga hindi na-save na pagbabago sa Google Keep. Gusto mo bang umalis mula sa pahina at i-discard ang mga binago mo?"
+   },
+   "705714112650622350": {
+      "message": "Nagkaroon ng problema sa pagdaragdag ng item sa Google Drive."
+   },
+   "7059437903473652416": {
+      "message": "I-play ang YouTube video na $1​"
+   },
+   "7065454163742312322": {
+      "message": "Higit pang mga kulay"
+   },
+   "7084324152376766809": {
+      "message": "$1​ (na) araw ang nakalipas"
+   },
+   "7084991134824194740": {
+      "message": "Ipaalala sa akin"
+   },
+   "7086801490719148597": {
+      "message": "Alisin ito sa pagkakapili"
+   },
+   "7106150113490082402": {
+      "message": "Lavender"
+   },
+   "7126535013613878060": {
+      "message": "I-pin ang iyong mahahalagang tala sa itaas."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Muling isinasaayos ang tala"
+   },
+   "7146242673022399081": {
+      "message": "Text"
+   },
+   "7148992630785407972": {
+      "message": "Pinoprotektahan ng password ang file na ito at hindi maaaring ma-preview."
+   },
+   "7153847618034547771": {
+      "message": "I-enable"
+   },
+   "7161134329606048317": {
+      "message": "Isara"
+   },
+   "7161718175684624843": {
+      "message": "Alisin ang label"
+   },
+   "7164532930742017984": {
+      "message": "Sinumang may link"
+   },
+   "7166989725427500881": {
+      "message": "Pumili ng nasa trash na tala"
+   },
+   "7174189954350964804": {
+      "message": "Subukang muli"
+   },
+   "7174908348310449675": {
+      "message": "I-customize ang mga default ng iyong paalala"
+   },
+   "7181961085183734135": {
+      "message": "Naka-disable ang pagpi-print para sa file na ito"
+   },
+   "7225445911355686176": {
+      "message": "Pumili ng naka-archive na tala"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Nagkaroon ng problema sa pag-e-extract ng \"$1​.\""
+   },
+   "7265183966796883739": {
+      "message": "Itago ang mga naresolbang komento"
+   },
+   "7278398674737413598": {
+      "message": "Hindi ma-convert ang dokumento."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Na-archive ang tala}one{Na-archive ang # tala}other{Na-archive ang # na tala}}"
+   },
+   "7282548567245878869": {
+      "message": "Tinanggal ang item"
+   },
+   "7290932540630116546": {
+      "message": "Naitakda ang paalala. $1​"
+   },
+   "7295254213841803546": {
+      "message": "I-discard ang mga pagbabago?  Hindi mase-save ang iyong mga pagbabago."
+   },
+   "7304355547638486270": {
+      "message": "I-download ang Audio ($1​)"
+   },
+   "7337660181466605745": {
+      "message": "Hindi na-update ang \"$1​\" sa Drive."
+   },
+   "7342923890755029722": {
+      "message": "Isara"
+   },
+   "734478884582426793": {
+      "message": "Compressed Archive"
+   },
+   "7345191981142988484": {
+      "message": "Na-delete ang drawing"
+   },
+   "7364571366369083618": {
+      "message": "Video"
+   },
+   "7368945547292826843": {
+      "message": "Pumunta sa link"
+   },
+   "7377239345926788722": {
+      "message": "Mga Pagkilos"
+   },
+   "7382688299146249119": {
+      "message": "I-download ang item"
+   },
+   "7383706174467122149": {
+      "message": "Tinanggal ang tala"
+   },
+   "7388342865555961406": {
+      "message": "sa loob ng $1​ araw"
+   },
+   "7389099426842546376": {
+      "message": "Hindi available sa ngayon ang pakikipag-collaborate"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Ang mga mensahe mula sa $1​ ay na-extract sa iyong mail account sa ilalim ng label na \"Import: $2​.\""
+   },
+   "7422452809590461532": {
+      "message": "Pula"
+   },
+   "7426603384368095928": {
+      "message": "Paki-reload ang pahina upang muling mag-sign in at magpatuloy sa pagtatrabaho."
+   },
+   "7427333772418801813": {
+      "message": "Pinalawak ang button na + $1​ PA"
+   },
+   "7429084719905985261": {
+      "message": "Objective C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (na-edit noong $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Sine-save sa Drive"
+   },
+   "744753705925710199": {
+      "message": "Paumanhin, hindi namin nagawang pahintulutan ang app na ito para sa lahat ng file na sinubukan mong buksan. Pakisubukang muli."
+   },
+   "7452116603589558390": {
+      "message": "Alisin sa pagkakapili ang naka-pin na tala"
+   },
+   "7458942806393710991": {
+      "message": "I-deselect ang naka-archive na tala"
+   },
+   "7468842863971844562": {
+      "message": "Bagong listahan"
+   },
+   "7469895656894091562": {
+      "message": "Hindi wasto ang email na ito"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Umuulit buwan-buwan sa unang {day} ng buwan}=2{Umuulit buwan-buwan sa pangalawang {day} ng buwan}=3{Umuulit buwan-buwan sa pangatlong {day} ng buwan}=4{Umuulit buwan-buwan sa pang-apat na {day} ng buwan}one{Umuulit buwan-buwan sa huling {day} ng buwan}other{Umuulit buwan-buwan sa huling {day} ng buwan}}"
+   },
+   "7483088916037874359": {
+      "message": "Masyadong malaki ang file. "
+   },
+   "7488945223835574498": {
+      "message": "Postscript"
+   },
+   "7500786109708143683": {
+      "message": "Tinanggal ang audio"
+   },
+   "7503234138288940590": {
+      "message": "Paghahanap"
+   },
+   "7507827375601925075": {
+      "message": "Ilipat ang tala sa susunod/naunang posisyon"
+   },
+   "7530677128711603655": {
+      "message": "Mga resulta ng paghahanap para sa \"$1​\""
+   },
+   "754367112212424716": {
+      "message": "Mamayang hapon"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{# ang napili}one{# ang napili}other{# ang napili}}"
+   },
+   "7565383798249439151": {
+      "message": "sa loob ng $1​ (na) araw"
+   },
+   "7579280421767578228": {
+      "message": "Paalala sa Ibang araw"
+   },
+   "7586291841734385643": {
+      "message": "I-pop out"
+   },
+   "7587936635257676112": {
+      "message": "Idinagdag si $1​"
+   },
+   "7598582624136632660": {
+      "message": "Buksan ang bar sa paghahanap / hanapin ang susunod"
+   },
+   "7598850438299201663": {
+      "message": "Binubuksan ang \"$1​\"..."
+   },
+   "7604275940271852148": {
+      "message": "I-extract sa iyong mail account"
+   },
+   "7604400308311739073": {
+      "message": "I-pin"
+   },
+   "7610628906656867728": {
+      "message": "Archive"
+   },
+   "7610654194202731772": {
+      "message": "Tanggalin"
+   },
+   "7629685876277801112": {
+      "message": "Nagkaroon ng problema sa pagpapakita ng file ng mga mapa na ito."
+   },
+   "7630723924002267143": {
+      "message": "Naka-enable ang mga keyboard shortcut."
+   },
+   "7649506133540465463": {
+      "message": "Hindi maaaring i-undo ang pagkilos."
+   },
+   "7656983816661099886": {
+      "message": "Mga Bagay"
+   },
+   "7659047104232758352": {
+      "message": "iyon|ito"
+   },
+   "7669846901402551021": {
+      "message": "Ngayon"
+   },
+   "7691521283331762131": {
+      "message": "Lalabas dito ang iyong mga nai-archive na tala"
+   },
+   "7709889936233398701": {
+      "message": "Alisin"
+   },
+   "7715735412192018288": {
+      "message": "Tulong"
+   },
+   "7715892737835649602": {
+      "message": "Maaari ka ring magdagdag ng mga label sa pamamagitan ng pagta-type ng '#.'"
+   },
+   "772000107335590599": {
+      "message": "sa loob ng $1​ (na) minuto"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "773857106517884529": {
+      "message": "Light Grey"
+   },
+   "774390292128857049": {
+      "message": "Paghahanap"
+   },
+   "7751981235297474273": {
+      "message": "I-undo"
+   },
+   "7772544658778579390": {
+      "message": "Hanapin sa dokumento"
+   },
+   "777546328624962090": {
+      "message": "Hindi ma-upload ang file na ito. Tinatanggap namin ang mga $1​ file na mas maliit sa $2​MB at $3​ megapixel."
+   },
+   "7791050524692390574": {
+      "message": "Mga Kulay"
+   },
+   "7800318069267901681": {
+      "message": "Binago"
+   },
+   "7814778057875152792": {
+      "message": "Nagkaroon ng problema sa paglipat sa attachment sa piniling folder sa Google Drive."
+   },
+   "7822364282298323175": {
+      "message": "Tinanggal ang listahan"
+   },
+   "7828886646639771557": {
+      "message": "Magtala…"
+   },
+   "7830513726270865588": {
+      "message": "Calendar"
+   },
+   "7842164552344536314": {
+      "message": "Inaayos..."
+   },
+   "7844842290699524598": {
+      "message": "Naabot ang limitasyon sa label. Mag-delete ng umiiral na label upang makapagdagdag ng bago."
+   },
+   "7845751753397906805": {
+      "message": "May mga nakitang magkasalungat na pag-edit"
+   },
+   "785840448809859989": {
+      "message": "Mga opsyon sa oras"
+   },
+   "7865240075542402013": {
+      "message": "Magdagdag ng star"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7876831800396633138": {
+      "message": "Fullscreen Mode"
+   },
+   "7889179838401647357": {
+      "message": "Naipadala na ang kahilingan. Makakatanggap ka ng email kapag naaprubahan."
+   },
+   "7895643887742936844": {
+      "message": "semicolon"
+   },
+   "7899913952063063825": {
+      "message": "Tinanggal ang larawan"
+   },
+   "7901771370781969022": {
+      "message": "Aklat"
+   },
+   "7903276896883020622": {
+      "message": "Hindi available sa ngayon ang pagbabahagi"
+   },
+   "7906726367011430855": {
+      "message": "Kumonekta"
+   },
+   "7910887984113996757": {
+      "message": "I-on ang pagbabahagi"
+   },
+   "7922692430438844436": {
+      "message": "I-extract"
+   },
+   "792315196550007047": {
+      "message": "Walang mga tumutugmang resulta."
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Naglo-load…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{# tala ang pinili}one{# tala ang pinili}other{# na tala ang pinili}}"
+   },
+   "7976461426527138085": {
+      "message": "Mga Listahan"
+   },
+   "7988058806865329896": {
+      "message": "Pumili ng petsa at oras"
+   },
+   "7996360883730444101": {
+      "message": "Paumanhin, nagkaroon ng error habang binubuksan ang file na ito. Pakisubukang muli."
+   },
+   "8010075936095394680": {
+      "message": "Masyadong luma ang bersyon ng file. Pakitiyak na nasa pinakabagong format ang file. "
+   },
+   "8011497727123874703": {
+      "message": "Button ng Folder ng $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Naglilipat ka ng isang item mula sa mga nakabahaging folder, kaya mawawalan ng access ang mga tao.}one{Naglilipat ka ng {NUM_ITEMS_2} item mula sa mga nakabahaging folder, kaya mawawalan ng access ang mga tao.}other{Naglilipat ka ng {NUM_ITEMS_2} na item mula sa mga nakabahaging folder, kaya mawawalan ng access ang mga tao.}}"
+   },
+   "8019402848412685977": {
+      "message": "Pinalitan ang pangalang \"$2​\" ng \"$1​\"."
+   },
+   "8021465164414684024": {
+      "message": "{count,plural, =1{# item ang na-delete}one{# item ang na-delete}other{# na item ang na-delete}}"
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# Nakumpletong item}one{# Nakumpletong item}other{# na Nakumpletong item}}"
+   },
+   "8043514121228710092": {
+      "message": "Magdagdag ng larawan"
+   },
+   "8044700199531805239": {
+      "message": "Naikonekta ang $3​$1​$2​."
+   },
+   "8066398070826666542": {
+      "message": "{count,plural, =1{+ # nakumpletong item}one{+ # nakumpletong item}other{+ # na nakumpletong item}}"
+   },
+   "8069384932934428393": {
+      "message": "sa loob ng $1​ minuto"
+   },
+   "8080583426915938264": {
+      "message": "Mga app sa iyong computer"
+   },
+   "8085493757603803516": {
+      "message": "I-edit ang Pinili"
+   },
+   "8090743714060857028": {
+      "message": "Hindi maaaring ma-download ng mga tumitingin"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 na byte}=1{1 byte}one{# byte}other{# na byte}}"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Ilipat mula sa isang folder}=2{Ilipat mula sa parehong folder}one{Ilipat mula sa # folder}other{Ilipat mula sa # na folder}}"
+   },
+   "8125425371755035523": {
+      "message": "I-undo"
+   },
+   "8126340137798672888": {
+      "message": "Nailipat na sa $3​ ang $1​ (na) file mula sa $2​."
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8135145577663029437": {
+      "message": "Parehong panatilihin"
+   },
+   "814178220294444613": {
+      "message": "Naidagdag na sa $2​ ang $1​ (na) file."
+   },
+   "8144512434938656483": {
+      "message": "o"
+   },
+   "8146560259680897627": {
+      "message": "Kanselahin"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Magpadala ng feedback"
+   },
+   "8174654098152723289": {
+      "message": "I-edit ang Paglalarawan"
+   },
+   "8194941811853358224": {
+      "message": "Nagkaproblema sa pag-aalis ng star sa \"$1​.\""
+   },
+   "820664195135544910": {
+      "message": "Orange"
+   },
+   "8214941501817169086": {
+      "message": "{count,plural, =1{I-delete nang tuluyan?}one{I-delete ang mga tala nang tuluyan?}other{I-delete ang mga tala nang tuluyan?}}"
+   },
+   "821942580510564685": {
+      "message": "Pakilagay ang password ng dokumentong ito upang matingnan ito"
+   },
+   "8223878224920694193": {
+      "message": "Bawat"
+   },
+   "8224193807932432983": {
+      "message": "Mga Pagkilos"
+   },
+   "8231449936104909428": {
+      "message": "Nagkaroon ng problema sa paglilipat sa \"$1​\" sa napiling folder sa Drive."
+   },
+   "8242655297101700529": {
+      "message": "Aking Drive"
+   },
+   "826433162451399549": {
+      "message": "Bukas"
+   },
+   "8273434617910595878": {
+      "message": "pababa"
+   },
+   "8281141013543828574": {
+      "message": "Raw Image"
+   },
+   "8304474373444239435": {
+      "message": "Tugon ni $1​."
+   },
+   "8305505634689906340": {
+      "message": "Maghanap sa loob ng \"$1​\""
+   },
+   "8322416564157128458": {
+      "message": "Pagbabahagi"
+   },
+   "8332720954679654953": {
+      "message": "Mga pag-download ng app"
+   },
+   "8334718599538726981": {
+      "message": "Na-update"
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "I-dismiss"
+   },
+   "837692854094319105": {
+      "message": "Ang mga sumusunod na mga gumagamit ay hindi maaaring ibahagi dahil ang kanilang mga admin pinagana ang pagbabahagi sa kanilang domain."
+   },
+   "8379952094517631162": {
+      "message": "Hindi"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412098268689886334": {
+      "message": "I-merge"
+   },
+   "8412306118114780633": {
+      "message": "I-refresh"
+   },
+   "8412733496413412439": {
+      "message": "Offline"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Mag-highlight ng cell kung saan magkokomento"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "I-pause"
+   },
+   "847320208126653829": {
+      "message": "Buksan ang Selector ng Kulay at Laki ng Calligraphy Tool"
+   },
+   "8493378997610580289": {
+      "message": "Higit pang shortcut"
+   },
+   "8501142460706022179": {
+      "message": "Default na native na app"
+   },
+   "8505989225387082493": {
+      "message": "Magdagdag ng label"
+   },
+   "8509270263487836281": {
+      "message": "Mag-sign In"
+   },
+   "8517148045938431718": {
+      "message": "Ayusin ang mga error"
+   },
+   "8535916611285039243": {
+      "message": "I-dismiss"
+   },
+   "8591848339430983053": {
+      "message": "Mga Tala"
+   },
+   "8595175575778060149": {
+      "message": "Higit pa"
+   },
+   "8596279649507974639": {
+      "message": "Ilipat dito"
+   },
+   "8602525917014156029": {
+      "message": "Mga Lugar"
+   },
+   "8616342546716995946": {
+      "message": "Nakuha ko"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8626694988569301667": {
+      "message": "Hindi available ang drawing"
+   },
+   "8646821180780920830": {
+      "message": "Mga Label"
+   },
+   "8652657235429996594": {
+      "message": "Malapit na"
+   },
+   "8660016472468563221": {
+      "message": "colon"
+   },
+   "8663507590720636709": {
+      "message": "$1​ +$2​ pa"
+   },
+   "8663993454460982287": {
+      "message": "Itinago ang mga checkbox"
+   },
+   "8674222789100049233": {
+      "message": "Isara"
+   },
+   "86815590954366945": {
+      "message": "Listahan ng naka-archive na nilalaman"
+   },
+   "8708723278154759600": {
+      "message": "Na-archive ang mga tala"
+   },
+   "8711002053494037632": {
+      "message": "Inalisan ng check ang lahat ng item"
+   },
+   "8734569874711220205": {
+      "message": "Menu ng navigation"
+   },
+   "8742388056829916665": {
+      "message": "Magpakita ng mga rich na preview ng link"
+   },
+   "8747586020318913818": {
+      "message": "Calligraphy Tool"
+   },
+   "8770362429333850884": {
+      "message": "Binuksan ang menu ng picker ng label"
+   },
+   "8775097441636640256": {
+      "message": "$2​ - $1​"
+   },
+   "8781837301864053001": {
+      "message": "Rich Text"
+   },
+   "8786673003584562680": {
+      "message": "Pg-Up"
+   },
+   "8792038552136453044": {
+      "message": "Oops! Nagkaroon ng problema"
+   },
+   "8793166064242077041": {
+      "message": "Nagkaproblema sa pagpapakita sa larawang ito."
+   },
+   "8822326207328431952": {
+      "message": "Hindi available ang mga pag-upload ng larawan"
+   },
+   "8845176264121061589": {
+      "message": "Alisan ng check ang lahat ng item"
+   },
+   "8850238112725591771": {
+      "message": "shortcut $1​"
+   },
+   "8851252390780816895": {
+      "message": "Log ng client"
+   },
+   "8852550049823214385": {
+      "message": "pagkatapos"
+   },
+   "8860658114732392347": {
+      "message": "I-delete ang paalala"
+   },
+   "8867634760949689122": {
+      "message": "Hindi ma-convert ang file: nag-time out ang pag-convert. Pakisubukang muli sa ibang pagkakataon."
+   },
+   "8868758864963683383": {
+      "message": "I-deselect ang tala"
+   },
+   "887001400549949730": {
+      "message": "Buksan sa bagong window"
+   },
+   "888015650266122140": {
+      "message": "mga pangyayari"
+   },
+   "8889019648958415451": {
+      "message": "Unknown File"
+   },
+   "8892163365003749853": {
+      "message": "Tool ng Pagpili"
+   },
+   "8917554093651202032": {
+      "message": "I-play ang $1​"
+   },
+   "8919660666733306860": {
+      "message": "Larawan"
+   },
+   "8930959387403789939": {
+      "message": "Paalala"
+   },
+   "8938626240031421092": {
+      "message": "Tina-toggle ang mga checkbox"
+   },
+   "8943760679396635042": {
+      "message": "Ipinapakita ang $1​."
+   },
+   "8953555255469284376": {
+      "message": "I-drop ang mga larawan dito"
+   },
+   "8958118622768332570": {
+      "message": "Hindi nakopya sa Google Doc"
+   },
+   "8975305711699693093": {
+      "message": "Itago ang column ng mga komento"
+   },
+   "8977359195911624009": {
+      "message": "+$1​"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Umuulit linggu-linggo}one{Umuulit bawat # linggo}other{Umuulit bawat # na linggo}}"
+   },
+   "8979615310931291676": {
+      "message": "Na-edit noong $1​"
+   },
+   "8988925599985431446": {
+      "message": "I-unpin"
+   },
+   "8999857151110318749": {
+      "message": "Lila"
+   },
+   "900086393693234779": {
+      "message": "Bahay"
+   },
+   "9012753183662045049": {
+      "message": "Maglagay ng mas maikling pangalan ng label"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Hindi na ibabahagi sa iyo ang talang ito.}one{Hindi na ibabahagi sa iyo ang mga talang ito.}other{Hindi na ibabahagi sa iyo ang mga talang ito.}}"
+   },
+   "9024023699330078373": {
+      "message": "Ang pagbukas sa item na ito ay magdaragdag rito sa iyong Drive"
+   },
+   "9030534135553586694": {
+      "message": "Pinagkunan"
+   },
+   "9058308423774656474": {
+      "message": "Hangul Word Processor"
+   },
+   "9063863448028905602": {
+      "message": "Alisin sa mga resulta"
+   },
+   "9072994494820207560": {
+      "message": "Nalagyan ng Check na Item"
+   },
+   "9083935734710258396": {
+      "message": "Tanggihan"
+   },
+   "9094248058931620597": {
+      "message": "Na-collapse ang panel ng mga detalye."
+   },
+   "910247501857754225": {
+      "message": "Deep Purple"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9121915169985572840": {
+      "message": "Palitan ang kulay"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}one{Mawawalan ng access ang mga miyembro ng Mga Drive ng Team maliban na lang kung ibabahagi ang mga item na ito sa kanila.}other{Mawawalan ng access ang mga miyembro ng Mga Drive ng Team maliban na lang kung ibabahagi ang mga item na ito sa kanila.}}"
+   },
+   "9149141099919589043": {
+      "message": "Mga Comma Separated Value"
+   },
+   "9156878962731584153": {
+      "message": "Dark Brown"
+   },
+   "918181312329879123": {
+      "message": "Naidagdag na sa $2​ ang $1​ (na) folder."
+   },
+   "9197837492705576727": {
+      "message": "Pumunta sa susunod na item"
+   },
+   "919969969251998566": {
+      "message": "I-extract ang archive na ito sa iyong mail account."
+   },
+   "9208632284144316801": {
+      "message": "Umuulit"
+   },
+   "9213031420087755232": {
+      "message": "I-clear ang Page"
+   },
+   "938074023403688885": {
+      "message": "Alisin"
+   },
+   "951963820437151566": {
+      "message": "Google Sites"
+   },
+   "960732173870658714": {
+      "message": "Dokumento sa Google Keep"
+   },
+   "976103457024703736": {
+      "message": "Hindi mabuksan ang \"$1​\"."
+   },
+   "985197728509875956": {
+      "message": "Chemical Model"
+   },
+   "991852286447868510": {
+      "message": "Hinahanap ang $1​"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Mabilis na isulat ang nasa isip mo at ibahagi ang mga ideyang iyon sa mga kaibigan at pamilya."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep - mga tala at listahan"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

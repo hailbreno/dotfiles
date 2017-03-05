@@ -1,0 +1,2 @@
+var MAX_META=50;
+function LP_getLPMeta(b){b||(b=LP_derive_doc());if(!b)return null;for(var d=!1,e="",f="",g=b.getElementsByTagName("meta"),c=0;c<g.length&&c<MAX_META;c++)if((b=g[c])&&(name=b.getAttribute("name"))&&"LASTPASS"==name.toUpperCase()){var a=b.getAttribute("data-lpignore");"undefined"!=typeof a&&null!==a&&(d=a);a=b.getAttribute("data-lpfunction");"undefined"!=typeof a&&null!==a&&(e=a);a=b.getAttribute("data-lpflavor");"undefined"!=typeof a&&null!==a&&(f=a)}return{skiplp:d,lpfunction:e,lpflavor:f}};

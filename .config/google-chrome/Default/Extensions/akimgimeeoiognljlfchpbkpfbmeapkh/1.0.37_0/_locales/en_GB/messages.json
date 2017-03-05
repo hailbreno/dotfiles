@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Apps"
+   },
+   "change": {
+      "message": "Change"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>from Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Default new tab"
+   },
+   "extdescription": {
+      "message": "Art Project masterpieces from Google Cultural Institute in your browser tabs"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Show apps button"
+   },
+   "optionsappsbtndesc": {
+      "message": "Opens Chrome's apps page"
+   },
+   "optionsinterface": {
+      "message": "Interface settings"
+   },
+   "optionsntpbtn": {
+      "message": "Show default new tab button"
+   },
+   "optionsntpbtndesc": {
+      "message": "Opens Chrome's default new tab"
+   },
+   "optionstopsitesbtn": {
+      "message": "Show top sites button"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Opens a quick list of your most visited websites"
+   },
+   "pagetitle": {
+      "message": "New Tab"
+   },
+   "showappsbutton": {
+      "message": "Show apps button"
+   },
+   "showdefaulttablink": {
+      "message": "Show default new tab button"
+   },
+   "showtopsitesbutton": {
+      "message": "Show top sites button"
+   },
+   "topsites": {
+      "message": "Top sites"
+   },
+   "turnovergroup": {
+      "message": "Change artwork..."
+   },
+   "turnovermodealways": {
+      "message": "In every new tab"
+   },
+   "turnovermodedaily": {
+      "message": "Daily"
+   },
+   "unknown": {
+      "message": "Unknown Artist"
+   },
+   "untitled": {
+      "message": "Untitled"
+   }
+}

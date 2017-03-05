@@ -1,0 +1,2 @@
+/*! Copyright 2009-2017 Evernote Corporation. All rights reserved. */
+function ExternalMessaging(){function a(a){d=a}function b(){if(!SAFARI&&!EDGE&&!FIREFOX){var a=function(a,b,e){return b&&c.indexOf(b.id)!==-1?(a.name&&d[a.name]&&d[a.name](a,b,e),!!e||void 0):void log.warn("Got ExternalMessaging request from unexpected sender "+b.id)};chrome.runtime.onMessageExternal&&chrome.runtime.onMessageExternal.addListener(a)}}var c=["aclkapcoggpdiggeimkkckamndpdcfeb","ncnnnfnlpehkpkgfcggbkdogjgmihimk"],d={};this.setMessageHandlers=a,Object.preventExtensions(this),b()}

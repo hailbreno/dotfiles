@@ -1,0 +1,2975 @@
+{
+  "1001407065815272462": {
+    "message": "Ayikwazi ukungeza ku-$2​IDrayivu Yami$1​"
+  },
+  "1013939682284715002": {
+    "message": "Hlela"
+  },
+  "1029576232144989689": {
+    "message": "Ungakwazi futhi ukulondoloza izixhumanisi ukuze uzisebenzise ngokuhamba kwesikhathi nokuthi\u0026nbsp;$2​Isandiso se-Chrome Se-Google Keep$1​."
+  },
+  "1039394921418415681": {
+    "message": "Ngena ngemvume"
+  },
+  "1061011362310586469": {
+    "message": "Ukwabelana"
+  },
+  "1062420184700835520": {
+    "message": "Vula Umbala Wethuluzi Likamaka Nesikhethi Sikasayizi"
+  },
+  "1083918249169198626": {
+    "message": "Izinqamuleli zekhibhodi zikhutshaziwe."
+  },
+  "1101371910696766077": {
+    "message": "Yenza ikhophi"
+  },
+  "1105774658609209931": {
+    "message": "Isandiso se-Chrome"
+  },
+  "1122146167985532789": {
+    "message": "izolo"
+  },
+  "1127320433256851404": {
+    "message": "Isidlali sevidiyo"
+  },
+  "1159463938127271829": {
+    "message": "kusuka ku-$1​"
+  },
+  "1162642135048988280": {
+    "message": "Qamba kabusha idokhumenti"
+  },
+  "1163324543881570799": {
+    "message": "Google Amadokhumenti"
+  },
+  "1166244120191806795": {
+    "message": "Nika impendulo"
+  },
+  "1177768120450365955": {
+    "message": "Hambisa izinto eziqokiwe ezansi"
+  },
+  "1179891706526242218": {
+    "message": "Okulandelayo"
+  },
+  "1185164838496022543": {
+    "message": "Sicela uchofoze lapha ukuze ulayishe kabusha ikhasi."
+  },
+  "1198371177271608867": {
+    "message": "Usayizi 4"
+  },
+  "1213005208968286932": {
+    "message": "Kumakwe njengokuxazululiwe"
+  },
+  "124900027451629830": {
+    "message": "Dlala"
+  },
+  "1256362146573583104": {
+    "message": "Khipha"
+  },
+  "1259492729704800881": {
+    "message": "Inothi yokubeka kungobo yomlando"
+  },
+  "1263685395252160366": {
+    "message": "I-LaTeX"
+  },
+  "1271038294394884640": {
+    "message": "Khansela"
+  },
+  "12768758038718216": {
+    "message": "Phina inothi elifakwe kungobo yomlando"
+  },
+  "1280430284217153733": {
+    "message": "Engeza isikhathi"
+  },
+  "1315983816556686539": {
+    "message": "Ophuzi"
+  },
+  "1333255388111908292": {
+    "message": "Igilosa"
+  },
+  "1335763707789999819": {
+    "message": "{NUM_ITEMS,plural, =1{Awunayo imvume yokuhambisa le nto ukusuka kuzikhwama zayo zamanje. Engeza into kokuthi {START_SPAN_1}{NAME}{END_SPAN} esikhundleni salokho.}one{Awunayo imvume yokuhambisa lezi zinto kumafolda azo amanje. Engeza izinto kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}other{Awunayo imvume yokuhambisa lezi zinto kumafolda azo amanje. Engeza izinto kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}}"
+  },
+  "1338300799355131761": {
+    "message": "Inothi elingenasihloko"
+  },
+  "1349697396109290623": {
+    "message": "Ukubonisa ukucaca okuphakeme kwe-$1​"
+  },
+  "136335357683289450": {
+    "message": "Vala"
+  },
+  "1379850360723600538": {
+    "message": "Amafayela avikelwe ngephasiwedi awasekelwa."
+  },
+  "1397887822627488928": {
+    "message": "Umuntu noma i-imeyili ongabelana nayo"
+  },
+  "139942704574044780": {
+    "message": "Yamukela"
+  },
+  "1419896259743862406": {
+    "message": "Vula nge-"
+  },
+  "1432850707344442376": {
+    "message": "Dala ilebula $1​"
+  },
+  "1441487391064925653": {
+    "message": "Buka zonke izinqamuleli ku-Isikhungo sosizo"
+  },
+  "1442722292947881614": {
+    "message": "Izinhlobo"
+  },
+  "1446829548948002072": {
+    "message": "ikhoma"
+  },
+  "1463389029497634261": {
+    "message": "Nciphisa ivolumu"
+  },
+  "1465828580966685215": {
+    "message": "Sula i-akhawunti"
+  },
+  "1466663154000252842": {
+    "message": "Abanye abantu bangase balahlekelwe ukufinyelela"
+  },
+  "1467797923781828000": {
+    "message": "$1​ izinto zingezwe ku-$2​."
+  },
+  "1473312930157933007": {
+    "message": "Abasebenzisi abalandelayo awukwazi ukwabelana nabo ngenxa yokuthi umlawuli wakho ukhubaze ukwabelana ngaphandle kwesizinda sakho."
+  },
+  "1475258635371833968": {
+    "message": "$2​, $1​"
+  },
+  "1475261522522402536": {
+    "message": "Khetha indawo"
+  },
+  "1482452362096735080": {
+    "message": "Yenzeka izikhathi ezingu-{numOccurrences}"
+  },
+  "148864680356422442": {
+    "message": "Emuva"
+  },
+  "1499433769420882987": {
+    "message": "Kuboniswa u-$1​"
+  },
+  "1505876360160857231": {
+    "message": "$1​ TB"
+  },
+  "1507063529674142853": {
+    "message": "Ngosuku lokugcina lwenyanga"
+  },
+  "1507445189431379166": {
+    "message": "Susa"
+  },
+  "1512454807955173272": {
+    "message": "I-Keep izobuyekeza uma iku-inthanethi"
+  },
+  "1532717559893630620": {
+    "message": "Ilebula ethi $1​ ihlanganiswe nokuthi $2​."
+  },
+  "1536051766421561160": {
+    "message": "uphawu lokulingana"
+  },
+  "153659275234722804": {
+    "message": "Cashisa"
+  },
+  "156992719062713230": {
+    "message": "Okumpunga"
+  },
+  "1586968957182554447": {
+    "message": "Khubaza"
+  },
+  "1588268697057804046": {
+    "message": "$1​ amahora adlule"
+  },
+  "1595218840091201497": {
+    "message": "Okunsundu"
+  },
+  "1633798963327779260": {
+    "message": "Kusasa"
+  },
+  "1655692513689044870": {
+    "message": "Uphume ngemvume."
+  },
+  "1656911987308166143": {
+    "message": "Susa"
+  },
+  "1661251023749398110": {
+    "message": "Landa Umsindo"
+  },
+  "1665821947855814052": {
+    "message": "Usayizi"
+  },
+  "1669648976972603642": {
+    "message": "Lo mnyakazo uzothinta ubunikazi nokufinyelela"
+  },
+  "1675900304699098572": {
+    "message": "{count,plural, =1{Inothi lisuswe ukuphina}one{Amanothi angu-# asuswe ukuphina}other{Amanothi angu-# asuswe ukuphina}}"
+  },
+  "1679322931860897953": {
+    "message": "Kopishela ku-Google Idokhumenti"
+  },
+  "1680617124502957636": {
+    "message": "Ayikwazi ukuxhuma okwamanje. Zama futhi emuva kwesikhathi."
+  },
+  "1692901784886701962": {
+    "message": "Inothi likhulu kakhulu."
+  },
+  "1694896269813520248": {
+    "message": "Engeza umdwebo"
+  },
+  "1697160643589236962": {
+    "message": "$1​ PB"
+  },
+  "1703175513040690135": {
+    "message": "Noma ubani ku-$1​"
+  },
+  "1704004075228783011": {
+    "message": "{every,plural, =1{Iphinda njalo ngenyanga ngosuku lokugcina lwenyanga}one{Iphinda njalo ngezinyanga ezingu-# ngosuku lokugcina lwenyanga}other{Iphinda njalo ngezinyanga ezingu-# ngosuku lokugcina lwenyanga}}"
+  },
+  "1711424025297585662": {
+    "message": "i|i|i"
+  },
+  "171683163267149669": {
+    "message": "$1​ GB"
+  },
+  "1737240194537729525": {
+    "message": "Maviki wonke"
+  },
+  "1739900012825270238": {
+    "message": "Hamba kunto yangaphambilini"
+  },
+  "1740371341228065086": {
+    "message": "Layisha kabusha"
+  },
+  "1745782414562966515": {
+    "message": "Hlanganisa ilebuli ye-\"$1​\" nelebuli ye-\"$2​\"? Wonke amanothi afakwe ilebuli ye-\"$1​\" azofakwa ilebuli ye-\"$2​,\" futhi ilebuli ye-\"$1​\" izosuswa."
+  },
+  "1783719421893050637": {
+    "message": "Ubukhulu"
+  },
+  "178927681797742562": {
+    "message": "Ngena ngemvume"
+  },
+  "1791115075948268631": {
+    "message": "Vula usizo lwezinqamuleli zekhibhodi"
+  },
+  "179545118447015250": {
+    "message": "Ukubuka igridi"
+  },
+  "1803966010993357655": {
+    "message": "Abanye"
+  },
+  "1808245543551507519": {
+    "message": "Umsindo"
+  },
+  "1819225489062185613": {
+    "message": "Abanye"
+  },
+  "1823222042913714987": {
+    "message": "Thumela iphasiwedi"
+  },
+  "1830157062072535681": {
+    "message": "Ibonisa i-$1​"
+  },
+  "1852745815330163711": {
+    "message": "Google Imidwebo"
+  },
+  "1870691479127746185": {
+    "message": "ngakwesokudla"
+  },
+  "187077078156858455": {
+    "message": "Inothi lomsindo"
+  },
+  "189303170370862360": {
+    "message": "$1​ kuzinto ezingu-$2​"
+  },
+  "1900571668686750716": {
+    "message": "I-vCard"
+  },
+  "1901215424950227523": {
+    "message": "Ilebula ethi $1​ ayitholakali"
+  },
+  "1912092030665541460": {
+    "message": "Isenzo sihlehlisiwe"
+  },
+  "1917552217016175754": {
+    "message": "Ithuluzi Likamaka"
+  },
+  "1918176455405610789": {
+    "message": "Kwenziwe"
+  },
+  "1938115711058331119": {
+    "message": "Bonisa ikholomu yamazwana"
+  },
+  "195154114623528341": {
+    "message": "Engeza indawo"
+  },
+  "1956794332842050061": {
+    "message": "Ikhasi elilandelayo"
+  },
+  "1965626377712226216": {
+    "message": "Inothi eliyinhloko"
+  },
+  "1967536906522187719": {
+    "message": "Kube nenkinga yokuhlola kuqala leli shithi."
+  },
+  "1968405748623909021": {
+    "message": "Zama olulodwa lwalezi zinhlelo zokusebenza ngezansi ukuze uvule noma uhlele le nto"
+  },
+  "1969531182936822963": {
+    "message": "Isenzo sihlehlisiwe"
+  },
+  "1973454937875679500": {
+    "message": "Faka igama lelebuli"
+  },
+  "1975630610063119352": {
+    "message": "{charsRemaining,plural, =1{# uhlamvu olusele}one{# izinhlamvu ezisele}other{# izinhlamvu ezisele}}"
+  },
+  "1980209166254310911": {
+    "message": "Usuku"
+  },
+  "1988244842147989817": {
+    "message": "Amanothi aku-Udoti azosuswa ngemuva kwezinsuku ezingu-7."
+  },
+  "1996872514195688196": {
+    "message": "Ayikwazi ukufinyelela inothi okwamanje. Zama futhi emuva kwesikhathi."
+  },
+  "200005227964332868": {
+    "message": "OKUNINGI"
+  },
+  "2003845117979929469": {
+    "message": "Imininingwane"
+  },
+  "2009529126622551485": {
+    "message": "Uhlu lwento"
+  },
+  "2018433077417240302": {
+    "message": "Iya kulebula"
+  },
+  "2039757863628752523": {
+    "message": "Izinketho zokuvama"
+  },
+  "205876860571942679": {
+    "message": "I-Google Amamephu Wami"
+  },
+  "2059084517358086391": {
+    "message": "Vala ibha yokuthola"
+  },
+  "2061440050632248160": {
+    "message": "Faka kungobo yomlando"
+  },
+  "2068023589621557589": {
+    "message": "Ifonti ye-TrueType"
+  },
+  "2073322475696388995": {
+    "message": "Yeqa uya phambili"
+  },
+  "2074454463201225704": {
+    "message": "Setha kabusha ukusondeza"
+  },
+  "207810168108507460": {
+    "message": "$1​ ihora eledlule"
+  },
+  "2091811447965921066": {
+    "message": "Bakhiphe"
+  },
+  "2107379241532042955": {
+    "message": "Indawo"
+  },
+  "2107589831642088814": {
+    "message": "Dala i-\"$3​$2​$1​\""
+  },
+  "2124464318249308530": {
+    "message": "Okuwolintshi Ngokukhanyayo"
+  },
+  "212796670323571824": {
+    "message": "KULUNGILE"
+  },
+  "213665695896111861": {
+    "message": "Amanothi"
+  },
+  "2138593281154109183": {
+    "message": "Okufakwe kungobo yomlando"
+  },
+  "214517458278879973": {
+    "message": "Ngena ngemvume njengo-$1​"
+  },
+  "2147952938331523160": {
+    "message": "Qamba kabusha..."
+  },
+  "2154372123324862271": {
+    "message": "i-slash"
+  },
+  "2166966123760559393": {
+    "message": "Dala ilebula entsha"
+  },
+  "2168461275182666804": {
+    "message": "Hlela"
+  },
+  "2173675558412671739": {
+    "message": "Ikopishelwe ku-Google Idokhumenti"
+  },
+  "2181197458532159304": {
+    "message": "{numberOfNotes,plural, =1{Inothi lilahlwe kudoti}one{Amanothi angu-# alahlwe kudoti}other{Amanothi angu-# alahlwe kudoti}}"
+  },
+  "2184278444368405837": {
+    "message": "$1​ izinto"
+  },
+  "2187239650627580457": {
+    "message": "Hambisa"
+  },
+  "2195440644060728966": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa ifolda etholakala kufolda eyodwa}one{Uhambisa amafolda atholakala kufolda eyodwa}other{Uhambisa amafolda atholakala kufolda eyodwa}}"
+  },
+  "2198096971937872560": {
+    "message": "Isikhumbuzi:"
+  },
+  "220168959069469607": {
+    "message": "Izenzo eziningi"
+  },
+  "2202265279234683999": {
+    "message": "Izinqamuleli zekhibhodi"
+  },
+  "2203926649090909861": {
+    "message": "Into yohlu ihanjiswe kunkomba $1​"
+  },
+  "2216904725760458480": {
+    "message": "Ngosuku"
+  },
+  "221715292685577880": {
+    "message": "Yebo"
+  },
+  "2264311811697505466": {
+    "message": "Qala kabusha"
+  },
+  "2270633624888102832": {
+    "message": "Susa ukuphina kwenothi"
+  },
+  "2280650195464600721": {
+    "message": "Ukuzulazula"
+  },
+  "2283668287077047088": {
+    "message": "Ithuluzi Lokugqamisa"
+  },
+  "2285069188138705005": {
+    "message": "Izinhlelo zokusebenza ezixhumene"
+  },
+  "2286685488296851497": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Uhambisa into ngaphandle kwefolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\", ngakho abantu bazolahlekelwa ukufinyelela.}one{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kwefolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\", ngakho abantu bazolahlekelwa ukufinyelela.}other{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kwefolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\", ngakho abantu bazolahlekelwa ukufinyelela.}}"
+  },
+  "228741435562395266": {
+    "message": "Ukuphrinta akutholakali manje"
+  },
+  "2289534534793293486": {
+    "message": "Ungafaki kungobo yomlando"
+  },
+  "2289812403593835836": {
+    "message": "Amakhasi"
+  },
+  "229177484946387188": {
+    "message": "I-Google Earth"
+  },
+  "2292696732672795285": {
+    "message": "Khuphula ivolumu"
+  },
+  "2299671629154778581": {
+    "message": "Amanothi asusiwe ukuphina futhi afakwe kungobo yomlando"
+  },
+  "2310145944356900158": {
+    "message": "Okuthikhiwe"
+  },
+  "2311880726221661199": {
+    "message": "Ilayisha ukucaca okuphakeme"
+  },
+  "2324955914430674498": {
+    "message": "Ayikho imiphumela yosesho yokuthi \"$1​\""
+  },
+  "2329167963662998826": {
+    "message": "I-Google Keep izosebenzisa indawo yakho ukuthuthukisa iziphakamiso zezindawo zezikhumbuzo zendawo."
+  },
+  "2357623745116912085": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Amalungu okuthi \"{TEAM_DRIVE_NAME}\" azolahlekelwa ukufinyelela ngaphandle kwalapho le nto yabelwe nawo.}one{Amalungu okuthi \"{TEAM_DRIVE_NAME}\" azolahlekelwa ukufinyelela ngaphandle kwalapho lezi zinto zabelwa nawo.}other{Amalungu okuthi \"{TEAM_DRIVE_NAME}\" azolahlekelwa ukufinyelela ngaphandle kwalapho lezi zinto zabelwa nawo.}}"
+  },
+  "2357761837816388330": {
+    "message": "Okungaxhunyiwe ku-inthanethi"
+  },
+  "2359614137862708172": {
+    "message": "u-Shift"
+  },
+  "2364374826543847335": {
+    "message": "Khipha umthombo"
+  },
+  "236689092839978781": {
+    "message": "Awuphindi"
+  },
+  "2370656573843123707": {
+    "message": "abakaki abangakwesokudla"
+  },
+  "2373760032138505521": {
+    "message": "Ilebula isivele ikhona"
+  },
+  "2386536768112358461": {
+    "message": "Ikhasi-Phansi"
+  },
+  "2405795704816921421": {
+    "message": "Ifayela le-$1​"
+  },
+  "2408383448126741628": {
+    "message": "Ubude besikhathi"
+  },
+  "2423877407428530040": {
+    "message": "Ifayela linamashadi amaningi kakhulu."
+  },
+  "2433429041384246549": {
+    "message": "Thulisa"
+  },
+  "2449254824382583885": {
+    "message": "Khipha"
+  },
+  "2452522051596946166": {
+    "message": "Eshu! Kube khona inkinga yokubuka kuqala i-$1​. Iyazama futhi."
+  },
+  "2454642351139428112": {
+    "message": "Hlehlisa"
+  },
+  "2466251465475184755": {
+    "message": "Sula konke kudoti?  Wonke amanothi ase-Udoti azosuswa unaphakade."
+  },
+  "2475181823688399272": {
+    "message": "Okulandelayo"
+  },
+  "2478862372619762755": {
+    "message": "Gqamisa indawo ozobeka amazwana kuyo"
+  },
+  "2504232652631703202": {
+    "message": "Ixhunyiwe"
+  },
+  "251025074207413762": {
+    "message": "Engeza incazelo"
+  },
+  "2532280782491328445": {
+    "message": "Thola kwangaphambilini"
+  },
+  "2546225293834487484": {
+    "message": "Inothi"
+  },
+  "2555961950726197809": {
+    "message": "Ibonisa isibukeli."
+  },
+  "2562881166530755046": {
+    "message": "Imidwebo"
+  },
+  "257317112834806705": {
+    "message": "Guqula phakathi kohlu nokubuka kwegridi"
+  },
+  "2579261044590673579": {
+    "message": "IDrayivu Yami"
+  },
+  "2579679351920691492": {
+    "message": "Yeqa ubuyela emuva"
+  },
+  "2581526424350930407": {
+    "message": "Hlela"
+  },
+  "2600731575260427177": {
+    "message": "Ifayela alitholakali futhi kungenzeka lisusiwe. Sicela uzame ukulayisha ifayela futhi."
+  },
+  "2609409316752026806": {
+    "message": "I-PDF"
+  },
+  "2609767652209789035": {
+    "message": "Amalebula"
+  },
+  "2623861453769098676": {
+    "message": "Kube khona inkinga yokubuka kuqala le dokhumenti."
+  },
+  "2626653026098396543": {
+    "message": "{NUM_ITEMS,plural, =0{Unused}=1{Ukuhambisa le nto kuzoyabela nawo wonke umuntu okwazi ukubona ifolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\".}one{Ukuhambisa lezi zinto kuzozabela nawo wonke umuntu okwazi ukubona ifolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\".}other{Ukuhambisa lezi zinto kuzozabela nawo wonke umuntu okwazi ukubona ifolda eyabelwe ethi \"{SHARED_FOLDER_NAME}\".}}"
+  },
+  "2630254198275172065": {
+    "message": "Hambisa ku..."
+  },
+  "2632263751512428257": {
+    "message": "Minyaka yonke"
+  },
+  "2645469029410848421": {
+    "message": "{noteCount,plural, =1{Inothi yelebuli}one{Amanothi welebuli}other{Amanothi welebuli}}"
+  },
+  "2646753793708356960": {
+    "message": "I-Cobalt Blue"
+  },
+  "2647216541167955566": {
+    "message": "I-Amber"
+  },
+  "2661850177130037208": {
+    "message": "Vula into"
+  },
+  "2665571821980053260": {
+    "message": "Ayikwazi ukwabelana ngenothi lakho. Zama futhi emuva kwesikhathi."
+  },
+  "2681830832355823748": {
+    "message": "Sesha zonke izinqamuleli"
+  },
+  "268402507078609011": {
+    "message": "{imagesAdded,plural, =1{Isithombe singeziwe}one{# izithombe zingeziwe}other{# izithombe zingeziwe}}"
+  },
+  "2702485557996900362": {
+    "message": "Lungisa ukuhlela okushayisanayo"
+  },
+  "2704959686524436777": {
+    "message": "Iyalayisha"
+  },
+  "2715199780155065699": {
+    "message": "Ifayela linemimo emininingi kakhulu, amabhokisi ombhalo, noma imidwebo."
+  },
+  "2716433087531258659": {
+    "message": "iya ekhasini eliphezulu"
+  },
+  "2742719907061406418": {
+    "message": "I-XML"
+  },
+  "2758125083752925237": {
+    "message": "(Umnikazi)"
+  },
+  "277430914014962533": {
+    "message": "Eshu! Kube khona inkinga yokubuka kuqala i-$1​."
+  },
+  "2793841261389879255": {
+    "message": "Ikhasi langaphambilini"
+  },
+  "2794676336056877832": {
+    "message": "{every,plural, =1{Iphinda njalo ngenyanga ngosuku olufanayo ngenyanga ngayinye}one{Iphinda njalo ngezinyanga ezingu-# ngosuku olufanayo ngenyanga ngayinye}other{Iphinda njalo ngezinyanga ezingu-# ngosuku olufanayo ngenyanga ngayinye}}"
+  },
+  "2796950576714807268": {
+    "message": "Ayikwazi ukubona umbhalo."
+  },
+  "2798322202738486782": {
+    "message": "{HOURS,plural, =0{Amahora angu-0 }=1{Ihora elingu-1 }one{Amahora angu-# }other{Amahora angu-# }}{MINUTES,plural, =0{Amaminithi angu-0 }=1{Iminithi elingu-1 }one{Amaminithi angu-# }other{Amaminithi angu-# }}{SECONDS,plural, =0{Amasekhondi angu-0.}=1{Isekhondi elingu-1.}one{Amasekhondi angu-#.}other{Amasekhondi angu-#.}}"
+  },
+  "2817277146396981386": {
+    "message": "ntambama"
+  },
+  "2818020101821669029": {
+    "message": "Idaliwe"
+  },
+  "2820045170951016567": {
+    "message": "Izikhumbuzi"
+  },
+  "2823533464825550362": {
+    "message": "Izilawuli zedokhumenti"
+  },
+  "2827039933590757722": {
+    "message": "Ukunqamulela kwe-Windows"
+  },
+  "2829226075651806940": {
+    "message": "Sondeza isithombe"
+  },
+  "2853036885874864031": {
+    "message": "Ubunikazi buzodluliselwa kokuthi $1​."
+  },
+  "2854717396594966319": {
+    "message": "Umlobi we-OpenOffice"
+  },
+  "2858566870229558873": {
+    "message": "$2​Imigomo$1​"
+  },
+  "2862675909830094845": {
+    "message": "Dala ilebula entsha"
+  },
+  "2870914990575762514": {
+    "message": "Awukwazi ukususa lesi senzo"
+  },
+  "2873089307546162154": {
+    "message": "KULUNGILE"
+  },
+  "2877285560485318801": {
+    "message": "Misa isikhashana"
+  },
+  "287803077768018029": {
+    "message": "U-Teal Okhanyayo"
+  },
+  "2879276552944958066": {
+    "message": "Emuva kufolda ye-$1​."
+  },
+  "2890739372621722306": {
+    "message": "U-Teal"
+  },
+  "2893055432094515558": {
+    "message": "Amabhokisi wokuthikha abonisiwe"
+  },
+  "2893190245479055856": {
+    "message": "Amafolda angu-$1​ ahanjiswe ku-$2​."
+  },
+  "289798573180023043": {
+    "message": "KULUNGILE"
+  },
+  "2901360496423912565": {
+    "message": "Bika"
+  },
+  "2902570047322934912": {
+    "message": "Nika amandla ukwabelana"
+  },
+  "2908917161758545146": {
+    "message": "{count,plural, =1{Inothi lisuswe ukuphina lafakwa kungobo yomlando}one{Amanothi angu-# asuswe ukuphina afakwa kungobo yomlando}other{Amanothi angu-# asuswe ukuphina afakwa kungobo yomlando}}"
+  },
+  "2917586714343652609": {
+    "message": "Usayizi 20"
+  },
+  "2935193106137642160": {
+    "message": "Ukusondeza akutholakali"
+  },
+  "2942094715879803305": {
+    "message": "Susa izinto ezithikiwe"
+  },
+  "295331174171409695": {
+    "message": "Kube nenkinga yokubuyekeza imvume yokulanda ye-\"$1​\"."
+  },
+  "2960516445247616550": {
+    "message": "Ukuphrinta akutholakali"
+  },
+  "296391753033307868": {
+    "message": "Ilebula $1​ idaliwe futhi yengeziwe kunothi."
+  },
+  "2964778642459027786": {
+    "message": "Awekho amanothi ku-Udoti"
+  },
+  "2971780287153684447": {
+    "message": "Amadivayisi E-Android"
+  },
+  "2973306402585941108": {
+    "message": "Ekuseni"
+  },
+  "298817883481775869": {
+    "message": "Iyalayisha..."
+  },
+  "2990497076082409431": {
+    "message": "\"$1​\" ihanjiswe ku-$2​."
+  },
+  "2993901764282547916": {
+    "message": "Umakhi Wohlelokusebenza"
+  },
+  "3004077206309008197": {
+    "message": "Okuluhlaza okotshani"
+  },
+  "3005058076425755361": {
+    "message": "Susa ubuyele emuva"
+  },
+  "3018905429279095639": {
+    "message": "{NUM_ITEMS,plural, =1{Awunayo imvume yokuhambisa le folda ukusuka kuzikhwama zayo zamanje. Engeza ifolda kokuthi {START_SPAN_1}{NAME}{END_SPAN} esikhundleni salokho.}one{Awunayo imvume yokuhambisa lawa mafolda kumafolda awo amanje. Engeza amafolda kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}other{Awunayo imvume yokuhambisa lawa mafolda kumafolda awo amanje. Engeza amafolda kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}}"
+  },
+  "3042275883978222678": {
+    "message": "Usayizi 8"
+  },
+  "3043961722025425136": {
+    "message": "Incazelo"
+  },
+  "3045997283325725532": {
+    "message": "Yini okusha ku-Google Keep"
+  },
+  "306516303501625305": {
+    "message": "Ukuqinisekisa akuphumelelanga."
+  },
+  "3109321241584918345": {
+    "message": "Xhuma izinhlelo zokusebenza eziningi..."
+  },
+  "3121560585545725724": {
+    "message": "$1​, $2​"
+  },
+  "3140236589681731084": {
+    "message": "emahoreni angu-$1​"
+  },
+  "3147708683842760684": {
+    "message": "Izinketho Ezengeziwe"
+  },
+  "3147722095652727387": {
+    "message": "Abasebenzisi abalandelayo awukwazi ukwabelana nabo ngenxa yokuthi kungenzeka umlawuli wabo ukhubaze ukwabelana kusizinda sabo, noma umlawuli wakho ukhubaze ukwabelana ngaphandle kwesizinda sakho."
+  },
+  "3150651996344750990": {
+    "message": "{count,plural, =1{Inothi likhishwe kungobo yomlando}one{# amanothi akhishwe kungobo yomlando}other{# amanothi akhishwe kungobo yomlando}}"
+  },
+  "3176246635438298155": {
+    "message": "Susa"
+  },
+  "3189854932778515441": {
+    "message": "Inothi likungobo yomlando"
+  },
+  "3190546672187601036": {
+    "message": "Ebusuku"
+  },
+  "3195812604657128345": {
+    "message": "Khetha ifolda yeDrayivu ukuze ukhiphele kuyo"
+  },
+  "32059145043728507": {
+    "message": "{numberOfNotes,plural, =1{Inothi libuyiselwe}one{Amanothi angu-# abuyiselwe}other{Amanothi angu-# abuyiselwe}}"
+  },
+  "3207650089232728475": {
+    "message": "Guqula amalebuli"
+  },
+  "3211163842850942567": {
+    "message": "Sondeza isithombe"
+  },
+  "3220641589840600333": {
+    "message": "Ishintshele ekubukeni okungu-$1​"
+  },
+  "3241696131593027453": {
+    "message": "Khetha inothi"
+  },
+  "3243916603465112517": {
+    "message": "OKUNGAPHANSI"
+  },
+  "3250489229749307913": {
+    "message": "Okushicilelwe kwe-elekthronikhi"
+  },
+  "32533855230019565": {
+    "message": "Usayizi 12"
+  },
+  "3258100527833044153": {
+    "message": "Umdwebo ongenalutho ulahliwe"
+  },
+  "3261131345401321392": {
+    "message": "Ungabeka amazwana"
+  },
+  "3266448715145955862": {
+    "message": "Amanothi akhishwe kungobo yomlando futhi aphinwa"
+  },
+  "3268028083415317236": {
+    "message": "Cha ngiyabonga"
+  },
+  "3272496516667407797": {
+    "message": "Kube khona inkinga yokulayisha imininingwane."
+  },
+  "3278046126264096288": {
+    "message": "Iviki"
+  },
+  "3281684668260174833": {
+    "message": "{numberOfNotes,plural, =1{Inothi lisuswe ukuphina futhi lilahlwe kudoti}one{Amanothi angu-# asuswe ukuphina futhi alahlwe kudoti}other{Amanothi angu-# asuswe ukuphina futhi alahlwe kudoti}}"
+  },
+  "3288498486633948368": {
+    "message": "U-\"$1​\" ungeziwe ku-Google Drayivu."
+  },
+  "330603631583186798": {
+    "message": "I-Word"
+  },
+  "3308935528045767909": {
+    "message": "Inothi elisha elinomdwebo"
+  },
+  "3312545971976531405": {
+    "message": "Umlayezo"
+  },
+  "3326410145104517459": {
+    "message": "Shutha imicabango yakho $1​ ukusuka kunoma iyiphi idivayisi"
+  },
+  "3343273953047473521": {
+    "message": "Susa amanothi?"
+  },
+  "3345567742278474807": {
+    "message": "Leli nothi lihlatshwe umkhosi njengelingalungile futhi alikwazi ukwabiwa."
+  },
+  "3354260708176476985": {
+    "message": "Iyalayishwa"
+  },
+  "3362903141674317449": {
+    "message": "Umhleli"
+  },
+  "336772567640975291": {
+    "message": "Isonto elilandelayo"
+  },
+  "3371033609268806242": {
+    "message": "Ilebula ethi $1​ isusiwe."
+  },
+  "3381619429606029445": {
+    "message": "I-Visio"
+  },
+  "3382236845597426718": {
+    "message": "Vula"
+  },
+  "3385831848537487538": {
+    "message": "Ukuvakasha"
+  },
+  "3396240571140460663": {
+    "message": "U-Lime"
+  },
+  "3409257542937182842": {
+    "message": "Iyazama futhi..."
+  },
+  "3409483962000136213": {
+    "message": "Dlala/Misa isikhashana"
+  },
+  "3418767079436101103": {
+    "message": "Kube khona inkinga yokulayisha leli khasi."
+  },
+  "3428726060007577698": {
+    "message": "Uhlu lukhulu kakhulu."
+  },
+  "3446158485617778228": {
+    "message": "Hlehlisa"
+  },
+  "3447704623213039325": {
+    "message": "Into Yegilosa"
+  },
+  "3448234415275521882": {
+    "message": "Ulwazi Oluvamile"
+  },
+  "3455405209271884570": {
+    "message": "Khipha"
+  },
+  "3468441711253011521": {
+    "message": "Google AmaSpredishithi we-Google"
+  },
+  "3473620774713000513": {
+    "message": "Kuxazululiwe"
+  },
+  "3485469306694683931": {
+    "message": "Khiphela ku-akhawunti yakho ye-Drayivu"
+  },
+  "3496410038494993160": {
+    "message": "Izinqamuleli zekhibhodi ezidumile"
+  },
+  "3518073392823563581": {
+    "message": "Izinqamuleli zekhibhodi"
+  },
+  "3543475399174940144": {
+    "message": "+$1​"
+  },
+  "3549511443038546281": {
+    "message": "Susa"
+  },
+  "3551522853788442530": {
+    "message": "Buyela emuva"
+  },
+  "3561658662634401836": {
+    "message": "Isihloko"
+  },
+  "3569884090205828853": {
+    "message": "I-OpenOffice Calc"
+  },
+  "3570074492517305433": {
+    "message": "Bhalisa"
+  },
+  "3571704286086017611": {
+    "message": "Isikhumbuzi sisusiwe"
+  },
+  "3571758970185431414": {
+    "message": "Okuluhlaza okwesibhakabhaka"
+  },
+  "3574963906259719128": {
+    "message": "Isiphequluli sakho asikwazi ukudlala leli fayela lomsindo."
+  },
+  "3580293729117872545": {
+    "message": "Uyaphela"
+  },
+  "3594204366177366590": {
+    "message": "Vula Imenyu Yezinketho Zethuluzi Zesisuli"
+  },
+  "3595000514985906359": {
+    "message": "I-Excel"
+  },
+  "3595562664731337243": {
+    "message": "Qamba kabusha ilebuli"
+  },
+  "3603931013946597836": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa ifayela elitholakala kumafolda angu-{NUM_PARENTS}}one{Uhambisa amafayela atholakala kumafolda angu-{NUM_PARENTS}}other{Uhambisa amafayela atholakala kumafolda angu-{NUM_PARENTS}}}"
+  },
+  "3608606849109645545": {
+    "message": "Faka igama elisha ledokhumenti:"
+  },
+  "3611573349633408445": {
+    "message": "Landa"
+  },
+  "3612936866865912552": {
+    "message": "Iyalayisha..."
+  },
+  "361630518611593946": {
+    "message": "Fihla amabhokisi wokuthikha"
+  },
+  "3617727970098875990": {
+    "message": "Sesha zonke izinqamuleli"
+  },
+  "362521762755836201": {
+    "message": "Lidalwe ngo-$1​"
+  },
+  "3634885664399305142": {
+    "message": "Umdwebo awutholakali"
+  },
+  "3651893685901703652": {
+    "message": "..."
+  },
+  "3657386785336906042": {
+    "message": "i-backslash"
+  },
+  "3659554681396757189": {
+    "message": "Kuvulwe yimina"
+  },
+  "366289214151975122": {
+    "message": "Noma ubani ku-$1​ onesixhumanisi"
+  },
+  "3663571259791438207": {
+    "message": "Bika ukuhlukumeza"
+  },
+  "3664842788764635265": {
+    "message": "Lutho"
+  },
+  "3666123569747918021": {
+    "message": "Le dokhumenti inezinguquko ezingalondoloziwe. Ufuna ukushiya ikhasi bese ulahla izinguquko zakho?"
+  },
+  "3678477908297567934": {
+    "message": "i-underscore"
+  },
+  "3687623836913400480": {
+    "message": "Cacisa Isithombe"
+  },
+  "3690515530505404607": {
+    "message": "Kube khona inkinga yokudlala le vidiyo."
+  },
+  "369764661829607970": {
+    "message": "{NUM_ITEMS,plural, =0{Azikho izinto}=1{1 into}one{# izinto}other{# izinto}}"
+  },
+  "3707311099386068778": {
+    "message": "Susa konke"
+  },
+  "3712215972250917265": {
+    "message": "Amazwana"
+  },
+  "372633345629975481": {
+    "message": "Amanothi aphiniwe"
+  },
+  "372823375470132483": {
+    "message": "Yeka ukukhetha inothi elifakwe kudoti"
+  },
+  "3734444903221631913": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}one{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kokuthi AmaDrayivu Ethimba namafolda abelwe, ngakho abantu bazolahlekelwa ukufinyelela.}other{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kokuthi AmaDrayivu Ethimba namafolda abelwe, ngakho abantu bazolahlekelwa ukufinyelela.}}"
+  },
+  "3760084546578947451": {
+    "message": "Vula isikhumbuzi ze-Google Keep? Kungenzeka kumele uvumele izaziso zesiphequluli."
+  },
+  "3770795578481676514": {
+    "message": "Okuliphuzi"
+  },
+  "3793086499925031123": {
+    "message": "Vula ibha yosesho / thola okwangaphambilini"
+  },
+  "3796511349428373407": {
+    "message": "Izinketho zedethi"
+  },
+  "3797309720105862333": {
+    "message": "Imidwebo ayikwazi ukuhlelwa ngesikhathi ungaxhunyiwe ku-inthanethi"
+  },
+  "37992665410817181": {
+    "message": "Kuvulwe kabusha"
+  },
+  "3801617971018550169": {
+    "message": "Izolo"
+  },
+  "3808213429720572062": {
+    "message": "Buyisela"
+  },
+  "381100310424863459": {
+    "message": "I-Illustrator"
+  },
+  "3828546250617883774": {
+    "message": "Iviyolethi"
+  },
+  "3845302429676793049": {
+    "message": "Kube nenkinga yokubuyekeza incazelo ye-\"$1​\"."
+  },
+  "3858324058837632381": {
+    "message": "Kube khona inkinga yokudlala leli fayela lomsindo."
+  },
+  "3869166581651870488": {
+    "message": "Qedela ukuhlela"
+  },
+  "3897281533382850749": {
+    "message": "Susa ukuthula"
+  },
+  "3909380459614154542": {
+    "message": "Iya kusixhumanisi"
+  },
+  "3930910469078167425": {
+    "message": "Faka kungobo yomlando"
+  },
+  "3952341864324097024": {
+    "message": "Sula usesho"
+  },
+  "3955575370175991097": {
+    "message": "Ishintshele ekubukeni kwelebuli okungu-$1​"
+  },
+  "3974822583047850066": {
+    "message": "Khansela"
+  },
+  "3977699855735576796": {
+    "message": "Kube khona inkinga yokulayisha amakhasi amaningi."
+  },
+  "3988418762222300024": {
+    "message": "ungqi"
+  },
+  "4005725939358875643": {
+    "message": "Isenzo sihlehlisiwe."
+  },
+  "4014287326684608407": {
+    "message": "Umbala o-Teal"
+  },
+  "4023299615382814997": {
+    "message": "Ayikwazi ukuhlela udoti"
+  },
+  "4036523543547629779": {
+    "message": "Izithombe"
+  },
+  "4044915502415235332": {
+    "message": "Khetha inothi eliphiniwe"
+  },
+  "4052960606031736645": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa ifolda etholakala kumafolda angu-{NUM_PARENTS}}one{Uhambisa amafolda atholakala kumafolda angu-{NUM_PARENTS}}other{Uhambisa amafolda atholakala kumafolda angu-{NUM_PARENTS}}}"
+  },
+  "4059387791040010947": {
+    "message": "u-Meta"
+  },
+  "4061102590585232601": {
+    "message": "Kusuwe u-$1​"
+  },
+  "4072353527895477784": {
+    "message": "Abantu"
+  },
+  "4086409218932829944": {
+    "message": "Hlela amalebula"
+  },
+  "4087289538934418537": {
+    "message": "Uma kususiwe, amanothi owadalile ngeke abonakale kunoma ubani. Amanothi abiwe nawe azohlala abonakala kulawo abakwazi ukufinyelela."
+  },
+  "4095714830819118951": {
+    "message": "Usizo"
+  },
+  "4097921967754832323": {
+    "message": "ihayifeni"
+  },
+  "4106990792743182780": {
+    "message": "Ayikwazi ukubamba umbhalo wesithombe. Zama futhi emuva kwesikhathi."
+  },
+  "411137507354526852": {
+    "message": "Inyanga"
+  },
+  "4111452225725405610": {
+    "message": "Inkanyezi ikhishiwe ukusuka ku-\"$1​\"."
+  },
+  "4117632433281998979": {
+    "message": "Nyanga zonke"
+  },
+  "411791562637880104": {
+    "message": "Ngizikhiphe mina"
+  },
+  "4122858386674768321": {
+    "message": "Hambisa kusuka ku-$3​$2​$1​"
+  },
+  "4149722338705080529": {
+    "message": "Yenza futhi"
+  },
+  "4155905925766040098": {
+    "message": "Akukho ukubuka kuqala okutholakalayo"
+  },
+  "4159842640681544078": {
+    "message": "Amafolda angu-$1​ asusiwe ku-$2​ ayiswa ku-$3​."
+  },
+  "4174786386751618325": {
+    "message": "Inothi lesithombe"
+  },
+  "4182427157920112948": {
+    "message": "i-tilde"
+  },
+  "4186465168527990324": {
+    "message": "Ikhiphe ngempumelelo \"$1​\" ku-$2​"
+  },
+  "4204345954541079744": {
+    "message": "Awekho amanothi anale lebuli okwamanje"
+  },
+  "4205329094859140439": {
+    "message": "ekuseni"
+  },
+  "4206529410529166231": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa into etholakala kumafolda angu-{NUM_PARENTS}}one{Uhambisa izinto ezitholakala kumafolda angu-{NUM_PARENTS}}other{Uhambisa izinto ezitholakala kumafolda angu-{NUM_PARENTS}}}"
+  },
+  "4209658291185545281": {
+    "message": "Isenzo asikwazanga ukuyekiswa"
+  },
+  "4211182812451835307": {
+    "message": "Angahlela"
+  },
+  "4214190403999219403": {
+    "message": "Sondeza"
+  },
+  "4214427276033711472": {
+    "message": "Izilungiselelo"
+  },
+  "4216242742234357612": {
+    "message": "Khetha amanothi"
+  },
+  "42239889404644810": {
+    "message": "Icela ukufinyelela"
+  },
+  "4227767243455123953": {
+    "message": "Uhlu lwendlela yokuziphatha"
+  },
+  "4228870062013120023": {
+    "message": "Zulela kunothi elandelayo/yangaphambilini"
+  },
+  "4230101516585408149": {
+    "message": "Bhala inothi elisha"
+  },
+  "4243437721135025638": {
+    "message": "Awunayo imvume yokuhambisa amafayela kule Drayivu Yethimu."
+  },
+  "4248787844477062707": {
+    "message": "Dala ilebula entsha"
+  },
+  "4269096876505546324": {
+    "message": "Thumela impendulo"
+  },
+  "4280747719095153198": {
+    "message": "Amazwana axazululiwe"
+  },
+  "4286663890332754386": {
+    "message": "Ukulayishwa kwehlulekile."
+  },
+  "4299690446455033653": {
+    "message": "Imisebenzi"
+  },
+  "4318861667254318892": {
+    "message": "Ividiyo ye-Google"
+  },
+  "4320831042030778": {
+    "message": "Khansela"
+  },
+  "4320942249997687388": {
+    "message": "Qeda"
+  },
+  "4321382260116636620": {
+    "message": "Khetha inothi"
+  },
+  "4327523836604343709": {
+    "message": "Usayizi 2"
+  },
+  "4332252081504252077": {
+    "message": "Hawu!"
+  },
+  "4343825450663233452": {
+    "message": "Angabuka"
+  },
+  "4343848624651344174": {
+    "message": "Ntambama"
+  },
+  "4346644280640625035": {
+    "message": "Inothi yekiswe ukwabelana"
+  },
+  "435214284915110062": {
+    "message": "Vula ibha yosesho"
+  },
+  "435444400175963053": {
+    "message": "Izinto ezingu-$1​ zihanjiswe ku-$2​."
+  },
+  "4356312843186491987": {
+    "message": "Khipha"
+  },
+  "4391715930031906467": {
+    "message": "Thola okulandelayo"
+  },
+  "4397482594800054550": {
+    "message": "Kube nenkinga ekuqambeni kabusha i-\"$1​\"."
+  },
+  "4412626362660239325": {
+    "message": "Hlela kuDrayivu"
+  },
+  "4416841471975202365": {
+    "message": "Okuphinki Okukhanyayo"
+  },
+  "4421168692772991468": {
+    "message": "Udoti"
+  },
+  "4422985761498356257": {
+    "message": "Vula nge-"
+  },
+  "4429542915339609008": {
+    "message": "Uxolo, ukuvula amafayela amaningi ngalolu hlelo lokusebenza akusekelwa."
+  },
+  "4438168904974235640": {
+    "message": "I-Crimson"
+  },
+  "4444571967705751871": {
+    "message": "Udoti"
+  },
+  "4448871104213529122": {
+    "message": "Fihla imininingwane"
+  },
+  "4457424709416639982": {
+    "message": "Engeza kudrayivu yami"
+  },
+  "4466605492523079635": {
+    "message": "Londoloza"
+  },
+  "4468872996560163913": {
+    "message": "Sula konke ku-Udoti manje"
+  },
+  "4486429060311743289": {
+    "message": "Sula okukhethiwe"
+  },
+  "45228242181482134": {
+    "message": "Dlala"
+  },
+  "4524999513489942668": {
+    "message": "$2​Faka isandiso se-Google Keep Chrome$1​ ukuze ulondoloze izinto ozikhathalelayo ku-Keep ngokuchofoza okukodwa."
+  },
+  "4533605085334699862": {
+    "message": "Izingcaphuno"
+  },
+  "4550209323331625907": {
+    "message": "$2​Funda kabanzi$1​"
+  },
+  "4557086341175267918": {
+    "message": "Ayikwazi ukwabelana ngokungaxhunyiwe ku-inthanethi"
+  },
+  "4561316395348814504": {
+    "message": "Ukulanda kohlelo lokusebenza"
+  },
+  "4564682305303579317": {
+    "message": "Qhubeka"
+  },
+  "4566838580250578446": {
+    "message": "{every,plural, =1{Iphinda minyaka yonke}one{Iphinda njalo eminyakeni engu-#}other{Iphinda njalo eminyakeni engu-#}}"
+  },
+  "4607802784047113873": {
+    "message": "Engeza umhleli"
+  },
+  "4608848277887462246": {
+    "message": "Amashithi amaningi"
+  },
+  "4620034373159179678": {
+    "message": "Ikhasi $1​ kwangu-$2​"
+  },
+  "4632830890362652221": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa into etholakala kufolda eyodwa}one{Uhambisa izinto ezitholakala kufolda eyodwa}other{Uhambisa izinto ezitholakala kufolda eyodwa}}"
+  },
+  "4643940860676429496": {
+    "message": "Iyalondoloza…"
+  },
+  "4675792829115971960": {
+    "message": "Sizhlaba umkhosi le nothi bese siyisusa kusuka kwi-akhawunti yakho."
+  },
+  "4685321580747790677": {
+    "message": "{every,plural, =1{Iphinda njalo ngeviki ngama{days}}one{Iphinda njalo ngamaviki angu-# ngama-{days}}other{Iphinda njalo ngamaviki angu-# ngama-{days}}}"
+  },
+  "4691283408020124345": {
+    "message": "Ukubuka uhlu"
+  },
+  "4700218356982480093": {
+    "message": "Okumnyama"
+  },
+  "4717484643724894786": {
+    "message": "Kopishela kudokhumenti"
+  },
+  "4740100782728373253": {
+    "message": "Londoloza kuDrayivu"
+  },
+  "4748046231232264180": {
+    "message": "Amafomu we-Google"
+  },
+  "4751202914935960324": {
+    "message": "Le imeyili isivele ikhona"
+  },
+  "4752655540567953719": {
+    "message": "Indawo $1​"
+  },
+  "4762625944764691132": {
+    "message": "Imenyu eyinhloko"
+  },
+  "4767722428137216885": {
+    "message": "Khansela"
+  },
+  "477328789314249432": {
+    "message": "Sesha amanothi"
+  },
+  "4773737319879079980": {
+    "message": "Yenza amanothi ngokushesha ngohlelo lokusebenza"
+  },
+  "4775368111547931093": {
+    "message": "Ayikho incazelo"
+  },
+  "4805047680716507619": {
+    "message": " - Hambisa ku-:"
+  },
+  "4806763987633034948": {
+    "message": "Isiginesha ye-PKCS7"
+  },
+  "4807444103404336088": {
+    "message": "Kube nenkinga ekungezeni inkanyezi ku-\"$1​\"."
+  },
+  "4821130290026382049": {
+    "message": "Izinqamuleli zekhibhodi ezidumile"
+  },
+  "4833214200453019325": {
+    "message": "$1​ kokungu-$2​"
+  },
+  "4840513623749850224": {
+    "message": "Amamuvi"
+  },
+  "4846720038197420778": {
+    "message": "Xhuma izinhlelo zokusebenza eziningi"
+  },
+  "4853788427396558692": {
+    "message": "$1​ MB"
+  },
+  "4858389278403807208": {
+    "message": "Inothi ku-Udoti"
+  },
+  "4864051612562026766": {
+    "message": "{count,plural, =1{1 okukhethiwe}one{# selected}other{# okukhethiwe}}"
+  },
+  "4888104357342241891": {
+    "message": "Izikhumbuzi"
+  },
+  "490045476479394048": {
+    "message": "Gqamisa umbhalo ozobeka amazwana kuwo"
+  },
+  "4901386320110714275": {
+    "message": "Iphasiwedi ayilungile. Sicela uzame futhi."
+  },
+  "4906669330059413958": {
+    "message": "Thumela iphasiwedi"
+  },
+  "4907349694646937491": {
+    "message": "Inothi lihanjiswe kunkomba $1​"
+  },
+  "4915450884407029247": {
+    "message": "Ilebula $1​ yengeziwe."
+  },
+  "4917607226908075328": {
+    "message": "Susa"
+  },
+  "4918998818369420588": {
+    "message": "Bika ukuhlukumeza"
+  },
+  "4925002811848839819": {
+    "message": "$1​ izinto zihanjiswe kusukela ku-$2​ zamikiswa ku-$3​."
+  },
+  "4930422592340561418": {
+    "message": "IDrayivu Yami"
+  },
+  "4934109328393349339": {
+    "message": "Ayikwazi ukungeza izinto eziningi"
+  },
+  "4946709842900542238": {
+    "message": "Okumhlophe"
+  },
+  "4948512233726694061": {
+    "message": "$4​Ikhasi$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+  },
+  "4957674814179289955": {
+    "message": "Zulazulela kwinto yohlu elalandelayo/yangaphambilini"
+  },
+  "4963784280521435720": {
+    "message": "Iyalondoloza…"
+  },
+  "4974059227183970715": {
+    "message": "Ungakwazi futhi ukwengeza amalebula ngokuthayipha okuthi '#'."
+  },
+  "4982284738093713321": {
+    "message": "Umhleli"
+  },
+  "4988132901627446385": {
+    "message": "Iphaneli lemininingwane linwetshiwe."
+  },
+  "5006765610090288212": {
+    "message": "Umbala $1​ usetshenzisiwe"
+  },
+  "5008901799534614532": {
+    "message": "Susa"
+  },
+  "5009448218905630614": {
+    "message": "Susa"
+  },
+  "5011858093760184160": {
+    "message": "Susa inkanyezi"
+  },
+  "5014595433724148222": {
+    "message": "Okuphinki kakhulu"
+  },
+  "501475221876543407": {
+    "message": "Amanothi owangezayo avela lapha"
+  },
+  "5023623739220371850": {
+    "message": "Ukuhluleka ukuqinisekisa. Ushintsho kuzovunyelaniswa uma ungena ngemvume."
+  },
+  "5041572047197549869": {
+    "message": "Ngosuku olufanayo njalo ngenyanga"
+  },
+  "5045725997997672553": {
+    "message": "{weekNumber,plural, =1{Nge-{day} yokuqala yenyanga}=2{Nge-{day} yesibili yenyanga}=3{Nge-{day} yesithathu yenyanga}=4{Nge-{day} yesine yenyanga}one{Nge-{day} yokugcina yenyanga}other{Nge-{day} yokugcina yenyanga}}"
+  },
+  "5046219519278664288": {
+    "message": "I-iPhone ne-iPad"
+  },
+  "5046371569383796818": {
+    "message": "Gcina"
+  },
+  "5052461293250181960": {
+    "message": "iya ekhasini eliphansi"
+  },
+  "5054818452036081005": {
+    "message": "$2​Ubumfihlo$1​"
+  },
+  "5055673792779951604": {
+    "message": "Okuluhlaza Okukhanyayo"
+  },
+  "5078184843381528205": {
+    "message": "Phina inothi"
+  },
+  "5095987896933771566": {
+    "message": "Phrinta idokhumenti"
+  },
+  "509815948423424872": {
+    "message": "Ukuzulazula"
+  },
+  "5098941979861776792": {
+    "message": "Faka"
+  },
+  "5130903421326358933": {
+    "message": "Kube nenkinga yokulondoloza okunamathiselwe ku-Google Drayivu."
+  },
+  "5134649253619244584": {
+    "message": "Susa ilebuli"
+  },
+  "5140285776541296873": {
+    "message": "Ngokwezifiso"
+  },
+  "5151247077945318396": {
+    "message": "Kuvele iphutha ukukhetha ifolda ongakhiphela kuyo."
+  },
+  "5178674191443894176": {
+    "message": "Amalebula"
+  },
+  "5180454621500142444": {
+    "message": "Buyisela"
+  },
+  "5180989337128758117": {
+    "message": "abakaki abangakwesokunxele"
+  },
+  "5182569285908080938": {
+    "message": "Izinketho zedethi yokuphetha"
+  },
+  "5184692850089055965": {
+    "message": "Thatha umbhalo wesithombe"
+  },
+  "5197718200713913936": {
+    "message": "C++"
+  },
+  "5201670213497642487": {
+    "message": "Ibha yethebhu yephaneli yemininingwane. Cindezela okhiye bomcibisholo ongakwesokunxele nongakwesokudla ukuze ushintshe phakathi kwamathebhu."
+  },
+  "5202835861850747976": {
+    "message": "$2​Funda Kabanzi$1​"
+  },
+  "5204391636475413312": {
+    "message": "Londoloza"
+  },
+  "5207219998739322438": {
+    "message": "Usayizi 1"
+  },
+  "5214104290560857118": {
+    "message": "Engeza amazwana"
+  },
+  "5217462020153787697": {
+    "message": "{numberOfPreviews,plural, =1{Ukubuka kuqala kwesixhumanisi kukhishiwe}one{Ukubuka kuqala kwezixhumanisi ezingu-# kukhishiwe}other{Ukubuka kuqala kwezixhumanisi ezingu-# kukhishiwe}}"
+  },
+  "5238307666527496111": {
+    "message": "KULUNGILE"
+  },
+  "5238371081785912565": {
+    "message": "Vula nge-$1​"
+  },
+  "5253765183290980485": {
+    "message": "Unemvume yokwengeza nokuhlela izinto kokuthi \"$1​\", ngakho ngeke ukwazi ukususa lesi senzo."
+  },
+  "5259541708332520733": {
+    "message": "Umthombo ukhishiwe"
+  },
+  "5271615049826004958": {
+    "message": "Izinketho zokubuka kuqala kwesixhumanisi"
+  },
+  "5281121179861637423": {
+    "message": "Iphasiwedi iyadingeka ukuze ufinyelele i-$1​. Sicela ufake iphasiwedi"
+  },
+  "5288037028604092288": {
+    "message": "I-XPS"
+  },
+  "5299648222246616124": {
+    "message": "i-backtick"
+  },
+  "5300527252159851865": {
+    "message": "Okuqukethwe kwefayela akufani nefomethi yefayela elindelekile."
+  },
+  "5319313176242717957": {
+    "message": "Icubungula izithombe..."
+  },
+  "5321772883765574323": {
+    "message": "I-\"$1​\" ihanjiswe kusukela ku-$2​ ukuya ku-$3​."
+  },
+  "5334959887390704534": {
+    "message": "Sizosusa le lebuli futhi siyisuse kuwo wonke amanothi wakho we-Keep. Amanothi wakho ngeke asuswe."
+  },
+  "5336801339221383042": {
+    "message": "I-Javascript"
+  },
+  "5336924963122494935": {
+    "message": "Khetha lokhu"
+  },
+  "534191528712675978": {
+    "message": "Misa isikhashana"
+  },
+  "534228323125524312": {
+    "message": "Hlehlisa isithombe"
+  },
+  "5353129315502554762": {
+    "message": "Ishidi lesitayela"
+  },
+  "5353173068672429342": {
+    "message": "Amathuluzi okususa iphutha"
+  },
+  "5362962746518601227": {
+    "message": "{NUM_ITEMS,plural, =1{Uhambisa ifayela elitholakala kufolda eyodwa}one{Uhambisa amafayela atholakala kufolda eyodwa}other{Uhambisa amafayela atholakala kufolda eyodwa}}"
+  },
+  "5363853533596749934": {
+    "message": "Faka igama lelebuli"
+  },
+  "5372143986724491245": {
+    "message": "$1​ usuku oludlule"
+  },
+  "5372160981898991853": {
+    "message": "Isishicileli"
+  },
+  "5394695048211047984": {
+    "message": "Engeza usuku"
+  },
+  "5398036630337418486": {
+    "message": "Ivula idokhumenti"
+  },
+  "5399553230649155346": {
+    "message": "ehoreni elingu-$1​"
+  },
+  "5403636185480096151": {
+    "message": "I-TV"
+  },
+  "540596856674438371": {
+    "message": "Ayikwazi ukwabelana ngoba ukwabelana kuvaliwe."
+  },
+  "5408091115193390231": {
+    "message": "I-AutoCAD"
+  },
+  "541966762661844588": {
+    "message": "Imenyu"
+  },
+  "5435749276779042277": {
+    "message": "OKWENGEZIWE OKUNGU-+ $1​"
+  },
+  "5447119197363232006": {
+    "message": "Bonisa kuDrayivu"
+  },
+  "5455566801812656827": {
+    "message": "OKUNGAPHANSI"
+  },
+  "5472312735475866917": {
+    "message": "Amazwana ka-$1​."
+  },
+  "547865385964196102": {
+    "message": "$1​ amaminithi adlule"
+  },
+  "54793131422514708": {
+    "message": "Usayizi 3"
+  },
+  "5480497191725157666": {
+    "message": "U-Esc"
+  },
+  "5482604275203517054": {
+    "message": "ngakwesokunxele"
+  },
+  "5506390497558702263": {
+    "message": "{count,plural, =1{Inothi likhishwe kungobo yomlando futhi laphinwa}one{Amanothi angu-# akhishwe kungobo yomlando futhi aphinwa}other{Amanothi angu-# akhishwe kungobo yomlando futhi aphinwa}}"
+  },
+  "553170279104432593": {
+    "message": "Vula Umbala Wethuluzi Lokugqamisa kanye Nesikhethi Sikasayizi"
+  },
+  "5539958940810433464": {
+    "message": "Faka inothi kudoti"
+  },
+  "5542817571710587822": {
+    "message": "Ifayela linezithombe eziningi kakhulu."
+  },
+  "5545146751578623220": {
+    "message": "I-Caps-Lock"
+  },
+  "5555182241047709329": {
+    "message": "Khetha indawo"
+  },
+  "5555599189512365009": {
+    "message": "NGIYITHOLILE"
+  },
+  "556742419793425318": {
+    "message": "Lahla"
+  },
+  "5580896674367659519": {
+    "message": "Okumpunga kakhulu"
+  },
+  "5581834527128285229": {
+    "message": "Kube nenkinga ekungezeni i-\"$1​\" kuDrayivu Yami."
+  },
+  "5598649706113950710": {
+    "message": "Isihleli"
+  },
+  "5627470193961862490": {
+    "message": "Amanothi anezikhumbuzi ezizayo avela lapha"
+  },
+  "5631086126416409232": {
+    "message": "Okuluhlaza okwesibhakabhaka"
+  },
+  "564165666160590723": {
+    "message": "I-Windows Media Player"
+  },
+  "568072913338360182": {
+    "message": "I-HTML"
+  },
+  "5707549724380589079": {
+    "message": "Susa izinto ezithikhiwe?"
+  },
+  "5713014647314396479": {
+    "message": "Emuva"
+  },
+  "5714240424645614611": {
+    "message": "Iphakheji ye-Android"
+  },
+  "5728640851616538925": {
+    "message": "Okuluhlaza"
+  },
+  "5755541943799933389": {
+    "message": "Inkanyezi yengezwe ku-\"$1​\"."
+  },
+  "577619047319778196": {
+    "message": "Sula Ukukhetha"
+  },
+  "5783875011049188612": {
+    "message": "Umbhalo wesithombe uthathiwe"
+  },
+  "5820033033803019104": {
+    "message": "Hlela"
+  },
+  "5840202488368071194": {
+    "message": "Inothi elisha elinesithombe"
+  },
+  "5840330517914556080": {
+    "message": "Hlehlisa isithombe"
+  },
+  "5854158607727111728": {
+    "message": "Ithebhu"
+  },
+  "585503297543253590": {
+    "message": "Ngomhla ka"
+  },
+  "5870134033985574990": {
+    "message": "Iyakhipha..."
+  },
+  "5871966496153339793": {
+    "message": "Kuboniswa isithombe esincane sevidiyo $1​"
+  },
+  "5909490544352162901": {
+    "message": "Cela umnikazi ukufinyelela le nothi, noma shintshela ku-akhawunti enemvume. Ungene ngemvume njengo-$1​."
+  },
+  "5911012384539794869": {
+    "message": "Yehlulekile ukuqala umsebenzi wokukhipha."
+  },
+  "5916010927050975496": {
+    "message": "$1​ KB"
+  },
+  "5917528552332886959": {
+    "message": "Bonisa amazwana axazululiwe"
+  },
+  "5949528478488617689": {
+    "message": "Imvume yokulanda"
+  },
+  "5950887255133612666": {
+    "message": "Akuqaliwe."
+  },
+  "5961981688037913870": {
+    "message": "$1​ kwengeziwe"
+  },
+  "5965683144165568126": {
+    "message": "Oda kabusha into yohlu"
+  },
+  "5969696744752069015": {
+    "message": "Akukho ukuhlola kuqala okutholakalayo."
+  },
+  "597983994875715119": {
+    "message": "I-Cyan"
+  },
+  "5984398071085567332": {
+    "message": "I-Google Fusion Tables"
+  },
+  "5987609488177213747": {
+    "message": "Dala ilebula"
+  },
+  "5989809255170931770": {
+    "message": "{time,plural, =1{I-Keep izobuyekeza kusekhondi elingu-#}one{I-Keep izobuyekeza kumasekhondi angu-#}other{I-Keep izobuyekeza kumasekhondi angu-#}}"
+  },
+  "6003164344472359508": {
+    "message": "Usayizi 16"
+  },
+  "6005084567691342649": {
+    "message": "Izikhumbuzi"
+  },
+  "6009962986062136164": {
+    "message": "Ilayisha i-$1​."
+  },
+  "6011637630664474614": {
+    "message": "Isikhala"
+  },
+  "6030537159236285525": {
+    "message": "Hambisa into yohlu endawei elandelayo/edlule"
+  },
+  "60305871484579258": {
+    "message": "u-Alt"
+  },
+  "6042628357935708897": {
+    "message": "Le nothi ayisabelwana ne-akhawunti yakho. Cela umnikazi ukuze ufinyelele, noma shintshela kwi-akhawunti enemvume."
+  },
+  "6043578784980337112": {
+    "message": "Amafayela angu-$1​ ahanjiswe ku-$2​."
+  },
+  "6062216008944363143": {
+    "message": "{weekNumber,plural, =1{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yokuqala enyangeni}=2{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yesibili enyangeni}=3{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yesithathu enyangeni}=4{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yesine enyangeni}one{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yokugcina enyangeni}other{Iphinda njalo ezinyangeni ezingu-{every} nge-{day} yokugcina enyangeni}}"
+  },
+  "6087078248621415351": {
+    "message": "Ishintshwe ngo-$1​"
+  },
+  "6100883940579706314": {
+    "message": "Ukubuka kuqala kwesixhumanisi"
+  },
+  "6104991132648864933": {
+    "message": "Susa inothi?"
+  },
+  "6105571474005679446": {
+    "message": "Kube khona inkinga ngokubuka kuqala."
+  },
+  "6113237889871930608": {
+    "message": "Inothi elingenalutho"
+  },
+  "6118623991445349480": {
+    "message": "Ikhasi le-$1​"
+  },
+  "6122643025527543706": {
+    "message": "u-Ctrl"
+  },
+  "6127325177382263770": {
+    "message": "Ama-URL"
+  },
+  "6131822680770571276": {
+    "message": "I-PowerPoint"
+  },
+  "6140634664402328750": {
+    "message": "Uhlelo lokusebenza lwezinhlelo zokusebenza"
+  },
+  "6149175749937815029": {
+    "message": "Buka zonke izinto"
+  },
+  "6156725896714172645": {
+    "message": "Ikopishela ku-Google Idokhumenti"
+  },
+  "6160805346274626656": {
+    "message": "Susa unaphakade"
+  },
+  "616807262818311711": {
+    "message": "Uhlobo"
+  },
+  "618371060803280843": {
+    "message": "{numberOfNotes,plural, =1{Susa inothi}one{Susa amanothi}other{Susa amanothi}}"
+  },
+  "6185886893933834031": {
+    "message": "Gcina okukhethiwe"
+  },
+  "6186753450686672643": {
+    "message": "{every,plural, =1{Iphinda zonke izinsuku}one{Iphinda zonke izinsuku ezingu-#}other{Iphinda zonke izinsuku ezingu-#}}"
+  },
+  "6201176165479907499": {
+    "message": "{count,plural, =1{Inothi liphiniwe}one{Amanothi angu-# aphiniwe}other{Amanothi angu-# aphiniwe}}"
+  },
+  "6203260615455347677": {
+    "message": "Izinombolo"
+  },
+  "6211895332551673425": {
+    "message": "Kungeziwe ku-$2​Idrayivu Yami$1​"
+  },
+  "6212070333807533570": {
+    "message": "Ingeza ku-$2​Idrayivu Yami$1​..."
+  },
+  "6223207695466118454": {
+    "message": "YouTube"
+  },
+  "6224687211096863620": {
+    "message": "Noma ubani"
+  },
+  "6252259197986158120": {
+    "message": "Izolo"
+  },
+  "6277118196930285720": {
+    "message": "Layisha kabusha"
+  },
+  "628140343505892786": {
+    "message": "Izilungiselelo"
+  },
+  "6286379137937560558": {
+    "message": "I-Athikili"
+  },
+  "6286806453721792102": {
+    "message": "Hlela kuDrayivu"
+  },
+  "6289564019832728437": {
+    "message": "Ungabelana uma i-Keep iqeda ukulayisha."
+  },
+  "6305748545202493254": {
+    "message": "Bonisa/Fihla isikhala semininingwane"
+  },
+  "6306268376900894985": {
+    "message": "Yenzeka kuze kube ngu-{endDate}"
+  },
+  "6324768448533022780": {
+    "message": "$1​ $2​"
+  },
+  "6352952829934775705": {
+    "message": "OKUNINGI"
+  },
+  "6366376928558090914": {
+    "message": "Ukudla"
+  },
+  "6375244206466599493": {
+    "message": "Unyaka"
+  },
+  "6375395544374251820": {
+    "message": "Kube khona inkinga yokulayisha amakhasi amaningi. Iyazama futhi..."
+  },
+  "6386587519843563719": {
+    "message": "Ifayela elingunambambili"
+  },
+  "6394816510866826521": {
+    "message": "I-Dogfoody"
+  },
+  "6413404795391222793": {
+    "message": "Bhala uhlu olusha"
+  },
+  "6416495701611778255": {
+    "message": "Izinhlelo zokusebenza eziphakanyisiwe zezinkampani zangaphandle"
+  },
+  "6419411265907669340": {
+    "message": "Namhlanje"
+  },
+  "6427295696443582545": {
+    "message": "Ithuluzi Lesisuli"
+  },
+  "6432019580434957057": {
+    "message": "Umsindo"
+  },
+  "6443615802319581315": {
+    "message": "{NUM_ITEMS,plural, =1{Awunayo imvume yokuhambisa leli fayela ukusuka kuzikhwama zalo zamanje. Engeza ifayela kokuthi {START_SPAN_1}{NAME}{END_SPAN} esikhundleni salokho.}one{Awunayo imvume yokuhambisa lawa mafayela kumafolda awo amanje. Engeza amafayela kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}other{Awunayo imvume yokuhambisa lawa mafayela kumafolda awo amanje. Engeza amafayela kokuthi {START_SPAN_2}{NAME}{END_SPAN} esikhundleni salokho.}}"
+  },
+  "6450508807204492448": {
+    "message": "Isithonjana se-$1​"
+  },
+  "6450611522897524109": {
+    "message": "Ukotapeya Okuhlaza Okotshani"
+  },
+  "6457802200418354862": {
+    "message": "Izibukeli zingalanda"
+  },
+  "6459405233858728718": {
+    "message": "Google Amaslayidi"
+  },
+  "6464761738227651511": {
+    "message": "$1​ iminithi eledlule"
+  },
+  "6466736813846482957": {
+    "message": "Okwedlule"
+  },
+  "6466858417983764649": {
+    "message": "Setha izikhumbuzi zamanothi wezindawo nezikhathi, thatha amanothi wezwi, uphinde usebenze uku-inthanethi noma ungaxhunyiwe kwi-inthanethi."
+  },
+  "6472238195689960152": {
+    "message": "Okumhlophe"
+  },
+  "6473102097014191455": {
+    "message": "Inothi lomdwebo"
+  },
+  "6480260198815372102": {
+    "message": "Vula"
+  },
+  "6496683100661104868": {
+    "message": "$2​Amalayisensi omthombo ovulekile$1​"
+  },
+  "6497197865876438261": {
+    "message": "Umculo"
+  },
+  "6507257480072167483": {
+    "message": "Igama lelebula lishintshiwe ukuze lithi $1​."
+  },
+  "6510131849363684615": {
+    "message": "Kusasa"
+  },
+  "6513721414466645971": {
+    "message": "Kukhishiwe"
+  },
+  "6522917155620379865": {
+    "message": "Landa"
+  },
+  "6524849072392100692": {
+    "message": "Ifolda ye-Google Drayivu"
+  },
+  "6571686604846453345": {
+    "message": "Kube nenkinga yokungeza le nto kuDrayivu."
+  },
+  "6579707685908557993": {
+    "message": "Kusihlwa"
+  },
+  "6582286158693833652": {
+    "message": "Funda kabanzi"
+  },
+  "6588176324871799870": {
+    "message": "Isikripthi sezinhlelo zokusebenza ze-Google"
+  },
+  "661771364073001489": {
+    "message": "Shintshanisa ama-akhawunti"
+  },
+  "6618562607681757575": {
+    "message": "Ungahambisi kusuka kunoma iyiphi ifolda, vele wengeze kokuthi $3​$2​$1​"
+  },
+  "6622304228074863427": {
+    "message": "Uhlelo lokusebenza"
+  },
+  "6650600936729710500": {
+    "message": "Izimpendulo."
+  },
+  "6664835828596108553": {
+    "message": "Inketho"
+  },
+  "670419277288558500": {
+    "message": "Ividiyo/Umsindo"
+  },
+  "6707173584987026005": {
+    "message": "Namhlanje"
+  },
+  "6710728478489145370": {
+    "message": "Vala"
+  },
+  "6713235295664405475": {
+    "message": "ngo|ku"
+  },
+  "6715985122107380503": {
+    "message": "Okuqoshiwe"
+  },
+  "6726462693927865256": {
+    "message": "Imininingwane"
+  },
+  "6726879257388338969": {
+    "message": "Phrinta"
+  },
+  "6732800471045353930": {
+    "message": "Le nothi yabiwe nenani eliningi labantu."
+  },
+  "673551770550324419": {
+    "message": "Linganisa ebubanzini"
+  },
+  "6744457949320515234": {
+    "message": "Inothi elingenalutho lilahliwe"
+  },
+  "6747379635033535953": {
+    "message": "Engeza izinto ezintsha ezansi"
+  },
+  "6747528043814108113": {
+    "message": "Kushintshelwe ku-$1​"
+  },
+  "6749829802551750923": {
+    "message": "phezulu"
+  },
+  "6750600017746655174": {
+    "message": "Inketho"
+  },
+  "6773222938695237983": {
+    "message": "{NUM_ITEMS,plural, =0{Unused}=1{Yabelana ngale nto?}one{Yabelana ngalezi zinto?}other{Yabelana ngalezi zinto?}}"
+  },
+  "6778577079172085976": {
+    "message": "Kuphiniwe"
+  },
+  "6780628488957834429": {
+    "message": "Okuwolintshi"
+  },
+  "6787580031482277539": {
+    "message": "Akusoze"
+  },
+  "6797862596948579998": {
+    "message": "Uhlelo Lokusebenza Lwe-Chrome"
+  },
+  "6801348618370627980": {
+    "message": "Ilebula ethi $1​ idaliwe."
+  },
+  "681598652078493281": {
+    "message": "Funda kabanzi"
+  },
+  "6822520214440117457": {
+    "message": "Umsebenzi"
+  },
+  "6823109315717909214": {
+    "message": "Yizame"
+  },
+  "6827821461670731013": {
+    "message": "Bonisa amabhokisi wokuthikha"
+  },
+  "6833760103261954639": {
+    "message": "Kube khona inkinga yokulayisha leli khasi. Iyazama futhi..."
+  },
+  "6845496099067370773": {
+    "message": "Okubomvu"
+  },
+  "6861978427131390279": {
+    "message": "Thumela impendulo"
+  },
+  "6891563484025164308": {
+    "message": "Okwedlule"
+  },
+  "6898823203505321799": {
+    "message": "Imininingwane"
+  },
+  "6904351530369058983": {
+    "message": "Umnikazi"
+  },
+  "6911028933894691912": {
+    "message": "Lo mdwebo uzotholakala lapho uxhumeka ku-inthanethi."
+  },
+  "6922953828399110511": {
+    "message": "Vala isibukeli"
+  },
+  "693770783324368110": {
+    "message": "Amanothi asuswe ukuphina futhi alahlwe kudoti"
+  },
+  "6939806490818256358": {
+    "message": "{resultCount,plural, =1{Umphumela wokusesha ongu-#}one{Imiphumela yosesho engu-#}other{Imiphumela yosesho engu-#}}"
+  },
+  "695253297035211081": {
+    "message": "Sula konke ku-Udoti"
+  },
+  "6963401564174052300": {
+    "message": "Umdwebo awutholakali okwesikhashana."
+  },
+  "6982682101118067511": {
+    "message": "Iyahlela…"
+  },
+  "701276785305022936": {
+    "message": "Idokhumenti eyonakele. Sicela uqiniseke ukuthi ifayela lingefomethi yakamuva."
+  },
+  "7017384731286920634": {
+    "message": "Okuluhlaza Okotshani Okukhanyayo"
+  },
+  "7017485862232001373": {
+    "message": "I-\"$1​\" ingezwe ku-$2​."
+  },
+  "7019002927048576918": {
+    "message": "$1​ Sesha Izihlungi"
+  },
+  "7050021021988648361": {
+    "message": "Kopisha i-URL"
+  },
+  "7050898523853841537": {
+    "message": "Izinketho zokuvama"
+  },
+  "7054631817922169541": {
+    "message": "I-Google Keep inezinguquko ezingalondoloziwe. Ufuna ukushiya ikhasi bese ulahla izinguquko zakho?"
+  },
+  "705714112650622350": {
+    "message": "Kube nenkinga yokungeza into ku-Google Drayivu."
+  },
+  "7059437903473652416": {
+    "message": "Dlala ividiyo ye-YouTube i-$1​"
+  },
+  "7065454163742312322": {
+    "message": "Imibala eyengeziwe"
+  },
+  "7084324152376766809": {
+    "message": "$1​ izinsuku ezedlule"
+  },
+  "7084991134824194740": {
+    "message": "Ngikhumbuze"
+  },
+  "7086801490719148597": {
+    "message": "Ungakhethi lokhu"
+  },
+  "7106150113490082402": {
+    "message": "Owezimbali"
+  },
+  "7126535013613878060": {
+    "message": "Phina amanothi akho abalulekile phezulu."
+  },
+  "7141983486405549971": {
+    "message": "Faka"
+  },
+  "7145753028985071097": {
+    "message": "I-oda kabusha inothi"
+  },
+  "7146242673022399081": {
+    "message": "Umbhalo"
+  },
+  "7148992630785407972": {
+    "message": "Leli fayela livikelwe ngephasiwedi futhi alikwazi ukubukwa kuqala."
+  },
+  "7153847618034547771": {
+    "message": "Nika amandla"
+  },
+  "7161134329606048317": {
+    "message": "Vala"
+  },
+  "7161718175684624843": {
+    "message": "Susa ilebula"
+  },
+  "7164532930742017984": {
+    "message": "Noma ubani onesixhumanisi"
+  },
+  "7166989725427500881": {
+    "message": "Khetha inothi elifakwe kudoti"
+  },
+  "7174189954350964804": {
+    "message": "Phinda uzame"
+  },
+  "7174908348310449675": {
+    "message": "Enza ngokwezifiso okuzenzakalelayo kwakho kwesikhumbuzi"
+  },
+  "7181961085183734135": {
+    "message": "Ukuphrinta kukhutshaziwe kuleli fayela"
+  },
+  "7225445911355686176": {
+    "message": "Khetha inothi elifakwe kungobo yomlando"
+  },
+  "722702934847795304": {
+    "message": "Iphrojekthi"
+  },
+  "7247530225058410142": {
+    "message": "$2​ $1​"
+  },
+  "7247965266239591227": {
+    "message": "Kube khona inkinga yokukhipha \"$1​\"."
+  },
+  "7265183966796883739": {
+    "message": "Fihla amazwana axazululiwe"
+  },
+  "7278398674737413598": {
+    "message": "Asikwazi ukuguqula idokhumenti."
+  },
+  "7278859550373246865": {
+    "message": "{count,plural, =1{Inothi lifakwe kungobo yomlando}one{Amanothi angu-# afakwe kungobo yomlando}other{Amanothi angu-# afakwe kungobo yomlando}}"
+  },
+  "7282548567245878869": {
+    "message": "Into isusiwe"
+  },
+  "7290932540630116546": {
+    "message": "Isikhumbuzi sisethiwe. $1​"
+  },
+  "7295254213841803546": {
+    "message": "Lahla izinguquko?  Izinguquko zakho ngeke zilondolozwe."
+  },
+  "7304355547638486270": {
+    "message": "Landa Umsindo ($1​)"
+  },
+  "7337660181466605745": {
+    "message": "Ihlulekile ukubuyekeza okuthi \"$1​\" in Drive."
+  },
+  "7342923890755029722": {
+    "message": "Vala"
+  },
+  "734478884582426793": {
+    "message": "Ingobo yomlando ecindezelwe"
+  },
+  "7345191981142988484": {
+    "message": "Umdwebo ususiwe"
+  },
+  "7364571366369083618": {
+    "message": "Ividiyo"
+  },
+  "7368945547292826843": {
+    "message": "Iya kusixhumanisi"
+  },
+  "7377239345926788722": {
+    "message": "Izenzo"
+  },
+  "7382688299146249119": {
+    "message": "Landa into"
+  },
+  "7383706174467122149": {
+    "message": "Inothi lisusiwe"
+  },
+  "7388342865555961406": {
+    "message": "osukwini olungu-$1​"
+  },
+  "7389099426842546376": {
+    "message": "Ukuhlanganyela akutholakali okwamanje"
+  },
+  "7393771571081973549": {
+    "message": "C"
+  },
+  "7420117636241237177": {
+    "message": "Imilayezo esuka ku-$1​ ikhishelwe ku-akhawunti yakho yemeyili ngaphansi kokuthi \"Ngenisa: $2​\" ilebula."
+  },
+  "7422452809590461532": {
+    "message": "Okubomvu"
+  },
+  "7426603384368095928": {
+    "message": "Sicela ulayishe kabusha ikhasi ukuze uphinde ungene ngemvume futhi uqhubeke nokusebenza."
+  },
+  "7427333772418801813": {
+    "message": "Kunwetshwe inkinobho EYENGEZIWE engu-+ $1​"
+  },
+  "7429084719905985261": {
+    "message": "I-Objective C"
+  },
+  "7432956605646331928": {
+    "message": "I-SQL"
+  },
+  "7440735091552109962": {
+    "message": "$2​ (ukuhlelwa $1​)"
+  },
+  "7441891675459021164": {
+    "message": "Ilondoloza kuDrayivu"
+  },
+  "744753705925710199": {
+    "message": "Uxolo, asikwazanga ukugunyaza lolu hlelo lokusebenza kuwo wonke amafayela ozame ukuwavula. Sicela uzame futhi."
+  },
+  "7452116603589558390": {
+    "message": "Yeka ukukhetha inothi eliphiniwe"
+  },
+  "7458942806393710991": {
+    "message": "Yeka ukukhetha inothi elifakwe kungobo yomlando"
+  },
+  "7468842863971844562": {
+    "message": "Uhlu olusha"
+  },
+  "7469895656894091562": {
+    "message": "Le imeyili ayivumelekile"
+  },
+  "7482924911694634213": {
+    "message": "{weekNumber,plural, =1{Iphinda njalo ngenyanga nge-{day} yokuqala enyangeni}=2{Iphinda njalo ngenyanga nge-{day} yesibili enyangeni}=3{Iphinda njalo ngenyanga nge-{day} yesithathu enyangeni}=4{Iphinda njalo ngenyanga nge-{day} yesine enyangeni}one{Iphinda njalo ngenyanga nge-{day} yokugcina enyangeni}other{Iphinda njalo ngenyanga nge-{day} yokugcina enyangeni}}"
+  },
+  "7483088916037874359": {
+    "message": "Ifayela likhulu kakhulu. "
+  },
+  "7488945223835574498": {
+    "message": "I-Postscript"
+  },
+  "7500786109708143683": {
+    "message": "Umsindo ususiwe"
+  },
+  "7503234138288940590": {
+    "message": "Sesha"
+  },
+  "7507827375601925075": {
+    "message": "Hambisa inothi endaweni elandelayo/edlule"
+  },
+  "7530677128711603655": {
+    "message": "Imiphumela yosesho yokuthi \"$1​\""
+  },
+  "754367112212424716": {
+    "message": "Emuva kwesikhathi namhlanje"
+  },
+  "7564771400033548584": {
+    "message": "{selectedCount,plural, =1{# okukhethiwe}one{# okukhethiwe}other{# okukhethiwe}}"
+  },
+  "7565383798249439151": {
+    "message": "ezinsukwini ezingu-$1​"
+  },
+  "7579280421767578228": {
+    "message": "Isikhumbuzi sangolunye usuku"
+  },
+  "7586291841734385643": {
+    "message": "Khipha"
+  },
+  "7587936635257676112": {
+    "message": "Kungezwe u-$1​"
+  },
+  "7598582624136632660": {
+    "message": "Vula ibha yosesho / thola okulandelayo"
+  },
+  "7598850438299201663": {
+    "message": "Ivula \"$1​\"..."
+  },
+  "7604275940271852148": {
+    "message": "Khiphela ku-akhawunti yakho ye-imeyili"
+  },
+  "7604400308311739073": {
+    "message": "Phina"
+  },
+  "7610628906656867728": {
+    "message": "Ingobo yomlando"
+  },
+  "7610654194202731772": {
+    "message": "Susa"
+  },
+  "7629685876277801112": {
+    "message": "Kube khona inkinga yokubonisa leli fayela lamamephu."
+  },
+  "7630723924002267143": {
+    "message": "Izinqamuleli zekhibhodi zinikwe amandla."
+  },
+  "7649506133540465463": {
+    "message": "Isenzo asikwazanga ukuhlehliswa"
+  },
+  "7656983816661099886": {
+    "message": "Izinto"
+  },
+  "7659047104232758352": {
+    "message": "lokho|lokhu"
+  },
+  "7669846901402551021": {
+    "message": "Namhlanje"
+  },
+  "7691521283331762131": {
+    "message": "Amanothi wakho akungobo yomlando avela lapha"
+  },
+  "7709889936233398701": {
+    "message": "Susa"
+  },
+  "7715735412192018288": {
+    "message": "Usizo"
+  },
+  "7715892737835649602": {
+    "message": "Ungakwazi futhi ukwengeza amalebula ngokuthayipha okuthi '#'."
+  },
+  "772000107335590599": {
+    "message": "kumaminithi angu-$1​"
+  },
+  "7734578122414851725": {
+    "message": "I-PHP"
+  },
+  "773857106517884529": {
+    "message": "Okumpunga Okukhanyayo"
+  },
+  "774390292128857049": {
+    "message": "Sesha"
+  },
+  "7751981235297474273": {
+    "message": "Hlehlisa"
+  },
+  "7772544658778579390": {
+    "message": "Thola kudokhumenti"
+  },
+  "777546328624962090": {
+    "message": "Ayikwazi ukulayisha leli fayela. Samukela amafayela we-$1​ angaphansi kuka-$2​MB no-$3​ megapixels."
+  },
+  "7791050524692390574": {
+    "message": "Imibala"
+  },
+  "7800318069267901681": {
+    "message": "Okulungisiwe"
+  },
+  "7814778057875152792": {
+    "message": "Kube nenkinga yokuhambisa okunamathiselwe kufolda elikhethiwe ku-Google Drayivu."
+  },
+  "7822364282298323175": {
+    "message": "Uhlu lusuliwe"
+  },
+  "7828886646639771557": {
+    "message": "Thatha inothi…"
+  },
+  "7830513726270865588": {
+    "message": "Ikhalenda"
+  },
+  "7842164552344536314": {
+    "message": "Iyahlela..."
+  },
+  "7844842290699524598": {
+    "message": "Umkhawulo welebuli ufinyelelwe. Sula ilebuli ekhona ukuze ungeze entsha."
+  },
+  "7845751753397906805": {
+    "message": "Ukuhlelwa okuphikisanayo kutholiwe"
+  },
+  "785840448809859989": {
+    "message": "Izinketho zesikhathi"
+  },
+  "7865240075542402013": {
+    "message": "Engeza inkanyezi"
+  },
+  "7873060817438017568": {
+    "message": "$2​ · $1​"
+  },
+  "7876831800396633138": {
+    "message": "Inqubo Yesikrini Esigcwele"
+  },
+  "7889179838401647357": {
+    "message": "Isicelo sithunyelwe. Uzothola i-imeyili uma sivunywa."
+  },
+  "7895643887742936844": {
+    "message": "i-semicolon"
+  },
+  "7899913952063063825": {
+    "message": "Isithombe sisusiwe"
+  },
+  "7901771370781969022": {
+    "message": "Ibhuku"
+  },
+  "7903276896883020622": {
+    "message": "Ukwabelana akutholakali okwamanje"
+  },
+  "7906726367011430855": {
+    "message": "Xhuma"
+  },
+  "7910887984113996757": {
+    "message": "Vula ukwabelana"
+  },
+  "7922692430438844436": {
+    "message": "Khipha"
+  },
+  "792315196550007047": {
+    "message": "Ayikho imiphumela efanayo."
+  },
+  "7943657844420237650": {
+    "message": "I-OpenOffice Impress"
+  },
+  "7946114032014914338": {
+    "message": "{repeatSentence}. {endSentence}"
+  },
+  "7947001788143789176": {
+    "message": "Iyalayisha…"
+  },
+  "7959130747647079558": {
+    "message": "{selectedCount,plural, =1{Inothi elingu-# likhethiwe}one{Amanothi angu-# akhethiwe}other{Amanothi angu-# akhethiwe}}"
+  },
+  "7976461426527138085": {
+    "message": "Uhlu"
+  },
+  "7988058806865329896": {
+    "message": "Khetha idethi"
+  },
+  "7996360883730444101": {
+    "message": "Uxolo, kuvele iphutha ngesikhathi kuvulwa leli fayela. Sicela uphinde uzame."
+  },
+  "8010075936095394680": {
+    "message": "Inguqulo yefayela inkulu kakhulu. Sicela uqiniseke ukuthi ifayela lingefomethi yakamuva. "
+  },
+  "8011497727123874703": {
+    "message": "Inkinobho yefolda le-$1​"
+  },
+  "8013687642711017862": {
+    "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Uhambisa into eyodwa ngaphandle kwamafolda abelwe, ngakho abantu bazolahlekelwa ukufinyelela.}one{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kwamafolda abelwe, ngakho abantu bazolahlekelwa ukufinyelela.}other{Uhambisa izinto ezingu-{NUM_ITEMS_2} ngaphandle kwamafolda abelwe, ngakho abantu bazolahlekelwa ukufinyelela.}}"
+  },
+  "8019402848412685977": {
+    "message": "I-\"$2​\" uqanjwe kabusha yaba yi-\"$1​\"."
+  },
+  "8021465164414684024": {
+    "message": "{count,plural, =1{# into isusiwe}one{# izinto zisusiwe}other{# izinto zisusiwe}}"
+  },
+  "802668096552856965": {
+    "message": "{checkedItemCount,plural, =1{Into ekhethiwe engu-#}one{Izinto ezikhethiwe ezingu-#}other{Izinto ezikhethiwe ezingu-#}}"
+  },
+  "8043514121228710092": {
+    "message": "Engeza isithombe"
+  },
+  "8044700199531805239": {
+    "message": "$3​$1​$2​ ixhunyiwe."
+  },
+  "8066398070826666542": {
+    "message": "{count,plural, =1{+ into eqediwe engu-#}one{+ izinto eziqediwe ezingu-#}other{+ izinto eziqediwe ezingu-#}}"
+  },
+  "8069384932934428393": {
+    "message": "kuminithi elingu-$1​"
+  },
+  "8080583426915938264": {
+    "message": "Izinhlelo zokusebenza ezikukhompuyutha yakho"
+  },
+  "8085493757603803516": {
+    "message": "Hlela ukukhetha"
+  },
+  "8090743714060857028": {
+    "message": "Izibukeli azikwazi ukulanda"
+  },
+  "8095838445486198080": {
+    "message": "{FILE_SIZE,plural, =0{0 amabhayithi}=1{1 ibhayithi}one{# amabhayithi}other{# amabhayithi}}"
+  },
+  "8111632928339277375": {
+    "message": "{NUM_FOLDERS,plural, =1{Susa kusuka kufolda eyodwa}=2{Susa kusuka kuwo womabili amafolda}one{Susa kusuka kuwo wonke amafolda angu-#}other{Susa kusuka kuwo wonke amafolda angu-#}}"
+  },
+  "8125425371755035523": {
+    "message": "Guqula"
+  },
+  "8126340137798672888": {
+    "message": "Amafayela angu-$1​ asusiwe ku-$2​ ayiswa ku-$3​."
+  },
+  "8133866583554546341": {
+    "message": "$1​, $2​"
+  },
+  "8135145577663029437": {
+    "message": "Gcina zombili"
+  },
+  "814178220294444613": {
+    "message": "Amafayela angu-$1​ engezwe ku-$2​."
+  },
+  "8144512434938656483": {
+    "message": "noma"
+  },
+  "8146560259680897627": {
+    "message": "Khansela"
+  },
+  "8149439558305434788": {
+    "message": "$1​, $2​"
+  },
+  "8159493406018222636": {
+    "message": "Thumela impendulo"
+  },
+  "8174654098152723289": {
+    "message": "Hlela Incazelo"
+  },
+  "8194941811853358224": {
+    "message": "Kube nenkinga ekususeni inkanyezi kusukela ku-\"$1​\"."
+  },
+  "820664195135544910": {
+    "message": "Okuwolintshi"
+  },
+  "8214941501817169086": {
+    "message": "{count,plural, =1{Susa inothi ingunaphakade?}one{Susa amanothi ingunaphakade?}other{Susa amanothi ingunaphakade?}}"
+  },
+  "821942580510564685": {
+    "message": "Sicela ufake iphasiwedi yale dokhumenti ukuze uyibuke"
+  },
+  "8223878224920694193": {
+    "message": "Njalo"
+  },
+  "8224193807932432983": {
+    "message": "Izenzo"
+  },
+  "8231449936104909428": {
+    "message": "Kube nenkinga ukuhambisa i-\"$1​\" kuya kufolda ekhethiwe kudrayivu."
+  },
+  "8242655297101700529": {
+    "message": "IDrayivu Yami"
+  },
+  "826433162451399549": {
+    "message": "Kusasa"
+  },
+  "8273434617910595878": {
+    "message": "phansi"
+  },
+  "8281141013543828574": {
+    "message": "I-Raw Image"
+  },
+  "8304474373444239435": {
+    "message": "Impendulo ka-$1​."
+  },
+  "8305505634689906340": {
+    "message": "Sesha ngaphakathi kokuthi \"$1​\""
+  },
+  "8322416564157128458": {
+    "message": "Ukwabelana"
+  },
+  "8332720954679654953": {
+    "message": "Ukulandwa kohlelo lokusebenza"
+  },
+  "8334718599538726981": {
+    "message": "Kuvuselelwe"
+  },
+  "8337582740675387693": {
+    "message": "I-Java"
+  },
+  "8342620486324515462": {
+    "message": "Cashisa"
+  },
+  "837692854094319105": {
+    "message": "Abasebenzisi abalandelayo awukwazi ukwabelana nabo ngenxa yokuthi umlawuli wabo ukhubaze ukwabelana esizindeni sabo."
+  },
+  "8379952094517631162": {
+    "message": "Cha"
+  },
+  "8409393124758970712": {
+    "message": "$2​ x $1​"
+  },
+  "8412098268689886334": {
+    "message": "Hlanganisa"
+  },
+  "8412306118114780633": {
+    "message": "Qala kabusha"
+  },
+  "8412733496413412439": {
+    "message": "Okungaxhunyiwe ku-inthanethi"
+  },
+  "84334343973701810": {
+    "message": "Ekhaya"
+  },
+  "8452647597930138120": {
+    "message": "Gqamisa iseli ozobeka amazwana kulo"
+  },
+  "8467894483369467251": {
+    "message": "Ifuleshi"
+  },
+  "8471029293590878384": {
+    "message": "Misa isikhashana"
+  },
+  "847320208126653829": {
+    "message": "Vula Umbala Wethuluzi Le-Calligraphy Nesikhethi Sikasayizi"
+  },
+  "8493378997610580289": {
+    "message": "Izinqamuleli ezengeziwe"
+  },
+  "8501142460706022179": {
+    "message": "Uhlelo lokusebenza lakhona oluzenzakalelayo"
+  },
+  "8505989225387082493": {
+    "message": "Engeza ilebula"
+  },
+  "8509270263487836281": {
+    "message": "Ngena ngemvume"
+  },
+  "8517148045938431718": {
+    "message": "Lungisa amaphutha"
+  },
+  "8535916611285039243": {
+    "message": "Cashisa"
+  },
+  "8591848339430983053": {
+    "message": "Amanothi"
+  },
+  "8595175575778060149": {
+    "message": "Okuningi"
+  },
+  "8596279649507974639": {
+    "message": "Hambisa lapha"
+  },
+  "8602525917014156029": {
+    "message": "Izindawo"
+  },
+  "8616342546716995946": {
+    "message": "Ngiyitholile"
+  },
+  "8621067185485606452": {
+    "message": "I-ECMAScript"
+  },
+  "8626694988569301667": {
+    "message": "Umdwebo awutholakali"
+  },
+  "8646821180780920830": {
+    "message": "Amalebula"
+  },
+  "8652657235429996594": {
+    "message": "Maduze"
+  },
+  "8660016472468563221": {
+    "message": "i-colon"
+  },
+  "8663507590720636709": {
+    "message": "$1​ +$2​ okuningi"
+  },
+  "8663993454460982287": {
+    "message": "Amabhokisi wokuthikha afihliwe"
+  },
+  "8674222789100049233": {
+    "message": "Vala"
+  },
+  "86815590954366945": {
+    "message": "Uhlu lokuqukethwe olufakwe kungobo yomlando"
+  },
+  "8708723278154759600": {
+    "message": "Amanothi afakwe kungobo yomlando"
+  },
+  "8711002053494037632": {
+    "message": "Zonke izinto azihloliwe"
+  },
+  "8734569874711220205": {
+    "message": "Imenyu yokuzulazula"
+  },
+  "8742388056829916665": {
+    "message": "Bonisa ukubuka kuqala kwesixhumanisi esicebile"
+  },
+  "8747586020318913818": {
+    "message": "Ithuluzi Le-Calligraphy"
+  },
+  "8770362429333850884": {
+    "message": "Ivule imenyu yesikhi selebula"
+  },
+  "8775097441636640256": {
+    "message": "$2​ - $1​"
+  },
+  "8781837301864053001": {
+    "message": "Umbhalo oxubile"
+  },
+  "8786673003584562680": {
+    "message": "Ikhasi-Phezulu"
+  },
+  "8792038552136453044": {
+    "message": "Eshu! Kukhona okungahambanga kahle"
+  },
+  "8793166064242077041": {
+    "message": "Kube khona inkinga yokubonisa lesi sithombe."
+  },
+  "8822326207328431952": {
+    "message": "Okulayishiwe kwesithombe akutholakali"
+  },
+  "8845176264121061589": {
+    "message": "Yekisa ukuhlola zonke izinto"
+  },
+  "8850238112725591771": {
+    "message": "isinqamuleli se-$1​"
+  },
+  "8851252390780816895": {
+    "message": "Ilogu yeklayenti"
+  },
+  "8852550049823214385": {
+    "message": "bese"
+  },
+  "8860658114732392347": {
+    "message": "Susa isikhumbuzi"
+  },
+  "8867634760949689122": {
+    "message": "Ifayela alikwazanga ukuguqulwa: ukuguqula kuphelelwe isikhathi. Sicela uzame futhi ngokuhamba kwesikhathi."
+  },
+  "8868758864963683383": {
+    "message": "Yeka ukukhetha inothi"
+  },
+  "887001400549949730": {
+    "message": "Vula ewindini elisha"
+  },
+  "888015650266122140": {
+    "message": "izenzakalo"
+  },
+  "8889019648958415451": {
+    "message": "Ifayela elingaziwa"
+  },
+  "8892163365003749853": {
+    "message": "Ithuluzi Lokukhetha"
+  },
+  "8917554093651202032": {
+    "message": "Dlala i-$1​"
+  },
+  "8919660666733306860": {
+    "message": "Isithombe"
+  },
+  "8930959387403789939": {
+    "message": "Isikhumbuzi"
+  },
+  "8938626240031421092": {
+    "message": "Guqula amabhokisi okuhlola"
+  },
+  "8943760679396635042": {
+    "message": "Ibonisa i-$1​."
+  },
+  "8953555255469284376": {
+    "message": "Beka izithombe lapha"
+  },
+  "8958118622768332570": {
+    "message": "Ukukopishela ku-Google Idokhumenti kuhlulekile"
+  },
+  "8975305711699693093": {
+    "message": "Fihla ikholomu yamazwana"
+  },
+  "8977359195911624009": {
+    "message": "+$1​"
+  },
+  "8979104019474011578": {
+    "message": "{every,plural, =1{Iphinda maviki onke}one{Iphinda njalo ngamaviki angu-#}other{Iphinda njalo ngamaviki angu-#}}"
+  },
+  "8979615310931291676": {
+    "message": "Kuhlelwe ngo-$1​"
+  },
+  "8988925599985431446": {
+    "message": "Susa ukuphina"
+  },
+  "8999857151110318749": {
+    "message": "Okunsomi"
+  },
+  "900086393693234779": {
+    "message": "Ikhaya"
+  },
+  "9012753183662045049": {
+    "message": "Faka igama lelebula elifushane"
+  },
+  "9021945828354340363": {
+    "message": "{count,plural, =1{Leli nothi ngeke lisabiwa nawe.}one{Lawa manothi ngeke asabiwa nawe.}other{Lawa manothi ngeke asabiwa nawe.}}"
+  },
+  "9024023699330078373": {
+    "message": "Ukuvula le nto kuzoyingeza kuDrayivu yakho"
+  },
+  "9030534135553586694": {
+    "message": "Umthombo"
+  },
+  "9058308423774656474": {
+    "message": "I-Hangul Word Processor"
+  },
+  "9063863448028905602": {
+    "message": "Susa kusukela kumiphumela"
+  },
+  "9072994494820207560": {
+    "message": "Into Ehloliwe"
+  },
+  "9083935734710258396": {
+    "message": "Yala"
+  },
+  "9094248058931620597": {
+    "message": "Iphaneli lemininingwane lephuliwe."
+  },
+  "910247501857754225": {
+    "message": "Ubuphephuli obujulile"
+  },
+  "911586799466052745": {
+    "message": "Ukudweba kwe-OpenOffice"
+  },
+  "9121915169985572840": {
+    "message": "Guqula umbala"
+  },
+  "9131268871618792263": {
+    "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}one{Amalungu AmaDrayivu Ethimba azolahlekelwa ukufinyelela ngaphandle kwalapho lezi zinto zabelwa nawo.}other{Amalungu AmaDrayivu Ethimba azolahlekelwa ukufinyelela ngaphandle kwalapho lezi zinto zabelwa nawo.}}"
+  },
+  "9149141099919589043": {
+    "message": "Amanani Ahlukaniswe Ngekhefana"
+  },
+  "9156878962731584153": {
+    "message": "Okumnyama okunsundu"
+  },
+  "918181312329879123": {
+    "message": "Amafolda angu-$1​ engezwe ku-$2​."
+  },
+  "9197837492705576727": {
+    "message": "Hamba kunto elandelayo"
+  },
+  "919969969251998566": {
+    "message": "Khipha le ngobo yomlando ku-akhawunti yakho ye-imeyili."
+  },
+  "9208632284144316801": {
+    "message": "Uyaphinda"
+  },
+  "9213031420087755232": {
+    "message": "Sula Ikhasi"
+  },
+  "938074023403688885": {
+    "message": "Khipha"
+  },
+  "951963820437151566": {
+    "message": "Amasayithi we-Google"
+  },
+  "960732173870658714": {
+    "message": "Idokhumenti ye-Google Keep"
+  },
+  "976103457024703736": {
+    "message": "Ayikwazanga ukuvula okuthi \"$1​\"."
+  },
+  "985197728509875956": {
+    "message": "I-Chemical Model"
+  },
+  "991852286447868510": {
+    "message": "Iseshela i-$1​"
+  },
+  "996381410993745580": {
+    "message": "I-Photoshop"
+  },
+  "appDesc": {
+    "description": "App description",
+    "message": "Bhala ngokushesha okucabangayo bese wabelane ngaleyo micabango nabangani nomndeni."
+  },
+  "appName": {
+    "description": "App name",
+    "message": "Google Keep - amanothi nohlu"
+  },
+  "shortName": {
+    "description": "App short name",
+    "message": "Google Keep"
+  }
+}

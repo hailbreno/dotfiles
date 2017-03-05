@@ -1,0 +1,707 @@
+{
+   "checksum": "8379233159663196f364fec60d144ff1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13095728364261366",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13133017864659838",
+               "last_visited_desktop": "13133157751371670"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "30",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "children": [ {
+               "date_added": "13090031298701699",
+               "id": "91",
+               "meta_info": {
+                  "stars.id": "ssc_ae4d161d69d77614",
+                  "stars.version": "sync.server.Chrome46"
+               },
+               "name": "Command line activate Windows 10",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://answers.microsoft.com/pt-br/windows/wiki/windows_10-windows_install/ativa%C3%A7%C3%A3o-do-windows-10-depois-da/f5eeb328-5d8c-440f-a529-7a9eca254e1c"
+            }, {
+               "date_added": "13115272103490569",
+               "id": "92",
+               "name": "Drivers do Dell 5470 no Ubuntu 14.04, Linux Mint ou derivados [Dica]",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.vivaolinux.com.br/dica/Drivers-do-Dell-5470-no-Ubuntu-1404-Linux-Mint-ou-derivados"
+            }, {
+               "date_added": "13115272188133515",
+               "id": "93",
+               "name": "Login using fingerprint reader - Ask Ubuntu",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://askubuntu.com/questions/111334/login-using-fingerprint-reader"
+            }, {
+               "date_added": "13115272248648730",
+               "id": "94",
+               "name": "[How To] Get Your Fingerprint Reader Working in Ubuntu - OMG! Ubuntu!",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.omgubuntu.co.uk/2013/03/how-to-get-your-fingerprint-reader-working-in-ubuntu"
+            }, {
+               "date_added": "13118539194798840",
+               "id": "95",
+               "name": "powershell - Rename multiple files in a folder, add a prefix (WIndows) - Stack Overflow",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/20874915/rename-multiple-files-in-a-folder-add-a-prefix-windows"
+            } ],
+            "date_added": "13129687239197426",
+            "date_modified": "13129687239197426",
+            "id": "11",
+            "meta_info": {
+               "stars.id": "ssf_0803f5a05b73773b",
+               "stars.version": "sync.server.Chrome46"
+            },
+            "name": "tutorials",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13095704270549177",
+               "id": "59",
+               "name": "Camisas Masculinas - MANDORAS",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.mandoras.com.br/camisas-masculinas?pagina=1"
+            }, {
+               "date_added": "13101278293878270",
+               "id": "60",
+               "name": "Bill Mudron's Internet House",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.billmudron.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13031186678559128",
+                  "id": "80",
+                  "name": "Calça Estilo Militar Cargo E2 Importada- Frete Grátis! - R$ 169,99 no MercadoLivre",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://produto.mercadolivre.com.br/MLB-521168878-calca-estilo-militar-cargo-e2-importada-frete-gratis-_JM?attribute=33000-52053"
+               }, {
+                  "date_added": "13031944354318057",
+                  "id": "81",
+                  "name": "\"The Support - Sona\" T-Shirts & Hoodies by Welterz | Redbubble",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.redbubble.com/people/welterz/works/10862723-the-support-sona?body_color=navy&p=t-shirt&print_location=front&ref=shop_grid&style=mens"
+               }, {
+                  "date_added": "13031944359702057",
+                  "id": "82",
+                  "name": "\"Support\" T-Shirts & Hoodies by tronzler | Redbubble",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.redbubble.com/people/tronzler/works/10984982-support?body_color=black&p=t-shirt&print_location=front&ref=shop_grid&style=mens"
+               }, {
+                  "date_added": "13031944374861057",
+                  "id": "83",
+                  "name": "\"Fiddlesticks the Pimp (Shirt Version)\" T-Shirts & Hoodies by markus731 | Redbubble",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.redbubble.com/people/markus731/works/10553936-fiddlesticks-the-pimp-shirt-version?body_color=baby_blue&p=t-shirt&print_location=front&ref=shop_grid&style=mens"
+               }, {
+                  "date_added": "13031944393614035",
+                  "id": "84",
+                  "name": "\"Trinity Force\" T-Shirts & Hoodies by markus731 | Redbubble",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.redbubble.com/people/markus731/works/10851204-trinity-force?body_color=heather_grey&p=t-shirt&print_location=front&ref=shop_grid&style=mens"
+               }, {
+                  "date_added": "13031944719849810",
+                  "id": "85",
+                  "name": "\"League of Legends - Sona KS\" T-Shirts & Hoodies by ITAMarcomerda | Redbubble",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.redbubble.com/people/itamarcomerda/works/11122749-league-of-legends-sona-ks?body_color=white&p=t-shirt&print_location=front&ref=shop_grid&style=mens"
+               }, {
+                  "date_added": "13032044744154972",
+                  "id": "86",
+                  "name": "outros new era, tamanho à venda no enjoei.com.br - New Era",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.enjoei.com.br/produto/new-era--6"
+               }, {
+                  "date_added": "13052286395467791",
+                  "id": "87",
+                  "name": "Anaheim Mighty Ducks - ESTUDIO TOT3M - CAMISETAS",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "http://www.estudiotot3m.com.br/p-35-264-767/Anaheim-Mighty-Ducks"
+               }, {
+                  "date_added": "13121578340062412",
+                  "id": "88",
+                  "name": "A criar Usuário(a) Discussão:Dalila fernanda – Wikipédia, a enciclopédia livre",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://pt.wikipedia.org/w/index.php?title=Usu%C3%A1rio(a)_Discuss%C3%A3o:Dalila+fernanda&action=edit&section=new"
+               }, {
+                  "date_added": "13121579064354882",
+                  "id": "89",
+                  "name": "A criar Usuário(a) Discussão:Lino Filipe – Wikipédia, a enciclopédia livre",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://pt.wikipedia.org/w/index.php?title=Usu%C3%A1rio(a)_Discuss%C3%A3o:Lino+Filipe&action=edit&section=new"
+               }, {
+                  "date_added": "13121722713456844",
+                  "id": "90",
+                  "name": "A criar Usuário(a) Discussão:Di Jay Ene Kapa – Wikipédia, a enciclopédia livre",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://pt.wikipedia.org/w/index.php?title=Usu%C3%A1rio(a)_Discuss%C3%A3o:Di+Jay+Ene+Kapa&action=edit&section=new"
+               } ],
+               "date_added": "13129687239206716",
+               "date_modified": "13129696379998831",
+               "id": "61",
+               "name": "roupas",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13102547061087301",
+               "id": "62",
+               "name": "Guarda Roupas roupeiro Sophia - Guarda-roupas e Roupeiros no CasasBahia.com.br",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.casasbahia.com.br/Moveis/DormitoriosQuartos/Roupeiros/Guarda-Roupas-roupeiro-Sophia-6416610.html"
+            }, {
+               "date_added": "13102547485488646",
+               "id": "63",
+               "name": "Guarda Roupa Selfie 02 Portas Henn - Guarda-roupas e Roupeiros no CasasBahia.com.br",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.casasbahia.com.br/Moveis/DormitoriosQuartos/Roupeiros/Guarda-Roupa-Selfie-02-Portas-Henn-4908928.html"
+            }, {
+               "date_added": "13102997172269364",
+               "id": "64",
+               "name": "Escova Dental Soft CS 1560B - Curaprox | Dental Cremer",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.dentalcremer.com.br/produto/512045/escova-dental-adulto-cs-1560b-macia-curaprox101667"
+            }, {
+               "date_added": "13103003255662623",
+               "id": "65",
+               "name": "Relógio Tommy Hilfiger Masculino Couro Marrom - 1791114",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1710337/TO00002778"
+            }, {
+               "date_added": "13103003334201202",
+               "id": "66",
+               "name": "Relógio Tommy Hilfiger Masculino Couro Marrom - 1791004",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1791004/TO00002730"
+            }, {
+               "date_added": "13103004566788939",
+               "id": "67",
+               "name": "www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1790767/TO00002791",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1790767/TO00002791"
+            }, {
+               "date_added": "13103004570411169",
+               "id": "68",
+               "name": "Relógio Tommy Hilfiger Masculino Couro Marrom - 1790858",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1790858/TO00002769"
+            }, {
+               "date_added": "13103004574457210",
+               "id": "69",
+               "name": "Relógio Tommy Hilfiger Masculino Couro Marrom - 1791157",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.vivara.com.br/produto/relogio-tommy-hilfiger-masculino-couro-marrom-1791157/TO00002630"
+            }, {
+               "date_added": "13103004906331154",
+               "id": "70",
+               "name": "Relógio Blubox Esporte - Marrom | Kanui",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.kanui.com.br/relogio-blubox-esporte-249758.html"
+            }, {
+               "date_added": "13103005095458867",
+               "id": "71",
+               "name": "Relógio Mondaine 76402G0MGNH2 Prata - Prata | Kanui",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.kanui.com.br/relogio-mondaine-76402g0mgnh2-prata-354767.html?feature=similaritems&source=product"
+            }, {
+               "date_added": "13103005100948823",
+               "id": "72",
+               "name": "Pulseira De Couro Victorinox Ambassador - Marrom | Kanui",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.kanui.com.br/pulseira-de-couro-victorinox-ambassador-235082.html"
+            }, {
+               "date_added": "13103005423188866",
+               "id": "73",
+               "name": "Relógio Berze Analógico Social Bt173 Dourado - Compre Agora | Dafiti Brasil",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.dafiti.com.br/Relogio-Berze-Analogico-Social-Bt173-Dourado-2047255.html"
+            }, {
+               "date_added": "13103007395251628",
+               "id": "74",
+               "name": "Relógio Masculino Analógico Technos 2035LWT/0B - Troca Pulseiras - Analógico no CasasBahia.com.br",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.casasbahia.com.br/Relogios/relogiosMasculinos/Analogicomasculino/Relogio-Masculino-Analogico-Technos-2035LWT-0B-Troca-Pulseiras-4528608.html"
+            }, {
+               "date_added": "13105498874554435",
+               "id": "75",
+               "name": "Geladeira Brastemp Inverse 422 litros - BRE50NK - Brastemp",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://loja.brastemp.com.br/geladeira-brastemp-inverse-422-litros-bre50nk/p"
+            }, {
+               "date_added": "13106363295380811",
+               "id": "76",
+               "name": "Camisa Levis Clean Azul - Compre Agora | Dafiti Brasil",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.dafiti.com.br/Camisa-Levis-Clean-Azul-1814713.html"
+            }, {
+               "date_added": "13109991824686606",
+               "id": "77",
+               "name": "Guarda-Roupa Araplac Aruba com 3 Portas de Correr - Avelã e",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ricardoeletro.com.br/Produto/Guarda-Roupa-Araplac-Aruba-com-3-Portas-de-Correr-Avela-e-Allure/2723-4118-4133-586631"
+            }, {
+               "date_added": "13110934302324151",
+               "id": "78",
+               "name": "Solar Orbit Necklace | ThinkGeek",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.thinkgeek.com/product/itkv/?cpg=fbl_itkv"
+            }, {
+               "date_added": "13115265278411740",
+               "id": "79",
+               "name": "Linux and Open Source Keyboard Stickers | Unixstickers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.unixstickers.com/stickers/linux-keyboard-stickers"
+            } ],
+            "date_added": "13129687239197738",
+            "date_modified": "13129687239197738",
+            "id": "12",
+            "name": "wishlist",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13101103587745554",
+               "id": "51",
+               "name": "I Love You Like A Fat Lady Loves Apples",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://iloveyoulikeafatladylovesapples.com/"
+            }, {
+               "date_added": "13101103834340176",
+               "id": "52",
+               "name": "Pointer Pointer by @StudioMoniker",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.pointerpointer.com/"
+            }, {
+               "date_added": "13101103931102046",
+               "id": "53",
+               "name": "CORGI ORGY",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://corgiorgy.com/"
+            }, {
+               "date_added": "13101103941026456",
+               "id": "54",
+               "name": "LEEKSPIN DOT COM",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://leekspin.com/"
+            }, {
+               "date_added": "13101104170094366",
+               "id": "55",
+               "name": "Secrets for Nicotine",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://secretsfornicotine.com/"
+            }, {
+               "date_added": "13112161944873678",
+               "id": "56",
+               "name": "Face of Disapproval ಠ_ಠ",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://faceofdisapproval.com/"
+            }, {
+               "date_added": "13112161993400423",
+               "id": "57",
+               "name": "Weird or Confusing",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://weirdorconfusing.com/"
+            }, {
+               "date_added": "13112162162016495",
+               "id": "58",
+               "name": "Shower Thoughts",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://just-shower-thoughts.tumblr.com/page/2"
+            } ],
+            "date_added": "13129687239198033",
+            "date_modified": "13129687239198033",
+            "id": "13",
+            "name": "useless web",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13129687239198611",
+            "date_modified": "13129687239198612",
+            "id": "15",
+            "name": "trips",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13111554987061130",
+               "id": "45",
+               "name": "LV.CO.0004.0101 - ChilliBeans",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://loja.chillibeans.com.br/lv-co-0004-0101---armacao-para-oc-de-gra-lv-co-0004-0101/p"
+            }, {
+               "date_added": "13111555058231784",
+               "id": "46",
+               "name": "LV.MT.0113.0208 - ARMACAO PARA OCULOS DE - ChilliBeans",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://loja.chillibeans.com.br/lv-mt-0113-0208---armacao-para-oculos-de-lv-mt-0113-0401/p"
+            }, {
+               "date_added": "13111558566317688",
+               "id": "47",
+               "name": "Óculos de Grau Ray-Ban RB7054L|Ray-Ban Brasil",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ray-ban.com/brazil/mobile/graduados/gradplp/rb7054l_215718"
+            }, {
+               "date_added": "13111558593015835",
+               "id": "48",
+               "name": "Óculos de Grau Ray-Ban RB7054L|Ray-Ban Brasil",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.ray-ban.com/brazil/mobile/graduados/gradplp/rb7054l_215719"
+            }, {
+               "date_added": "13112340155406761",
+               "id": "49",
+               "name": "Ray Ban RB7054L - Óculos de Grau na eÓtica",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.eotica.com.br/ray-ban-rb7054l-preto-fosco-5364-53.html"
+            }, {
+               "date_added": "13112340155406761",
+               "id": "50",
+               "name": "Ray Ban RB7054L - Óculos de Grau na eÓtica",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.eotica.com.br/ray-ban-rb7054l-preto-fosco-5364-53.html"
+            } ],
+            "date_added": "13129687239199219",
+            "date_modified": "13129687239199219",
+            "id": "17",
+            "name": "oclos",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13113547243354822",
+               "id": "43",
+               "name": "Chromium on CHIP (+ Pepper Flash) - C.H.I.P. - Next Thing Co. - Bulletin Board System",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://bbs.nextthing.co/t/chromium-on-chip-pepper-flash/2364"
+            }, {
+               "date_added": "13127769479159414",
+               "id": "44",
+               "name": "GitHub - NextThingCo/PockulusCHIP: PockulusC.H.I.P. VR Bezel",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/NextThingCo/PockulusCHIP"
+            } ],
+            "date_added": "13129687239199504",
+            "date_modified": "13129687239199504",
+            "id": "18",
+            "name": "CHIP",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13116730392488296",
+               "id": "42",
+               "name": "Library Genesis",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://gen.lib.rus.ec/"
+            } ],
+            "date_added": "13129687239199854",
+            "date_modified": "13129687239199854",
+            "id": "19",
+            "name": "books",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13121824455276637",
+               "id": "37",
+               "name": "[Tutorial] Using Extended Sample Character Template - Tutorials & Guides - Klei Entertainment Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forums.kleientertainment.com/topic/46849-tutorial-using-extended-sample-character-template/"
+            }, {
+               "date_added": "13121835288568347",
+               "id": "38",
+               "name": "How To: Install and Use Mods - Tutorials & Guides - Klei Entertainment Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forums.kleientertainment.com/topic/29657-how-to-install-and-use-mods/"
+            }, {
+               "date_added": "13121841410417013",
+               "id": "39",
+               "name": "{TUTORIAL + TEMPLATES} How To Mimic Don't Starve Together's Big Portrait Style - [Don't Starve Together] Mods and Tools - Klei Entertainment Forums",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://forums.kleientertainment.com/topic/65342-tutorial-templates-how-to-mimic-dont-starve-togethers-big-portrait-style/"
+            }, {
+               "date_added": "13124417084421483",
+               "id": "40",
+               "name": "How to Edit Build.prop Without Root using ADB in TWRP recovery - Androiding.how",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://androiding.how/edit-build-prop-without-root-using-adb-in-twrp-recovery/"
+            }, {
+               "date_added": "13124739050063473",
+               "id": "41",
+               "name": "Download firmware: T377VVRU1BPD6_T377VVZW1BPD6_VZW - SamMobile",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.sammobile.com/firmwares/download/77388/T377VVRU1BPD6_T377VVZW1BPD6_VZW/"
+            } ],
+            "date_added": "13129687239200172",
+            "date_modified": "13129687239200173",
+            "id": "20",
+            "name": "mods",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13123724411394930",
+               "id": "35",
+               "name": "Witch Doctor Leveling and Fresh 70 Guide (Patch 2.4.2 / Season 8) - Icy Veins",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.icy-veins.com/d3/witch-doctor-leveling-and-fresh-70-guide-patch-2-4-2-season-8"
+            }, {
+               "date_added": "13123724443575512",
+               "id": "36",
+               "name": "Witch Doctor Firebats / Angry Chicken with Arachyr or Helltooth sets (Patch 2.4.2 / Season 8) - Icy Veins",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.icy-veins.com/d3/witch-doctor-firebats-angry-chicken-with-arachyr-or-helltooth-sets-patch-2-4-2-season-8"
+            } ],
+            "date_added": "13129687239200479",
+            "date_modified": "13129687239200479",
+            "id": "21",
+            "name": "diablo",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13127365201109963",
+            "id": "22",
+            "name": "Charles Sanders Peirce bibliography - Wikipedia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce_bibliography#Abbreviations"
+         }, {
+            "children": [ {
+               "date_added": "13127885156156665",
+               "id": "28",
+               "name": "Clube 6mm - LUIZ RIDER AIRSOFT",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "http://www.luizrider.com.br/"
+            }, {
+               "date_added": "13127885622472742",
+               "id": "29",
+               "name": "Co2 Brasil",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.co2brasil.com.br/"
+            }, {
+               "date_added": "13127950577237913",
+               "id": "30",
+               "name": "Airsoft Tokyo Marui Colt 1911 Government Gas Blowback - Combateshop",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "http://combateshop.com.br/Loja/produto/Airsoft-Tokyo-Marui-Colt-1911-Government-Gas-Blowback.html"
+            }, {
+               "date_added": "13127951252735605",
+               "id": "31",
+               "name": "Airsoft Pistola Colt 1911Full Metal (AS000192) | Aventura Shop",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "https://www.aventurashop.com.br/p/airsoft-pistola-colt-1911full-metal-as000192-58ae800e-69dd-11e5-abb5-f23c9118b4e8"
+            }, {
+               "date_added": "13127951337284359",
+               "id": "32",
+               "name": "Pistola WE GBB 1911 Gold | Aventura Shop",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.aventurashop.com.br/p/pistola-we-gbb-gas-blowback-1911-gold-dourado-560d0316-c7c9-11e6-b07a-5ab01c0b3041"
+            }, {
+               "date_added": "13127951501203842",
+               "id": "33",
+               "name": "Pistola Airsoft Colt M1911 CO2 Full Metal Inokatsu 100 GBB",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "https://www.qgairsoft.com.br/pistola-airsoft-colt-m1911-co2-full-metal-inokatsu-100-gbb"
+            }, {
+               "date_added": "13127951674342370",
+               "id": "34",
+               "name": "Pistola AirGun SWISS ARMS SA 1911 CO2 Slide Metal GNB 4,5mm",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "https://www.qgairsoft.com.br/pistola-airgun-swiss-arms-1911-co2-45mm-slide-metal-gnb"
+            } ],
+            "date_added": "13129687239201364",
+            "date_modified": "13133185595592037",
+            "id": "23",
+            "name": "airsoft",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13128038052876733",
+            "id": "24",
+            "name": "Mercado Bitcoin",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "https://www.mercadobitcoin.com.br/"
+         }, {
+            "date_added": "13128211207850480",
+            "id": "25",
+            "name": "macbook 2010 2011 keyboard replacement (Nothing left out) - YouTube",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=AgVGHIPwH-0"
+         }, {
+            "date_added": "13128294652488166",
+            "id": "26",
+            "name": "RegExr: Learn, Build, & Test RegEx",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://regexr.com/"
+         }, {
+            "date_added": "13129086416048627",
+            "id": "27",
+            "name": "Wetness | Don't Starve game Wiki | Fandom powered by Wikia",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://dontstarve.wikia.com/wiki/Wetness"
+         }, {
+            "date_added": "13130118591592817",
+            "id": "98",
+            "name": "10 Totally Awesome 80s Sci-Fi Movies You Shouldn’t Miss « Taste of Cinema - Movie Reviews and Classic Movie Lists",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://www.tasteofcinema.com/2017/10-totally-awesome-80s-sci-fi-movies-you-shouldnt-miss/"
+         }, {
+            "date_added": "13131601469052674",
+            "id": "101",
+            "name": "Diablo 3: Set Dungeon - Might of the Earth- Patch 2.4.3(Season 9) - YouTube",
+            "sync_transaction_version": "30",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Mlu1Fw9lSL8"
+         }, {
+            "children": [ {
+               "date_added": "13132711650245998",
+               "id": "104",
+               "name": "Forcing windows as always floating - i3 FAQ",
+               "sync_transaction_version": "27",
+               "type": "url",
+               "url": "https://faq.i3wm.org/question/61/forcing-windows-as-always-floating.1.html"
+            }, {
+               "date_added": "13132892929882463",
+               "id": "108",
+               "name": "Home :: Lanterna X900",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "http://lanternamilitarx900.com.br/?sxid=5hc1i51048ub"
+            } ],
+            "date_added": "13132711673166177",
+            "date_modified": "13132892929882463",
+            "id": "105",
+            "name": "arch stuff",
+            "sync_transaction_version": "28",
+            "type": "folder"
+         } ],
+         "date_added": "13129687206097201",
+         "date_modified": "13133185595592038",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13099457530695928",
+            "id": "9",
+            "name": "Mateus 7:1 Não julgueis, para que não sejais julgados.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://bibliaportugues.com/matthew/7-1.htm"
+         } ],
+         "date_added": "13129687206097210",
+         "date_modified": "13099457530695928",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "30",
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13127459336607883",
+               "id": "8",
+               "name": "Busty Euro pinup girl is fingered and fucked in her hotel room - Pornhub.com",
+               "sync_transaction_version": "30",
+               "type": "url",
+               "url": "http://www.pornhub.com/view_video.php?viewkey=1160203666"
+            } ],
+            "date_added": "13129687239196067",
+            "date_modified": "13129687239196067",
+            "id": "6",
+            "name": "xxx",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13097472863454992",
+            "id": "7",
+            "name": "Letterboxd • Your life in film",
+            "sync_transaction_version": "30",
+            "type": "url",
+            "url": "https://letterboxd.com/"
+         } ],
+         "date_added": "13129687206097211",
+         "date_modified": "13097472863454992",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,24 @@
+16:17:39 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:18:07 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:22:45 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:25:11 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:26:54 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:27:00 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:28:33 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:28:35 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:28:44 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+16:35:39 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+18:20:31 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+18:21:04 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)

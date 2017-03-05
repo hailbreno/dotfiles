@@ -1,0 +1,1 @@
+var ExtensionPreferences={getConst:function(a,b){b(window[a])},getDefault:function(a,b){b(Preferences.getDefault(a))},read:function(a,b){b(Preferences.get(a))},write:function(a,b,c){Preferences.set(a,b)},getUnavailablePreferences:function(a){a(LPPlatform.getUnavailablePreferences())}};

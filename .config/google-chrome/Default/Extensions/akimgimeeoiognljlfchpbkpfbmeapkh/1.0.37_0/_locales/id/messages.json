@@ -1,0 +1,77 @@
+{
+   "apps": {
+      "message": "Aplikasi"
+   },
+   "change": {
+      "message": "Ubah"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "credits": {
+      "message": "Art Project \u003Csmall>dari Google Cultural Institute\u003C/small>"
+   },
+   "defaultnewtab": {
+      "message": "Tab baru default"
+   },
+   "extdescription": {
+      "message": "Mahakarya Art Project dari Google Cultural Institute di tab browser Anda"
+   },
+   "extname": {
+      "message": "Google Art Project"
+   },
+   "extshortname": {
+      "message": "Art Project"
+   },
+   "optionsappsbtn": {
+      "message": "Tampilkan tombol aplikasi"
+   },
+   "optionsappsbtndesc": {
+      "message": "Membuka laman aplikasi Chrome"
+   },
+   "optionsinterface": {
+      "message": "Setelan antarmuka"
+   },
+   "optionsntpbtn": {
+      "message": "Tampilkan tombol tab baru default"
+   },
+   "optionsntpbtndesc": {
+      "message": "Membuka tab baru default Chrome"
+   },
+   "optionstopsitesbtn": {
+      "message": "Tampilkan tombol situs teratas"
+   },
+   "optionstopsitesbtndesc": {
+      "message": "Membuka daftar cepat situs web yang paling sering dikunjungi"
+   },
+   "pagetitle": {
+      "message": "Tab Baru"
+   },
+   "showappsbutton": {
+      "message": "Tampilkan tombol aplikasi"
+   },
+   "showdefaulttablink": {
+      "message": "Tampilkan tombol tab baru default"
+   },
+   "showtopsitesbutton": {
+      "message": "Tampilkan tombol situs teratas"
+   },
+   "topsites": {
+      "message": "Situs teratas"
+   },
+   "turnovergroup": {
+      "message": "Ubah karya seni..."
+   },
+   "turnovermodealways": {
+      "message": "Di tiap tab baru"
+   },
+   "turnovermodedaily": {
+      "message": "Harian"
+   },
+   "unknown": {
+      "message": "Artis tak dikenal"
+   },
+   "untitled": {
+      "message": "Tanpa Judul"
+   }
+}

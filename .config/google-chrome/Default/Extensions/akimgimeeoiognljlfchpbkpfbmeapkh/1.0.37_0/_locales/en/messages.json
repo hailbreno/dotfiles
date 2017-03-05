@@ -1,0 +1,102 @@
+{
+   "apps": {
+      "description": "Tooltip for the apps button",
+      "message": "Apps"
+   },
+   "change": {
+      "description": "Tooltip for the refresh button",
+      "message": "Change"
+   },
+   "close": {
+      "description": "Tooltip for the topsites popup close button",
+      "message": "Close"
+   },
+   "credits": {
+      "description": "Attribution link to the Art Project and Cultural Institute",
+      "message": "Art Project \u003Csmall>from Google Cultural Institute\u003C/small>"
+   },
+   "defaultNewTab": {
+      "description": "Link opening Chrome's default new tab",
+      "message": "Default new tab"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Art Project masterpieces from Google Cultural Institute in your browser tabs"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Google Art Project"
+   },
+   "extShortName": {
+      "description": "Extension short name (\u003C=12 chars)",
+      "message": "Art Project"
+   },
+   "optionsAppsBtn": {
+      "description": "Label for the Show apps button checkbox in options page",
+      "message": "Show apps button"
+   },
+   "optionsAppsBtnDesc": {
+      "description": "Description for the Show apps button checkbox in options page",
+      "message": "Opens Chrome's apps page"
+   },
+   "optionsInterface": {
+      "description": "Title for the UI settings section in options page",
+      "message": "Interface settings"
+   },
+   "optionsNtpBtn": {
+      "description": "Label for the Default new tab button checkbox in options page",
+      "message": "Show default new tab button"
+   },
+   "optionsNtpBtnDesc": {
+      "description": "Description for the Default new tab button checkbox in options page",
+      "message": "Opens Chrome's default new tab"
+   },
+   "optionsTopSitesBtn": {
+      "description": "Label for the Default topsites button checkbox in options page",
+      "message": "Show top sites button"
+   },
+   "optionsTopSitesBtnDesc": {
+      "description": "Description for the Default topsites button checkbox in options page",
+      "message": "Opens a quick list of your most visited websites"
+   },
+   "pageTitle": {
+      "description": "Title for the new tab page",
+      "message": "New Tab"
+   },
+   "showAppsButton": {
+      "description": "A setting option that toggles the Apps button",
+      "message": "Show apps button"
+   },
+   "showDefaultTabLink": {
+      "description": "A setting option that toggle the Default New Tab button",
+      "message": "Show default new tab button"
+   },
+   "showTopSitesButton": {
+      "description": "A setting option that toggles the Top sites button",
+      "message": "Show top sites button"
+   },
+   "topsites": {
+      "description": "Tooltip for the top sites button",
+      "message": "Top sites"
+   },
+   "turnoverGroup": {
+      "description": "A group menu to select the artwork turnover time",
+      "message": "Change artwork..."
+   },
+   "turnoverModeAlways": {
+      "description": "Turnover is completely disabled",
+      "message": "In every new tab"
+   },
+   "turnoverModeDaily": {
+      "description": "A turnover mode",
+      "message": "Daily"
+   },
+   "unknown": {
+      "description": "Default artist name if not available.",
+      "message": "Unknown artist"
+   },
+   "untitled": {
+      "description": "Default artwork title if not available.",
+      "message": "Untitled"
+   }
+}

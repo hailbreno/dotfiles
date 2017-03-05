@@ -1,0 +1,24 @@
+2017/02/28-08:48:05.719 8800 Reusing MANIFEST /home/breno/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2017/02/28-08:48:05.719 8800 Recovering log #339
+2017/02/28-08:48:05.720 8800 Reusing old log /home/breno/.config/google-chrome/Default/Session Storage/000339.log 
+2017/02/28-08:48:19.079 9396 Level-0 table #344: started
+2017/02/28-08:48:19.083 9396 Level-0 table #344: 27705 bytes OK
+2017/02/28-08:48:19.085 9396 Delete type=0 #339
+2017/02/28-09:02:29.502 9396 Level-0 table #346: started
+2017/02/28-09:02:29.508 9396 Level-0 table #346: 94560 bytes OK
+2017/02/28-09:02:29.510 9396 Delete type=0 #343
+2017/02/28-09:08:07.723 9396 Level-0 table #348: started
+2017/02/28-09:08:07.732 9396 Level-0 table #348: 92367 bytes OK
+2017/02/28-09:08:07.734 9396 Delete type=0 #345
+2017/02/28-09:17:34.592 9396 Level-0 table #350: started
+2017/02/28-09:17:34.598 9396 Level-0 table #350: 116003 bytes OK
+2017/02/28-09:17:34.600 9396 Delete type=0 #347
+2017/02/28-09:17:34.600 9396 Compacting 4@0 + 1@1 files
+2017/02/28-09:17:34.614 9396 Generated table #351@0: 6913 keys, 421607 bytes
+2017/02/28-09:17:34.614 9396 Compacted 4@0 + 1@1 files => 421607 bytes
+2017/02/28-09:17:34.615 9396 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/02/28-09:17:34.616 9396 Delete type=2 #348
+2017/02/28-09:17:34.616 9396 Delete type=2 #346
+2017/02/28-09:17:34.616 9396 Delete type=2 #341
+2017/02/28-09:17:34.616 9396 Delete type=2 #344
+2017/02/28-09:17:34.616 9396 Delete type=2 #350

@@ -1,0 +1,57 @@
+# This is a comment
+full_text=|
+align=center
+interval=5
+color=#ffffff
+separator=false
+separator_block_width=9
+
+[cpu_usage]
+label=
+command=~/.config/i3blocks/scripts/cpu_usage
+interval=1
+
+# [tenperature]
+# label= 
+# command=~/.config/i3blocks/scripts/temperature
+# interval=5
+
+[separator]
+
+[disk]
+label=
+command=~/.config/i3blocks/scripts/disk
+interval=60
+
+[separator]
+color=#FFD135
+
+[volume]
+label=
+command=~/.config/i3blocks/scripts/volume
+instance=Master
+signal=10
+
+
+[wifi]
+label=
+command=iwgetid -r
+
+[bandwidth]
+command=~/.config/i3blocks/scripts/bandwidth
+interval=1
+
+[separator]
+
+
+[battery]
+command=/home/breno/.config/i3blocks/yabar-scripts/battery
+markup=pango
+interval=30
+
+[separator]
+color=#FFD135
+
+[date]
+label=
+command=date '+%a %-d %-b   %H:%M'

@@ -1,0 +1,58 @@
+21:26:09 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+21:26:12 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+21:26:16 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+21:27:26 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+21:35:01 GMT-0200 (BRST) (ERROR) /background.html: EDAMUserException: {"errorCode":5,"parameter":"authenticationToken"}
+    at k (/js/main/Account.js:2:3087)
+21:36:31 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:38 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:37:41 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:38:37 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:40:05 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:40:10 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)
+21:40:20 GMT-0200 (BRST) (WARN) /background.html: chrome tabs query did not return a result while changing window focus
+    at Object.callback (/js/main/Extension.js:2:7330)
+    at safeCallbackApply (extensions::sendRequest:21:15)
+    at handleResponse (extensions::sendRequest:74:7)

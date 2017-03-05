@@ -1,0 +1,2975 @@
+{
+   "1001407065815272462": {
+      "message": "Nie udało się dodać do $2​Mojego dysku$1​"
+   },
+   "1013939682284715002": {
+      "message": "Porządkuj"
+   },
+   "1029576232144989689": {
+      "message": "Możesz też zapisywać linki do użycia w przyszłości, korzystając z&nbsp;$2​rozszerzenia Google Keep do Chrome$1​."
+   },
+   "1039394921418415681": {
+      "message": "Zaloguj się"
+   },
+   "1061011362310586469": {
+      "message": "Udostępnianie"
+   },
+   "1062420184700835520": {
+      "message": "Otwórz wybór koloru i rozmiaru markera"
+   },
+   "1083918249169198626": {
+      "message": "Skróty klawiszowe są wyłączone."
+   },
+   "1101371910696766077": {
+      "message": "Utwórz kopię"
+   },
+   "1105774658609209931": {
+      "message": "Rozszerzenie do Chrome"
+   },
+   "1122146167985532789": {
+      "message": "wczoraj"
+   },
+   "1127320433256851404": {
+      "message": "Odtwarzacz wideo"
+   },
+   "1159463938127271829": {
+      "message": "od: $1​"
+   },
+   "1162642135048988280": {
+      "message": "Zmień nazwę dokumentu"
+   },
+   "1163324543881570799": {
+      "message": "Dokumenty Google"
+   },
+   "1166244120191806795": {
+      "message": "Prześlij opinię"
+   },
+   "1177768120450365955": {
+      "message": "Przenieś wybrane elementy na koniec listy"
+   },
+   "1179891706526242218": {
+      "message": "Następny"
+   },
+   "1185164838496022543": {
+      "message": "Kliknij tutaj, aby ponownie wczytać stronę."
+   },
+   "1198371177271608867": {
+      "message": "Rozmiar 4"
+   },
+   "1213005208968286932": {
+      "message": "Oznaczona jako rozstrzygnięta"
+   },
+   "124900027451629830": {
+      "message": "Odtwórz"
+   },
+   "1256362146573583104": {
+      "message": "Rozpakuj"
+   },
+   "1259492729704800881": {
+      "message": "Zarchiwizuj notatkę"
+   },
+   "1263685395252160366": {
+      "message": "LaTeX"
+   },
+   "1271038294394884640": {
+      "message": "Anuluj"
+   },
+   "12768758038718216": {
+      "message": "Przypnij zarchiwizowaną notatkę"
+   },
+   "1280430284217153733": {
+      "message": "Dodaj godzinę"
+   },
+   "1315983816556686539": {
+      "message": "Żółty"
+   },
+   "1333255388111908292": {
+      "message": "Artykuły spożywcze"
+   },
+   "1335763707789999819": {
+      "message": "{NUM_ITEMS,plural, =1{Nie masz uprawnień do przenoszenia tego elementu z jego bieżącego folderu. Możesz za to dodać ten element do {START_SPAN_1}{NAME}{END_SPAN}.}few{Nie masz uprawnień do przenoszenia tych elementów z ich bieżących folderów. Możesz za to dodać te elementy do {START_SPAN_2}{NAME}{END_SPAN}.}many{Nie masz uprawnień do przenoszenia tych elementów z ich bieżących folderów. Możesz za to dodać te elementy do {START_SPAN_2}{NAME}{END_SPAN}.}other{Nie masz uprawnień do przenoszenia tych elementów z ich bieżących folderów. Możesz za to dodać te elementy do {START_SPAN_2}{NAME}{END_SPAN}.}}"
+   },
+   "1338300799355131761": {
+      "message": "Notatka bez tytułu"
+   },
+   "1349697396109290623": {
+      "message": "Wyświetlam $1​ w wyższej rozdzielczości"
+   },
+   "136335357683289450": {
+      "message": "Zamknij"
+   },
+   "1379850360723600538": {
+      "message": "Pliki chronione hasłem nie są obsługiwane."
+   },
+   "1397887822627488928": {
+      "message": "Wpisz osobę lub adres e-mail"
+   },
+   "139942704574044780": {
+      "message": "Akceptuj"
+   },
+   "1419896259743862406": {
+      "message": "Otwórz za pomocą"
+   },
+   "1432850707344442376": {
+      "message": "Utwórz etykietę $1​"
+   },
+   "1441487391064925653": {
+      "message": "Wyświetl wszystkie skróty w Centrum pomocy"
+   },
+   "1442722292947881614": {
+      "message": "Typy"
+   },
+   "1446829548948002072": {
+      "message": "przecinek"
+   },
+   "1463389029497634261": {
+      "message": "Zmniejsz głośność"
+   },
+   "1465828580966685215": {
+      "message": "Wyczyść konto"
+   },
+   "1466663154000252842": {
+      "message": "Niektórzy użytkownicy mogą utracić dostęp"
+   },
+   "1467797923781828000": {
+      "message": "Elementy ($1​) zostały dodane do folderu $2​."
+   },
+   "1473312930157933007": {
+      "message": "Tym użytkownikom nie można nic udostępnić, bo Twój administrator wyłączył udostępnianie poza domenę."
+   },
+   "1475258635371833968": {
+      "message": "$2​, $1​"
+   },
+   "1475261522522402536": {
+      "message": "Wybierz miejsce"
+   },
+   "1482452362096735080": {
+      "message": "Występuje {numOccurrences} razy"
+   },
+   "148864680356422442": {
+      "message": "Wstecz"
+   },
+   "1499433769420882987": {
+      "message": "Wyświetlam $1​"
+   },
+   "1505876360160857231": {
+      "message": "$1​ TB"
+   },
+   "1507063529674142853": {
+      "message": "Ostatniego dnia miesiąca"
+   },
+   "1507445189431379166": {
+      "message": "Usuń"
+   },
+   "1512454807955173272": {
+      "message": "Keep zaktualizuje się, gdy będziesz mieć połączenie z internetem"
+   },
+   "1532717559893630620": {
+      "message": "Etykieta $1​ została scalona z etykietą $2​."
+   },
+   "1536051766421561160": {
+      "message": "znak równości"
+   },
+   "153659275234722804": {
+      "message": "Zamknij"
+   },
+   "156992719062713230": {
+      "message": "Szary"
+   },
+   "1586968957182554447": {
+      "message": "Wyłącz"
+   },
+   "1588268697057804046": {
+      "message": "$1​ godz. temu"
+   },
+   "1595218840091201497": {
+      "message": "Brązowy"
+   },
+   "1633798963327779260": {
+      "message": "Jutro"
+   },
+   "1655692513689044870": {
+      "message": "Zostałeś wylogowany."
+   },
+   "1656911987308166143": {
+      "message": "Usuń"
+   },
+   "1661251023749398110": {
+      "message": "Pobierz dźwięk"
+   },
+   "1665821947855814052": {
+      "message": "Rozmiar"
+   },
+   "1669648976972603642": {
+      "message": "Ta zmiana wpłynie na własność i prawa dostępu"
+   },
+   "1675900304699098572": {
+      "message": "{count,plural, =1{Odpięto notatkę}few{Odpięto # notatki}many{Odpięto # notatek}other{Odpięto # notatki}}"
+   },
+   "1679322931860897953": {
+      "message": "Skopiuj do Dokumentów Google"
+   },
+   "1680617124502957636": {
+      "message": "Nie można się teraz połączyć. Spróbuj ponownie później."
+   },
+   "1692901784886701962": {
+      "message": "Notatka jest za długa."
+   },
+   "1694896269813520248": {
+      "message": "Dodaj rysunek"
+   },
+   "1697160643589236962": {
+      "message": "$1​ PB"
+   },
+   "1703175513040690135": {
+      "message": "Każdy użytkownik z $1​"
+   },
+   "1704004075228783011": {
+      "message": "{every,plural, =1{Powtarza się ostatniego dnia każdego miesiąca}few{Powtarza się ostatniego dnia miesiąca co # miesiące}many{Powtarza się ostatniego dnia miesiąca co # miesięcy}other{Powtarza się ostatniego dnia miesiąca co # miesiąca}}"
+   },
+   "1711424025297585662": {
+      "message": " "
+   },
+   "171683163267149669": {
+      "message": "$1​ GB"
+   },
+   "1737240194537729525": {
+      "message": "Co tydzień"
+   },
+   "1739900012825270238": {
+      "message": "Idź do poprzedniego elementu"
+   },
+   "1740371341228065086": {
+      "message": "Załaduj ponownie"
+   },
+   "1745782414562966515": {
+      "message": "Połączyć etykietę $1​ z etykietą $2​? Wszystkie notatki z etykietą $1​ będą mieć etykietę $2​, a etykieta $1​ zostanie usunięta."
+   },
+   "1783719421893050637": {
+      "message": "Rozmiar"
+   },
+   "178927681797742562": {
+      "message": "Zaloguj się"
+   },
+   "1791115075948268631": {
+      "message": "Otwórz pomoc ze skrótami klawiszowymi"
+   },
+   "179545118447015250": {
+      "message": "Widok siatki"
+   },
+   "1803966010993357655": {
+      "message": "Inne"
+   },
+   "1808245543551507519": {
+      "message": "Audio"
+   },
+   "1819225489062185613": {
+      "message": "Inne"
+   },
+   "1823222042913714987": {
+      "message": "Podaj hasło"
+   },
+   "1830157062072535681": {
+      "message": "Wyświetlam $1​"
+   },
+   "1852745815330163711": {
+      "message": "Rysunki Google"
+   },
+   "1870691479127746185": {
+      "message": "strzałka w prawo"
+   },
+   "187077078156858455": {
+      "message": "Notatka głosowa"
+   },
+   "189303170370862360": {
+      "message": "$1​ z $2​ elementów"
+   },
+   "1900571668686750716": {
+      "message": "vCard"
+   },
+   "1901215424950227523": {
+      "message": "Etykieta $1​ nie istnieje"
+   },
+   "1912092030665541460": {
+      "message": "Czynność cofnięta"
+   },
+   "1917552217016175754": {
+      "message": "Marker"
+   },
+   "1918176455405610789": {
+      "message": "Gotowe"
+   },
+   "1938115711058331119": {
+      "message": "Pokaż kolumnę komentarzy"
+   },
+   "195154114623528341": {
+      "message": "Dodaj lokalizację"
+   },
+   "1956794332842050061": {
+      "message": "Następna strona"
+   },
+   "1965626377712226216": {
+      "message": "Keynote"
+   },
+   "1967536906522187719": {
+      "message": "Podczas wyświetlania podglądu tego arkusza wystąpił problem."
+   },
+   "1968405748623909021": {
+      "message": "Wypróbuj jedną z tych aplikacji, by otworzyć lub edytować element"
+   },
+   "1969531182936822963": {
+      "message": "Czynność cofnięta"
+   },
+   "1973454937875679500": {
+      "message": "Wpisz nazwę etykiety"
+   },
+   "1975630610063119352": {
+      "message": "{charsRemaining,plural, =1{Pozostał # znak}few{Pozostały # znaki}many{Pozostało # znaków}other{Pozostało # znaku}}"
+   },
+   "1980209166254310911": {
+      "message": "Dzień"
+   },
+   "1988244842147989817": {
+      "message": "Notatki w koszu są usuwane po 7 dniach."
+   },
+   "1996872514195688196": {
+      "message": "Teraz nie można otworzyć udostępnionych notatek. Spróbuj ponownie później."
+   },
+   "200005227964332868": {
+      "message": "WIĘCEJ"
+   },
+   "2003845117979929469": {
+      "message": "Szczegóły"
+   },
+   "2009529126622551485": {
+      "message": "Element listy"
+   },
+   "2018433077417240302": {
+      "message": "Przejdź do etykiety"
+   },
+   "2039757863628752523": {
+      "message": "Opcje częstotliwości"
+   },
+   "205876860571942679": {
+      "message": "Moje Mapy Google"
+   },
+   "2059084517358086391": {
+      "message": "Zamknij pasek wyszukiwania"
+   },
+   "2061440050632248160": {
+      "message": "Archiwizuj"
+   },
+   "2068023589621557589": {
+      "message": "Czcionka TrueType"
+   },
+   "2073322475696388995": {
+      "message": "Przeskocz do przodu"
+   },
+   "2074454463201225704": {
+      "message": "Resetuj powiększenie"
+   },
+   "207810168108507460": {
+      "message": "$1​ godzinę temu"
+   },
+   "2091811447965921066": {
+      "message": "Usuń ich"
+   },
+   "2107379241532042955": {
+      "message": "Lokalizacja"
+   },
+   "2107589831642088814": {
+      "message": "Utwórz „$3​$2​$1​”"
+   },
+   "2124464318249308530": {
+      "message": "Jasnopomarańczowy"
+   },
+   "212796670323571824": {
+      "message": "OK"
+   },
+   "213665695896111861": {
+      "message": "Notatki"
+   },
+   "2138593281154109183": {
+      "message": "Archiwum"
+   },
+   "214517458278879973": {
+      "message": "Zaloguj się jako $1​"
+   },
+   "2147952938331523160": {
+      "message": "Zmień nazwę..."
+   },
+   "2154372123324862271": {
+      "message": "ukośnik"
+   },
+   "2166966123760559393": {
+      "message": "Utwórz nową etykietę"
+   },
+   "2168461275182666804": {
+      "message": "Edytuj"
+   },
+   "2173675558412671739": {
+      "message": "Skopiowano do Dokumentów Google"
+   },
+   "2181197458532159304": {
+      "message": "{numberOfNotes,plural, =1{Notatka została usunięta do kosza}few{# notatki zostały usunięte do kosza}many{# notatek zostało usuniętych do kosza}other{# notatki zostało usunięte do kosza}}"
+   },
+   "2184278444368405837": {
+      "message": "Elementy: $1​"
+   },
+   "2187239650627580457": {
+      "message": "Prześlij"
+   },
+   "2195440644060728966": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz folder znajdujący się w jednym folderze}few{Przenosisz foldery znajdujące się w jednym folderze}many{Przenosisz foldery znajdujące się w jednym folderze}other{Przenosisz foldery znajdujące się w jednym folderze}}"
+   },
+   "2198096971937872560": {
+      "message": "Przypomnienie:"
+   },
+   "220168959069469607": {
+      "message": "Więcej działań"
+   },
+   "2202265279234683999": {
+      "message": "Skróty klawiszowe"
+   },
+   "2203926649090909861": {
+      "message": "Element listy został przeniesiony do pozycji $1​"
+   },
+   "2216904725760458480": {
+      "message": "Codziennie"
+   },
+   "221715292685577880": {
+      "message": "Tak"
+   },
+   "2264311811697505466": {
+      "message": "Odśwież"
+   },
+   "2270633624888102832": {
+      "message": "Odepnij notatkę"
+   },
+   "2280650195464600721": {
+      "message": "Nawigacja"
+   },
+   "2283668287077047088": {
+      "message": "Zakreślacz"
+   },
+   "2285069188138705005": {
+      "message": "Połączone aplikacje"
+   },
+   "2286685488296851497": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Przenosisz 1 element z udostępnionego folderu „{SHARED_FOLDER_NAME}”. Inne osoby utracą dostęp do przeniesionego elementu.}few{Przenosisz {NUM_ITEMS_2} elementy z udostępnionego folderu „{SHARED_FOLDER_NAME}”. Inne osoby utracą do nich dostęp.}many{Przenosisz {NUM_ITEMS_2} elementów z udostępnionego folderu „{SHARED_FOLDER_NAME}”. Inne osoby utracą do nich dostęp.}other{Przenosisz {NUM_ITEMS_2} elementu z udostępnionego folderu „{SHARED_FOLDER_NAME}”. Inne osoby utracą do nich dostęp.}}"
+   },
+   "228741435562395266": {
+      "message": "Drukowanie jeszcze niedostępne"
+   },
+   "2289534534793293486": {
+      "message": "Przywróć z archiwum"
+   },
+   "2289812403593835836": {
+      "message": "Pages"
+   },
+   "229177484946387188": {
+      "message": "Google Earth"
+   },
+   "2292696732672795285": {
+      "message": "Zwiększ głośność"
+   },
+   "2299671629154778581": {
+      "message": "Notatki zostały odpięte i zarchiwizowane"
+   },
+   "2310145944356900158": {
+      "message": "Zaznaczone"
+   },
+   "2311880726221661199": {
+      "message": "Wczytuję wyższe rozdzielczości"
+   },
+   "2324955914430674498": {
+      "message": "Brak wyników wyszukiwania zapytania „$1​”"
+   },
+   "2329167963662998826": {
+      "message": "Google Keep chce korzystać z informacji o lokalizacji, by pokazywać w przypomnieniach dokładniejsze propozycje miejsc."
+   },
+   "2357623745116912085": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{Użytkownicy Dysku zespołu „{TEAM_DRIVE_NAME}” utracą dostęp do tego elementu, chyba że zostanie im udostępniony.}few{Użytkownicy Dysku zespołu „{TEAM_DRIVE_NAME}” utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}many{Użytkownicy Dysku zespołu „{TEAM_DRIVE_NAME}” utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}other{Użytkownicy Dysku zespołu „{TEAM_DRIVE_NAME}” utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}}"
+   },
+   "2357761837816388330": {
+      "message": "Offline"
+   },
+   "2359614137862708172": {
+      "message": "Shift"
+   },
+   "2364374826543847335": {
+      "message": "Usuń źródło"
+   },
+   "236689092839978781": {
+      "message": "Nie powtarza się"
+   },
+   "2370656573843123707": {
+      "message": "nawias kwadratowy zamykający"
+   },
+   "2373760032138505521": {
+      "message": "Taka etykieta już istnieje"
+   },
+   "2386536768112358461": {
+      "message": "PgDown"
+   },
+   "2405795704816921421": {
+      "message": "Plik $1​"
+   },
+   "2408383448126741628": {
+      "message": "Czas trwania"
+   },
+   "2423877407428530040": {
+      "message": "Plik zawiera za dużo wykresów."
+   },
+   "2433429041384246549": {
+      "message": "Wycisz"
+   },
+   "2449254824382583885": {
+      "message": "Wydziel okienko"
+   },
+   "2452522051596946166": {
+      "message": "Ups! Podczas wyświetlania podglądu elementu $1​ wystąpił problem. Ponawianie próby."
+   },
+   "2454642351139428112": {
+      "message": "Cofnij"
+   },
+   "2466251465475184755": {
+      "message": "Opróżnić kosz? Wszystkie znajdujące się w nim notatki zostaną trwale usunięte."
+   },
+   "2475181823688399272": {
+      "message": "Następna"
+   },
+   "2478862372619762755": {
+      "message": "Zaznacz obszar, który chcesz skomentować"
+   },
+   "2504232652631703202": {
+      "message": "Połączono"
+   },
+   "251025074207413762": {
+      "message": "Dodaj opis"
+   },
+   "2532280782491328445": {
+      "message": "Znajdź poprzedni"
+   },
+   "2546225293834487484": {
+      "message": "Notatka"
+   },
+   "2555961950726197809": {
+      "message": "Otwarto przeglądarkę."
+   },
+   "2562881166530755046": {
+      "message": "Rysunki"
+   },
+   "257317112834806705": {
+      "message": "Przełącz między widokami listy i siatki"
+   },
+   "2579261044590673579": {
+      "message": "Mój dysk"
+   },
+   "2579679351920691492": {
+      "message": "Przeskocz do tyłu"
+   },
+   "2581526424350930407": {
+      "message": "Edytuj"
+   },
+   "2600731575260427177": {
+      "message": "Plik nie istnieje, być może został usunięty. Spróbuj przesłać go jeszcze raz."
+   },
+   "2609409316752026806": {
+      "message": "PDF"
+   },
+   "2609767652209789035": {
+      "message": "Etykiety"
+   },
+   "2623861453769098676": {
+      "message": "Podczas wyświetlania podglądu tego dokumentu wystąpił problem."
+   },
+   "2626653026098396543": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Przeniesienie tego elementu spowoduje udostępnienie go wszystkim osobom, które widzą udostępniony folder „{SHARED_FOLDER_NAME}”.}few{Przeniesienie tych elementów spowoduje udostępnienie ich wszystkim osobom, które widzą udostępniony folder „{SHARED_FOLDER_NAME}”.}many{Przeniesienie tych elementów spowoduje udostępnienie ich wszystkim osobom, które widzą udostępniony folder „{SHARED_FOLDER_NAME}”.}other{Przeniesienie tych elementów spowoduje udostępnienie ich wszystkim osobom, które widzą udostępniony folder „{SHARED_FOLDER_NAME}”.}}"
+   },
+   "2630254198275172065": {
+      "message": "Przenieś do..."
+   },
+   "2632263751512428257": {
+      "message": "Co rok"
+   },
+   "2645469029410848421": {
+      "message": "{noteCount,plural, =1{Etykieta notatki}few{Etykiety notatek}many{Etykiety notatek}other{Etykiety notatek}}"
+   },
+   "2646753793708356960": {
+      "message": "Niebieski kobaltowy"
+   },
+   "2647216541167955566": {
+      "message": "Bursztynowy"
+   },
+   "2661850177130037208": {
+      "message": "Otwórz element"
+   },
+   "2665571821980053260": {
+      "message": "Nie można udostępnić Twojej notatki. Spróbuj ponownie później."
+   },
+   "2681830832355823748": {
+      "message": "Wyszukaj wszystkie skróty"
+   },
+   "268402507078609011": {
+      "message": "{imagesAdded,plural, =1{Dodano obraz}few{Dodano # obrazy}many{Dodano # obrazów}other{Dodano # obrazu}}"
+   },
+   "2702485557996900362": {
+      "message": "Rozwiąż konflikt zmian"
+   },
+   "2704959686524436777": {
+      "message": "Ładuję"
+   },
+   "2715199780155065699": {
+      "message": "Plik zawiera za dużo kształtów, pól tekstowych lub rysunków."
+   },
+   "2716433087531258659": {
+      "message": "Page up"
+   },
+   "2742719907061406418": {
+      "message": "XML"
+   },
+   "2758125083752925237": {
+      "message": "(Właściciel)"
+   },
+   "277430914014962533": {
+      "message": "Ups! Podczas wyświetlania podglądu elementu $1​ wystąpił problem."
+   },
+   "2793841261389879255": {
+      "message": "Poprzednia strona"
+   },
+   "2794676336056877832": {
+      "message": "{every,plural, =1{Powtarza się tego samego dnia każdego miesiąca}few{Powtarza się tego samego dnia co # miesiące}many{Powtarza się tego samego dnia co # miesięcy}other{Powtarza się tego samego dnia co # miesiąca}}"
+   },
+   "2796950576714807268": {
+      "message": "Nie można rozpoznać tekstu."
+   },
+   "2798322202738486782": {
+      "message": "{HOURS,plural, =0{0 godzin }=1{1 godzina }few{# godziny }many{# godzin }other{# godziny }}{MINUTES,plural, =0{0 minut }=1{1 minuta }few{# minuty }many{# minut }other{# minuty }}{SECONDS,plural, =0{0 sekund}=1{1 sekunda}few{# sekundy}many{# sekund}other{# sekundy}}"
+   },
+   "2817277146396981386": {
+      "message": "PM"
+   },
+   "2818020101821669029": {
+      "message": "Utworzony"
+   },
+   "2820045170951016567": {
+      "message": "Przypomnienia"
+   },
+   "2823533464825550362": {
+      "message": "Opcje dokumentu"
+   },
+   "2827039933590757722": {
+      "message": "Plik skrótu Windows"
+   },
+   "2829226075651806940": {
+      "message": "Powiększ"
+   },
+   "2853036885874864031": {
+      "message": "Własność zostanie przeniesiona na domenę $1​."
+   },
+   "2854717396594966319": {
+      "message": "OpenOffice Writer"
+   },
+   "2858566870229558873": {
+      "message": "$2​Warunki$1​"
+   },
+   "2862675909830094845": {
+      "message": "Utwórz nową etykietę"
+   },
+   "2870914990575762514": {
+      "message": "Nie można cofnąć tej czynności"
+   },
+   "2873089307546162154": {
+      "message": "OK"
+   },
+   "2877285560485318801": {
+      "message": "Wstrzymaj"
+   },
+   "287803077768018029": {
+      "message": "Jasny morski"
+   },
+   "2879276552944958066": {
+      "message": "Wróć do folderu $1​."
+   },
+   "2890739372621722306": {
+      "message": "Morski"
+   },
+   "2893055432094515558": {
+      "message": "Pola wyboru są widoczne"
+   },
+   "2893190245479055856": {
+      "message": "Przeniesiono foldery ($1​) do folderu $2​."
+   },
+   "289798573180023043": {
+      "message": "OK"
+   },
+   "2901360496423912565": {
+      "message": "Zgłoś"
+   },
+   "2902570047322934912": {
+      "message": "Włącz udostępnianie"
+   },
+   "2908917161758545146": {
+      "message": "{count,plural, =1{Notatka została odpięta i zarchiwizowana}few{# notatki zostały odpięte i zarchiwizowane}many{# notatek zostało odpiętych i zarchiwizowanych}other{# notatki zostało odpięte i zarchiwizowane}}"
+   },
+   "2917586714343652609": {
+      "message": "Rozmiar 20"
+   },
+   "2935193106137642160": {
+      "message": "Powiększenie jest niedostępne"
+   },
+   "2942094715879803305": {
+      "message": "Usuń zaznaczone elementy"
+   },
+   "295331174171409695": {
+      "message": "Podczas aktualizowania uprawnienia do pobierania elementu „$1​” wystąpił problem."
+   },
+   "2960516445247616550": {
+      "message": "Drukowanie niedostępne"
+   },
+   "296391753033307868": {
+      "message": "Etykieta $1​ została utworzona i dodana do notatki."
+   },
+   "2964778642459027786": {
+      "message": "Brak notatek w koszu"
+   },
+   "2971780287153684447": {
+      "message": "Urządzenia z Androidem"
+   },
+   "2973306402585941108": {
+      "message": "Rano"
+   },
+   "298817883481775869": {
+      "message": "Wczytuję..."
+   },
+   "2990497076082409431": {
+      "message": "Przeniesiono element „$1​” do folderu $2​."
+   },
+   "2993901764282547916": {
+      "message": "Kreator aplikacji"
+   },
+   "3004077206309008197": {
+      "message": "Zielony"
+   },
+   "3005058076425755361": {
+      "message": "Backspace"
+   },
+   "3018905429279095639": {
+      "message": "{NUM_ITEMS,plural, =1{Nie masz uprawnień do przenoszenia tego folderu z jego bieżących folderów. Dodaj folder do folderu {START_SPAN_1}{NAME}{END_SPAN} zamiast go przenosić.}few{Nie masz uprawnień do przenoszenia tych folderów z ich bieżących folderów. Dodaj foldery do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}many{Nie masz uprawnień do przenoszenia tych folderów z ich bieżących folderów. Dodaj foldery do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}other{Nie masz uprawnień do przenoszenia tych folderów z ich bieżących folderów. Dodaj foldery do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}}"
+   },
+   "3042275883978222678": {
+      "message": "Rozmiar 8"
+   },
+   "3043961722025425136": {
+      "message": "Opis"
+   },
+   "3045997283325725532": {
+      "message": "Co nowego w Google Keep"
+   },
+   "306516303501625305": {
+      "message": "Uwierzytelnianie nie powiodło się."
+   },
+   "3109321241584918345": {
+      "message": "Podłącz więcej aplikacji..."
+   },
+   "3121560585545725724": {
+      "message": "$1​, $2​"
+   },
+   "3140236589681731084": {
+      "message": "za $1​ godz."
+   },
+   "3147708683842760684": {
+      "message": "Więcej opcji"
+   },
+   "3147722095652727387": {
+      "message": "Tym użytkownikom nie można nic udostępnić, bo ich administrator wyłączył udostępnianie spoza domeny lub Twój administrator wyłączył udostępnianie poza domenę."
+   },
+   "3150651996344750990": {
+      "message": "{count,plural, =1{Notatkę przywrócono z archiwum}few{# notatki przywrócono z archiwum}many{# notatek przywrócono z archiwum}other{# notatki przywrócono z archiwum}}"
+   },
+   "3176246635438298155": {
+      "message": "Delete"
+   },
+   "3189854932778515441": {
+      "message": "Notatka w archiwum"
+   },
+   "3190546672187601036": {
+      "message": "Wieczór"
+   },
+   "3195812604657128345": {
+      "message": "Wybierz na Dysku folder docelowy rozpakowania"
+   },
+   "32059145043728507": {
+      "message": "{numberOfNotes,plural, =1{Notatka została przywrócona}few{# notatki zostały przywrócone}many{# notatek zostało przywróconych}other{# notatki zostało przywrócone}}"
+   },
+   "3207650089232728475": {
+      "message": "Zmień etykiety"
+   },
+   "3211163842850942567": {
+      "message": "Powiększ"
+   },
+   "3220641589840600333": {
+      "message": "Przełączono na widok $1​"
+   },
+   "3241696131593027453": {
+      "message": "Zaznacz notatkę"
+   },
+   "3243916603465112517": {
+      "message": "MNIEJ"
+   },
+   "3250489229749307913": {
+      "message": "ePUB"
+   },
+   "32533855230019565": {
+      "message": "Rozmiar 12"
+   },
+   "3258100527833044153": {
+      "message": "Pusty rysunek został usunięty"
+   },
+   "3261131345401321392": {
+      "message": "Może komentować"
+   },
+   "3266448715145955862": {
+      "message": "Notatki zostały przywrócone z archiwum i przypięte"
+   },
+   "3268028083415317236": {
+      "message": "Nie, dziękuję"
+   },
+   "3272496516667407797": {
+      "message": "Podczas wczytywania szczegółów wystąpił problem."
+   },
+   "3278046126264096288": {
+      "message": "Tydzień"
+   },
+   "3281684668260174833": {
+      "message": "{numberOfNotes,plural, =1{Notatka została odpięta i usunięta do kosza}few{# notatki zostały odpięte i usunięte do kosza}many{# notatek zostało odpiętych i usuniętych do kosza}other{# notatki zostało odpięte i usunięte do kosza}}"
+   },
+   "3288498486633948368": {
+      "message": "Element „$1​” został dodany do Dysku Google."
+   },
+   "330603631583186798": {
+      "message": "Word"
+   },
+   "3308935528045767909": {
+      "message": "Nowa notatka z rysunkiem"
+   },
+   "3312545971976531405": {
+      "message": "Wiadomość"
+   },
+   "3326410145104517459": {
+      "message": "Zanotuj swoje myśli $1​ na dowolnym urządzeniu"
+   },
+   "3343273953047473521": {
+      "message": "Usunąć notatki?"
+   },
+   "3345567742278474807": {
+      "message": "Ta notatka została zgłoszona jako nieodpowiednia i nie można jej udostępnić"
+   },
+   "3354260708176476985": {
+      "message": "Wczytuję…"
+   },
+   "3362903141674317449": {
+      "message": "Współpracownik"
+   },
+   "336772567640975291": {
+      "message": "Następny tydzień"
+   },
+   "3371033609268806242": {
+      "message": "Etykieta $1​ została usunięta."
+   },
+   "3381619429606029445": {
+      "message": "Visio"
+   },
+   "3382236845597426718": {
+      "message": "Otwórz"
+   },
+   "3385831848537487538": {
+      "message": "Podróże"
+   },
+   "3396240571140460663": {
+      "message": "Limonkowy"
+   },
+   "3409257542937182842": {
+      "message": "Próbuję jeszcze raz..."
+   },
+   "3409483962000136213": {
+      "message": "Odtwórz/wstrzymaj"
+   },
+   "3418767079436101103": {
+      "message": "Podczas wczytywania tej strony wystąpił problem."
+   },
+   "3428726060007577698": {
+      "message": "Lista jest zbyt długa."
+   },
+   "3446158485617778228": {
+      "message": "Cofnij"
+   },
+   "3447704623213039325": {
+      "message": "Pozycja na liście zakupów"
+   },
+   "3448234415275521882": {
+      "message": "Informacje ogólne"
+   },
+   "3455405209271884570": {
+      "message": "Rozpakuj"
+   },
+   "3468441711253011521": {
+      "message": "Arkusze Google"
+   },
+   "3473620774713000513": {
+      "message": "Rozstrzygnięta"
+   },
+   "3485469306694683931": {
+      "message": "Rozpakuj na swoje konto Dysku"
+   },
+   "3496410038494993160": {
+      "message": "Popularne skróty klawiszowe"
+   },
+   "3518073392823563581": {
+      "message": "Skróty klawiszowe"
+   },
+   "3543475399174940144": {
+      "message": "+$1​"
+   },
+   "3549511443038546281": {
+      "message": "Usuń"
+   },
+   "3551522853788442530": {
+      "message": "Wstecz"
+   },
+   "3561658662634401836": {
+      "message": "Tytuł"
+   },
+   "3569884090205828853": {
+      "message": "OpenOffice Calc"
+   },
+   "3570074492517305433": {
+      "message": "Załóż konto"
+   },
+   "3571704286086017611": {
+      "message": "Przypomnienie usunięte"
+   },
+   "3571758970185431414": {
+      "message": "Niebieski"
+   },
+   "3574963906259719128": {
+      "message": "Twoja przeglądarka nie może odtworzyć tego pliku audio."
+   },
+   "3580293729117872545": {
+      "message": "Zakończenie"
+   },
+   "3594204366177366590": {
+      "message": "Otwórz menu opcji gumki"
+   },
+   "3595000514985906359": {
+      "message": "Excel"
+   },
+   "3595562664731337243": {
+      "message": "Zmień nazwę etykiety"
+   },
+   "3603931013946597836": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz plik znajdujący się w {NUM_PARENTS} folderach}few{Przenosisz pliki znajdujące się w {NUM_PARENTS} folderach}many{Przenosisz pliki znajdujące się w {NUM_PARENTS} folderach}other{Przenosisz pliki znajdujące się w {NUM_PARENTS} folderach}}"
+   },
+   "3608606849109645545": {
+      "message": "Wpisz nazwę nowego dokumentu:"
+   },
+   "3611573349633408445": {
+      "message": "Pobierz"
+   },
+   "3612936866865912552": {
+      "message": "Wczytuję..."
+   },
+   "361630518611593946": {
+      "message": "Ukryj pola wyboru"
+   },
+   "3617727970098875990": {
+      "message": "Przeszukaj wszystkie skróty"
+   },
+   "362521762755836201": {
+      "message": "Utworzono $1​"
+   },
+   "3634885664399305142": {
+      "message": "Rysowanie jest niedostępne"
+   },
+   "3651893685901703652": {
+      "message": "..."
+   },
+   "3657386785336906042": {
+      "message": "lewy ukośnik"
+   },
+   "3659554681396757189": {
+      "message": "Otwarty przeze mnie"
+   },
+   "366289214151975122": {
+      "message": "Każdy użytkownik z $1​ mający link"
+   },
+   "3663571259791438207": {
+      "message": "Zgłoś nadużycie"
+   },
+   "3664842788764635265": {
+      "message": "Brak"
+   },
+   "3666123569747918021": {
+      "message": "W tym dokumencie są niezapisane zmiany. Czy chcesz opuścić stronę i je odrzucić?"
+   },
+   "3678477908297567934": {
+      "message": "podkreślenie"
+   },
+   "3687623836913400480": {
+      "message": "Dodaj adnotację do obrazu"
+   },
+   "3690515530505404607": {
+      "message": "Podczas odtwarzania tego filmu wystąpił problem."
+   },
+   "369764661829607970": {
+      "message": "{NUM_ITEMS,plural, =0{Brak elementów}=1{1 element}few{# elementy}many{# elementów}other{# items}}"
+   },
+   "3707311099386068778": {
+      "message": "Usuń wszystkie"
+   },
+   "3712215972250917265": {
+      "message": "Komentarze"
+   },
+   "372633345629975481": {
+      "message": "Notatki przypięto"
+   },
+   "372823375470132483": {
+      "message": "Odznacz usuniętą notatkę"
+   },
+   "3734444903221631913": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{unused plural form}few{Przenosisz {NUM_ITEMS_2} elementy z Dysków zespołu i udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}many{Przenosisz {NUM_ITEMS_2} elementów z Dysków zespołu i udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}other{Przenosisz {NUM_ITEMS_2} elementu z Dysków zespołu i udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}}"
+   },
+   "3760084546578947451": {
+      "message": "Włączyć przypomnienia Google Keep? Być może będzie konieczne zezwolenie na obsługę powiadomień w przeglądarce."
+   },
+   "3770795578481676514": {
+      "message": "Żółty"
+   },
+   "3793086499925031123": {
+      "message": "Otwórz pasek wyszukiwania/znajdź poprzedni"
+   },
+   "3796511349428373407": {
+      "message": "Opcje daty"
+   },
+   "3797309720105862333": {
+      "message": "Rysunków nie można edytować offline"
+   },
+   "37992665410817181": {
+      "message": "Otwarta ponownie"
+   },
+   "3801617971018550169": {
+      "message": "Wczoraj"
+   },
+   "3808213429720572062": {
+      "message": "Przywróć"
+   },
+   "381100310424863459": {
+      "message": "Illustrator"
+   },
+   "3828546250617883774": {
+      "message": "Fioletowy"
+   },
+   "3845302429676793049": {
+      "message": "Podczas aktualizowania opisu elementu „$1​” wystąpił problem."
+   },
+   "3858324058837632381": {
+      "message": "Podczas odtwarzania tego pliku dźwiękowego wystąpił problem."
+   },
+   "3869166581651870488": {
+      "message": "Zakończ edycję"
+   },
+   "3897281533382850749": {
+      "message": "Wyłącz wyciszenie"
+   },
+   "3909380459614154542": {
+      "message": "Przejdź do linku"
+   },
+   "3930910469078167425": {
+      "message": "Archiwum"
+   },
+   "3952341864324097024": {
+      "message": "Wyczyść wyszukiwanie"
+   },
+   "3955575370175991097": {
+      "message": "Przełączono na widok etykiety $1​"
+   },
+   "3974822583047850066": {
+      "message": "Anuluj"
+   },
+   "3977699855735576796": {
+      "message": "Podczas wczytywania kolejnych stron wystąpił problem."
+   },
+   "3988418762222300024": {
+      "message": "kropka"
+   },
+   "4005725939358875643": {
+      "message": "Czynność została cofnięta."
+   },
+   "4014287326684608407": {
+      "message": "Morski"
+   },
+   "4023299615382814997": {
+      "message": "Nie można edytować w koszu"
+   },
+   "4036523543547629779": {
+      "message": "Obrazy"
+   },
+   "4044915502415235332": {
+      "message": "Zaznacz przypiętą notatkę"
+   },
+   "4052960606031736645": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz folder znajdujący się w {NUM_PARENTS} folderach}few{Przenosisz foldery znajdujące się w {NUM_PARENTS} folderach}many{Przenosisz foldery znajdujące się w {NUM_PARENTS} folderach}other{Przenosisz foldery znajdujące się w {NUM_PARENTS} folderach}}"
+   },
+   "4059387791040010947": {
+      "message": "Meta"
+   },
+   "4061102590585232601": {
+      "message": "Usunięto: $1​"
+   },
+   "4072353527895477784": {
+      "message": "Osoby"
+   },
+   "4086409218932829944": {
+      "message": "Edytuj etykiety"
+   },
+   "4087289538934418537": {
+      "message": "Kiedy usuniesz utworzone przez siebie notatki, nie będą one widoczne dla nikogo. Notatki udostępnione Tobie pozostaną widoczne dla osób, które mają do nich dostęp."
+   },
+   "4095714830819118951": {
+      "message": "Pomoc"
+   },
+   "4097921967754832323": {
+      "message": "łącznik"
+   },
+   "4106990792743182780": {
+      "message": "Nie można wyciągnąć tekstu z obrazu. Spróbuj ponownie później."
+   },
+   "411137507354526852": {
+      "message": "Miesiąc"
+   },
+   "4111452225725405610": {
+      "message": "Gwiazdka została usunięta z elementu „$1​”."
+   },
+   "4117632433281998979": {
+      "message": "Co miesiąc"
+   },
+   "411791562637880104": {
+      "message": "Usuń mnie"
+   },
+   "4122858386674768321": {
+      "message": "Przenieś elementy z folderu $3​$2​$1​"
+   },
+   "4149722338705080529": {
+      "message": "Ponów"
+   },
+   "4155905925766040098": {
+      "message": "Podgląd niedostępny"
+   },
+   "4159842640681544078": {
+      "message": "Przeniesiono foldery ($1​) z folderu $2​ do folderu $3​."
+   },
+   "4174786386751618325": {
+      "message": "Notatka zdjęciowa"
+   },
+   "4182427157920112948": {
+      "message": "tylda"
+   },
+   "4186465168527990324": {
+      "message": "Rozpakowano „$1​” do folderu $2​"
+   },
+   "4204345954541079744": {
+      "message": "Brak notatek z tą etykietą"
+   },
+   "4205329094859140439": {
+      "message": "AM"
+   },
+   "4206529410529166231": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz element znajdujący się w {NUM_PARENTS} folderach}few{Przenosisz elementy znajdujące się w {NUM_PARENTS} folderach}many{Przenosisz elementy znajdujące się w {NUM_PARENTS} folderach}other{Przenosisz elementy znajdujące się w {NUM_PARENTS} folderach}}"
+   },
+   "4209658291185545281": {
+      "message": "Czynności nie można cofnąć"
+   },
+   "4211182812451835307": {
+      "message": "Może edytować"
+   },
+   "4214190403999219403": {
+      "message": "Powiększ"
+   },
+   "4214427276033711472": {
+      "message": "Ustawienia"
+   },
+   "4216242742234357612": {
+      "message": "Zaznacz wszystkie notatki"
+   },
+   "42239889404644810": {
+      "message": "Poproś o dostęp"
+   },
+   "4227767243455123953": {
+      "message": "Działanie listy"
+   },
+   "4228870062013120023": {
+      "message": "Przejdź do następnej/poprzedniej notatki"
+   },
+   "4230101516585408149": {
+      "message": "Utwórz nową notatkę"
+   },
+   "4243437721135025638": {
+      "message": "Nie masz uprawnień do przenoszenia plików zapisanych na tym Dysku zespołu."
+   },
+   "4248787844477062707": {
+      "message": "Utwórz nową etykietę"
+   },
+   "4269096876505546324": {
+      "message": "Prześlij opinię"
+   },
+   "4280747719095153198": {
+      "message": "Zakończony wątek komentarza"
+   },
+   "4286663890332754386": {
+      "message": "Przesyłanie nie udało się."
+   },
+   "4299690446455033653": {
+      "message": "Works"
+   },
+   "4318861667254318892": {
+      "message": "Google Video"
+   },
+   "4320831042030778": {
+      "message": "Anuluj"
+   },
+   "4320942249997687388": {
+      "message": "End"
+   },
+   "4321382260116636620": {
+      "message": "Zaznacz notatkę"
+   },
+   "4327523836604343709": {
+      "message": "Rozmiar 2"
+   },
+   "4332252081504252077": {
+      "message": "Ups!"
+   },
+   "4343825450663233452": {
+      "message": "Może wyświetlać"
+   },
+   "4343848624651344174": {
+      "message": "Popołudnie"
+   },
+   "4346644280640625035": {
+      "message": "Cofnięto udostępnianie notatki."
+   },
+   "435214284915110062": {
+      "message": "Otwórz pasek wyszukiwania"
+   },
+   "435444400175963053": {
+      "message": "Przeniesiono elementy ($1​) do folderu $2​."
+   },
+   "4356312843186491987": {
+      "message": "Przenieś"
+   },
+   "4391715930031906467": {
+      "message": "Znajdź następny"
+   },
+   "4397482594800054550": {
+      "message": "Podczas zmieniania nazwy elementu „$1​” wystąpił problem."
+   },
+   "4412626362660239325": {
+      "message": "Porządkuj na Dysku"
+   },
+   "4416841471975202365": {
+      "message": "Jasnoróżowy"
+   },
+   "4421168692772991468": {
+      "message": "Kosz"
+   },
+   "4422985761498356257": {
+      "message": "Otwórz za pomocą"
+   },
+   "4429542915339609008": {
+      "message": "W tej aplikacji nie można otwierać wielu plików."
+   },
+   "4438168904974235640": {
+      "message": "Karmazynowy"
+   },
+   "4444571967705751871": {
+      "message": "Kosz"
+   },
+   "4448871104213529122": {
+      "message": "Ukryj szczegóły"
+   },
+   "4457424709416639982": {
+      "message": "Dodaj do Mojego dysku"
+   },
+   "4466605492523079635": {
+      "message": "Zapisz"
+   },
+   "4468872996560163913": {
+      "message": "Opróżnij kosz"
+   },
+   "4486429060311743289": {
+      "message": "Odznacz wszystkie"
+   },
+   "45228242181482134": {
+      "message": "Odtwórz"
+   },
+   "4524999513489942668": {
+      "message": "$2​Zainstaluj rozszerzenie Google Keep do Chrome$1​, aby zapisywać ważne rzeczy w Keep jednym kliknięciem."
+   },
+   "4533605085334699862": {
+      "message": "Cytaty"
+   },
+   "4550209323331625907": {
+      "message": "$2​Więcej informacji$1​"
+   },
+   "4557086341175267918": {
+      "message": "Nie można udostępniać offline"
+   },
+   "4561316395348814504": {
+      "message": "Pliki pobrane z aplikacji"
+   },
+   "4564682305303579317": {
+      "message": "Dalej"
+   },
+   "4566838580250578446": {
+      "message": "{every,plural, =1{Powtarza się co rok}few{Powtarza się co # lata}many{Powtarza się co # lat}other{Powtarza się co # roku}}"
+   },
+   "4607802784047113873": {
+      "message": "Dodaj współpracownika"
+   },
+   "4608848277887462246": {
+      "message": "Więcej arkuszy"
+   },
+   "4620034373159179678": {
+      "message": "Strona $1​ z $2​"
+   },
+   "4632830890362652221": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz element znajdujący się w jednym folderze}few{Przenosisz elementy znajdujące się w jednym folderze}many{Przenosisz elementy znajdujące się w jednym folderze}other{Przenosisz elementy znajdujące się w jednym folderze}}"
+   },
+   "4643940860676429496": {
+      "message": "Zapisuję..."
+   },
+   "4675792829115971960": {
+      "message": "Oznaczymy tę notatkę i usuniemy ją z Twojego konta."
+   },
+   "4685321580747790677": {
+      "message": "{every,plural, =1{Powtarza się co tydzień ({days})}few{Powtarza się co # tygodnie ({days})}many{Powtarza się co # tygodni ({days})}other{Powtarza się co # tygodnia ({days})}}"
+   },
+   "4691283408020124345": {
+      "message": "Widok listy"
+   },
+   "4700218356982480093": {
+      "message": "Czarny"
+   },
+   "4717484643724894786": {
+      "message": "Skopiuj do dokumentu"
+   },
+   "4740100782728373253": {
+      "message": "Zapisz na Dysku"
+   },
+   "4748046231232264180": {
+      "message": "Formularze Google"
+   },
+   "4751202914935960324": {
+      "message": "Ten adres e-mail już istnieje"
+   },
+   "4752655540567953719": {
+      "message": "Pozycja $1​"
+   },
+   "4762625944764691132": {
+      "message": "Menu główne"
+   },
+   "4767722428137216885": {
+      "message": "Anuluj"
+   },
+   "477328789314249432": {
+      "message": "Przeszukaj notatki"
+   },
+   "4773737319879079980": {
+      "message": "Rób notatki szybciej w aplikacji"
+   },
+   "4775368111547931093": {
+      "message": "Brak opisu"
+   },
+   "4805047680716507619": {
+      "message": " – Przenieś do:"
+   },
+   "4806763987633034948": {
+      "message": "Podpis PKCS7"
+   },
+   "4807444103404336088": {
+      "message": "Podczas dodawania gwiazdki do elementu „$1​” wystąpił problem."
+   },
+   "4821130290026382049": {
+      "message": "Popularne skróty klawiszowe"
+   },
+   "4833214200453019325": {
+      "message": "$1​ z $2​"
+   },
+   "4840513623749850224": {
+      "message": "Filmy"
+   },
+   "4846720038197420778": {
+      "message": "Podłącz więcej aplikacji"
+   },
+   "4853788427396558692": {
+      "message": "$1​ MB"
+   },
+   "4858389278403807208": {
+      "message": "Notatka w koszu"
+   },
+   "4864051612562026766": {
+      "message": "{count,plural, =1{1 wybrany}few{# wybrane}many{# wybranych}other{# wybranego}}"
+   },
+   "4888104357342241891": {
+      "message": "Przypomnienia"
+   },
+   "490045476479394048": {
+      "message": "Zaznacz tekst, który chcesz skomentować"
+   },
+   "4901386320110714275": {
+      "message": "Hasło jest nieprawidłowe. Spróbuj ponownie."
+   },
+   "4906669330059413958": {
+      "message": "Prześlij hasło"
+   },
+   "4907349694646937491": {
+      "message": "Notatka została przeniesiona do pozycji $1​"
+   },
+   "4915450884407029247": {
+      "message": "Dodano etykietę $1​."
+   },
+   "4917607226908075328": {
+      "message": "Usuń"
+   },
+   "4918998818369420588": {
+      "message": "Zgłoś nadużycie"
+   },
+   "4925002811848839819": {
+      "message": "Elementy ($1​) zostały przeniesione z folderu $2​ do folderu $3​."
+   },
+   "4930422592340561418": {
+      "message": "Mój dysk"
+   },
+   "4934109328393349339": {
+      "message": "Nie można dodać więcej elementów"
+   },
+   "4946709842900542238": {
+      "message": "Biały"
+   },
+   "4948512233726694061": {
+      "message": "$4​Strona$1​$5​$3​$1​$7​/$2​$6​$8​$1​"
+   },
+   "4957674814179289955": {
+      "message": "Przejdź do następnego/poprzedniego elementu listy"
+   },
+   "4963784280521435720": {
+      "message": "Zapisuję..."
+   },
+   "4974059227183970715": {
+      "message": "Możesz też dodawać etykiety, wpisując „#”."
+   },
+   "4982284738093713321": {
+      "message": "Organizator"
+   },
+   "4988132901627446385": {
+      "message": "Panel szczegółów został rozwinięty."
+   },
+   "5006765610090288212": {
+      "message": "Zastosowano kolor $1​"
+   },
+   "5008901799534614532": {
+      "message": "Usuń"
+   },
+   "5009448218905630614": {
+      "message": "Usuń"
+   },
+   "5011858093760184160": {
+      "message": "Usuń gwiazdkę"
+   },
+   "5014595433724148222": {
+      "message": "Jaskraworóżowy"
+   },
+   "501475221876543407": {
+      "message": "Tutaj pojawią się Twoje notatki"
+   },
+   "5023623739220371850": {
+      "message": "Błąd uwierzytelniania. Zmiany zostaną zsynchronizowane, gdy się zalogujesz."
+   },
+   "5041572047197549869": {
+      "message": "Tego samego dnia każdego miesiąca"
+   },
+   "5045725997997672553": {
+      "message": "{weekNumber,plural, =1{1. {day} miesiąca}=2{2. {day} miesiąca}=3{3. {day} miesiąca}=4{4. {day} miesiąca}few{Ostatni(a) {day} miesiąca}many{Ostatni(a) {day} miesiąca}other{Ostatni(a) {day} miesiąca}}"
+   },
+   "5046219519278664288": {
+      "message": "iPhone i iPad"
+   },
+   "5046371569383796818": {
+      "message": "Zachowaj"
+   },
+   "5052461293250181960": {
+      "message": "Page down"
+   },
+   "5054818452036081005": {
+      "message": "$2​Prywatność$1​"
+   },
+   "5055673792779951604": {
+      "message": "Jasnoniebieski"
+   },
+   "5078184843381528205": {
+      "message": "Przypnij notatkę"
+   },
+   "5095987896933771566": {
+      "message": "Wydrukuj dokument"
+   },
+   "509815948423424872": {
+      "message": "Nawigacja"
+   },
+   "5098941979861776792": {
+      "message": "Enter"
+   },
+   "5130903421326358933": {
+      "message": "Podczas zapisywania załącznika na Dysku Google wystąpił problem."
+   },
+   "5134649253619244584": {
+      "message": "Usuń etykietę"
+   },
+   "5140285776541296873": {
+      "message": "Niestandardowo"
+   },
+   "5151247077945318396": {
+      "message": "Podczas wybierania folderu, do którego ma zostać rozpakowane archiwum, wystąpił błąd."
+   },
+   "5178674191443894176": {
+      "message": "Etykiety"
+   },
+   "5180454621500142444": {
+      "message": "Przywróć"
+   },
+   "5180989337128758117": {
+      "message": "nawias kwadratowy otwierający"
+   },
+   "5182569285908080938": {
+      "message": "Opcje daty zakończenia"
+   },
+   "5184692850089055965": {
+      "message": "Wyciągnij tekst z obrazu"
+   },
+   "5197718200713913936": {
+      "message": "C++"
+   },
+   "5201670213497642487": {
+      "message": "Pasek na karcie panelu szczegółów. Przełączaj się między kartami, używając przycisków strzałek w prawo lub w lewo."
+   },
+   "5202835861850747976": {
+      "message": "$2​Więcej informacji$1​"
+   },
+   "5204391636475413312": {
+      "message": "Zapisz"
+   },
+   "5207219998739322438": {
+      "message": "Rozmiar 1"
+   },
+   "5214104290560857118": {
+      "message": "Dodaj komentarz"
+   },
+   "5217462020153787697": {
+      "message": "{numberOfPreviews,plural, =1{Podgląd linku został usunięty}few{Podgląd # linków został usunięty}many{Podgląd # linków został usunięty}other{Podgląd # linku został usunięty}}"
+   },
+   "5238307666527496111": {
+      "message": "OK"
+   },
+   "5238371081785912565": {
+      "message": "Otwórz w: $1​"
+   },
+   "5253765183290980485": {
+      "message": "Masz uprawnienia tylko do dodawania i edytowania elementów na Dysku zespołu „$1​”, więc nie będziesz w stanie cofnąć tej czynności."
+   },
+   "5259541708332520733": {
+      "message": "Źródło zostało usunięte"
+   },
+   "5271615049826004958": {
+      "message": "Opcje podglądu linku"
+   },
+   "5281121179861637423": {
+      "message": "Aby otworzyć $1​, musisz podać hasło. Wpisz je"
+   },
+   "5288037028604092288": {
+      "message": "XPS"
+   },
+   "5299648222246616124": {
+      "message": "lewy apostrof"
+   },
+   "5300527252159851865": {
+      "message": "Treść pliku nie jest zgodna z oczekiwanym formatem."
+   },
+   "5319313176242717957": {
+      "message": "Przetwarzam obrazy..."
+   },
+   "5321772883765574323": {
+      "message": "Element „$1​” został przeniesiony z folderu $2​ do folderu $3​."
+   },
+   "5334959887390704534": {
+      "message": "Ta etykieta zostanie usunięta i zniknie ze wszystkich Twoich notatek w Google Keep. Twoje notatki nie zostaną usunięte."
+   },
+   "5336801339221383042": {
+      "message": "JavaScript"
+   },
+   "5336924963122494935": {
+      "message": "Zaznacz"
+   },
+   "534191528712675978": {
+      "message": "Pause"
+   },
+   "534228323125524312": {
+      "message": "Pomniejsz"
+   },
+   "5353129315502554762": {
+      "message": "Arkusz stylów"
+   },
+   "5353173068672429342": {
+      "message": "Narzędzia debugowania"
+   },
+   "5362962746518601227": {
+      "message": "{NUM_ITEMS,plural, =1{Przenosisz plik znajdujący się w jednym folderze}few{Przenosisz pliki znajdujące się w jednym folderze}many{Przenosisz pliki znajdujące się w jednym folderze}other{Przenosisz pliki znajdujące się w jednym folderze}}"
+   },
+   "5363853533596749934": {
+      "message": "Wpisz nazwę etykiety"
+   },
+   "5372143986724491245": {
+      "message": "$1​ dzień temu"
+   },
+   "5372160981898991853": {
+      "message": "Publisher"
+   },
+   "5394695048211047984": {
+      "message": "Dodaj datę"
+   },
+   "5398036630337418486": {
+      "message": "Otwórz dokument"
+   },
+   "5399553230649155346": {
+      "message": "za $1​ godzinę"
+   },
+   "5403636185480096151": {
+      "message": "Telewizja"
+   },
+   "540596856674438371": {
+      "message": "Nie można udostępnić, ponieważ udostępnianie jest wyłączone."
+   },
+   "5408091115193390231": {
+      "message": "AutoCAD"
+   },
+   "541966762661844588": {
+      "message": "Menu"
+   },
+   "5435749276779042277": {
+      "message": "I JESZCZE $1​"
+   },
+   "5447119197363232006": {
+      "message": "Pokaż na Dysku"
+   },
+   "5455566801812656827": {
+      "message": "MNIEJ"
+   },
+   "5472312735475866917": {
+      "message": "Komentarz: $1​."
+   },
+   "547865385964196102": {
+      "message": "$1​ min temu"
+   },
+   "54793131422514708": {
+      "message": "Rozmiar 3"
+   },
+   "5480497191725157666": {
+      "message": "Esc"
+   },
+   "5482604275203517054": {
+      "message": "strzałka w lewo"
+   },
+   "5506390497558702263": {
+      "message": "{count,plural, =1{Notatka została przywrócona z archiwum i przypięta}few{# notatki zostały przywrócone z archiwum i przypięte}many{# notatek zostało przywróconych z archiwum i przypiętych}other{# notatki zostało przywrócone z archiwum i przypięte}}"
+   },
+   "553170279104432593": {
+      "message": "Otwórz wybór koloru i rozmiaru zakreślacza"
+   },
+   "5539958940810433464": {
+      "message": "Wyrzuć notatkę do kosza"
+   },
+   "5542817571710587822": {
+      "message": "Plik zawiera za dużo obrazów."
+   },
+   "5545146751578623220": {
+      "message": "Caps Lock"
+   },
+   "5555182241047709329": {
+      "message": "Wybierz lokalizację"
+   },
+   "5555599189512365009": {
+      "message": "OK"
+   },
+   "556742419793425318": {
+      "message": "Odrzuć"
+   },
+   "5580896674367659519": {
+      "message": "Ciemnoszary"
+   },
+   "5581834527128285229": {
+      "message": "Podczas dodawania elementu „$1​” do Mojego dysku wystąpił problem."
+   },
+   "5598649706113950710": {
+      "message": "Edytor"
+   },
+   "5627470193961862490": {
+      "message": "Tutaj pojawią się notatki z nadchodzącymi przypomnieniami"
+   },
+   "5631086126416409232": {
+      "message": "Niebieski"
+   },
+   "564165666160590723": {
+      "message": "Windows Media Player"
+   },
+   "568072913338360182": {
+      "message": "HTML"
+   },
+   "5707549724380589079": {
+      "message": "Usunąć zaznaczone elementy?"
+   },
+   "5713014647314396479": {
+      "message": "Po"
+   },
+   "5714240424645614611": {
+      "message": "Android Package"
+   },
+   "5728640851616538925": {
+      "message": "Zielony"
+   },
+   "5755541943799933389": {
+      "message": "Element „$1​” został oznaczony gwiazdką."
+   },
+   "577619047319778196": {
+      "message": "Wyczyść zaznaczenie"
+   },
+   "5783875011049188612": {
+      "message": "Tekst został wyciągnięty z obrazu"
+   },
+   "5820033033803019104": {
+      "message": "Porządkuj"
+   },
+   "5840202488368071194": {
+      "message": "Nowa notatka ze zdjęciem"
+   },
+   "5840330517914556080": {
+      "message": "Pomniejsz"
+   },
+   "5854158607727111728": {
+      "message": "Tab"
+   },
+   "585503297543253590": {
+      "message": "Dnia"
+   },
+   "5870134033985574990": {
+      "message": "Rozpakowuję..."
+   },
+   "5871966496153339793": {
+      "message": "Wyświetlanie miniatury filmu $1​"
+   },
+   "5909490544352162901": {
+      "message": "Poproś właściciela o dostęp do tej notatki lub przełącz się na konto z odpowiednimi uprawnieniami. Jesteś zalogowany jako $1​."
+   },
+   "5911012384539794869": {
+      "message": "Nie udało się uruchomić zadania rozpakowywania."
+   },
+   "5916010927050975496": {
+      "message": "$1​ KB"
+   },
+   "5917528552332886959": {
+      "message": "Pokaż zakończone komentarze"
+   },
+   "5949528478488617689": {
+      "message": "Uprawnienie do pobierania"
+   },
+   "5950887255133612666": {
+      "message": "Nierozpoczęte."
+   },
+   "5961981688037913870": {
+      "message": "Dodano: $1​"
+   },
+   "5965683144165568126": {
+      "message": "Zmień pozycję elementu na liście"
+   },
+   "5969696744752069015": {
+      "message": "Podgląd niedostępny."
+   },
+   "597983994875715119": {
+      "message": "Błękitny"
+   },
+   "5984398071085567332": {
+      "message": "Google Fusion Tables"
+   },
+   "5987609488177213747": {
+      "message": "Utwórz etykietę"
+   },
+   "5989809255170931770": {
+      "message": "{time,plural, =1{Keep zaktualizuje się za # sekundę}few{Keep zaktualizuje się za # sekundy}many{Keep zaktualizuje się za # sekund}other{Keep zaktualizuje się za # sekundy}}"
+   },
+   "6003164344472359508": {
+      "message": "Rozmiar 16"
+   },
+   "6005084567691342649": {
+      "message": "Przypomnienia"
+   },
+   "6009962986062136164": {
+      "message": "Wczytuję $1​."
+   },
+   "6011637630664474614": {
+      "message": "Spacja"
+   },
+   "6030537159236285525": {
+      "message": "Przenieś element listy do następnej/poprzedniej pozycji"
+   },
+   "60305871484579258": {
+      "message": "Alt"
+   },
+   "6042628357935708897": {
+      "message": "Ta notatka nie jest już dostępna na Twoim koncie. Poproś właściciela o dostęp lub przełącz się na konto z odpowiednimi uprawnieniami."
+   },
+   "6043578784980337112": {
+      "message": "Przeniesiono pliki ($1​) do folderu $2​."
+   },
+   "6062216008944363143": {
+      "message": "{weekNumber,plural, =1{Powtarza się co {every} miesiąc (1. {day} miesiąca)}=2{Powtarza się co {every} miesiące (2. {day} miesiąca)}=3{Powtarza się co {every} miesiące (3. {day} miesiąca)}=4{Powtarza się co {every} miesiące (4. {day} miesiąca)}few{Powtarza się co {every} miesiące (ost. {day} miesiąca)}many{Powtarza się co {every} miesięcy (ost. {day} miesiąca)}other{Powtarza się co {every} miesiąca (ost. {day} miesiąca)}}"
+   },
+   "6087078248621415351": {
+      "message": "Modyfikacja: $1​"
+   },
+   "6100883940579706314": {
+      "message": "Podgląd linku"
+   },
+   "6104991132648864933": {
+      "message": "Usunąć notatkę?"
+   },
+   "6105571474005679446": {
+      "message": "Wystąpił problem z podglądem."
+   },
+   "6113237889871930608": {
+      "message": "Pusta notatka"
+   },
+   "6118623991445349480": {
+      "message": "Strona $1​"
+   },
+   "6122643025527543706": {
+      "message": "Ctrl"
+   },
+   "6127325177382263770": {
+      "message": "URL-e"
+   },
+   "6131822680770571276": {
+      "message": "PowerPoint"
+   },
+   "6140634664402328750": {
+      "message": "Lista aplikacji"
+   },
+   "6149175749937815029": {
+      "message": "Zobacz wszystkie elementy"
+   },
+   "6156725896714172645": {
+      "message": "Kopiuję do Dokumentów Google"
+   },
+   "6160805346274626656": {
+      "message": "Usuń na zawsze"
+   },
+   "616807262818311711": {
+      "message": "Typ"
+   },
+   "618371060803280843": {
+      "message": "{numberOfNotes,plural, =1{Usuń notatkę}few{Usuń notatki}many{Usuń notatki}other{Usuń notatki}}"
+   },
+   "6185886893933834031": {
+      "message": "Zachowaj wybraną"
+   },
+   "6186753450686672643": {
+      "message": "{every,plural, =1{Powtarza się codziennie}few{Powtarza się co # dni}many{Powtarza się co # dni}other{Powtarza się co # dnia}}"
+   },
+   "6201176165479907499": {
+      "message": "{count,plural, =1{Przypięto notatkę}few{Przypięto # notatki}many{Przypięto # notatek}other{Przypięto # notatki}}"
+   },
+   "6203260615455347677": {
+      "message": "Numbers"
+   },
+   "6211895332551673425": {
+      "message": "Dodano do $2​Mojego Dysku$1​"
+   },
+   "6212070333807533570": {
+      "message": "Dodaję do $2​Mojego Dysku$1​..."
+   },
+   "6223207695466118454": {
+      "message": "YouTube"
+   },
+   "6224687211096863620": {
+      "message": "Każdy"
+   },
+   "6252259197986158120": {
+      "message": "Wczoraj"
+   },
+   "6277118196930285720": {
+      "message": "Wczytaj ponownie"
+   },
+   "628140343505892786": {
+      "message": "Ustawienia"
+   },
+   "6286379137937560558": {
+      "message": "Artykuł"
+   },
+   "6286806453721792102": {
+      "message": "Porządkowanie na Dysku"
+   },
+   "6289564019832728437": {
+      "message": "Nie możesz udostępnić, dopóki Google Keep nie zakończy wczytywania."
+   },
+   "6305748545202493254": {
+      "message": "Pokaż/ukryj okienko szczegółów"
+   },
+   "6306268376900894985": {
+      "message": "Występuje do {endDate}"
+   },
+   "6324768448533022780": {
+      "message": "$1​ $2​"
+   },
+   "6352952829934775705": {
+      "message": "WIĘCEJ"
+   },
+   "6366376928558090914": {
+      "message": "Jedzenie"
+   },
+   "6375244206466599493": {
+      "message": "Rok"
+   },
+   "6375395544374251820": {
+      "message": "Podczas wczytywania kolejnych stron wystąpił problem. Ponawianie próby..."
+   },
+   "6386587519843563719": {
+      "message": "Plik binarny"
+   },
+   "6394816510866826521": {
+      "message": "Aplikacja testowa"
+   },
+   "6413404795391222793": {
+      "message": "Utwórz nową listę"
+   },
+   "6416495701611778255": {
+      "message": "Sugerowane aplikacje innych firm"
+   },
+   "6419411265907669340": {
+      "message": "Dzisiaj"
+   },
+   "6427295696443582545": {
+      "message": "Gumka"
+   },
+   "6432019580434957057": {
+      "message": "Dźwięk"
+   },
+   "6443615802319581315": {
+      "message": "{NUM_ITEMS,plural, =1{Nie masz uprawnień do przenoszenia tego pliku z jego bieżących folderów. Dodaj plik do folderu {START_SPAN_1}{NAME}{END_SPAN} zamiast go przenosić.}few{Nie masz uprawnień do przenoszenia tych plików z ich bieżących folderów. Dodaj pliki do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}many{Nie masz uprawnień do przenoszenia tych plików z ich bieżących folderów. Dodaj pliki do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}other{Nie masz uprawnień do przenoszenia tych plików z ich bieżących folderów. Dodaj pliki do folderu {START_SPAN_2}{NAME}{END_SPAN} zamiast je przenosić.}}"
+   },
+   "6450508807204492448": {
+      "message": "Ikona $1​"
+   },
+   "6450611522897524109": {
+      "message": "Zielony awokado"
+   },
+   "6457802200418354862": {
+      "message": "Przeglądający mogą pobierać"
+   },
+   "6459405233858728718": {
+      "message": "Prezentacje Google"
+   },
+   "6464761738227651511": {
+      "message": "$1​ minutę temu"
+   },
+   "6466736813846482957": {
+      "message": "Poprzednia"
+   },
+   "6466858417983764649": {
+      "message": "Ustawiaj przypomnienia w notatkach dotyczące miejsc i godzin, rób notatki głosowe i pracuj online lub offline."
+   },
+   "6472238195689960152": {
+      "message": "Biały"
+   },
+   "6473102097014191455": {
+      "message": "Notatka z rysunkiem"
+   },
+   "6480260198815372102": {
+      "message": "Włącz"
+   },
+   "6496683100661104868": {
+      "message": "$2​Licencje typu open source$1​"
+   },
+   "6497197865876438261": {
+      "message": "Muzyka"
+   },
+   "6507257480072167483": {
+      "message": "Nazwa etykiety została zmieniona na $1​."
+   },
+   "6510131849363684615": {
+      "message": "Jutro"
+   },
+   "6513721414466645971": {
+      "message": "Usunięto"
+   },
+   "6522917155620379865": {
+      "message": "Pobierz"
+   },
+   "6524849072392100692": {
+      "message": "Folder Dysku Google"
+   },
+   "6571686604846453345": {
+      "message": "Podczas dodawania elementu do Dysku wystąpił problem."
+   },
+   "6579707685908557993": {
+      "message": "Późne popołudnie"
+   },
+   "6582286158693833652": {
+      "message": "Więcej informacji"
+   },
+   "6588176324871799870": {
+      "message": "Google Apps Script"
+   },
+   "661771364073001489": {
+      "message": "Przełącz konta"
+   },
+   "6618562607681757575": {
+      "message": "Nie przenoś elementów z żadnego folderu, tylko dodaj je do $3​$2​$1​"
+   },
+   "6622304228074863427": {
+      "message": "Aplikacja"
+   },
+   "6650600936729710500": {
+      "message": "Odpowiedzi."
+   },
+   "6664835828596108553": {
+      "message": "Opcja"
+   },
+   "670419277288558500": {
+      "message": "Obraz/dźwięk"
+   },
+   "6707173584987026005": {
+      "message": "Dzisiaj"
+   },
+   "6710728478489145370": {
+      "message": "Zamknij"
+   },
+   "6713235295664405475": {
+      "message": "na|do"
+   },
+   "6715985122107380503": {
+      "message": "Nagrania"
+   },
+   "6726462693927865256": {
+      "message": "Szczegóły"
+   },
+   "6726879257388338969": {
+      "message": "Drukuj"
+   },
+   "6732800471045353930": {
+      "message": "Ta notatka została już udostępniona maksymalnej liczbie osób."
+   },
+   "673551770550324419": {
+      "message": "Dopasuj do szerokości"
+   },
+   "6744457949320515234": {
+      "message": "Usunięto pustą notatkę"
+   },
+   "6747379635033535953": {
+      "message": "Dodaj nowe elementy na dole"
+   },
+   "6747528043814108113": {
+      "message": "Przełączono na $1​"
+   },
+   "6749829802551750923": {
+      "message": "strzałka w górę"
+   },
+   "6750600017746655174": {
+      "message": "Opcja"
+   },
+   "6773222938695237983": {
+      "message": "{NUM_ITEMS,plural, =0{Unused}=1{Udostępnić ten element?}few{Udostępnić te elementy?}many{Udostępnić te elementy?}other{Udostępnić te elementy?}}"
+   },
+   "6778577079172085976": {
+      "message": "Przypięte"
+   },
+   "6780628488957834429": {
+      "message": "Pomarańczowy"
+   },
+   "6787580031482277539": {
+      "message": "Nigdy"
+   },
+   "6797862596948579998": {
+      "message": "Aplikacja Chrome"
+   },
+   "6801348618370627980": {
+      "message": "Etykieta $1​ została utworzona."
+   },
+   "681598652078493281": {
+      "message": "Więcej informacji"
+   },
+   "6822520214440117457": {
+      "message": "Praca"
+   },
+   "6823109315717909214": {
+      "message": "Wypróbuj"
+   },
+   "6827821461670731013": {
+      "message": "Pokaż pola wyboru"
+   },
+   "6833760103261954639": {
+      "message": "Podczas wczytywania tej strony wystąpił problem. Ponawianie próby..."
+   },
+   "6845496099067370773": {
+      "message": "Czerwony"
+   },
+   "6861978427131390279": {
+      "message": "Prześlij opinię"
+   },
+   "6891563484025164308": {
+      "message": "Poprzedni"
+   },
+   "6898823203505321799": {
+      "message": "Szczegóły"
+   },
+   "6904351530369058983": {
+      "message": "Właściciel"
+   },
+   "6911028933894691912": {
+      "message": "Ten rysunek będzie dostępny, gdy nawiążesz połączenie z internetem."
+   },
+   "6922953828399110511": {
+      "message": "Zamknij przeglądarkę"
+   },
+   "693770783324368110": {
+      "message": "Notatki zostały odpięte i usunięte do kosza"
+   },
+   "6939806490818256358": {
+      "message": "{resultCount,plural, =1{# wynik wyszukiwania}few{# wyniki wyszukiwania}many{# wyników wyszukiwania}other{# wyniku wyszukiwania}}"
+   },
+   "695253297035211081": {
+      "message": "Opróżnij kosz"
+   },
+   "6963401564174052300": {
+      "message": "Rysowanie jest chwilowo niemożliwe."
+   },
+   "6982682101118067511": {
+      "message": "Porządkuję…"
+   },
+   "701276785305022936": {
+      "message": "Dokument uszkodzony. Upewnij się, że plik jest w najnowszym formacie."
+   },
+   "7017384731286920634": {
+      "message": "Jasnozielony"
+   },
+   "7017485862232001373": {
+      "message": "Element „$1​” został dodany do folderu $2​."
+   },
+   "7019002927048576918": {
+      "message": "Filtry wyszukiwania: $1​"
+   },
+   "7050021021988648361": {
+      "message": "Kopiuj URL"
+   },
+   "7050898523853841537": {
+      "message": "Opcje częstotliwości"
+   },
+   "7054631817922169541": {
+      "message": "W Google Keep są niezapisane zmiany. Czy chcesz opuścić stronę i je odrzucić?"
+   },
+   "705714112650622350": {
+      "message": "Podczas dodawania elementu do Dysku Google wystąpił problem."
+   },
+   "7059437903473652416": {
+      "message": "Odtwórz w YouTube film $1​"
+   },
+   "7065454163742312322": {
+      "message": "Więcej kolorów"
+   },
+   "7084324152376766809": {
+      "message": "$1​ dni temu"
+   },
+   "7084991134824194740": {
+      "message": "Przypomnij mi"
+   },
+   "7086801490719148597": {
+      "message": "Wyczyść"
+   },
+   "7106150113490082402": {
+      "message": "Lawenda"
+   },
+   "7126535013613878060": {
+      "message": "Przypinaj ważne notatki do początku strumienia."
+   },
+   "7141983486405549971": {
+      "message": "Insert"
+   },
+   "7145753028985071097": {
+      "message": "Zmieniam kolejność wpisów w notatce"
+   },
+   "7146242673022399081": {
+      "message": "Tekst"
+   },
+   "7148992630785407972": {
+      "message": "Plik jest chroniony hasłem i nie można wyświetlić jego podglądu."
+   },
+   "7153847618034547771": {
+      "message": "Włącz"
+   },
+   "7161134329606048317": {
+      "message": "Zamknij"
+   },
+   "7161718175684624843": {
+      "message": "Usuń etykietę"
+   },
+   "7164532930742017984": {
+      "message": "Każdy użytkownik mający link"
+   },
+   "7166989725427500881": {
+      "message": "Zaznacz usuniętą notatkę"
+   },
+   "7174189954350964804": {
+      "message": "Ponów próbę"
+   },
+   "7174908348310449675": {
+      "message": "Dostosuj domyślne ustawienia przypomnień"
+   },
+   "7181961085183734135": {
+      "message": "Tego pliku nie można drukować"
+   },
+   "7225445911355686176": {
+      "message": "Zaznacz zarchiwizowaną notatkę"
+   },
+   "722702934847795304": {
+      "message": "Project"
+   },
+   "7247530225058410142": {
+      "message": "$2​ $1​"
+   },
+   "7247965266239591227": {
+      "message": "Podczas rozpakowywania pliku „$1​” wystąpił problem."
+   },
+   "7265183966796883739": {
+      "message": "Ukryj zakończone komentarze"
+   },
+   "7278398674737413598": {
+      "message": "Nie udało się przekonwertować dokumentu."
+   },
+   "7278859550373246865": {
+      "message": "{count,plural, =1{Notatka została zarchiwizowana}few{# notatki zostały zarchiwizowane}many{# notatek zostało zarchiwizowanych}other{# notatki zostało zarchiwizowane}}"
+   },
+   "7282548567245878869": {
+      "message": "Element usunięty"
+   },
+   "7290932540630116546": {
+      "message": "Przypomnienie ustawione. $1​"
+   },
+   "7295254213841803546": {
+      "message": "Odrzucić zmiany? Nie zostaną one zapisane."
+   },
+   "7304355547638486270": {
+      "message": "Pobierz dźwięk ($1​)"
+   },
+   "7337660181466605745": {
+      "message": "Nie udało się zaktualizować pliku „$1​” na Dysku."
+   },
+   "7342923890755029722": {
+      "message": "Zamknij"
+   },
+   "734478884582426793": {
+      "message": "Plik skompresowany"
+   },
+   "7345191981142988484": {
+      "message": "Rysunek został usunięty"
+   },
+   "7364571366369083618": {
+      "message": "Wideo"
+   },
+   "7368945547292826843": {
+      "message": "Przejdź do linku"
+   },
+   "7377239345926788722": {
+      "message": "Czynności"
+   },
+   "7382688299146249119": {
+      "message": "Pobierz element"
+   },
+   "7383706174467122149": {
+      "message": "Notatka została usunięta"
+   },
+   "7388342865555961406": {
+      "message": "za $1​ dzień"
+   },
+   "7389099426842546376": {
+      "message": "Funkcja współpracy nie jest teraz dostępna"
+   },
+   "7393771571081973549": {
+      "message": "C"
+   },
+   "7420117636241237177": {
+      "message": "Wiadomości z pliku $1​ zostały rozpakowane do Twojego konta pocztowego z etykietą „Import: $2​”."
+   },
+   "7422452809590461532": {
+      "message": "Czerwony"
+   },
+   "7426603384368095928": {
+      "message": "Wczytaj stronę jeszcze raz, aby zalogować się ponownie i kontynuować pracę."
+   },
+   "7427333772418801813": {
+      "message": "Przycisk „I JESZCZE $1​” został rozwinięty"
+   },
+   "7429084719905985261": {
+      "message": "Objective-C"
+   },
+   "7432956605646331928": {
+      "message": "SQL"
+   },
+   "7440735091552109962": {
+      "message": "$2​ (edytowano $1​)"
+   },
+   "7441891675459021164": {
+      "message": "Zapisuję na Dysku"
+   },
+   "744753705925710199": {
+      "message": "Nie udało się autoryzować tej aplikacji dla wszystkich plików, które chcesz otworzyć. Spróbuj jeszcze raz."
+   },
+   "7452116603589558390": {
+      "message": "Odznacz przypiętą notatkę"
+   },
+   "7458942806393710991": {
+      "message": "Odznacz zarchiwizowaną notatkę"
+   },
+   "7468842863971844562": {
+      "message": "Nowa lista"
+   },
+   "7469895656894091562": {
+      "message": "Ten adres e-mail jest nieprawidłowy"
+   },
+   "7482924911694634213": {
+      "message": "{weekNumber,plural, =1{Powtarza się co miesiąc (1. {day} miesiąca)}=2{Powtarza się co miesiąc (2. {day} miesiąca)}=3{Powtarza się co miesiąc (3. {day} miesiąca)}=4{Powtarza się co miesiąc (4. {day} miesiąca)}few{Powtarza się co miesiąc (ost. {day} miesiąca)}many{Powtarza się co miesiąc (ost. {day} miesiąca)}other{Powtarza się co miesiąc (ost. {day} miesiąca)}}"
+   },
+   "7483088916037874359": {
+      "message": "Plik jest za duży. "
+   },
+   "7488945223835574498": {
+      "message": "PostScript"
+   },
+   "7500786109708143683": {
+      "message": "Dźwięk został usunięty"
+   },
+   "7503234138288940590": {
+      "message": "Szukaj"
+   },
+   "7507827375601925075": {
+      "message": "Przenieś notatkę do następnej/poprzedniej pozycji"
+   },
+   "7530677128711603655": {
+      "message": "Wyniki wyszukiwania zapytania „$1​”"
+   },
+   "754367112212424716": {
+      "message": "Później dzisiaj"
+   },
+   "7564771400033548584": {
+      "message": "{selectedCount,plural, =1{Wybrano #}few{Wybrano #}many{Wybrano #}other{Wybrano #}}"
+   },
+   "7565383798249439151": {
+      "message": "za $1​ dni"
+   },
+   "7579280421767578228": {
+      "message": "Przypomnienie na kiedyś"
+   },
+   "7586291841734385643": {
+      "message": "Wydziel okienko"
+   },
+   "7587936635257676112": {
+      "message": "Dodano: $1​"
+   },
+   "7598582624136632660": {
+      "message": "Otwórz pasek wyszukiwania/znajdź następny"
+   },
+   "7598850438299201663": {
+      "message": "Otwieram plik „$1​”..."
+   },
+   "7604275940271852148": {
+      "message": "Rozpakuj na swoje konto pocztowe"
+   },
+   "7604400308311739073": {
+      "message": "Przypnij"
+   },
+   "7610628906656867728": {
+      "message": "Archiwizuj"
+   },
+   "7610654194202731772": {
+      "message": "Usuń"
+   },
+   "7629685876277801112": {
+      "message": "Podczas wyświetlania tego pliku map wystąpił problem."
+   },
+   "7630723924002267143": {
+      "message": "Skróty klawiszowe są włączone."
+   },
+   "7649506133540465463": {
+      "message": "Nie można cofnąć czynności."
+   },
+   "7656983816661099886": {
+      "message": "Rzeczy"
+   },
+   "7659047104232758352": {
+      "message": "tamten|tamta|tamto|ten|ta|to"
+   },
+   "7669846901402551021": {
+      "message": "Dzisiaj"
+   },
+   "7691521283331762131": {
+      "message": "Tutaj pojawią się zarchiwizowane notatki"
+   },
+   "7709889936233398701": {
+      "message": "Usuń"
+   },
+   "7715735412192018288": {
+      "message": "Pomoc"
+   },
+   "7715892737835649602": {
+      "message": "Możesz też dodawać etykiety, wpisując „#”."
+   },
+   "772000107335590599": {
+      "message": "za $1​ min"
+   },
+   "7734578122414851725": {
+      "message": "PHP"
+   },
+   "773857106517884529": {
+      "message": "Jasnoszary"
+   },
+   "774390292128857049": {
+      "message": "Szukaj"
+   },
+   "7751981235297474273": {
+      "message": "Cofnij"
+   },
+   "7772544658778579390": {
+      "message": "Znajdź w dokumencie"
+   },
+   "777546328624962090": {
+      "message": "Nie możesz przesłać tego pliku. Akceptujemy tylko pliki $1​ mniejsze niż $2​ MB i $3​ Mpix."
+   },
+   "7791050524692390574": {
+      "message": "Kolory"
+   },
+   "7800318069267901681": {
+      "message": "Zmodyfikowany"
+   },
+   "7814778057875152792": {
+      "message": "Podczas przenoszenia załącznika do wybranego folderu na Dysku Google wystąpił problem."
+   },
+   "7822364282298323175": {
+      "message": "Lista została usunięta"
+   },
+   "7828886646639771557": {
+      "message": "Utwórz notatkę…"
+   },
+   "7830513726270865588": {
+      "message": "Kalendarz"
+   },
+   "7842164552344536314": {
+      "message": "Porządkuję..."
+   },
+   "7844842290699524598": {
+      "message": "Osiągnięto limit etykiet. Aby dodać nową, usuń jedną z istniejących."
+   },
+   "7845751753397906805": {
+      "message": "Znaleziono sprzeczne zmiany"
+   },
+   "785840448809859989": {
+      "message": "Opcje godziny"
+   },
+   "7865240075542402013": {
+      "message": "Dodaj gwiazdkę"
+   },
+   "7873060817438017568": {
+      "message": "$2​ · $1​"
+   },
+   "7876831800396633138": {
+      "message": "Tryb pełnoekranowy"
+   },
+   "7889179838401647357": {
+      "message": "Prośba została wysłana. Po jej zatwierdzeniu otrzymasz e-maila."
+   },
+   "7895643887742936844": {
+      "message": "średnik"
+   },
+   "7899913952063063825": {
+      "message": "Obraz został usunięty"
+   },
+   "7901771370781969022": {
+      "message": "Książki"
+   },
+   "7903276896883020622": {
+      "message": "Udostępnianie jest teraz niemożliwe"
+   },
+   "7906726367011430855": {
+      "message": "Podłącz"
+   },
+   "7910887984113996757": {
+      "message": "Włącz udostępnianie"
+   },
+   "7922692430438844436": {
+      "message": "Rozpakuj"
+   },
+   "792315196550007047": {
+      "message": "Brak pasujących wyników."
+   },
+   "7943657844420237650": {
+      "message": "OpenOffice Impress"
+   },
+   "7946114032014914338": {
+      "message": "{repeatSentence}. {endSentence}"
+   },
+   "7947001788143789176": {
+      "message": "Ładuję…"
+   },
+   "7959130747647079558": {
+      "message": "{selectedCount,plural, =1{Zaznaczono # notatkę}few{Zaznaczono # notatki}many{Zaznaczono # notatek}other{Zaznaczono # notatki}}"
+   },
+   "7976461426527138085": {
+      "message": "Listy"
+   },
+   "7988058806865329896": {
+      "message": "Wybierz datę i godzinę"
+   },
+   "7996360883730444101": {
+      "message": "Podczas otwierania tego pliku wystąpił błąd. Spróbuj jeszcze raz."
+   },
+   "8010075936095394680": {
+      "message": "Nieaktualna wersja pliku. Upewnij się, że plik jest w najnowszym formacie. "
+   },
+   "8011497727123874703": {
+      "message": "Przycisk folderu $1​"
+   },
+   "8013687642711017862": {
+      "message": "{NUM_ITEMS_1,plural, =0{unused plural form}=1{Przenosisz 1 element z udostępnionych folderów. Inne osoby utracą do niego dostęp.}few{Przenosisz {NUM_ITEMS_2} elementy z udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}many{Przenosisz {NUM_ITEMS_2} elementów z udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}other{Przenosisz {NUM_ITEMS_2} elementu z udostępnionych folderów. Inne osoby utracą dostęp do przeniesionych elementów.}}"
+   },
+   "8019402848412685977": {
+      "message": "Nazwa została zmieniona z „$2​” na „$1​”."
+   },
+   "8021465164414684024": {
+      "message": "{count,plural, =1{# element usunięty}few{# elementy usunięte}many{# elementów usuniętych}other{# elementu usunięte}}"
+   },
+   "802668096552856965": {
+      "message": "{checkedItemCount,plural, =1{# wykreślona pozycja}few{# wykreślone pozycje}many{# wykreślonych pozycji}other{# wykreślonej pozycji}}"
+   },
+   "8043514121228710092": {
+      "message": "Dodaj obraz"
+   },
+   "8044700199531805239": {
+      "message": "Aplikacja $3​$1​$2​ została połączona."
+   },
+   "8066398070826666542": {
+      "message": "{count,plural, =1{i jeszcze # wykreślona pozycja}few{i jeszcze # wykreślone pozycje}many{i jeszcze # wykreślonych pozycji}other{i jeszcze # wykreślonej pozycji}}"
+   },
+   "8069384932934428393": {
+      "message": "za $1​ minutę"
+   },
+   "8080583426915938264": {
+      "message": "Aplikacje na tym komputerze"
+   },
+   "8085493757603803516": {
+      "message": "Edytuj wybór"
+   },
+   "8090743714060857028": {
+      "message": "Przeglądający nie mogą pobierać"
+   },
+   "8095838445486198080": {
+      "message": "{FILE_SIZE,plural, =0{0 bajtów}=1{1 bajt}few{# bajty}many{# bajtów}other{# bytes}}"
+   },
+   "8111632928339277375": {
+      "message": "{NUM_FOLDERS,plural, =1{Przenieś z jednego folderu}=2{Przenieś z obu folderów}few{Przenieś z # folderów}many{Przenieś z # folderów}other{Przenieś z # folderu}}"
+   },
+   "8125425371755035523": {
+      "message": "Cofnij"
+   },
+   "8126340137798672888": {
+      "message": "Przeniesiono pliki ($1​) z folderu $2​ do folderu $3​."
+   },
+   "8133866583554546341": {
+      "message": "$1​, $2​"
+   },
+   "8135145577663029437": {
+      "message": "Zachowaj obie"
+   },
+   "814178220294444613": {
+      "message": "Dodano pliki ($1​) do folderu $2​."
+   },
+   "8144512434938656483": {
+      "message": "albo"
+   },
+   "8146560259680897627": {
+      "message": "Anuluj"
+   },
+   "8149439558305434788": {
+      "message": "$1​, $2​"
+   },
+   "8159493406018222636": {
+      "message": "Prześlij opinię"
+   },
+   "8174654098152723289": {
+      "message": "Edytuj opis"
+   },
+   "8194941811853358224": {
+      "message": "Podczas usuwania gwiazdki z elementu „$1​” wystąpił problem."
+   },
+   "820664195135544910": {
+      "message": "Pomarańczowy"
+   },
+   "8214941501817169086": {
+      "message": "{count,plural, =1{Usunąć trwale notatkę?}few{Usunąć trwale notatki?}many{Usunąć trwale notatki?}other{Usunąć trwale notatki?}}"
+   },
+   "821942580510564685": {
+      "message": "Aby wyświetlić ten dokument, podaj hasło do niego."
+   },
+   "8223878224920694193": {
+      "message": "Co"
+   },
+   "8224193807932432983": {
+      "message": "Czynności"
+   },
+   "8231449936104909428": {
+      "message": "Podczas przenoszenia elementu „$1​” do wybranego folderu na Dysku wystąpił problem."
+   },
+   "8242655297101700529": {
+      "message": "Mój dysk"
+   },
+   "826433162451399549": {
+      "message": "Jutro"
+   },
+   "8273434617910595878": {
+      "message": "strzałka w dół"
+   },
+   "8281141013543828574": {
+      "message": "Obraz nieskompresowany"
+   },
+   "8304474373444239435": {
+      "message": "Odpowiedź: $1​."
+   },
+   "8305505634689906340": {
+      "message": "Wyszukaj w: „$1​”"
+   },
+   "8322416564157128458": {
+      "message": "Udostępnianie"
+   },
+   "8332720954679654953": {
+      "message": "Pobierz aplikację"
+   },
+   "8334718599538726981": {
+      "message": "Zaktualizowano"
+   },
+   "8337582740675387693": {
+      "message": "Java"
+   },
+   "8342620486324515462": {
+      "message": "Zamknij"
+   },
+   "837692854094319105": {
+      "message": "Tym użytkownikom nie można nic udostępnić, bo ich administrator wyłączył udostępnianie spoza domeny."
+   },
+   "8379952094517631162": {
+      "message": "Nie"
+   },
+   "8409393124758970712": {
+      "message": "$2​ x $1​"
+   },
+   "8412098268689886334": {
+      "message": "Połącz"
+   },
+   "8412306118114780633": {
+      "message": "Odśwież"
+   },
+   "8412733496413412439": {
+      "message": "Brak połączenia"
+   },
+   "84334343973701810": {
+      "message": "Home"
+   },
+   "8452647597930138120": {
+      "message": "Zaznacz komórkę, którą chcesz skomentować"
+   },
+   "8467894483369467251": {
+      "message": "Flash"
+   },
+   "8471029293590878384": {
+      "message": "Wstrzymaj"
+   },
+   "847320208126653829": {
+      "message": "Otwórz wybór koloru i rozmiaru narzędzia do kaligrafii"
+   },
+   "8493378997610580289": {
+      "message": "Więcej skrótów"
+   },
+   "8501142460706022179": {
+      "message": "Domyślna aplikacja natywna"
+   },
+   "8505989225387082493": {
+      "message": "Dodaj etykietę"
+   },
+   "8509270263487836281": {
+      "message": "Zaloguj się"
+   },
+   "8517148045938431718": {
+      "message": "Napraw błędy"
+   },
+   "8535916611285039243": {
+      "message": "Zamknij"
+   },
+   "8591848339430983053": {
+      "message": "Notatki"
+   },
+   "8595175575778060149": {
+      "message": "Więcej"
+   },
+   "8596279649507974639": {
+      "message": "Przenieś tutaj"
+   },
+   "8602525917014156029": {
+      "message": "Miejsca"
+   },
+   "8616342546716995946": {
+      "message": "OK"
+   },
+   "8621067185485606452": {
+      "message": "ECMAScript"
+   },
+   "8626694988569301667": {
+      "message": "Rysowanie jest niedostępne"
+   },
+   "8646821180780920830": {
+      "message": "Etykiety"
+   },
+   "8652657235429996594": {
+      "message": "Wkrótce"
+   },
+   "8660016472468563221": {
+      "message": "dwukropek"
+   },
+   "8663507590720636709": {
+      "message": "$1​ i jeszcze $2​"
+   },
+   "8663993454460982287": {
+      "message": "Pola wyboru są ukryte"
+   },
+   "8674222789100049233": {
+      "message": "Zamknij"
+   },
+   "86815590954366945": {
+      "message": "Lista zarchiwizowanych treści"
+   },
+   "8708723278154759600": {
+      "message": "Notatki zostały zarchiwizowane"
+   },
+   "8711002053494037632": {
+      "message": "Usunięto zaznaczenie wszystkich elementów"
+   },
+   "8734569874711220205": {
+      "message": "Menu nawigacyjne"
+   },
+   "8742388056829916665": {
+      "message": "Wyświetlaj sformatowany podgląd linków"
+   },
+   "8747586020318913818": {
+      "message": "Narzędzie do kaligrafii"
+   },
+   "8770362429333850884": {
+      "message": "Otwarto menu wybierania etykiet"
+   },
+   "8775097441636640256": {
+      "message": "$2​ – $1​"
+   },
+   "8781837301864053001": {
+      "message": "Tekst sformatowany"
+   },
+   "8786673003584562680": {
+      "message": "PgUp"
+   },
+   "8792038552136453044": {
+      "message": "Ups. Coś poszło nie tak"
+   },
+   "8793166064242077041": {
+      "message": "Podczas wyświetlania tego obrazu wystąpił problem."
+   },
+   "8822326207328431952": {
+      "message": "Przesyłanie obrazów jest niedostępne"
+   },
+   "8845176264121061589": {
+      "message": "Odznacz wszystkie elementy"
+   },
+   "8850238112725591771": {
+      "message": "skrót $1​"
+   },
+   "8851252390780816895": {
+      "message": "Dziennik klienta"
+   },
+   "8852550049823214385": {
+      "message": ", to funkcja"
+   },
+   "8860658114732392347": {
+      "message": "Usuń przypomnienie"
+   },
+   "8867634760949689122": {
+      "message": "Nie udało się przekonwertować pliku – upłynął limit czasu konwersji. Spróbuj jeszcze raz później."
+   },
+   "8868758864963683383": {
+      "message": "Odznacz notatkę"
+   },
+   "887001400549949730": {
+      "message": "Otwórz w nowym oknie"
+   },
+   "888015650266122140": {
+      "message": "wystąpieniach"
+   },
+   "8889019648958415451": {
+      "message": "Nieznany plik"
+   },
+   "8892163365003749853": {
+      "message": "Narzędzie do zaznaczania"
+   },
+   "8917554093651202032": {
+      "message": "Odtwórz $1​"
+   },
+   "8919660666733306860": {
+      "message": "Obraz"
+   },
+   "8930959387403789939": {
+      "message": "Przypomnienie"
+   },
+   "8938626240031421092": {
+      "message": "Przełącz pola wyboru"
+   },
+   "8943760679396635042": {
+      "message": "Wyświetlam $1​."
+   },
+   "8953555255469284376": {
+      "message": "Upuść obrazy tutaj"
+   },
+   "8958118622768332570": {
+      "message": "Nie udało się skopiować do Dokumentów Google"
+   },
+   "8975305711699693093": {
+      "message": "Ukryj kolumnę komentarzy"
+   },
+   "8977359195911624009": {
+      "message": "+$1​"
+   },
+   "8979104019474011578": {
+      "message": "{every,plural, =1{Powtarza się co tydzień}few{Powtarza się co # tygodnie}many{Powtarza się co # tygodni}other{Powtarza się co # tygodnia}}"
+   },
+   "8979615310931291676": {
+      "message": "Ostatnia zmiana $1​"
+   },
+   "8988925599985431446": {
+      "message": "Odepnij"
+   },
+   "8999857151110318749": {
+      "message": "Fioletowy"
+   },
+   "900086393693234779": {
+      "message": "Dom"
+   },
+   "9012753183662045049": {
+      "message": "Wpisz krótszą nazwę etykiety"
+   },
+   "9021945828354340363": {
+      "message": "{count,plural, =1{Ta notatka nie będzie Ci już udostępniana.}few{Te notatki nie będą Ci już udostępniane.}many{Te notatki nie będą Ci już udostępniane.}other{Te notatki nie będą Ci już udostępniane.}}"
+   },
+   "9024023699330078373": {
+      "message": "Otwarcie tego elementu spowoduje dodanie go do Dysku"
+   },
+   "9030534135553586694": {
+      "message": "Źródło"
+   },
+   "9058308423774656474": {
+      "message": "Edytor tekstu Hangul"
+   },
+   "9063863448028905602": {
+      "message": "Usuń z wyników"
+   },
+   "9072994494820207560": {
+      "message": "Zaznaczona pozycja"
+   },
+   "9083935734710258396": {
+      "message": "Odrzuć"
+   },
+   "9094248058931620597": {
+      "message": "Panel szczegółów został zwinięty."
+   },
+   "910247501857754225": {
+      "message": "Mocno fioletowy"
+   },
+   "911586799466052745": {
+      "message": "OpenOffice Draw"
+   },
+   "9121915169985572840": {
+      "message": "Zmień kolor"
+   },
+   "9131268871618792263": {
+      "message": "{NUM_ITEMS,plural, =0{unused plural form}=1{unused plural form}few{Użytkownicy Dysków zespołu utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}many{Użytkownicy Dysków zespołu utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}other{Użytkownicy Dysków zespołu utracą dostęp do tych elementów, chyba że zostaną im udostępnione.}}"
+   },
+   "9149141099919589043": {
+      "message": "Wartości rozdzielane przecinkami"
+   },
+   "9156878962731584153": {
+      "message": "Ciemnobrązowy"
+   },
+   "918181312329879123": {
+      "message": "Dodano foldery ($1​) do folderu $2​."
+   },
+   "9197837492705576727": {
+      "message": "Idź do następnego elementu"
+   },
+   "919969969251998566": {
+      "message": "Rozpakuj to archiwum do swojego konta pocztowego."
+   },
+   "9208632284144316801": {
+      "message": "Powtórz"
+   },
+   "9213031420087755232": {
+      "message": "Wyczyść stronę"
+   },
+   "938074023403688885": {
+      "message": "Usuń"
+   },
+   "951963820437151566": {
+      "message": "Witryny Google"
+   },
+   "960732173870658714": {
+      "message": "Dokument z Google Keep"
+   },
+   "976103457024703736": {
+      "message": "Nie udało się otworzyć pliku „$1​”."
+   },
+   "985197728509875956": {
+      "message": "Model chemiczny"
+   },
+   "991852286447868510": {
+      "message": "Szukam hasła $1​"
+   },
+   "996381410993745580": {
+      "message": "Photoshop"
+   },
+   "appDesc": {
+      "description": "App description",
+      "message": "Szybko zapisuj wszystko, co przyjdzie Ci do głowy, i dziel się tym z bliskimi i znajomymi."
+   },
+   "appName": {
+      "description": "App name",
+      "message": "Google Keep – notatki i listy"
+   },
+   "shortName": {
+      "description": "App short name",
+      "message": "Google Keep"
+   }
+}

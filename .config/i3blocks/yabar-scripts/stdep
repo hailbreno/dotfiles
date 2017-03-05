@@ -1,0 +1,114 @@
+#!/bin/bash
+#
+# This script is used to format the file names of TV episodes to a standard name
+# of "ShowName.S#E#.ext", where "S#" denotes the season number, "E#" denotes the
+# episode number, and ".ext" denotes the file extension. This script will only
+# rename videos that have been saved in the format of "#.ext", where "#" is the
+# episode number, and ".ext" is the file extension. 
+#
+# Example
+#
+# Directory structure of ~/Videos/tv/american_dad before running the script:
+#
+#   ls ~/Videos/tv/american_dad
+#   1.mp4   2.mp4   3.mp4
+#
+# User runs the following command:
+#
+#   stdep -n AmericanDad -s 01 -d "~/Videos/tv/american_dad"
+#
+#   -n denotes the TV show's name (AmericanDad)
+#   -s denotes the TV episode's season (01)
+#   -d denotes the directory containing the TV episodes (~/Videos/tv/american_dad)
+#
+# Directory structure of ~/Videos/tv/american_dad after running the script:
+#
+#   ls ~/Videos/tv/american_dad
+#   AmericanDad.S01E01.mp4  AmericanDad.S01E02.mp4  AmericanDad.S01E03.mp4
+#
+# Author: clyde80
+# Website: https://github.com/clyde80
+# Created on: November 27, 2016
+# Updated on: December 22, 2016
+#
+print_help() {
+    echo "Usage: stdep -n [show name] -s [season] -d [directory]"
+    echo
+    echo "  -n      --name      The TV show's name"
+    echo "  -s      --season    The TV episode's season"
+    echo "  -d      --directory The directory containing the TV episodes"
+    echo
+    echo "Type 'stdep -h' to display this help message"
+    echo
+    echo "Author: clyde80"
+    echo "Website: https://github.com/clyde80"
+    echo "Created on: November 27, 2016"
+    echo "Updated on: December 22, 2016"
+}
+
+# If the user did not specify six command line arguments, print the help message
+# and exit.
+if [ $# -ne 6 ]; then
+    print_help
+    exit 0
+fi
+
+tv_show_name=''     # The TV show's name.
+season_number=''    # The TV show's season.
+directory=''        # The directory containing the TV episodes.
+
+# Handle file names with spaces.
+IFS=$'\n'
+
+# Parse the command line arguments (also check for duplicate entries).
+while [ $# -gt 0 ]; do
+    case $1 in
+        "-n"|"--name")
+            if [ ! -z "$tv_show_name" ]; then
+                echo "Duplicate option: $1 $2"
+                exit 1
+            fi
+            tv_show_name=$2; shift; shift;;
+        "-s"|"--season")
+            if [ ! -z "$season_number" ]; then
+                echo "Duplicate option: $1 $2"
+                exit 1
+            fi
+            season_number=$2; shift; shift;;
+        "-d"|"--directory")
+            if [ ! -z "$directory" ]; then
+                echo "Duplicate option: $1 $2"
+                exit 1
+            fi
+            directory=$2; shift; shift;;
+        "-h"|"--help")
+            print_help
+            exit 0;;
+        *)
+            echo "Option $1 not found."
+            exit 1;;
+    esac
+done
+
+# Rename the files.
+for f in $(ls $directory); do
+    old_name=$(basename $f)             # Get the basename of the file (1.mp4)
+    ext=${old_name##*.}                 # Get the file extension of the file (mp4)
+    old_name=${old_name%.*}             # Separate the old name and file extension (1)
+    
+    # Build the file's new name.
+    new_file_name=$tv_show_name         # (Example)
+    new_file_name+=".S$season_number"   # (Example.S01)
+
+    if [ $old_name -lt 10 ]; then
+        new_file_name+="E0$old_name"    # (Example.S01E01)
+    else
+        new_file_name+="E$old_name"
+    fi
+
+    new_file_name+=".$ext"              # (Example.S01E01.mp4)
+
+    echo $new_file_name
+
+    mv $f "$directory/$new_file_name"
+done

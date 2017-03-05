@@ -1,0 +1,24 @@
+{
+   "author": "Amit Agarwal",
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "options.html",
+      "default_title": "Show sender icons in Gmail"
+   },
+   "content_scripts": [ {
+      "js": [ "inboxsdk.js", "content.js" ],
+      "matches": [ "https://mail.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://cdnjs.cloudflare.com; object-src 'self'",
+   "description": "Show sender favicons for Gmail messages",
+   "homepage_url": "https://www.labnol.org",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgBJMblbNiOOgHvJmOnkgHTQ7Filw0KM4VNJholJCp7Y8c8+ECepApzvMdRRk8jlSWwhxJnY6mUyCkOx04dAxDt8KzTlR+wJyMbpEKfbWy70NBuUqKnuYwJDvyqtOj/4FH4gV7iQXcEldUjjblqAOGAMP8YOsRZEAkgvgkJKDOGkFZT+JU5h24N9TOfYOu0VvIxFFc8thqy7GTp+pTnQAsRd8yiXhnaI68cnSCbjSdfuaQkGsUpGwWHfiwTQz+ivKv3VxJ1RdhR/ysYyZQrXF4JkpcS8Bf/6jnlV/5PtqUwUgUc+vkhdgFYDIlJWwSL8yYzfJiKsqbi1PnFJXv5wR3wIDAQAB",
+   "manifest_version": 2,
+   "name": "Gmail Sender Icons",
+   "permissions": [ "storage", "https://mail.google.com/" ],
+   "short_name": "GmailSenderIcons",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "web_accessible_resources": [ "*" ]
+}

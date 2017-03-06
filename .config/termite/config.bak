@@ -39,36 +39,38 @@ foreground_bold = #ffffff
 #background = #3f3f3f
 
 # background transparency (requires a compositor)
-background = rgba(16, 8, 17, 0.85)
+background = rgba(0, 0, 0, 0.85)
 
-# black
-color0  = #1a101c
-color8  = #e191ee
+# if unset, will reverse foreground and background
+#highlight = #2f2f2f
 
-# red
-color1  = #251827
-color9  = #f57491
+# colors from color0 to color254 can be set
+color0 = #3f3f3f
+color1 = #705050
+color2 = #60b48a
+color3 = #dfaf8f
+color4 = #506070
+color5 = #dc8cc3
+color6 = #8cd0d3
+color7 = #dcdccc
+color8 = #709080
+color9 = #dca3a3
+color10 = #c3bf9f
+color11 = #f0dfaf
+color12 = #94bff3
+color13 = #ec93d3
+color14 = #93e0e3
+color15 = #ffffff
 
-# green
-color2  = #39283d
-color10 = #e9c16e
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
 
-# yellow
-color3  = #563d5b
-color11 = #de97ea
-
-# blue
-color4  = #7a5880
-color12 = #64b0a8
-
-# magenta
-color5  = #a579ad
-color13 = #fbb7c3
-
-# cyan
-color6  = #c5a9cb
-color14 = #dab051
-
-# white
-color7  = #e9dfeb
-color15 = #e374f3
+# vim: ft=dosini cms=#%s

@@ -24,14 +24,7 @@ command=~/.config/i3blocks/scripts/disk
 interval=60
 
 [separator]
-color=#FFD135
-
-[volume]
-label=
-command=~/.config/i3blocks/scripts/volume
-instance=Master
-signal=10
-
+#color=#FFD135
 
 [wifi]
 label=
@@ -43,6 +36,11 @@ interval=1
 
 [separator]
 
+[volume]
+label=
+command=~/.config/i3blocks/scripts/volume
+instance=Master
+signal=10
 
 [battery]
 command=/home/breno/.config/i3blocks/yabar-scripts/battery
@@ -50,7 +48,7 @@ markup=pango
 interval=30
 
 [separator]
-color=#FFD135
+#color=#FFD135
 
 [date]
 label=

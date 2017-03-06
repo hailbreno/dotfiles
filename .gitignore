@@ -10,3 +10,4 @@ vim-ide
 .pki
 .viminfy.tmp
 .viminfz.tmp
+.config/mopidy

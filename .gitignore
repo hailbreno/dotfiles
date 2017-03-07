@@ -10,3 +10,4 @@ vim-ide
 .pki
 .vimin*
 .config/mopidy
+.vim

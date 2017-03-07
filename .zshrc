@@ -88,3 +88,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ss="import -window root"
 alias comp="g++ -o"
+alias pac="sudo pacman -S"
+alias mount="sudo mount"
+alias umount="sudo umount"
+alias windrive="mount /dev/sda4 /mnt/media"

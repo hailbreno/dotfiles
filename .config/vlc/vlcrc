@@ -2174,6 +2174,83 @@
 # Video output modules (string)
 #clone-vout-list=
 
+[qt4] # Qt interface
+
+# Start in minimal view (without menus) (boolean)
+#qt-minimal-view=0
+
+# Systray icon (boolean)
+#qt-system-tray=1
+
+# Show notification popup on track change (integer)
+#qt-notification=1
+
+# Start VLC with only a systray icon (boolean)
+#qt-start-minimized=0
+
+# Pause the video playback when minimized (boolean)
+#qt-pause-minimized=0
+
+# Windows opacity between 0.1 and 1 (float)
+#qt-opacity=1.000000
+
+# Fullscreen controller opacity between 0.1 and 1 (float)
+#qt-fs-opacity=0.800000
+
+# Resize interface to the native video size (boolean)
+#qt-video-autoresize=1
+
+# Show playing item name in window title (boolean)
+#qt-name-in-title=1
+
+# Show a controller in fullscreen mode (boolean)
+#qt-fs-controller=1
+
+# Save the recently played items in the menu (boolean)
+#qt-recentplay=1
+
+# List of words separated by | to filter (string)
+#qt-recentplay-filter=
+
+# Continue playback? (integer)
+#qt-continue=1
+
+# Embed the file browser in open dialog (boolean)
+#qt-embedded-open=0
+
+# Show advanced preferences over simple ones (boolean)
+#qt-advanced-pref=0
+
+# Show unimportant error and warnings dialogs (boolean)
+#qt-error-dialogs=1
+
+# Define the colors of the volume slider  (string)
+#qt-slider-colours=153;210;153;20;210;20;255;199;15;245;39;29
+
+# Ask for network policy at start (boolean)
+qt-privacy-ask=0
+
+# Define which screen fullscreen goes (integer)
+#qt-fullscreen-screennumber=-1
+
+# Load extensions on startup (boolean)
+#qt-autoload-extensions=1
+
+# Display background cone or art (boolean)
+#qt-bgcone=1
+
+# Expanding background cone or art. (boolean)
+#qt-bgcone-expands=0
+
+# Allow automatic icon changes (boolean)
+#qt-icon-change=1
+
+# Maximum Volume displayed (integer)
+#qt-max-volume=125
+
+# Fullscreen controller mouse sensitivity (integer)
+#qt-fs-sensitivity=3
+
 [skins2] # Skinnable Interface
 
 # Skin to use (string)
@@ -2567,7 +2644,7 @@ skins2-last=/usr/share/vlc/skins2/default.vlt
 [freetype] # Freetype2 font renderer
 
 # Font (string)
-#freetype-font=Serif Bold
+freetype-font=DejaVu Sans
 
 # Monospace Font (string)
 #freetype-monofont=Monospace
@@ -2582,7 +2659,7 @@ skins2-last=/usr/share/vlc/skins2/default.vlt
 #freetype-opacity=255
 
 # Text default color (integer)
-#freetype-color=16777215
+freetype-color=16776960
 
 # Force bold (boolean)
 #freetype-bold=0
@@ -4012,7 +4089,7 @@ skins2-last=/usr/share/vlc/skins2/default.vlt
 #auto-preparse=1
 
 # Allow metadata network access (boolean)
-#metadata-network-access=0
+metadata-network-access=1
 
 # Services discovery modules (string)
 #services-discovery=

@@ -8,10 +8,5 @@ documents
 vim-ide
 .zsh_history
 .pki
-<<<<<<< HEAD
 .vimin*
-=======
-.viminfy.tmp
-.viminfz.tmp
 .config/mopidy
->>>>>>> 68c48fdf812e169bfdc6ad6f849db2514ac21550

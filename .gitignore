@@ -8,5 +8,4 @@ documents
 vim-ide
 .zsh_history
 .pki
-.viminfy.tmp
-.viminfz.tmp
+.vimin*

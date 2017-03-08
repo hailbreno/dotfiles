@@ -42,33 +42,34 @@ foreground_bold = #ffffff
 background = rgba(16, 8, 17, 0.85)
 
 # black
-color0  = #060306
-color8  = #c0b470
+color0  = #1a101c
+color8  = #e191ee
 
 # red
-color1  = #1b0f19
-color9  = #8e9fd6
+color1  = #89199b
+color9  = #f57491
 
 # green
-color2  = #321f2e
-color10 = #84d89c
+color2  = #39283d
+color10 = #e9c16e
 
 # yellow
-color3  = #51344c
-color11 = #efb0e3
+color3  = #563d5b
+color11 = #de97ea
 
 # blue
-color4  = #795071
-color12 = #86cacd
+color4  = #7a5880
+color12 = #64b0a8
 
 # magenta
-color5  = #a8719e
-color13 = #bfc8ea
+color5  = #a579ad
+color13 = #fbb7c3
 
 # cyan
-color6  = #cba3c4
-color14 = #d3c56b
+color6  = #c5a9cb
+color14 = #dab051
 
 # white
-color7  = #ecdfe9
-color15 = #ddce6c
+color7  = #e9dfeb
+color15 = #e374f3
+

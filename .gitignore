@@ -11,3 +11,4 @@ vim-ide
 .vimin*
 .config/mopidy
 .vim
+.gnome/apps

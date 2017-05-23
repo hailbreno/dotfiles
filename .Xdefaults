@@ -1,0 +1,66 @@
+!! Appearance
+urxvt.termName: rxvt-unicode
+urxvt.scrollBar: false
+!! urxvt.background: black
+!! urxvt.foreground: gray
+!! Font prefferenes
+urxvt.font: xft:Hack:pixelsize=12
+urxvt.boldFont: xft:Hack:pixelsize=12:weight=bold
+urxvt.letterSpace: -1
+!! Larger history limit
+urxvt.saveLines: 1000000
+
+!! Perl extensions
+urxvt.perl-ext-common: default,matcher
+!! Open urls in browser with Control-Click
+urxvt.url-launcher: /usr/bin/google-chrome-stable
+urxvt.matcher.button: 1
+urxvt.matcher..rend.0: Uline Bold fg5
+!! Change font size on Control-Plus/Minus
+URxvt.keysym.Control-0x2b: perl:font-size:increase
+URxvt.keysym.Control-0x2d: perl:font-size:decrease
+
+!! Yeah, I am one of those, who use these keys in Vim :-(
+urxvt.keysym.Home:          \033[1~
+urxvt.keysym.End:           \033[4~
+urxvt.keysym.Control-Up:    \033[1;5A
+urxvt.keysym.Control-Down:  \033[1;5B
+urxvt.keysym.Control-Left:  \033[1;5D
+urxvt.keysym.Control-Right: \033[1;5C
+
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc342b
+*.color9:       #cc342b
+
+! green
+*.color2:       #198844
+*.color10:      #198844
+
+! yellow
+*.color3:       #fba922
+*.color11:      #fba922
+
+! blue
+*.color4:       #3971ed
+*.color12:      #3971ed
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #3971ed
+*.color14:      #3971ed
+
+! white
+*.color7:       #c5c8c6
+*.color15:      #ffffff

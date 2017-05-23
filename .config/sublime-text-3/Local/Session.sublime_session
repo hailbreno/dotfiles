@@ -180,12 +180,14 @@
 			},
 			"file_history":
 			[
+				"/home/breno/.config/polybar/config",
+				"/home/breno/.Xdefaults",
 				"/home/breno/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 				"/home/breno/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -219,16 +221,11 @@
 					"sheets":
 					[
 					]
-				},
-				{
-					"sheets":
-					[
-					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -243,18 +240,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -269,11 +259,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,20,39,1346,614,1366,768",
+			"position": "0,0,0,0,0,688,47,1356,758,1366,768",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":

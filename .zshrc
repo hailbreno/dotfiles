@@ -1,8 +1,10 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+export TERM="xterm-256color"
+
 # Path to your oh-my-zsh installation.
-  export ZSH=/home/breno/.oh-my-zsh
+export ZSH=/home/breno/.oh-my-zsh
 
 # Deafult editor
 export VISUAL="nano"
@@ -91,6 +93,10 @@ alias comp="g++ -o"
 alias pac="sudo pacman -S"
 alias mount="sudo mount"
 alias umount="sudo umount"
-alias windrive="mount /dev/sda4 /mnt/media"
+alias windrive="mount /dev/sda4 /media"
 alias pacyu="sudo pacman -Syu"
 alias pacr="sudo pacman -Rns"
+alias reboot="sudo reboot"
+alias shutdown="sudo shutdown now"
+alias mountefi="sudo mount /dev/sda2 /boot/efi"
+alias wifi="sudo wifi-menu"

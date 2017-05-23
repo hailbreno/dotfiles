@@ -32,44 +32,46 @@ filter_unmatched_urls = true
 #modify_other_keys = false
 
 [colors]
-cursor = #dcdccc
-cursor_foreground = #dcdccc
-foreground = #dcdccc
-foreground_bold = #ffffff
-#background = #3f3f3f
+
+# special
+cursor = #c5c8c6
+cursor_foreground = #c5c8c6
+foreground = #c5c8c6
+foreground_bold = #c5c8c6
+background = #1d1f21
 
 # background transparency (requires a compositor)
-background = rgba(16, 8, 17, 0.85)
+# background = rgba(16, 8, 17, 0.85)
 
 # black
-color0  = #1a101c
-color8  = #e191ee
+color0  = #1d1f21
+color8  = #969896
 
 # red
-color1  = #89199b
-color9  = #f57491
+color1  = #cc342b
+color9  = #cc342b
 
 # green
-color2  = #39283d
-color10 = #e9c16e
+color2  = #198844
+color10 = #198844
 
 # yellow
-color3  = #563d5b
-color11 = #de97ea
+color3  = #fba922
+color11 = #fba922
 
 # blue
-color4  = #7a5880
-color12 = #64b0a8
+color4  = #3971ed
+color12 = #3971ed
 
 # magenta
-color5  = #a579ad
-color13 = #fbb7c3
+color5  = #a36ac7
+color13 = #a36ac7
 
 # cyan
-color6  = #c5a9cb
-color14 = #dab051
+color6  = #3971ed
+color14 = #3971ed
 
 # white
-color7  = #e9dfeb
-color15 = #e374f3
+color7  = #c5c8c6
+color15 = #ffffff
 

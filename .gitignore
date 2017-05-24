@@ -12,3 +12,4 @@ vim-ide
 .config/mopidy
 .vim
 .gnome/apps
+.mozilla/*

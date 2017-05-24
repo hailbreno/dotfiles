@@ -2,6 +2,7 @@
 ! ROFI Color theme
 ! Copyright: Rasmus Steinke
 ! ------------------------------------------------------------------------------
+rofi.font: boxxy 12
 rofi.color-enabled: true
 rofi.color-window: #1d1f21, #1d1f21, #1e2529
 rofi.color-normal: #1d1f21, #c1c1c1, #1d1f21, #394249, #ffffff

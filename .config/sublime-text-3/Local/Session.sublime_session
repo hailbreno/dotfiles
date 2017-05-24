@@ -147,6 +147,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/breno/.config/polybar/config",
+					"settings":
+					{
+						"buffer_size": 8607,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -218,8 +227,37 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/breno/.config/polybar/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8607,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7908,
+										7908
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5644.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -259,7 +297,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,688,47,1356,758,1366,768",
+			"position": "0,0,0,0,0,10,47,1356,758,1366,768",
 			"project": "",
 			"replace":
 			{

@@ -1,5 +1,5 @@
 ﻿###
-###  vlc 2.2.4
+###  vlc 2.2.5.1
 ###
 
 ###
@@ -1675,11 +1675,6 @@
 # Discontinuous Transmission (boolean)
 #sout-speex-dtx=0
 
-[gstdecode] # GStreamer Based Decoder
-
-# Use DecodeBin (boolean)
-#use-decodebin=0
-
 [gnutls] # GNU TLS transport layer security
 
 # TLS cipher priorities (string)
@@ -2407,7 +2402,7 @@ skins2-last=/usr/share/vlc/skins2/default.vlt
 #sout-avi-subject=
 
 # Encoder (string)
-#sout-avi-encoder=VLC Media Player - 2.2.4 Weatherwax
+#sout-avi-encoder=VLC Media Player - 2.2.5.1 Umbrella
 
 # Keywords (string)
 #sout-avi-keywords=
@@ -2680,7 +2675,7 @@ freetype-color=16776960
 #freetype-outline-thickness=4
 
 # Shadow opacity (integer)
-#freetype-shadow-opacity=128
+freetype-shadow-opacity=0
 
 # Shadow color (integer)
 #freetype-shadow-color=0
@@ -2815,7 +2810,7 @@ freetype-color=16776960
 #lua-config=
 
 # Password (string)
-#http-password=
+http-password=1234
 
 # Source directory (string)
 #http-src=
@@ -3810,7 +3805,7 @@ freetype-color=16776960
 #audio-language=
 
 # Subtitle language (string)
-#sub-language=
+sub-language=en, pt
 
 # Menu language (string)
 #menu-language=
@@ -4029,7 +4024,7 @@ freetype-color=16776960
 #packetizer=
 
 # VoD server module (string)
-#vod-server=
+vod-server=any
 
 # Use a plugins cache (boolean)
 #plugins-cache=1
@@ -4119,7 +4114,7 @@ metadata-network-access=1
 #intf=
 
 # Extra interface modules (string)
-#extraintf=
+extraintf=http
 
 # Control interfaces (string)
 #control=

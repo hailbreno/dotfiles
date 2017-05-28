@@ -13,3 +13,5 @@ vim-ide
 .vim
 .gnome/apps
 .mozilla/*
+.config/Foxit \Software
+.config/codeblocks

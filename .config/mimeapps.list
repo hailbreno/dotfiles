@@ -1,0 +1,5 @@
+[Default Applications]
+x-scheme-handler/tg=telegramdesktop.desktop
+application/pdf=FoxitReader.desktop
+application/ppdf=FoxitReader.desktop
+application/octet-stream=FoxitReader.desktop

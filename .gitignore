@@ -16,3 +16,4 @@ vim-ide
 .config/Foxit \Software
 .config/codeblocks/*
 .config/pulse/*
+.wget-hsts

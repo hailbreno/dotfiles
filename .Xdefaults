@@ -5,7 +5,7 @@ urxvt.scrollBar: false
 !! urxvt.foreground: gray
 !! Font prefferenes
 urxvt.font: xft:boxxy:pixelsize=12, xft:Terminus:pixelsize=12
-urxvt.boldFont: xft:boxyy:pixelsize=12, xft:Terminus:pixelsize=12
+urxvt.boldFont: xft:boxxy:pixelsize=12, xft:Terminus:pixelsize=12
 urxvt.letterSpace: 0
 !! Larger history limit
 urxvt.saveLines: 1000000

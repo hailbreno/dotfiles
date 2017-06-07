@@ -1,1 +1,0 @@
-/home/breno/.vim/vimrc

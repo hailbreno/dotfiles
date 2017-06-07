@@ -1,7 +1,7 @@
 setxkbmap br
 sh ~/.fehbg &
 dunst &
-telegram-desktop -startintray &
 compton --config ~/.config/compton/compton.conf &
+sudo mount /dev/sda4 /mnt/windrive
 transmission-daemon
 exec i3

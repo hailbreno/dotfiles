@@ -26,6 +26,9 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 bindsym XF86MonBrightnessUp   exec light -A 1 # increase screen brightness
 bindsym XF86MonBrightnessDown exec light -U 1 # decrease screen brightness
 
+# take a screenshot
+bindsym Print exec scrot ~/screenshots/%b%d_%H%M%S.png
+
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
@@ -135,7 +138,10 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+# Executa coisas que entram no tray depois da barra (não usar
+# .xinitrc
 exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec telegram-desktop -startintray
 
 # os famigerado ~gaps~
 for_window [class="^.*"] border pixel 0

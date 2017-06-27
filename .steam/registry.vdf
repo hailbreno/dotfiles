@@ -1,0 +1,38 @@
+"Registry"
+{
+	"HKLM"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"SteamPID"		"0"
+					"TempAppCmdLine"		""
+					"TempAppPath"		""
+				}
+			}
+		}
+	}
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"language"		"english"
+					"AutoLoginUser"		"breno_dk"
+					"RememberPassword"		"1"
+					"SourceModInstallPath"		"/home/breno/.local/share/Steam/steamapps\sourcemods"
+					"Rate"		"30000"
+					"TempAppCmdLine"		""
+					"TempAppPath"		""
+					"AlreadyRetriedOfflineMode"		"0"
+				}
+			}
+		}
+	}
+}

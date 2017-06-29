@@ -21,3 +21,4 @@ screenshots
 .android
 .config/ranger
 devices
+.config/dconf

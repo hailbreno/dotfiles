@@ -22,3 +22,5 @@ screenshots
 .config/ranger
 devices
 .config/dconf
+video
+.config/transmission-daemon

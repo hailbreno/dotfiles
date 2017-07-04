@@ -24,3 +24,5 @@ devices
 .config/dconf
 video
 .config/transmission-daemon
+pictures
+.config/vlc

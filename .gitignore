@@ -28,3 +28,5 @@ pictures
 .config/vlc
 .gimp-2.8
 .thumbnails
+.npm
+.config/configstore

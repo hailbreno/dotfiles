@@ -3,6 +3,7 @@
 .cache
 .local/share
 downloads
+Downloads
 music
 documents
 vim-ide

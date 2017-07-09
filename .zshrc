@@ -116,5 +116,5 @@ alias today="wunderline today"
 alias week="wunderline week"
 alias past="wunderline overdue"
 alias emacs="emacs -nw"
-
+alias zshbuild="source ~/.zshrc"
 eval $(thefuck --alias)

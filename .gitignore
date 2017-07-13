@@ -32,3 +32,5 @@ pictures
 .npm
 .config/configstore
 .steam
+.config/autostart
+.config/Cutegram

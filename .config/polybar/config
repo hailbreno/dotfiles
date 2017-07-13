@@ -30,11 +30,11 @@ fixed-center = false
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 3
+line-size = 2
 line-color = #f00
 
 border-size = 10
-border-bottom-size = 5
+border-bottom-size = 0
 border-color = #00000000
 
 padding-left = 0
@@ -47,7 +47,7 @@ font-0 = fixed:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = bspwm i3
+modules-left = i3 xwindow
 modules-center = mpd
 modules-right = xkeyboard filesystem volume memory cpu wlan eth battery temperature date powermenu
 
@@ -78,7 +78,7 @@ format-underline = #0af477
 
 [module/xwindow]
 type = internal/xwindow
-label = %title:0:30:...%
+label = %title:0:200:...%
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -305,6 +305,7 @@ type = internal/battery
 battery = BAT0
 adapter = ADP0
 full-at = 98
+time-format = %H:%M
 
 format-charging = <animation-charging> <label-charging>
 format-charging-underline = #ffb52a
@@ -315,6 +316,22 @@ format-discharging-underline = ${self.format-charging-underline}
 format-full-prefix = " "
 format-full-prefix-foreground = ${colors.foreground-alt}
 format-full-underline = ${self.format-charging-underline}
+
+; Available tokens:
+;   %percentage% (default)
+;   %time%
+;   %consumption% (shows current charge rate in watts)
+label-charging = %percentage%% %time%
+
+; Available tokens:
+;   %percentage% (default)
+;   %time%
+;   %consumption% (shows current discharge rate in watts)
+label-discharging = %percentage%% ~ %time%
+
+; Available tokens:
+;   %percentage% (default)
+label-full = Fully charged
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 

@@ -1,0 +1,8 @@
+XDG_DESKTOP_DIR="~/"
+XDG_DOWNLOAD_DIR="~/downloads"
+XDG_TEMPLATES_DIR="~/"
+XDG_PUBLICSHARE_DIR="~/shared/"
+XDG_DOCUMENTS_DIR="~/documents"
+XDG_MUSIC_DIR="~/music"
+XDG_PICTURES_DIR="~/pictures"
+XDG_VIDEOS_DIR="~/video"

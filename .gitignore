@@ -35,3 +35,7 @@ pictures
 .config/autostart
 .config/Cutegram
 .config/gtk-2.0
+.java
+.minecraft
+.minecraft\\servers.dat
+games

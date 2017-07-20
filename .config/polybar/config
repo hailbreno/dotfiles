@@ -53,7 +53,7 @@ modules-right = xkeyboard filesystem volume memory cpu temperature wlan eth batt
 
 tray-position = right
 tray-padding = 2
-;tray-transparent = true
+tray-transparent = true
 ;tray-background = #0063ff
 
 ;wm-restack = bspwm
@@ -78,7 +78,7 @@ format-underline = #0af477
 
 [module/xwindow]
 type = internal/xwindow
-label = %title:0:100:...%
+label = %title:0:50:...%
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -102,10 +102,12 @@ type = internal/fs
 interval = 25
 
 mount-0 = /
+;mount-0 = 
 
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %free% free
+label-mounted = %{F#0a81f5}%{F-} %free% free
 label-unmounted = %mountpoint% not mounted
 label-unmounted-foreground = ${colors.foreground-alt}
+format-mounted-underline = #0a81f5
 
 [module/bspwm]
 type = internal/bspwm
@@ -260,11 +262,11 @@ format-disconnected =
 type = internal/date
 interval = 5
 
-;date = 
-date = " %d/%m/%Y"
+date = 
+date-alt = " %d/%m/%Y "
 
-time = %H:%M
-time-alt = %H:%M:%S
+time =%H:%M
+time-alt = %H:%M
 
 format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
@@ -275,13 +277,16 @@ label = %date% %time%
 [module/volume]
 type = internal/volume
 
-format-volume = <label-volume> <bar-volume>
-label-volume = VOL
+format-volume = <ramp-volume> <label-volume>
+; <bar-volume>
+label-volume = %percentage%%
 label-volume-foreground = ${root.foreground}
 
 format-muted-prefix = " "
 format-muted-foreground = ${colors.foreground-alt}
-label-muted = sound muted
+format-volume-underline = #ff00ee
+format-muted-underline = #ff00ee
+label-muted = muted
 
 bar-volume-width = 10
 bar-volume-foreground-0 = #55aa55
@@ -299,6 +304,12 @@ bar-volume-fill-font = 2
 bar-volume-empty = ─
 bar-volume-empty-font = 2
 bar-volume-empty-foreground = ${colors.foreground-alt}
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+
+ramp-volume-foreground = ${colors.foreground-alt}
 
 [module/battery]
 type = internal/battery
@@ -327,7 +338,8 @@ label-charging = %percentage%% ~ %time%
 ;   %percentage% (default)
 ;   %time%
 ;   %consumption% (shows current discharge rate in watts)
-label-discharging = %percentage%% ~ %time%
+label-discharging = %percentage%%  %time%
+label-discharging-alt = %time%
 
 ; Available tokens:
 ;   %percentage% (default)

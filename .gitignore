@@ -42,3 +42,5 @@ vim-ide
 .snes9x
 .klei
 .config/cef_user_data
+.gnupg
+.config/unity3d

@@ -150,7 +150,7 @@ exec_always --no-startup-id ~/.config/polybar/launch.sh
 exec telegram-desktop -startintray
 
 # os famigerado ~gaps~
-for_window [class="^.*"] border pixel 0 ff0000
+for_window [class="^.*"] border pixel 0
 gaps inner          10
 gaps outer          0
 

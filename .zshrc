@@ -118,4 +118,5 @@ alias past="wunderline overdue"
 alias emacs="emacs -nw"
 alias zshbuild="source ~/.zshrc"
 alias nettest="ping 8.8.8.8"
+alias x="startx"
 eval $(thefuck --alias)

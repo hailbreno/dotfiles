@@ -6,8 +6,8 @@ urxvt.scrollBar: false
 !! urxvt.background: black
 !! urxvt.foreground: gray
 !! Font prefferenes
-urxvt.font: xft:boxxy:pixelsize=12, xft:Terminus:pixelsize=12
-urxvt.boldFont: xft:boxxy:pixelsize=12, xft:Terminus:pixelsize=12
+urxvt.font: xft:terminus:pixelsize=10
+urxvt.boldFont: xft:Terminus:pixelsize=10
 urxvt.letterSpace: 0
 !! Larger history limit
 urxvt.saveLines: 1000000

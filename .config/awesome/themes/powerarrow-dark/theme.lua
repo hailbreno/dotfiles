@@ -1,20 +1,15 @@
-
---[[
-     Powerarrow Dark Awesome WM theme
-     github.com/copycat-killer
-
---]]
-
-local gears = require("gears")
-local lain  = require("lain")
-local awful = require("awful")
-local wibox = require("wibox")
-local os    = { getenv = os.getenv }
+local gears           = require("gears")
+local lain            = require("lain")
+local awful           = require("awful")
+local wibox           = require("wibox")
+local calendar        = require("calendar")
+local vicious         = require("vicious")
+local os              = { getenv = os.getenv }
 
 local theme                                     = {}
 theme.icon_theme                                = "Numix"
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/powerarrow-dark"
-theme.wallpaper                                 = theme.dir .. "/wall.png"
+theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/pixelcity.png"
 theme.font                                      = "montecarlo 8"
 theme.fg_normal                                 = "#ffffff"
 theme.fg_focus                                  = "#ffffff"
@@ -27,7 +22,7 @@ theme.border_normal                             = "#3F3F3F"
 theme.border_focus                              = "#7F7F7F"
 theme.border_marked                             = "#CC9393"
 theme.tasklist_bg_focus                         = "#1A1A1A"
-theme.titlebar_bg_focus                         = "#3971ED"
+theme.titlebar_bg_focus                         = "#00A088"
 theme.titlebar_bg_normal                        = theme.bg_normal
 theme.titlebar_fg_focus                         = theme.fg_focus
 theme.menu_height                               = 16
@@ -99,15 +94,7 @@ local clock = awful.widget.watch(
 )
 
 -- Calendar
-theme.cal = lain.widget.calendar({
-    attach_to = { clock.widget },
-    icons = "",
-    notification_preset = {
-        font = "montecarlo 8",
-        fg   = theme.fg_normal,
-        bg   = theme.bg_normal
-    }
-})
+calendar({}):attach(clock)
 
 -- Mail IMAP check
 local mailicon = wibox.widget.imagebox(theme.widget_mail)
@@ -170,7 +157,7 @@ theme.mpd = lain.widget.mpd({
 local memicon = wibox.widget.imagebox(theme.widget_mem)
 local mem = lain.widget.mem({
     settings = function()
-        widget:set_markup(markup.font(theme.font, " " .. mem_now.used .. "MB "))
+        widget:set_markup(markup.font(theme.font, " " .. mem_now.perc .. "% "))
     end
 })
 
@@ -244,6 +231,9 @@ theme.volume = lain.widget.alsa({
 
 -- Net
 local neticon = wibox.widget.imagebox(theme.widget_net)
+wifiwidget = wibox.widget.textbox()
+vicious.register(wifiwidget, vicious.widgets.wifi, ' <span font="montecarlo 8">${ssid} </span>', 2, "wlp8s0")
+--[[--]]
 local net = lain.widget.net({
     settings = function()
         widget:set_markup(markup.font(theme.font,
@@ -252,6 +242,7 @@ local net = lain.widget.net({
                           markup("#46A8C3", " " .. net_now.sent .. " ")))
     end
 })
+--]]
 
 -- Separators
 local spr     = wibox.widget.textbox(' ')
@@ -270,7 +261,7 @@ function theme.at_screen_connect(s)
     gears.wallpaper.maximized(wallpaper, s, true)
 
     -- Tags
-    awful.tag(awful.util.tagnames, s, awful.layout.layouts)
+    awful.tag(awful.util.tagnames, s, awful.layout.layouts[1])
 
     -- Create a promptbox for each screen
     s.mypromptbox = awful.widget.prompt()
@@ -333,6 +324,7 @@ function theme.at_screen_connect(s)
             arrl_ld,
             wibox.container.background(neticon, theme.bg_focus),
             wibox.container.background(net.widget, theme.bg_focus),
+            wibox.container.background(wifiwidget, theme.bg_focus),
             arrl_dl,
             clock,
             spr,

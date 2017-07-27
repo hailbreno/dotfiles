@@ -9,6 +9,8 @@ local wibox         = require("wibox")
 local beautiful     = require("beautiful")
 local naughty       = require("naughty")
 local lain          = require("lain")
+local remote        = require("awful.remote")
+local screenful     = require("screenful")
 --local menubar       = require("menubar")
 local freedesktop   = require("freedesktop")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
@@ -54,11 +56,14 @@ run_once({ "unclutter -root" }) -- entries must be comma-separated
 local chosen_theme = "powerarrow-dark"
 local modkey       = "Mod4"
 local altkey       = "Mod1"
+local volup        = "XF86AudioRaiseVolume"
+local voldown      = "XF86AudioLowerVolume"
+local volmute      = "XF86AudioMute"
 local terminal     = "urxvt"
 local editor       = os.getenv("EDITOR") or "nano"
 local gui_editor   = "gvim"
 local browser      = "firefox"
-
+local launcher     = "rofi -show run -font \"terminus 8\" -width \"42\" -hide-scrollbar"
 awful.util.terminal = terminal
 awful.util.tagnames = { "1", "2", "3", "4", "5" }
 awful.layout.layouts = {
@@ -205,7 +210,7 @@ globalkeys = awful.util.table.join(
     awful.key({ altkey }, "p", function() os.execute("screenshot") end),
 
     -- Hotkeys
-    awful.key({ modkey,           }, "s",      hotkeys_popup.show_help,
+    awful.key({ modkey,           }, "h",      hotkeys_popup.show_help,
               {description="show help", group="awesome"}),
     -- Tag browsing
     awful.key({ modkey, "Control" }, "Left",   awful.tag.viewprev,
@@ -340,69 +345,36 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey, }, "z", function () awful.screen.focused().quake:toggle() end),
 
     -- Widgets popups
-    awful.key({ altkey, }, "c", function () lain.widget.calendar.show(7) end),
+    -- awful.key({ altkey, }, "c", function () lain.widget.calendar.show(7) end),
     awful.key({ altkey, }, "h", function () if beautiful.fs then beautiful.fs.show(7) end end),
     awful.key({ altkey, }, "w", function () if beautiful.weather then beautiful.weather.show(7) end end),
 
     -- ALSA volume control
-    awful.key({ altkey }, "Up",
+--    awful.key({ altkey }, "Up",
+    awful.key({ }, "XF86AudioRaiseVolume",
         function ()
             os.execute(string.format("amixer -q set %s 1%%+", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ altkey }, "Down",
+    awful.key({ }, "XF86AudioLowerVolume",
         function ()
             os.execute(string.format("amixer -q set %s 1%%-", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ altkey }, "m",
+    awful.key({ }, "XF86AudioMute",
         function ()
             os.execute(string.format("amixer -q set %s toggle", beautiful.volume.togglechannel or beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ altkey, "Control" }, "m",
+    awful.key({ "Control" }, "XF86AudioRaiseVolume",
         function ()
             os.execute(string.format("amixer -q set %s 100%%", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ altkey, "Control" }, "0",
+    awful.key({ "Control" }, "XF86AudioLowerVolume",
         function ()
             os.execute(string.format("amixer -q set %s 0%%", beautiful.volume.channel))
             beautiful.volume.update()
-        end),
-
-    -- MPD control
-    awful.key({ altkey, "Control" }, "Up",
-        function ()
-            awful.spawn.with_shell("mpc toggle")
-            beautiful.mpd.update()
-        end),
-    awful.key({ altkey, "Control" }, "Down",
-        function ()
-            awful.spawn.with_shell("mpc stop")
-            beautiful.mpd.update()
-        end),
-    awful.key({ altkey, "Control" }, "Left",
-        function ()
-            awful.spawn.with_shell("mpc prev")
-            beautiful.mpd.update()
-        end),
-    awful.key({ altkey, "Control" }, "Right",
-        function ()
-            awful.spawn.with_shell("mpc next")
-            beautiful.mpd.update()
-        end),
-    awful.key({ altkey }, "0",
-        function ()
-            local common = { text = "MPD widget ", position = "top_middle", timeout = 2 }
-            if beautiful.mpd.timer.started then
-                beautiful.mpd.timer:stop()
-                common.text = common.text .. lain.util.markup.bold("OFF")
-            else
-                beautiful.mpd.timer:start()
-                common.text = common.text .. lain.util.markup.bold("ON")
-            end
-            naughty.notify(common)
         end),
 
     -- Copy primary to clipboard (terminals to gtk)
@@ -412,7 +384,7 @@ globalkeys = awful.util.table.join(
 
     -- User programs
     awful.key({ modkey }, "e", function () awful.spawn(gui_editor) end),
-    --awful.key({ modkey }, "q", function () awful.spawn(browser) end),
+    awful.key({ modkey }, "s", function () awful.spawn(launcher) end),
 
     -- Default
     --[[ Menubar

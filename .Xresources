@@ -1,6 +1,7 @@
-rofi.font: boxxy 10
+rofi.font: terminus 8
 rofi.color-enabled: true
-rofi.color-window: #1d1f21, #1d1f21, #1e2529
-rofi.color-normal: #1d1f21, #c1c1c1, #1d1f21, #394249, #ffffff
-rofi.color-active: #1d1f21, #80cbc4, #1d1f21, #394249, #80cbc4
-rofi.color-urgent: #1d1f21, #ff1844, #1d1f21, #394249, #ff1844
+rofi.color-window: #1a1a1a, #1a1a1a, #1e2529
+rofi.color-normal: #1a1a1a, #c1c1c1, #1a1a1a, #00a088, #ffffff
+rofi.color-active: #1a1a1a, #80cbc4, #1a1a1a, #00a088, #80cbc4
+rofi.color-urgent: #1a1a1a, #ff1844, #1a1a1a, #00a088, #ff1844
+rofi.lines: 8

@@ -25,7 +25,7 @@ elif [ $monitor_mode = "INTERNAL" ]; then
         notify-send "Monitors cloned"
 else
         monitor_mode="all"
-        xrandr --output $INTERNAL_OUTPUT --auto --output $EXTERNAL_OUTPUT --auto --left-of $INTERNAL_OUTPUT
+        xrandr --output $INTERNAL_OUTPUT --auto --output $EXTERNAL_OUTPUT --auto --right-of $INTERNAL_OUTPUT
         notify-send "Monitors extended"
 fi
 echo "${monitor_mode}" > /tmp/monitor_mode.dat

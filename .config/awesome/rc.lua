@@ -9,9 +9,6 @@ local wibox         = require("wibox")
 local beautiful     = require("beautiful")
 local naughty       = require("naughty")
 local lain          = require("lain")
-local remote        = require("awful.remote")
-local screenful     = require("screenful")
---local menubar       = require("menubar")
 local freedesktop   = require("freedesktop")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
 -- }}}
@@ -59,11 +56,13 @@ local altkey       = "Mod1"
 local volup        = "XF86AudioRaiseVolume"
 local voldown      = "XF86AudioLowerVolume"
 local volmute      = "XF86AudioMute"
+local briup        = "XF86MonBrightnessUp"
+local bridown      = "XF86MonBrightnessDown"
 local terminal     = "urxvt"
 local editor       = os.getenv("EDITOR") or "nano"
 local gui_editor   = "gvim"
 local browser      = "firefox"
-local launcher     = "rofi -show run -font \"terminus 8\" -width \"42\" -hide-scrollbar"
+local launcher     = "rofi -show run -font \"terminus 8\" -width \"32\" -hide-scrollbar -padding 20 -separator-style none -config ~/.Xresources"
 awful.util.terminal = terminal
 awful.util.tagnames = { "1", "2", "3", "4", "5" }
 awful.layout.layouts = {
@@ -220,26 +219,6 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore,
               {description = "go back", group = "tag"}),
 
-    -- Non-empty tag browsing
-    awful.key({ altkey }, "Left", function () lain.util.tag_view_nonempty(-1) end,
-              {description = "view  previous nonempty", group = "tag"}),
-    awful.key({ altkey }, "Right", function () lain.util.tag_view_nonempty(1) end,
-              {description = "view  previous nonempty", group = "tag"}),
-
-    -- Default client focus
-    --awful.key({ altkey,           }, "j",
-    --    function ()
-    --        awful.client.focus.byidx( 1)
-    --   end,
-    --    {description = "focus next by index", group = "client"}
-    --),
-    --awful.key({ altkey,           }, "k",
-    --    function ()
-    --        awful.client.focus.byidx(-1)
-    --    end,
-    --    {description = "focus previous by index", group = "client"}
-    --),
-
     -- By direction client focus
     awful.key({ modkey }, "Down",
         function()
@@ -265,9 +244,9 @@ globalkeys = awful.util.table.join(
               {description = "show main menu", group = "awesome"}),
 
     -- Layout manipulation
-    awful.key({ modkey, "Shift"   }, "j", function () awful.client.swap.byidx(  1)    end,
+    awful.key({ modkey, "Shift"   }, "Left", function () awful.client.swap.byidx(  1)    end,
               {description = "swap with next client by index", group = "client"}),
-    awful.key({ modkey, "Shift"   }, "k", function () awful.client.swap.byidx( -1)    end,
+    awful.key({ modkey, "Shift"   }, "Right", function () awful.client.swap.byidx( -1)    end,
               {description = "swap with previous client by index", group = "client"}),
     awful.key({ modkey, "Control" }, "j", function () awful.screen.focus_relative( 1) end,
               {description = "focus the next screen", group = "screen"}),
@@ -350,32 +329,38 @@ globalkeys = awful.util.table.join(
     awful.key({ altkey, }, "w", function () if beautiful.weather then beautiful.weather.show(7) end end),
 
     -- ALSA volume control
---    awful.key({ altkey }, "Up",
-    awful.key({ }, "XF86AudioRaiseVolume",
-        function ()
+    awful.key({ }, volup,
+            function ()
             os.execute(string.format("amixer -q set %s 1%%+", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ }, "XF86AudioLowerVolume",
+    awful.key({ }, voldown,
         function ()
             os.execute(string.format("amixer -q set %s 1%%-", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ }, "XF86AudioMute",
+    awful.key({ }, volmute,
         function ()
             os.execute(string.format("amixer -q set %s toggle", beautiful.volume.togglechannel or beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ "Control" }, "XF86AudioRaiseVolume",
+    awful.key({ "Control" }, volup,
         function ()
             os.execute(string.format("amixer -q set %s 100%%", beautiful.volume.channel))
             beautiful.volume.update()
         end),
-    awful.key({ "Control" }, "XF86AudioLowerVolume",
+    awful.key({ "Control" }, voldown,
         function ()
             os.execute(string.format("amixer -q set %s 0%%", beautiful.volume.channel))
             beautiful.volume.update()
         end),
+
+    -- Screen brightness
+    awful.key({ }, briup, function() awful.spawn("light -A 5") end),
+    awful.key({ }, bridown, function() awful.spawn("light -U 5") end),
+
+    -- Change video output
+    awful.key({ modkey }, "p", function() awful.spawn("./home/breno/bin/monitor") end),
 
     -- Copy primary to clipboard (terminals to gtk)
     awful.key({ modkey }, "c", function () awful.spawn("xsel | xsel -i -b") end),
@@ -386,17 +371,6 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey }, "e", function () awful.spawn(gui_editor) end),
     awful.key({ modkey }, "s", function () awful.spawn(launcher) end),
 
-    -- Default
-    --[[ Menubar
-    awful.key({ modkey }, "p", function() menubar.show() end,
-              {description = "show the menubar", group = "launcher"})
-    --]]
-    --[[ dmenu
-    awful.key({ modkey }, "x", function ()
-        awful.spawn(string.format("dmenu_run -i -fn 'Monospace' -nb '%s' -nf '%s' -sb '%s' -sf '%s'",
-        beautiful.bg_normal, beautiful.fg_normal, beautiful.bg_focus, beautiful.fg_focus))
-		end)
-    --]]
     -- Prompt
     awful.key({ modkey }, "r", function () awful.screen.focused().mypromptbox:run() end,
               {description = "run prompt", group = "launcher"}),
@@ -530,6 +504,8 @@ awful.rules.rules = {
     -- Set Firefox to always map on the first tag on screen 1.
  --   { rule = { class = "Firefox" },
  --     properties = { screen = 1, tag = awful.util.tagnames[1] } },
+    { rule = { class = "Telegram-desktop" },
+          properties = {floating = true } },
 
     { rule = { class = "Gimp", role = "gimp-image-window" },
           properties = { maximized = true } },

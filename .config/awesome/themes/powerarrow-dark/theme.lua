@@ -5,17 +5,18 @@ local wibox           = require("wibox")
 local calendar        = require("calendar")
 local vicious         = require("vicious")
 local os              = { getenv = os.getenv }
+local beautiful       = require("beautiful")
 
 local theme                                     = {}
 theme.icon_theme                                = "Numix"
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/powerarrow-dark"
 theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/pixelcity.png"
-theme.font                                      = "montecarlo 8"
+theme.font                                      = "gohufont 8"
 theme.fg_normal                                 = "#ffffff"
 theme.fg_focus                                  = "#ffffff"
 theme.fg_urgent                                 = "#CC9393"
 theme.bg_normal                                 = "#1A1A1A"
-theme.bg_focus                                  = "#333"
+theme.bg_focus                                  = "#333333"
 theme.bg_urgent                                 = "#1A1A1A"
 theme.border_width                              = 0
 theme.border_normal                             = "#3F3F3F"
@@ -81,6 +82,8 @@ theme.titlebar_maximized_button_normal_active   = theme.dir .. "/icons/titlebar/
 theme.titlebar_maximized_button_focus_inactive  = theme.dir .. "/icons/titlebar/maximized_focus_inactive.png"
 theme.titlebar_maximized_button_normal_inactive = theme.dir .. "/icons/titlebar/maximized_normal_inactive.png"
 
+beautiful.bg_systray                            = "#ff0000" --theme.bg_focus
+
 local markup = lain.util.markup
 local separators = lain.util.separators
 
@@ -95,27 +98,6 @@ local clock = awful.widget.watch(
 
 -- Calendar
 calendar({}):attach(clock)
-
--- Mail IMAP check
-local mailicon = wibox.widget.imagebox(theme.widget_mail)
---[[ commented because it needs to be set before use
-mailicon:buttons(awful.util.table.join(awful.button({ }, 1, function () awful.spawn(mail) end)))
-local mail = lain.widget.imap({
-    timeout  = 180,
-    server   = "server",
-    mail     = "mail",
-    password = "keyring get mail",
-    settings = function()
-        if mailcount > 0 then
-            widget:set_text(" " .. mailcount .. " ")
-            mailicon:set_image(theme.widget_mail_on)
-        else
-            widget:set_text("")
-            mailicon:set_image(theme.widget_mail)
-        end
-    end
-})
---]]
 
 -- MPD
 local musicplr = awful.util.terminal .. " -title Music -g 130x34-320+16 -e ncmpcpp"
@@ -179,37 +161,17 @@ local temp = lain.widget.temp({
 
 -- / fs
 local fsicon = wibox.widget.imagebox(theme.widget_hdd)
-theme.fs = lain.widget.fs({
-    options  = "--exclude-type=tmpfs",
-    notification_preset = { fg = theme.fg_normal, bg = theme.bg_normal, font = "montecarlo 8" },
-    settings = function()
-        widget:set_markup(markup.font(theme.font, " " .. fs_now.used .. "% "))
-    end
-})
+local hdd = wibox.widget.textbox()
+vicious.register(hdd, vicious.widgets.fs,
+  ' <span font="gohufont 8">${/ avail_gb}gb free </span>')
+
 
 -- Battery
 local baticon = wibox.widget.imagebox(theme.widget_battery)
-local bat = lain.widget.bat({
-    settings = function()
-        if bat_now.status ~= "N/A" then
-            if bat_now.ac_status == 1 then
-                widget:set_markup(markup.font(theme.font, " AC "))
-                baticon:set_image(theme.widget_ac)
-                return
-            elseif not bat_now.perc and tonumber(bat_now.perc) <= 5 then
-                baticon:set_image(theme.widget_battery_empty)
-            elseif not bat_now.perc and tonumber(bat_now.perc) <= 15 then
-                baticon:set_image(theme.widget_battery_low)
-            else
-                baticon:set_image(theme.widget_battery)
-            end
-            widget:set_markup(markup.font(theme.font, " " .. bat_now.perc .. "% "))
-        else
-            widget:set_markup(markup.font(theme.font, " AC "))
-            baticon:set_image(theme.widget_ac)
-        end
-    end
-})
+local batwidget = wibox.widget.textbox()
+vicious.register(batwidget, vicious.widgets.bat,
+  ' <span font="gohufont 8">$2% ~ $3 </span>',10,"BAT0"
+)
 
 -- ALSA volume
 local volicon = wibox.widget.imagebox(theme.widget_vol)
@@ -232,8 +194,9 @@ theme.volume = lain.widget.alsa({
 -- Net
 local neticon = wibox.widget.imagebox(theme.widget_net)
 wifiwidget = wibox.widget.textbox()
-vicious.register(wifiwidget, vicious.widgets.wifi, ' <span font="montecarlo 8">${ssid} </span>', 2, "wlp8s0")
---[[--]]
+vicious.register(wifiwidget, vicious.widgets.wifi,
+  ' <span font="gohufont 8">${ssid} </span>', 2, "wlp8s0"
+)
 local net = lain.widget.net({
     settings = function()
         widget:set_markup(markup.font(theme.font,
@@ -242,7 +205,12 @@ local net = lain.widget.net({
                           markup("#46A8C3", " " .. net_now.sent .. " ")))
     end
 })
---]]
+
+-- Tray
+local tray = wibox.widget.systray()
+
+-- Brightnes
+local bricon = wibox.widget.textbox('<span font="siji" color="#b4b4b4"></span>')
 
 -- Separators
 local spr     = wibox.widget.textbox(' ')
@@ -295,39 +263,40 @@ function theme.at_screen_connect(s)
         s.mytasklist, -- Middle widget
         { -- Right widgets
             layout = wibox.layout.fixed.horizontal,
-            wibox.widget.systray(),
             spr,
-            arrl_ld,
-            wibox.container.background(mpdicon, theme.bg_focus),
-            wibox.container.background(theme.mpd.widget, theme.bg_focus),
-            arrl_dl,
-            volicon,
-            theme.volume.widget,
-            arrl_ld,
-            wibox.container.background(mailicon, theme.bg_focus),
-            --wibox.container.background(mail.widget, theme.bg_focus),
-            arrl_dl,
-            memicon,
-            mem.widget,
-            arrl_ld,
-            wibox.container.background(cpuicon, theme.bg_focus),
-            wibox.container.background(cpu.widget, theme.bg_focus),
-            arrl_dl,
-            tempicon,
-            temp.widget,
-            arrl_ld,
-            wibox.container.background(fsicon, theme.bg_focus),
-            wibox.container.background(theme.fs.widget, theme.bg_focus),
-            arrl_dl,
-            baticon,
-            bat.widget,
             arrl_ld,
             wibox.container.background(neticon, theme.bg_focus),
             wibox.container.background(net.widget, theme.bg_focus),
             wibox.container.background(wifiwidget, theme.bg_focus),
             arrl_dl,
-            clock,
-            spr,
+            wibox.container.background(bricon, theme.bg_normal),
+            --wibox.container.background(briwidget,theme.bg_normal),
+            wibox.container.background(spr, theme.bg_normal),
+            arrl_ld,
+            wibox.container.background(volicon, theme.bg_focus),
+            wibox.container.background(theme.volume.widget, theme.bg_focus),
+            arrl_dl,
+            wibox.container.background(memicon, theme.bg_normal),
+            wibox.container.background(mem.widget, theme.bg_normal),
+            arrl_ld,
+            wibox.container.background(cpuicon, theme.bg_focus),
+            wibox.container.background(cpu.widget, theme.bg_focus),
+            arrl_dl,
+            wibox.container.background(tempicon, theme.bg_normal),
+            wibox.container.background(temp.widget, theme.bg_normal),
+            arrl_ld,
+            wibox.container.background(fsicon, theme.bg_focus),
+            wibox.container.background(hdd, theme.bg_focus),
+            arrl_dl,
+            wibox.container.background(baticon, theme.bg_normal),
+            wibox.container.background(batwidget, theme.bg_normal),
+            arrl_ld,
+            wibox.container.background(clock, theme.bg_focus),
+            wibox.container.background(spr, theme.bg_focus),
+            arrl_dl,
+            wibox.container.background(spr, theme.bg_normal),
+            wibox.container.background(tray, theme.bg_normal),
+            wibox.container.background(spr, theme.bg_normal),
             arrl_ld,
             wibox.container.background(s.mylayoutbox, theme.bg_focus),
         },

@@ -10,6 +10,7 @@ local beautiful     = require("beautiful")
 local naughty       = require("naughty")
 local lain          = require("lain")
 local freedesktop   = require("freedesktop")
+local xrandr        = require("xrandr")
 local hotkeys_popup = require("awful.hotkeys_popup").widget
 -- }}}
 
@@ -360,7 +361,7 @@ globalkeys = awful.util.table.join(
     awful.key({ }, bridown, function() awful.spawn("light -U 5") end),
 
     -- Change video output
-    awful.key({ modkey }, "p", function() awful.spawn("./home/breno/bin/monitor") end),
+    awful.key({ modkey }, "p", function() xrandr.xrandr() end),
 
     -- Copy primary to clipboard (terminals to gtk)
     awful.key({ modkey }, "c", function () awful.spawn("xsel | xsel -i -b") end),

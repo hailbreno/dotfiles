@@ -118,4 +118,8 @@ alias zshbuild="source ~/.zshrc"
 alias net="ping 8.8.8.8"
 alias x="startx"
 alias sizof="du -hs"
+alias p="pacaur"
+alias vim="nvim"
+alias pss="pacaur -Ss"
+alias pi="pacaur -S"
 eval $(thefuck --alias)

@@ -5,6 +5,7 @@ set showcmd            " display incomplete commands
 set nu		       " display line numbers
 set nobackup           " prevent creation of *.ext~ file
 set nowritebackup      " same ^
+set tabstop=2          " tab size
 
 " Don't use Ex mode, use Q for formatting
 noremap Q gq

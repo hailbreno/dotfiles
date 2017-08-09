@@ -122,4 +122,5 @@ alias p="pacaur"
 alias vim="nvim"
 alias pss="pacaur -Ss"
 alias pi="pacaur -S"
+alias qute="qutebrowser"
 eval $(thefuck --alias)

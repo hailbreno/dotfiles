@@ -49,3 +49,4 @@ vim-ide
 .kodi
 tmp
 .zsnes
+.*~

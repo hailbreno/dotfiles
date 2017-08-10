@@ -505,7 +505,7 @@ awful.rules.rules = {
     -- Set Firefox to always map on the first tag on screen 1.
  --   { rule = { class = "Firefox" },
  --     properties = { screen = 1, tag = awful.util.tagnames[1] } },
-    { rule = { class = "Telegram-desktop" },
+    { rule = { class = "TelegramDesktop" },
           properties = {floating = true } },
 
     { rule = { class = "Gimp", role = "gimp-image-window" },

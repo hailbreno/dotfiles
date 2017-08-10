@@ -1,11 +1,12 @@
-set backup             " keep a backup file (restore to previous version)
-set undofile           " keep an undo file (undo changes after closing)
 set ruler              " show the cursor position all the time
 set showcmd            " display incomplete commands
-set nu		       " display line numbers
+set nu		             " display line numbers
 set nobackup           " prevent creation of *.ext~ file
 set nowritebackup      " same ^
+filetype plugin indent on
 set tabstop=2          " tab size
+set shiftwidth=2
+set expandtab
 
 " Don't use Ex mode, use Q for formatting
 noremap Q gq

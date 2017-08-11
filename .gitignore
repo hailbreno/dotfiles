@@ -52,3 +52,5 @@ tmp
 .*~
 .zcompdump-flareon-5.4.1
 .config/mgba
+.config/htop
+.config/QtProject.conf

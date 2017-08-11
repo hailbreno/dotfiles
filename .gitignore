@@ -50,3 +50,4 @@ vim-ide
 tmp
 .zsnes
 .*~
+.zcompdump-flareon-5.4.1

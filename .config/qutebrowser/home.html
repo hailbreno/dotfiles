@@ -1,20 +1,30 @@
+<!DOCTYPE html>
 <html>
   <head>
-		<title>home page</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
-	<body>
+    <title>home page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="shortcut icon" href="https://cdn2.iconfinder.com/data/icons/pixel-art-large/100/PixelArtIcons-03-512.png" />
+    <script type="text/javascript" charset="utf-8">
+      function doSearch() {
+        console.log('início da função');
+        strSearch = document.getElementById('searchBox').value;
+        window.location.replace('https://www.google.com.br/search?q=' + strSearch);
+        return false;
+      }
+    </script>
+  </head>
+  <body>
     <div class="center main">
       <div class="box-label">breno@flareon</div>
        <div class="search-box">
-         <form id="search">
-           <input type="text" class="input" placeholder="search box"/>
-         <form>
-       </div>		
-			<div class="links">
-			  <div class="reddit">reddit</div>
-				<div><a href="http://reddit.com/r/unixporn">/r/unixporn</a></div>
-			</div>
-		</div>
-	</body>
+         <form id="search" onsubmit="return doSearch();">
+           <input id="searchBox" type="text" class="input" placeholder="search box" autocomplete="off"/>
+         </form>
+       </div>   
+      <div class="links">
+        <div class="reddit">reddit</div>
+        <div><a href="http://reddit.com/r/unixporn">/r/unixporn</a></div>
+      </div>
+    </div>
+  </body>
 </html>

@@ -1,44 +1,44 @@
 * {
-	background-color: #000;
-	color: #fff;
-	font-family: GohuFont;
-	font-size: 10;
+  background-color: #000;
+  color: #fff;
+  font-family: GohuFont, Terminus, monospace;
+  font-size: 10px;
 }
 
 .main {
-  width: 450px;
-  height: 200px;
   border: 1px solid #fff;
+  height: 200px;
+  width: 450px;
 }
 
 .search-box {
   height: 18px;
-  width: 450px;
   margin: auto;
-  top: -30px;
   position: absolute;
+  top: -30px;
+  width: 450px;
 }
 
 .center {
-	position: absolute;
-	margin: auto;
-	top: 0;
-	right: 0;
-	bottom: 0;
- 	left: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 
 .box-label {
+  left: 8px;
+  padding: 0 4px;
   position: absolute;
   top: -8px;
-  left: 8px;
-  padding: 0px 4px;
 }
 
 .input {
-  width: 100%;
   border: 1px solid #fff;
   text-align: center;
+  width: 100%;
 }
 
 .links {

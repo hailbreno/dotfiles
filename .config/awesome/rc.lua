@@ -64,6 +64,7 @@ local editor       = os.getenv("EDITOR") or "nano"
 local gui_editor   = "gvim"
 local browser      = "firefox"
 local launcher     = "rofi -show run -font \"terminus 8\" -width \"32\" -hide-scrollbar -padding 20 -separator-style none -config ~/.Xresources"
+local locker       = "lock"
 awful.util.terminal = terminal
 awful.util.tagnames = { "1", "2", "3", "4", "5" }
 awful.layout.layouts = {
@@ -371,6 +372,7 @@ globalkeys = awful.util.table.join(
     -- User programs
     awful.key({ modkey }, "e", function () awful.spawn(gui_editor) end),
     awful.key({ modkey }, "s", function () awful.spawn(launcher) end),
+    awful.key({ modkey }, "l", function () awful.spawn(locker) end),
 
     -- Prompt
     awful.key({ modkey }, "r", function () awful.screen.focused().mypromptbox:run() end,

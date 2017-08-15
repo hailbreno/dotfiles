@@ -3,8 +3,6 @@
 
 *, *:before, *:after {
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
 }
 
 * {
@@ -39,7 +37,7 @@
   padding: 0 4px;
   position: relative;
   top: -16px;
-  width: max-content;
+  width: -webkit-max-content;
 }
 
 .input {

@@ -1,6 +1,8 @@
+@import url('file:///home/breno/.cache/wal/colors.css');
+
 * {
-  background-color: #000;
-  color: #fff;
+  background-color: var(--background);
+  color: var(--foreground);
   font-family: GohuFont, Terminus, monospace;
   font-size: 10px;
 }

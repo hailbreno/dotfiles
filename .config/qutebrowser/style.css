@@ -1,4 +1,11 @@
 @import url('file:///home/breno/.cache/wal/colors.css');
+@import url('colors.css');
+
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
 * {
   background-color: var(--background);
@@ -8,17 +15,14 @@
 }
 
 .main {
-  border: 1px solid #fff;
-  height: 200px;
+  height: 250px;
   width: 450px;
 }
 
 .search-box {
   height: 18px;
-  margin: auto;
-  position: absolute;
-  top: -30px;
-  width: 450px;
+  margin: 0 0 10px;
+  width: 100%;
 }
 
 .center {
@@ -33,8 +37,9 @@
 .box-label {
   left: 8px;
   padding: 0 4px;
-  position: absolute;
-  top: -8px;
+  position: relative;
+  top: -16px;
+  width: max-content;
 }
 
 .input {
@@ -44,6 +49,7 @@
 }
 
 .links {
+  border: 1px solid var(--foreground);
   padding: 10px;
 }
 

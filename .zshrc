@@ -123,5 +123,5 @@ alias vim="nvim"
 alias pss="pacaur -Ss"
 alias pi="pacaur -S"
 alias qute="qutebrowser"
-alias neo="neofetch --w3m pictures/wallpapers/51juWCX.jpg"
+alias neo="neofetch --w3m pictures/wallpapers/51juWCX.jpg --block_range 0 15"
 eval $(thefuck --alias)

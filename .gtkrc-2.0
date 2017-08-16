@@ -2,9 +2,9 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/breno/.gtkrc-2.0.mine"
-gtk-theme-name="VimixDark-Laptop-Doder"
+gtk-theme-name="VimixDark-Laptop"
 gtk-icon-theme-name="Numix"
-gtk-font-name="boxxy 12"
+gtk-font-name="GohuFont 8"
 gtk-cursor-theme-name="OSX-ElCap"
 gtk-cursor-theme-size=0
 gtk-toolbar-style=GTK_TOOLBAR_BOTH
@@ -13,7 +13,7 @@ gtk-button-images=1
 gtk-menu-images=1
 gtk-enable-event-sounds=1
 gtk-enable-input-feedback-sounds=1
-gtk-xft-antialias=0
+gtk-xft-antialias=1
 gtk-xft-hinting=1
 gtk-xft-hintstyle="hintfull"
 gtk-xft-rgba="none"

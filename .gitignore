@@ -55,3 +55,4 @@ tmp
 .config/htop
 .config/QtProject.conf
 .gtk-bookmarks
+.ssh

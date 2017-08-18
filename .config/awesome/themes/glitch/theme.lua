@@ -9,7 +9,7 @@ local beautiful       = require("beautiful")
 
 local theme                                     = {}
 theme.icon_theme                                = "Numix"
-theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/powerarrow-dark"
+theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/glitch"
 theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/51juWCX.jpg"
 theme.font                                      = "gohufont 8"
 theme.fg_normal                                 = "#ffffff"

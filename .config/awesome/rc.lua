@@ -51,7 +51,7 @@ run_once({ "unclutter -root" }) -- entries must be comma-separated
 -- }}}
 
 -- {{{ Variable definitions
-local chosen_theme = "powerarrow-dark"
+local chosen_theme = "glitch"
 local modkey       = "Mod4"
 local altkey       = "Mod1"
 local volup        = "XF86AudioRaiseVolume"
@@ -65,6 +65,7 @@ local gui_editor   = "gvim"
 local browser      = "firefox"
 local launcher     = "rofi -show run -font \"terminus 8\" -width \"32\" -hide-scrollbar -padding 20 -separator-style none -config ~/.Xresources"
 local locker       = "lock"
+local print        = "scrot ~/pictures/screenshots/%b%d_%H%M%S.png"
 awful.util.terminal = terminal
 awful.util.tagnames = { "1", "2", "3", "4", "5" }
 awful.layout.layouts = {
@@ -370,9 +371,10 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey }, "v", function () awful.spawn("xsel -b | xsel") end),
 
     -- User programs
-    awful.key({ modkey }, "e", function () awful.spawn(gui_editor) end),
-    awful.key({ modkey }, "s", function () awful.spawn(launcher) end),
-    awful.key({ modkey }, "l", function () awful.spawn(locker) end),
+    awful.key({ modkey }, "e",     function () awful.spawn(gui_editor) end),
+    awful.key({ modkey }, "s",     function () awful.spawn(launcher) end),
+    awful.key({ modkey }, "l",     function () awful.spawn(locker) end),
+    awful.key({        }, "Print", function () awful.spawn(print) end),
 
     -- Prompt
     awful.key({ modkey }, "r", function () awful.screen.focused().mypromptbox:run() end,
@@ -577,6 +579,7 @@ client.connect_signal("request::titlebars", function(c)
             awful.titlebar.widget.maximizedbutton(c),
             awful.titlebar.widget.stickybutton   (c),
             awful.titlebar.widget.ontopbutton    (c),
+            --awful.titlebar.widget.minimizedbutton(c),
             awful.titlebar.widget.closebutton    (c),
             layout = wibox.layout.fixed.horizontal()
         },

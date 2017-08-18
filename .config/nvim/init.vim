@@ -7,6 +7,7 @@ filetype plugin indent on
 set tabstop=2          " tab size
 set shiftwidth=2
 set expandtab
+set cursorline
 
 " Don't use Ex mode, use Q for formatting
 noremap Q gq

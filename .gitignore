@@ -56,3 +56,5 @@ tmp
 .config/QtProject.conf
 .gtk-bookmarks
 .ssh
+.config/libreoffice
+.waterfox

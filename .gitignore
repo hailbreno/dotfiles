@@ -58,3 +58,5 @@ tmp
 .ssh
 .config/libreoffice
 .waterfox
+.config/filezilla
+.config/gtk-3.0

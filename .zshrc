@@ -1,6 +1,8 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
+
 export TERM="xterm-256color"
 
 # Path to your oh-my-zsh installation.
@@ -125,3 +127,5 @@ alias pi="pacaur -S"
 alias qute="qutebrowser"
 alias neo="neofetch --w3m pictures/wallpapers/51juWCX.jpg --block_range 0 15"
 eval $(thefuck --alias)
+# eval $(ssh-agent -s)
+

@@ -510,7 +510,11 @@ awful.rules.rules = {
  --   { rule = { class = "Firefox" },
  --     properties = { screen = 1, tag = awful.util.tagnames[1] } },
     { rule = { class = "TelegramDesktop" },
-          properties = {floating = true } },
+          properties = {floating = true, ontop = true}, 
+          callback = function (c)
+            awful.placement.centered(c,nil)
+          end
+    },
 
     { rule = { class = "Gimp", role = "gimp-image-window" },
           properties = { maximized = true } },

@@ -516,6 +516,9 @@ awful.rules.rules = {
           end
     },
 
+    { rule = { class = "Kodi" },
+          properties = { fullscreen = true } },
+
     { rule = { class = "Gimp", role = "gimp-image-window" },
           properties = { maximized = true } },
 }

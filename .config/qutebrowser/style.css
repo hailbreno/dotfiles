@@ -46,6 +46,10 @@
   width: 100%;
 }
 
+.link {
+  padding: 2px 0;
+}
+
 .links {
   border: 1px solid var(--foreground);
   padding: 10px;

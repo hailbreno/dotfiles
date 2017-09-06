@@ -10,22 +10,22 @@ local beautiful       = require("beautiful")
 local theme                                     = {}
 theme.icon_theme                                = "Numix"
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/glitch"
-theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/51juWCX.jpg"
+theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/umbrella.jpg"
 theme.font                                      = "gohufont 8"
 theme.fg_normal                                 = "#ffffff"
 theme.fg_focus                                  = "#ffffff"
 theme.fg_urgent                                 = "#CC9393"
-theme.bg_normal                                 = "#1A2128"
-theme.bg_normal_alt                             = "#1A2128"
+theme.bg_normal                                 = "#2f343f"
+theme.bg_normal_alt                             = theme.bg_normal
 theme.bg_focus                                  = "#768985"
 theme.bg_urgent                                 = "#1A1A1A"
 theme.border_width                              = 0
 theme.border_normal                             = "#3F3F3F"
 theme.border_focus                              = "#7F7F7F"
 theme.border_marked                             = "#CC9393"
-theme.tasklist_bg_focus                         = "#1A2128"
+theme.tasklist_bg_focus                         = theme.bg_normal
 theme.titlebar_bg_focus                         = "#768985"
-theme.titlebar_bg_normal                        = "#1A2128" 
+theme.titlebar_bg_normal                        = theme.bg_normal 
 theme.titlebar_fg_focus                         = theme.fg_focus
 theme.menu_height                               = 18
 theme.menu_width                                = 140
@@ -82,8 +82,6 @@ theme.titlebar_maximized_button_focus_active    = theme.dir .. "/icons/titlebar/
 theme.titlebar_maximized_button_normal_active   = theme.dir .. "/icons/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_inactive  = theme.dir .. "/icons/titlebar/maximized_focus_inactive.png"
 theme.titlebar_maximized_button_normal_inactive = theme.dir .. "/icons/titlebar/maximized_normal_inactive.png"
-
-beautiful.bg_systray                            = "#ff0000" --theme.bg_focus
 
 local markup = lain.util.markup
 local separators = lain.util.separators
@@ -208,7 +206,10 @@ local net = lain.widget.net({
 })
 
 -- Tray
-local tray = wibox.widget.systray()
+theme.systray_icon_spacing = 5
+theme.bg_systray = theme.bg_normal
+local tray = wibox.widget.systray(true)
+tray.forced_width=20
 
 -- Brightnes
 local bricon = wibox.widget.textbox('<span font="siji" color="#b4b4b4"></span>')

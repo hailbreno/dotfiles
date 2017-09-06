@@ -14,7 +14,7 @@ export VISUAL="nano"
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="refined"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -58,7 +58,7 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git lol)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -125,7 +125,8 @@ alias vim="nvim"
 alias pss="pacaur -Ss"
 alias pi="pacaur -S"
 alias qute="qutebrowser"
-alias neo="neofetch --w3m pictures/wallpapers/51juWCX.jpg --block_range 0 15"
+alias neo="neofetch --w3m pictures/wallpapers/umbrella.jpg --block_range 0 15"
+alias audior="pacmd unload-module module-udev-detect && pacmd load-module module-udev-detect"
 eval $(thefuck --alias)
 # eval $(ssh-agent -s)
 

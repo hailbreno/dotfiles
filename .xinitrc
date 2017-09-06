@@ -1,7 +1,7 @@
 setxkbmap br
 xset -b
 ssh-add
-wal -i "$(< "${HOME}/.cache/wal/wal")" &
+# wal -i "$(< "${HOME}/.cache/wal/wal")" &
 sh ~/.fehbg &
 compton --config ~/.config/compton/compton.conf &
 udiskie &

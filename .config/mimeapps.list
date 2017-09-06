@@ -13,4 +13,4 @@ application/x-bittorrent=tremc.desktop
 
 [Added Associations]
 image/png=feh.desktop;
-application/pdf=FoxitReader.desktop;
+application/pdf=foxitreader.desktop;FoxitReader.desktop;

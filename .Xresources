@@ -1,7 +1,7 @@
 rofi.font: terminus 8
 rofi.color-enabled: true
-rofi.color-window: #1A2128, #1A2128, #1e2529
-rofi.color-normal: #1A2128, #c1c1c1, #1A2128, #768985, #ffffff
-rofi.color-active: #1A2128, #80cbc4, #1A2128, #768985, #80cbc4
-rofi.color-urgent: #1A2128, #ff1844, #1A2128, #768985, #ff1844
+rofi.color-window: #2f343f, #2f343f, #1e2529
+rofi.color-normal: #2f343f, #c1c1c1, #2f343f, #768985, #ffffff
+rofi.color-active: #2f343f, #80cbc4, #2f343f, #768985, #80cbc4
+rofi.color-urgent: #2f343f, #ff1844, #2f343f, #768985, #ff1844
 rofi.lines: 8

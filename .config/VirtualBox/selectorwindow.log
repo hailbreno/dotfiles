@@ -1,0 +1,17 @@
+VirtualBox GUI VM Selector Window 5.1.26 r117224 linux.amd64 (Jul 27 2017 21:22:37) release log
+00:00:00.401465 Log opened 2017-09-13T22:23:23.402772000Z
+00:00:00.401466 Build Type: release
+00:00:00.401468 OS Product: Linux
+00:00:00.401468 OS Release: 4.12.12-1-ARCH
+00:00:00.401469 OS Version: #1 SMP PREEMPT Sun Sep 10 09:41:14 CEST 2017
+00:00:00.401487 DMI Product Name: Vostro 5470
+00:00:00.401492 DMI Product Version: 
+00:00:00.401530 Host RAM: 3860MB (3.7GB) total, 3514MB (3.4GB) available
+00:00:00.401533 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.401534 Process ID: 1327
+00:00:00.401535 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.401555 Qt version: 5.9.1
+00:00:00.422338 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.563635 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:00.564081 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.570380 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x18 x 1366x750

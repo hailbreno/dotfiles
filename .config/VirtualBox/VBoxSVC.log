@@ -1,0 +1,38 @@
+VirtualBox XPCOM Server 5.1.26 r117224 linux.amd64 (Jul 27 2017 21:22:37) release log
+00:00:00.001341 main     Log opened 2017-09-13T22:23:23.212210000Z
+00:00:00.001343 main     Build Type: release
+00:00:00.001345 main     OS Product: Linux
+00:00:00.001346 main     OS Release: 4.12.12-1-ARCH
+00:00:00.001347 main     OS Version: #1 SMP PREEMPT Sun Sep 10 09:41:14 CEST 2017
+00:00:00.001366 main     DMI Product Name: Vostro 5470
+00:00:00.001375 main     DMI Product Version: 
+00:00:00.001414 main     Host RAM: 3860MB (3.7GB) total, 3517MB (3.4GB) available
+00:00:00.001418 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001419 main     Process ID: 1348
+00:00:00.001420 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003444 main     IPC socket path: /tmp/.vbox-breno-ipc/ipcd
+00:00:00.113582 nspr-2   VirtualBox: object creation starts
+00:00:00.114590 nspr-2   Home directory: '/home/breno/.config/VirtualBox'
+00:00:00.114913 nspr-2   Loading settings file "/home/breno/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.121365 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x07dc)
+00:00:00.121423 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.127111 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.132440 nspr-2   NAT: resolv.conf: nameserver 192.168.15.1
+00:00:00.132468 nspr-2   HostDnsMonitor: old information
+00:00:00.132470 nspr-2     no server entries
+00:00:00.132472 nspr-2     no domain set
+00:00:00.132474 nspr-2     no search string entries
+00:00:00.132475 nspr-2   HostDnsMonitor: new information
+00:00:00.132477 nspr-2     server 1: 192.168.15.1
+00:00:00.132479 nspr-2     domain: localdomain
+00:00:00.132480 nspr-2     no search string entries
+00:00:00.132483 nspr-2   HostDnsMonitorProxy::notify
+00:00:00.141749 nspr-2   VD: VDInit finished
+00:00:00.142318 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={0eb668d2-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.149703 nspr-2   Loading settings file "/home/breno/VirtualBox VMs/CHIP-SDK_default_1505263863129_9250/CHIP-SDK_default_1505263863129_9250.vbox" with version "1.12-linux"
+00:00:00.155782 nspr-2   VirtualBox: object created
+00:00:08.474259 nspr-4   ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:24.212781 main     VirtualBox: object deletion starts
+00:00:24.662973 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd945} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:29.218452 main     {00007f0df8019690} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:29.218838 main     VirtualBox: object deleted

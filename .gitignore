@@ -60,3 +60,4 @@ screenshots
 tmp
 video
 .config/VirtualBox
+bin/EasyAVR

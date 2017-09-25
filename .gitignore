@@ -61,3 +61,5 @@ tmp
 video
 .config/VirtualBox
 bin/EasyAVR
+.config/spotify
+.config/QtProject.conf

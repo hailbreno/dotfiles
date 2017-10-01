@@ -63,3 +63,9 @@ video
 bin/EasyAVR
 .config/spotify
 .config/QtProject.conf
+.PlayOnLinux
+.config/gconf
+.factorio
+.lesshst
+.mtab.fuseiso
+PlayOnLinux's virtual drives

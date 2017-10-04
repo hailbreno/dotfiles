@@ -127,6 +127,7 @@ alias pi="pacaur -S"
 alias qute="qutebrowser"
 alias neo="neofetch --w3m pictures/wallpapers/umbrella.jpg --block_range 0 15"
 alias audior="pacmd unload-module module-udev-detect && pacmd load-module module-udev-detect"
+alias easyavr="cd ~/bin/EasyAVR && ./easykeymap.sh"
 eval $(thefuck --alias)
 # eval $(ssh-agent -s)
 

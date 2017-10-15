@@ -69,3 +69,5 @@ bin/EasyAVR
 .lesshst
 .mtab.fuseiso
 PlayOnLinux's virtual drives
+.Xauthority
+.config/QtProject.conf

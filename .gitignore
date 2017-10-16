@@ -71,3 +71,6 @@ bin/EasyAVR
 PlayOnLinux's virtual drives
 .Xauthority
 .config/QtProject.conf
+.config/calibre
+.config/chromium
+library

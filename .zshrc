@@ -125,7 +125,7 @@ alias vim="nvim"
 alias pss="pacaur -Ss"
 alias pi="pacaur -S"
 alias qute="qutebrowser"
-alias neo="neofetch --w3m pictures/wallpapers/umbrella.jpg --block_range 0 15"
+alias neo="neofetch --w3m pictures/misc/arch_linux_logo_alpha.png --block_range 0 15"
 alias audior="pacmd unload-module module-udev-detect && pacmd load-module module-udev-detect"
 alias easyavr="cd ~/bin/EasyAVR && ./easykeymap.sh"
 eval $(thefuck --alias)

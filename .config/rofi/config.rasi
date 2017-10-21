@@ -1,10 +1,10 @@
 configuration {
 	columns: 1;
 	font: "gohufont 8";
-	lines: 8;
+	lines: 5;
 	modi: "drun,window,combi,run,ssh";
 	width: 32;
-/*	bw: 1;*/
+	bw: 1;
 /*	location: 0;*/
 	padding: 20;
 /*	yoffset: 0;*/
@@ -20,14 +20,10 @@ configuration {
 	matching: "normal";
 	separator-style: "none";
 	hide-scrollbar: true;
-/*	fullscreen: false;*/
+	/*fullscreen: true;*/
 	fake-transparency: true;
 	window-format: "{w}    {i}{c}   {t}";
 	click-to-exit: true;
 	show-match: true;
-/*	theme: ;*/
-	color-normal: "#2f343f, #c1c1c1, #2f343f, #cccccc, #000000";
-	color-urgent: "#2f343f, #ff1844, #2f343f, #cccccc, #ff1844";
-	color-active: "#2f343f, #80cbc4, #2f343f, #cccccc, #80cbc4";
-	color-window: "#2f343f, #2f343f, #1e2529";
+	theme: "theme";
 }

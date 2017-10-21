@@ -63,7 +63,10 @@ local terminal     = "urxvt"
 local editor       = os.getenv("EDITOR") or "nano"
 local gui_editor   = "gvim"
 local browser      = "firefox"
-local launcher     = "rofi -show run -font \"terminus 8\" -width \"32\" -hide-scrollbar -padding 20 -separator-style none -config ~/.Xresources"
+local launcher     = "rofi -show drun"
+local switcher     = "rofi -show window"
+local combi        = "rofi -show combi"
+local rofirun      = "rofi -show run"
 local locker       = "lock"
 local print        = "scrot ~/pictures/screenshots/%b%d_%H%M%S.png"
 awful.util.terminal = terminal
@@ -307,9 +310,9 @@ globalkeys = awful.util.table.join(
               {description = "increase the number of columns", group = "layout"}),
     awful.key({ modkey, "Control" }, "l",     function () awful.tag.incncol(-1, nil, true)    end,
               {description = "decrease the number of columns", group = "layout"}),
-    awful.key({ modkey,           }, "space", function () awful.layout.inc( 1)                end,
+    awful.key({ modkey, "Control" }, "Down",  function () awful.layout.inc( 1)                end,
               {description = "select next", group = "layout"}),
-    awful.key({ modkey, "Shift"   }, "space", function () awful.layout.inc(-1)                end,
+    awful.key({ modkey, "Control" }, "Up",    function () awful.layout.inc(-1)                end,
               {description = "select previous", group = "layout"}),
 
     awful.key({ modkey, "Control" }, "n",
@@ -371,14 +374,14 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey }, "v", function () awful.spawn("xsel -b | xsel") end),
 
     -- User programs
-    awful.key({ modkey }, "e",     function () awful.spawn(gui_editor) end),
-    awful.key({ modkey }, "s",     function () awful.spawn(launcher) end),
+    -- Rofi different mods
+    awful.key({ modkey }, "space",     function () awful.spawn(launcher) end),
+    awful.key({ modkey }, "Tab",       function () awful.spawn(switcher) end),
+    awful.key({ modkey }, "s",         function () awful.spawn(combi) end),
+    awful.key({ modkey }, "r",         function () awful.spawn(rofirun) end),
+    -- 
     awful.key({ modkey }, "l",     function () awful.spawn(locker) end),
     awful.key({        }, "Print", function () awful.spawn(print) end),
-
-    -- Prompt
-    awful.key({ modkey }, "r", function () awful.screen.focused().mypromptbox:run() end,
-              {description = "run prompt", group = "launcher"}),
 
     awful.key({ modkey }, "x",
               function ()

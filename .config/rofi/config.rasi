@@ -1,0 +1,33 @@
+configuration {
+	columns: 1;
+	font: "gohufont 8";
+	lines: 8;
+	modi: "drun,window,combi,run,ssh";
+	width: 32;
+/*	bw: 1;*/
+/*	location: 0;*/
+	padding: 20;
+/*	yoffset: 0;*/
+/*	xoffset: 0;*/
+	/*fixed-num-lines: false;*/
+	show-icons: true;
+/*	terminal: "rofi-sensible-terminal";*/
+/*	ssh-client: "ssh";*/
+/*	ssh-command: "{terminal} -e {ssh-client} {host}";*/
+/*	run-command: "{cmd}";*/
+/*	run-list-command: "";*/
+/*	run-shell-command: "{terminal} -e {cmd}";*/
+	matching: "normal";
+	separator-style: "none";
+	hide-scrollbar: true;
+/*	fullscreen: false;*/
+	fake-transparency: true;
+	window-format: "{w}    {i}{c}   {t}";
+	click-to-exit: true;
+	show-match: true;
+/*	theme: ;*/
+	color-normal: "#2f343f, #c1c1c1, #2f343f, #cccccc, #000000";
+	color-urgent: "#2f343f, #ff1844, #2f343f, #cccccc, #ff1844";
+	color-active: "#2f343f, #80cbc4, #2f343f, #cccccc, #80cbc4";
+	color-window: "#2f343f, #2f343f, #1e2529";
+}

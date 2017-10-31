@@ -210,7 +210,7 @@ local net = lain.widget.net({
 theme.systray_icon_spacing = 5
 theme.bg_systray = theme.bg_normal
 local tray = wibox.widget.systray(true)
-tray.forced_width=20
+--tray.forced_width=20
 
 -- Brightnes
 local bricon = wibox.widget.textbox('<span font="siji" color="#b4b4b4"></span>')

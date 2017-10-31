@@ -74,3 +74,4 @@ PlayOnLinux's virtual drives
 .config/calibre
 .config/chromium
 library
+.mysql

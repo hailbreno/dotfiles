@@ -75,3 +75,5 @@ PlayOnLinux's virtual drives
 .config/chromium
 library
 .mysql
+.fltk
+nohup.out

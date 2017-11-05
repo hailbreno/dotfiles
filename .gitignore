@@ -77,3 +77,4 @@ library
 .mysql
 .fltk
 nohup.out
+.config/QtProject.conf

@@ -79,3 +79,4 @@ library
 nohup.out
 .config/QtProject.conf
 .config/rtv
+.nv

@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/breno/.gtkrc-2.0.mine"
-gtk-theme-name="VimixDark-Laptop"
+gtk-theme-name="VimixLight-Laptop"
 gtk-icon-theme-name="Numix"
 gtk-font-name="GohuFont 8"
 gtk-cursor-theme-name="OSX-ElCap"

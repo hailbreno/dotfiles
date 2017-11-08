@@ -1,2 +1,2 @@
 #!/bin/sh
-exec 'feh' '--bg-fill' 'pictures/wallpapers/umbrella.jpg' 
+'feh' '--bg-fill' 'pictures/wallpapers/umbrella.jpg' 

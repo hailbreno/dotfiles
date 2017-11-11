@@ -11,7 +11,7 @@ local theme                                     = {}
 theme.icon_theme                                = "Numix"
 theme.dir                                       = os.getenv("HOME") .. "/.config/awesome/themes/glitch"
 theme.wallpaper                                 = os.getenv("HOME") .. "/pictures/wallpapers/umbrella.jpg"
-theme.font                                      = "gohufont 8"
+theme.font                                      = "gohufont 9"
 theme.fg_normal                                 = "#ffffff"
 theme.fg_focus                                  = "#000000"
 theme.fg_urgent                                 = "#CC9393"
@@ -163,14 +163,14 @@ local temp = lain.widget.temp({
 local fsicon = wibox.widget.imagebox(theme.widget_hdd)
 local hdd = wibox.widget.textbox()
 vicious.register(hdd, vicious.widgets.fs,
-  ' <span font="gohufont 8">${/ avail_gb}gb free </span>')
+  ' <span font="gohufont 9">${/ avail_gb}gb free </span>')
 
 
 -- Battery
 local baticon = wibox.widget.imagebox(theme.widget_battery)
 local batwidget = wibox.widget.textbox()
 vicious.register(batwidget, vicious.widgets.bat,
-  ' <span font="gohufont 8">$2% ~ $3 </span>',10,"BAT0"
+  ' <span font="gohufont 9">$2% ~ $3 </span>',10,"BAT0"
 )
 
 -- ALSA volume
@@ -195,7 +195,7 @@ theme.volume = lain.widget.alsa({
 local neticon = wibox.widget.imagebox(theme.widget_net)
 wifiwidget = wibox.widget.textbox()
 vicious.register(wifiwidget, vicious.widgets.wifi,
-  ' <span font="gohufont 8">${ssid} </span>', 2, "wlp8s0"
+  ' <span font="gohufont 9">${ssid} </span>', 2, "wlp8s0"
 )
 local net = lain.widget.net({
     settings = function()

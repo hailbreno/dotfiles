@@ -128,6 +128,7 @@ alias qute="qutebrowser"
 alias neo="neofetch --w3m pictures/misc/arch_logo.png --block_range 0 15"
 alias audior="pacmd unload-module module-udev-detect && pacmd load-module module-udev-detect"
 alias easyavr="cd ~/bin/EasyAVR && ./easykeymap.sh"
+alias dotsave="git commit -a -m \"daily update\" && git push origin master"
 eval $(thefuck --alias)
 # eval $(ssh-agent -s)
 

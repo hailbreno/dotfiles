@@ -81,3 +81,5 @@ nohup.out
 .config/rtv
 .nv
 .config/FEZ
+.killingfloor
+.path64

@@ -1,2 +1,2 @@
 #!/bin/sh
-'feh' '--bg-fill' '/home/breno/pictures/wallpapers/cooper.jpg' 
+'feh' '--bg-fill' 'pictures/wallpapers/redrooom.jpg' 

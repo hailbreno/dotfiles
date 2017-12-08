@@ -1,4 +1,4 @@
-setxkbmap us -variant colemak
+setxkbmap us intl
 xset -b
 ssh-add
 # wal -i "$(< "${HOME}/.cache/wal/wal")" &

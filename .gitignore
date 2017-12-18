@@ -83,3 +83,5 @@ nohup.out
 .config/FEZ
 .killingfloor
 .path64
+.tor-browser
+.config/yay

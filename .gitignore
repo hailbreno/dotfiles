@@ -85,3 +85,5 @@ nohup.out
 .path64
 .tor-browser
 .config/yay
+.config/Thunar
+.config/xfce4

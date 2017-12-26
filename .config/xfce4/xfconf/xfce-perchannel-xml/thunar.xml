@@ -10,5 +10,5 @@
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
-  <property name="last-details-view-column-widths" type="string" value="50,111,50,50,867,50,50,68,92"/>
+  <property name="last-details-view-column-widths" type="string" value="50,111,50,50,663,50,50,74,290"/>
 </channel>

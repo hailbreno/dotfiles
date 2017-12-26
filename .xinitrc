@@ -1,4 +1,4 @@
-# setxkbmap us intl
+setxkbmap us intl
 xset -b
 ssh-add
 # wal -i "$(< "${HOME}/.cache/wal/wal")" &
@@ -8,4 +8,5 @@ udiskie &
 transmission-daemon
 syndaemon -d -i 0.5
 telegram-desktop -startintray &
-exec awesome
+# exec awesome
+exec startxfce4

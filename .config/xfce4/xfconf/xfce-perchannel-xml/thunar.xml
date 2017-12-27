@@ -11,4 +11,5 @@
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLER"/>
   <property name="last-details-view-column-widths" type="string" value="50,111,50,50,663,50,50,74,290"/>
+  <property name="misc-single-click" type="bool" value="false"/>
 </channel>

@@ -91,3 +91,4 @@ nohup.out
 .config/Thunar
 .config/xfce4
 .ICEauthority
+bin/qmk_firmware

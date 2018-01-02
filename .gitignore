@@ -92,3 +92,4 @@ nohup.out
 .config/xfce4
 .ICEauthority
 bin/qmk_firmware
+.config/pavucontrol.ini

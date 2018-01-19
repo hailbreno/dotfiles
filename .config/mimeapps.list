@@ -25,6 +25,9 @@ x-scheme-handler/https=chromium.desktop
 x-scheme-handler/about=chromium.desktop
 x-scheme-handler/unknown=chromium.desktop
 x-scheme-handler/tg=telegramdesktop.desktop
+application/pdf=FoxitReader.desktop
+application/ppdf=FoxitReader.desktop
+application/octet-stream=FoxitReader.desktop
 
 
 [Added Associations]

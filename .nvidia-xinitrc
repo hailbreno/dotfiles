@@ -1,4 +1,5 @@
 setxkbmap us intl
+# source /home/breno/bin/disable-keyboard.sh
 xset -b
 ssh-add
 # wal -i "$(< "${HOME}/.cache/wal/wal")" &
@@ -9,4 +10,4 @@ transmission-daemon
 syndaemon -d -i 0.5
 telegram-desktop -startintray &
 exec awesome
-# exec startxfce4
+# exec startkde
